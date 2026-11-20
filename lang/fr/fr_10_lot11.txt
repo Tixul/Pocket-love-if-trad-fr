@@ -1,0 +1,361 @@
+; Lot 11 : scènes de fantasme (Mirei, Konoha), chat, vestiaires, rendez-vous.
+@03711	Dis, {F07},|tu n'as pas chaud ?{attente}{page}{fin}
+@03712	Si, c'est vrai,|il fait un peu chaud.{attente}{page}{fin}
+@03713	Oh non... je commence|à transpirer...{attente}|Excuse-moi un instant.{attente}{page}{fin}
+@03714	Tout en disant cela,|{E09} a commencé|à retirer sa veste.{attente}{page}{fin}
+@03715	Waouh !{attente}|Son petit top colle à la|peau moite de {E09}...{attente}|C'est... trop sexy !{attente}{page}{fin}
+@03716	...C-c'est bizarre...|à force de la regarder...{attente}|j'ai l'impression qu'on|devine sa poitrine...{attente}{page}{fin}
+@03717	Les bretelles de son top|sont si fines...{attente}|E-est-ce qu'elles vont|tenir le coup... ?{attente}{page}{fin}
+@03718	Et si une bretelle lâchait...{attente}|la poitrine de {E09}...|risquerait de...|déborder...{attente}{page}{fin}
+@03719	Aah...|L'odeur de {E09}...|Et puis...|la poitrine de {E09}...{attente}{page}{fin}
+@03720	Sans trop savoir pourquoi,|j'ai regardé {E09}...{attente}{page}{fin}
+@03721	Ah...|Aujourd'hui, les lèvres de|{E09}...{attente} elles brillent|plus que d'habitude...{attente}{page}{fin}
+@03722	Elles scintillent...|elles ont l'air si douces,|comme humectées...{attente}{page}{fin}
+@03723	Mon regard était attiré|par les lèvres de {E09},|comme aimanté.{attente}{page}{fin}
+@03724	À force de les fixer...{attente}|leur mouvement me semblait|si troublant...{attente}{page}rien qu'à le regarder, j'en|avais la tête qui tournait...{attente}{page}{fin}
+@03725	La voix de {E09}...|ne me parvenait plus|que de loin... faiblement...{attente}{page}{fin}
+@03726	...Aaah... Ses lèvres|envoûtantes...{attente}|J'ai envie de les lui voler,|là, tout de suite !{attente}{page}{fin}
+@03727	Ces lèvres douces comme|de la guimauve... chaudes...{attente}|fondantes... je voudrais|les embrasser à fond...{attente}{page}{fin}
+@03728	...Mon imagination|s'emballait, et ma passion|pour {E09} avait envahi|tout mon cœur...{attente}{page}{fin}
+@03729	Déjà en maillot de bain|avant elle, j'attendais|{E09}.{attente}{page}{fin}
+@03730	{F07} !{attente}|Pardon de t'avoir fait|attendre !{attente}{page}{fin}
+@03731	Ah...{attente} Je voyais|{E09} plutôt mince,|avec une silhouette fine,|mais...{attente}{page}{fin}
+@03732	Devant cette surprise,|mon regard a été aspiré|par le corps de {E09} !{attente}{page}{fin}
+@03733	Ce bikini... c'est vraiment|le strict minimum...{attente}|Trop... osé... mais je veux|continuer à regarder !{attente}{page}{fin}
+@03734	...Aaah...|La peau blanche de {E09},|qui semble faite pour|se coller à la paume...{attente}{page}{fin}
+@03735	Cette taille si fine qu'on|la briserait en la serrant|trop fort...{attente}{page}{fin}
+@03736	Et cette poitrine toute|blanche, qui fait presque|craquer son bikini...{attente}{page}{fin}
+@03737	Aah, {E09}...|Je voudrais que tout ça|soit à moi, rien qu'à moi !!{attente}{page}{fin}
+@03738	{F07}...|Ne me fixe pas comme ça...|c'est gênant...{attente}{page}{fin}
+@03739	La voix de {E09} m'a|enfin ramené sur terre !{attente}{page}{fin}
+@03740	Tout bafouillant, j'ai|regardé {E09}...{attente}|...Ah, on dirait qu'elle|est un peu gênée...{attente}{page}{fin}
+@03741	C'est peut-être... un peu|trop osé...{attente}{page}{fin}
+@03742	C'est ce qu'a dit {E09}|pour se justifier, l'air|un peu embarrassé...{attente}{page}{fin}
+@03743	Mes sentiments pour {E09}|ne cessaient de grandir,|je ne pouvais plus|les retenir...{attente}{page}{fin}
+@03744	En regardant {E09} de|profil...{attente} elle m'est|soudain devenue si chère|que mon cœur se serrait...{attente}{page}{fin}
+@03745	Les joues blanches de|{E09} me semblaient|légèrement rosies...{attente}{page}{fin}
+@03746	Incapable de contenir mon|émotion, sans même m'en|rendre compte, j'ai tendu|la main vers sa joue...{attente}{page}{fin}
+@03747	{E09} m'a jeté un coup|d'œil...{attente} et d'elle-même,|elle a posé sa joue|contre ma paume !!{attente}{page}{fin}
+@03748	L'air rassuré, {E09}|laisse la chaleur de|ma main réchauffer|sa joue...{attente}{page}{fin}
+@03749	En voyant son visage...{attente}|je caresse doucement,|lentement... la joue|de {E09}...{attente}{page}{fin}
+@03750	La joue de {E09} était|si douce...{attente} si agréable...{attente}|et un peu chaude...{attente}{page}{fin}
+@03751	...J'ai continué à caresser|sa joue, doucement,|lentement... encore|et encore...{attente}{page}{fin}
+@03752	...Mes sentiments passent|de ma paume à la joue|de {E09}...{attente}{page}{fin}
+@03753	Et ceux de {E09} semblent|me parvenir aussi, de sa|joue si douce jusqu'à|ma paume...{attente}{page}{fin}
+@03754	Doucement, je tends la main|vers l'épaule de {E09}...{attente}{page}{fin}
+@03755	Elle tressaille !{attente} Un instant,|ses épaules ont frémi...{attente}|Mais {E09} ne repousse|pas ma main...{attente}{page}{fin}
+@03756	...Les yeux de {E09} se|mouillent, comme pour|m'encourager à oser...{attente}|{E09}...{attente}{page}{fin}
+@03757	Doucement... mais|fermement... j'ai attiré|{E09} contre moi...{attente}{page}{fin}
+@03758	...{E09} aussi a|lentement tendu les bras...{attente}|et noué ses mains|derrière ma nuque...{attente}{page}{fin}
+@03759	...Le souffle léger de|{E09} vient doucement...|caresser mon oreille...{attente}{page}{fin}
+@03760	Je la serre tendrement,{attente}|et je caresse son corps,|des épaules à la taille,|comme pour le découvrir...{attente}{page}{fin}
+@03761	...À travers mes bras qui la|caressent, je sens|nettement la chaleur|du corps de {E09}...{attente}{page}{fin}
+@03762	Serrant doucement {E09}|dans mes bras, j'en|oubliais le temps qui passe...{attente}{page}{fin}
+@03763	{E09} a pris son courage|à deux mains et a parlé...{attente}{page}{fin}
+@03764	...{F07}...|Moi... tu sais, moi...{attente}{page}{fin}
+@03765	C'est quand je suis seule|avec toi, {F07}, que je|suis la plus... heureuse♥{attente}{page}{fin}
+@03766	{E09}...{attente}|Moi aussi... moi aussi,|je suis heureux...|tellement...{attente}{page}{fin}
+@03767	{E09}...{attente} Mon...{attente}|mon précieux trésor, rien|qu'à moi...{attente} Je ne veux|la céder à personne...{attente}{page}{fin}
+@03768	...Les lèvres de {E09}|étaient brûlantes, à en|fondre...{attente} sucrées...{attente}|et si douces...{attente}{page}{fin}
+@03769	Ce doux moment, rien|qu'à {E09} et moi, s'est|écoulé lentement...{attente}{page}{fin}
+@03770	{E09} et moi, enlacés,|on a basculé ensemble !{attente}{page}{fin}
+@03771	Oui... ça va...{attente}|C'était si soudain que|j'ai juste été un peu|surprise...{attente}{page}{fin}
+@03772	...{E09} sourit un peu,|et me regarde droit|dans les yeux...{attente}{page}{fin}
+@03773	Ah...|Les yeux de {E09}...|on dirait qu'ils|s'embuent...{attente}{page}{fin}
+@03774	Aïe, je vois...{attente}|Elle aime le classique,|mais le concert n'était|pas terrible...{attente}{page}{fin}
+@03775	C'était super bien,|hein !{attente}{page}{fin}
+@03776	Mais en fait, c'est|peut-être...{attente} parce que|j'étais avec {F08} !{attente} Hihi♥{attente}{page}{fin}
+@03777	Le classique, c'est trop|guindé...{attente} quand j'en|écoute, ça me donne|juste envie de dormir !{attente}{page}{fin}
+@03778	Tant qu'à écouter un truc,|les génériques d'anime,|c'est cent fois mieux, non ?{attente}{page}{fin}
+@03779	Yurin... j'ai rien pour|ni contre, en fait...{attente}{page}{fin}
+@03780	On dirait qu'elle n'a rien|pour ni contre Yurin...{attente}|mais l'ambiance est|un peu tendue...{attente}{page}{fin}
+@03781	Yurin, c'est que du|tape-à-l'œil, et ses|costumes, c'est à mourir|de rire, quoi !{attente}{page}{fin}
+@03782	Et puis ce costume...{attente}|c'était le portrait craché|de la Reine de 10 000 ans,|hein !{attente}{page}{fin}
+@03783	(Incident au parc){n}{fin}
+@03784	J'avais donné rendez-vous|à {E04} au parc,|et je l'attendais...{attente}|Elle ne devrait plus tarder.{attente}{page}{fin}
+@03785	Dis, {F08} !{attente}|On s'assoit un peu|pour se reposer ?!{attente}{page}{fin}
+@03786	Aussitôt dit, aussitôt fait :|{E0A} filait déjà|vers un banc.{attente}{page}{fin}
+@03787	Je la rattrape en vitesse,|je m'assois à côté d'elle,|et en tournant la tête...{attente}{page}{fin}
+@03788	Quoi ?!|K-{E0A}...{attente}|Tu fais quoi, là... ?{attente}{page}{fin}
+@03789	Je ne pouvais pas|m'empêcher de fixer ce|que faisait {E0A} !{attente}{page}{fin}
+@03790	Héhé ! J'ai un peu|transpiré sur la poitrine,|alors...{attente} comme ça,|c'est tout frais !{attente}{page}{fin}
+@03791	{E0A} répond en toute|innocence... Mais...|dans cette position...|c'est trop provocant !{attente}{page}{fin}
+@03792	La forme de sa poitrine se|dessine nettement sous|sa chemise...{attente}|Aaah ! Mon cœur s'emballe !{attente}{page}{fin}
+@03793	Et puis...{attente} si son col|descendait encore un peu...{attente}|je verrais d'en haut|jusqu'à sa poitrine...{attente}{page}{fin}
+@03794	À cette idée...|j'ai soudain trouvé à|{E0A} un charme|de vraie femme...{attente}{page}{fin}
+@03795	...Porté par le vent,|peut-être, le doux parfum|de {E0A} vient me|chatouiller le nez...{attente}{page}{fin}
+@03796	Et juste là, il y a la|poitrine de {E0A}, qui|tiendrait tout entière|dans ma main...{attente}{page}{fin}
+@03797	Et puis... et puis...|ce petit corps si fragile|qu'il se briserait|dans mes bras...{attente}{page}{fin}
+@03798	Soudain, {E0A} grimpe|sur le toboggan et se met|à faire la folle !{attente}{page}{fin}
+@03799	Rien qu'à l'idée qu'elle|tombe... je n'ose même|pas regarder !{attente}{page}{fin}
+@03800	Hé, {E0A} !{attente}|C'est dangereux, descends !{attente}{page}{fin}
+@03801	T'inquiète, ça va !{attente}|Héhéhé !{attente}{page}{fin}
+@03802	T'es plus une gamine !{attente}|Arrête de traîner là-haut|et descends !{attente}{page}{fin}
+@03803	Hmpf !{attente}|T'as dit « gamine » !{attente}|Bééééééh !!{attente}{page}{fin}
+@03804	{E0A} m'a tiré la|langue, puis m'a tourné|le dos d'un coup...{attente}{page}{fin}
+@03805	Aaaaah !!{attente}{page}{fin}
+@03806	{E0A} a sauté !{attente}|Avec des réflexes de pro,|elle se pose en douceur...|et à cet instant !{attente}{page}{fin}
+@03807	Wah !{attente}|S-sa jupe s'est|s-soulevée !!{attente}{page}{fin}
+@03808	Sa culotte rose...|on voit tout... !{attente}{page}{fin}
+@03809	E-et en plus, on voyait|parfaitement la forme de|ses petites fesses|si joliment galbées !!{attente}{page}{fin}
+@03810	À cet instant, mon|imagination s'est emballée !{attente}|...Prendre doucement ces|fesses dans mes mains...{attente}{page}{fin}
+@03811	Caresser doucement ses|cuisses si lisses...|et puis...|et puis...{attente}{page}{fin}
+@03812	Aaah !|{E0A}... {E0A}...|Mon cœur va exploser !!{attente}{page}{fin}
+@03813	...Mon imagination|s'emballait, et ma passion|pour {E0A} avait envahi|tout mon cœur...{attente}{page}{fin}
+@03814	Déjà en maillot de bain|avant elle, j'attendais|{E0A}.{attente}{page}{fin}
+@03815	{F08}...|M-me voilà...{attente}{page}{fin}
+@03816	...Hein ?{attente}|{E0A}... ?{attente}{page}{fin}
+@03817	Ce n'est pas la voix|habituelle de {E0A}...|Je me retourne...{attente}{page}{fin}
+@03818	{E0A} était là,|toute gênée...{attente}{page}{fin}
+@03819	Pas du tout comme d'hab,|toute timide...{attente}|Elle est... trop mignonne !{attente}{page}{fin}
+@03820	...Elle cache sa poitrine|avec ses petites mains...{attente}|Avec les miennes...{attente} je|pourrais tout cacher...{attente}{page}{fin}
+@03821	Au creux de mes mains...|......{attente}|M-mais à quoi je pense,|moi !!{attente}{page}{fin}
+@03822	...Mais une fois en tête,|ces idées... impossible|de les arrêter...{attente}{page}{fin}
+@03823	...C'est vrai que {E0A}|n'est pas pulpeuse...{attente}|Pour tout dire, elle a un|corps de gamine, mais...{attente}{page}{fin}
+@03824	Sa petite poitrine...|ses petites fesses...|au contraire... c'est|craquant... j'en tremble !{attente}{page}{fin}
+@03825	La poitrine de {E0A}...|les fesses de {E0A}...|Aah... je voudrais|l'envelopper tout entière !{attente}{page}{fin}
+@03826	{F08}...|Euh... tu pourrais...|éviter de trop regarder ?{attente}{page}{fin}
+@03827	La voix de {E0A} m'a|enfin ramené sur terre !{attente}{page}{fin}
+@03828	Tout bafouillant, j'ai|regardé {E0A}...{attente}|Ah... on dirait qu'elle|est un peu gênée...{attente}{page}{fin}
+@03829	J-je suis trop gênée...|j'arrive même pas à|blaguer... Hihi♥{attente}{page}{fin}
+@03830	En voyant {E0A} essayer|de cacher sa gêne en|faisant le clown...{attente}{page}{fin}
+@03831	Mes sentiments pour {E0A}|ne cessaient de grandir,|je ne pouvais plus|les retenir...{attente}{page}{fin}
+@03832	En regardant {E0A} de|profil...{attente} elle m'est|soudain devenue si chère|que mon cœur se serrait...{attente}{page}{fin}
+@03833	Les joues de {E0A}|me semblaient|légèrement rosies...{attente}{page}{fin}
+@03834	Incapable de contenir mon|émotion, sans même m'en|rendre compte, j'ai tendu|la main vers sa joue...{attente}{page}{fin}
+@03835	{E0A} m'a jeté un coup|d'œil, sans bouger...{attente}|J'ai effleuré la joue|de {E0A}...{attente}{page}{fin}
+@03836	...Héhé...{attente}|Ta main, {F08}...|c'est agréable...{attente}{page}{fin}
+@03837	...L'air câlin, {E0A}|savoure la chaleur|de ma main sur sa joue...{attente}{page}{fin}
+@03838	Je bouge doucement la|main... et caresse|lentement... la joue|de {E0A}...{attente}{page}{fin}
+@03839	...Ah...{attente}|Héhé... ça chatouille...{attente}{page}{fin}
+@03840	La joue de {E0A} était|si douce...{attente} si agréable...{attente}|et toute chaude...{attente}{page}{fin}
+@03841	...J'ai continué à caresser|sa joue, doucement,|lentement... encore|et encore...{attente}{page}{fin}
+@03842	...Mes sentiments passent|de ma paume à la joue|de {E0A}...{attente}{page}{fin}
+@03843	Et ceux de {E0A} semblent|me parvenir aussi, de sa|joue si douce jusqu'à|ma paume...{attente}{page}{fin}
+@03844	...{E0A} me regarde|fixement, l'air gêné...{attente}{page}{fin}
+@03845	Doucement, je tends la main|vers l'épaule de {E0A}...{attente}{page}{fin}
+@03846	Elle sursaute !{attente} Un instant,|ses épaules ont frémi...{attente}|Mais {E0A} ne repousse|pas ma main...{attente}{page}{fin}
+@03847	...Les yeux de {E0A},|plantés dans les miens,|sont un peu humides...{attente}|{E0A}...{attente}{page}{fin}
+@03848	Doucement... mais|fermement... j'ai attiré|{E0A} contre moi...{attente}{page}{fin}
+@03849	Par instinct, peut-être...{attente}|{E0A} se hisse sur la|pointe des pieds et noue|ses mains sur ma nuque...{attente}{page}{fin}
+@03850	...Le souffle brûlant de|{E0A} vient doucement...|caresser mon oreille...{attente}{page}{fin}
+@03851	Je la serre tendrement,{attente}|et je fais glisser mes bras|sur son corps, des épaules|à la taille...{attente}{page}{fin}
+@03852	...Du corps de {E0A},|toute gênée, la chaleur|passe nettement|dans mes bras...{attente}{page}{fin}
+@03853	Serrant doucement {E0A}|dans mes bras, j'en|oubliais le temps qui passe...{attente}{page}{fin}
+@03854	{E0A} a pris son courage|à deux mains et a parlé...{attente}{page}{fin}
+@03855	{F08}...|Rigole pas, d'accord... ?{attente}{page}{fin}
+@03856	Moi...{attente} juste d'être|comme ça avec {F08}...|......{attente}{page}{fin}
+@03857	je suis... trop...|heureuse...|...Hihi♥{attente}{page}{fin}
+@03858	Ces mots si féminins, pour|une fois, dans la bouche de|{E0A}, font encore|monter mon émotion...{attente}{page}{fin}
+@03859	{E0A}...{attente}|Moi aussi... moi aussi,|je suis heureux...|tellement...{attente}{page}{fin}
+@03860	{E0A}...{attente} Mon...{attente}|petit trésor précieux,|rien qu'à moi...{attente} Je ne|la céderai à personne...{attente}{page}{fin}
+@03861	...Les lèvres de {E0A}|étaient brûlantes, à en|fondre...{attente} sucrées...{attente}|et si douces...{attente}{page}{fin}
+@03862	Ce doux moment, rien|qu'à {E0A} et moi, s'est|écoulé lentement...{attente}{page}{fin}
+@03863	{E0A} et moi, enlacés,|on a basculé ensemble !{attente}{page}{fin}
+@03864	Ah... euh...{attente}|...Héhéhé...{attente}{page}{fin}
+@03865	Héhé...{attente} Pourtant, j'étais|sûre de mes réflexes...|J'ai l'air maligne, tiens...|héhé...{attente}{page}{fin}
+@03866	Cachant son rire gêné,|{E0A}... me regarde|droit dans les yeux...{attente}{page}{fin}
+@03867	...Les yeux de {E0A},|toute gênée, s'embuent|peu à peu...{attente}|{E0A}...{attente}{page}{fin}
+@03868	・|・|Je lui ai offert|mon cadeau !{attente}{page}{fin}
+@03870	Dis, {F04}...{attente}|Le tournoi régional,|c'est bientôt !{attente}{page}{fin}
+@03871	Ah, c'est toi, {F05}...|T'es au club de basket ?{attente}|Je vois...{attente}{page}{fin}
+@03872	Humm...{attente} Comme je|pensais, personne ici n'a|l'air capable de dunker...{attente}{page}{fin}
+@03873	Mais aux États-Unis, si|on a le niveau, même en|1re année, on est titulaire.{attente}{page}{fin}
+@03874	Moi, quoi qu'on en dise,|je suis à fond derrière|toi, {F07} !{attente}{page}{fin}
+@03876	(Incident au club photo){n}{fin}
+@03877	Aaah ! J'ai le trac !!{attente}|......|R-recalé !|Pfff...{attente}{page}{fin}
+@03878	Ma photo n'a pas été|retenue au concours|« Images de la vie|lycéenne »...{attente}{page}{fin}
+@03879	Et après, il paraît que|ça a fait jaser~{attente}{page}{fin}
+@03880	La fin n'est pas encore|intégrée.{attente}|Le jeu s'arrête ici.{attente}{page}{fin}
+@03881	À la fin de ce message,|retour à l'écran titre.{attente}{page}{fin}
+@03882	...Mais...{attente} ...ça, c'est{attente}|peut-être une façon|naturelle de communiquer...{attente}{page}{fin}
+@03883	La main de {E0A}, qui|effleure à peine la mienne...{attente}{page}{fin}
+@03884	est si petite...{attente}|si douce...{attente}|si fragile...{attente}{page}{fin}
+@03885	{E04} et moi, on a nagé,|mangé des glaces pilées,|et passé un super moment.{attente}{page}{fin}
+@03886	J'avais fini de me changer|le premier, et j'attendais|que {E04} ait fini...{attente}{page}{fin}
+@03887	...Hein ? C'est quoi,|ce chat...{attente} Je l'ai déjà|vu quelque part...{attente}|Mais il est mignon !{attente}{page}{fin}
+@03888	Je joue avec le chat|en attendant {E04}...{attente}{page}{fin}
+@03889	Tout à coup !|Le chat me glisse entre|les mains et s'enfuit !{attente}{page}{fin}
+@03890	Ah, hé !|Où tu vas ?!{attente}{page}{fin}
+@03891	Sans réfléchir, je me|mets à courir après|le chat !{attente}{page}{fin}
+@03892	Derrière la buvette, le chat|m'attendait, assis sous|une fenêtre.{attente}|Je m'approche de lui.{attente}{page}{fin}
+@03893	En tournant la tête...{attente}|une fenêtre est ouverte...{attente}|Sans arrière-pensée,|je jette un œil dedans...{attente}{page}{fin}
+@03894	Ah !!{attente} M-mais c'est... !!{attente}|C-celle qui prend une|douche... ce serait pas...{attente}|R-{E04} !{attente}{page}{fin}
+@03895	En courant après un chat,|je suis tombé sur un|spectacle incroyable !!{attente}|Q-qu'est-ce que je fais ?!{attente}{page}{fin}
+@03896	Je ne dois pas regarder...{attente}|Je ne dois pas... mais...{attente}{page}{fin}
+@03897	Le jet de la douche fouette|le corps lisse de {E04},|qui ondule de façon|troublante...{attente}{page}{fin}
+@03898	...{E04}...{attente}|Si je pouvais, je foncerais|serrer dans mes bras|ce corps si souple...{attente}{page}{fin}
+@03899	Faire glisser mes mains le|long de son dos, enlacer|sa taille fine et...|passionnément...{attente}{page}{fin}
+@03900	...Pour contenir mon désir,|je me suis éloigné|sans bruit...{attente}{page}{fin}
+@03901	L'entraînement d'athlé|terminé,{attente} j'allais entrer|au vestiaire pour me|changer,{attente} quand...{attente}{page}{fin}
+@03902	...Hein ?{attente}|C'est quoi, ce chat...{attente}|J'ai l'impression qu'il|me fixe...{attente}{page}{fin}
+@03903	Drôle de chat... Qu'est-ce|qu'il fait devant le local ?{attente}|Bah, pas mon problème !{attente}|Vite, je me change.{attente}{page}{fin}
+@03904	Distrait par le chat,|j'ouvre la porte du|vestiaire... et...{attente}{page}{fin}
+@03905	Quoi ?! Q-qu'est-ce que... ?!{attente}|M-Mizuki !{attente}|Elle est en train|de se changer !{attente}{page}{fin}
+@03906	Aïe, c'est la cata !!{attente}{page}{fin}
+@03907	Lentement, Mizuki|agrafe son soutien-gorge...{attente}{page}{fin}
+@03908	Son dos souple se tend|au rythme des mouvements|de ses bras...{attente}{page}{fin}
+@03909	Sa culotte, collée à ses|fesses par la sueur,|devient transparente...{attente}|Aah, c'est trop pour moi !{attente}{page}{fin}
+@03910	Kyaa ! Q-qui est là ?!{attente}{page}{fin}
+@03911	La voix de Mizuki m'a|enfin ramené sur terre !{attente}{page}{fin}
+@03912	Je referme vite la porte|du vestiaire et je|m'excuse à pleins poumons !{attente}{page}{fin}
+@03913	{F04} ?{attente} Désolée !{attente}|J'avais oublié de fermer|à clé, moi aussi !{attente}|T'en fais pas, oublie ça !{attente}{page}{fin}
+@03914	......{attente}|La gentillesse de Mizuki|me faisait super plaisir,|mais...{attente}{page}{fin}
+@03915	le dos de Mizuki, gravé|dans ma rétine...{attente}|impossible de l'oublier...{attente}{page}{fin}
+@03916	...Le cœur battant encore|à tout rompre,{attente} je ne|pouvais plus retenir mes|sentiments pour Mizuki...{attente}{page}{fin}
+@03917	Mon petit boulot terminé,|j'allais entrer|au vestiaire...{attente}{page}{fin}
+@03918	Mais surtout, un chat|ici, c'est pas hygiénique !{attente}|Allez, oust ! Dégage !{attente}{page}{fin}
+@03919	......{attente}|Après avoir chassé le chat,|j'ouvre la porte|du vestiaire... et...{attente}{page}{fin}
+@03920	Quoi ?! Q-qu'est-ce que... ?!{attente}|M-mais c'est Yumi !!{attente}|Elle n'était pas partie ?!{attente}{page}{fin}
+@03921	Cette ligne si douce, de|l'aisselle où s'enfonce un|peu le soutien-gorge|jusqu'à la taille...{attente}{page}{fin}
+@03922	Et ce décolleté|qu'on devine...{attente}{page}{fin}
+@03923	Le léger parfum de Yumi|vient me chatouiller|les narines...{attente}{page}{fin}
+@03924	...L'odeur de Yumi...{attente}|la poitrine de Yumi...{attente}|et puis...|les hanches de Yumi...{attente}{page}{fin}
+@03925	J'ai envie de la serrer|dans mes bras par-derrière,|là, tout de suite !{attente}{page}{fin}
+@03926	Hein ?! Q-qui est là ?!{attente}{page}{fin}
+@03927	La voix de Yumi m'a|enfin ramené sur terre !{attente}{page}{fin}
+@03928	Je sors vite du vestiaire|et je m'excuse|à pleins poumons !{attente}{page}{fin}
+@03929	Ah, c'est toi, {F05} ?{attente}|Ah...{attente} désolée, j'avais|oublié de fermer à clé !{attente}{page}{fin}
+@03930	...À entendre sa voix...{attente}|on dirait que Yumi|n'est pas fâchée...{attente}{page}{fin}
+@03931	À peine rassuré...|l'image troublante de Yumi|m'est revenue en tête !{attente}{page}{fin}
+@03932	...Le cœur battant encore|à tout rompre,{attente} je ne|pouvais plus retenir mes|sentiments pour Yumi...{attente}{page}{fin}
+@03933	Aujourd'hui, si j'allais|m'amuser aux jeux vidéo...{attente}{page}{fin}
+@03934	Ce chat me dit quelque|chose...{attente} Qu'est-ce qu'il|fait devant l'arcade ?{attente}|Bah, pas mon problème !{attente}{page}{fin}
+@03935	Distrait par le chat, je|pousse la porte de l'arcade|et j'entends une voix|familière...{attente}{page}{fin}
+@03936	Ukyaaaa !!{attente}|Tiens ! Et tiens !{attente}|Haaaaaaa !!{attente}{page}{fin}
+@03937	Hein ?...{attente}|Cette voix... ce serait|pas {E08} ?{attente}{page}{fin}
+@03938	Je regarde du côté|de la voix...{attente}{page}{fin}
+@03939	C'est bien {E08} !{attente}|Elle s'excite tellement|qu'elle se déchaîne !{attente}{page}{fin}
+@03940	Les cuisses bien pleines|de {E08}...{attente}|et puis...|tout au fond...{attente}{page}{fin}
+@03941	Par la fenêtre, je vois|un chat qui me dit quelque|chose... Il nous observe...{attente}{page}{fin}
+@03942	Hein... ?|Ce chat, tu l'as pas|déjà vu ? Là-bas, regarde...{attente}{page}{fin}
+@03943	Oh, un joli chat !{attente}|...Mais non, je ne l'ai|jamais vu, celui-là.{attente}{page}{fin}
+@03944	Ah bon...{attente} D'ailleurs,{attente}|il paraît que beaucoup de|gens habillent leurs|animaux, en ce moment.{attente}{page}{fin}
+@03945	Oui, c'est un peu bizarre.|Les animaux, à la base,|ils sont tous nus...{attente}{page}{fin}
+@03946	Ah bon ? Ils portent|une belle fourrure, non ?{attente}{page}{fin}
+@03947	Haha ! C'est vrai !{attente}|Alors les humains aussi|portent de la fourrure !{attente}{page}{fin}
+@03948	Les humains, quand même,|ne sortent pas tout nus,|sauf dans un village|naturiste...{attente}{page}{fin}
+@03949	Ah... d'ailleurs...{attente}|petite, mes parents m'ont|emmenée dans un village|de ce genre...{attente}{page}{fin}
+@03950	Hein ? Toi, {E09} ?!{attente}{page}{fin}
+@03951	Malgré moi, j'imaginais|déjà {E09} dans le|village naturiste...{attente}{page}{fin}
+@03952	Sa grosse poitrine...|sa taille fine...|et puis...|ses fesses bien fermes...{attente}{page}{fin}
+@03953	Le corps de {E09},|éblouissant sous le|soleil éclatant...{attente}{page}{fin}
+@03954	{E09}, elle...|c'est sûr... elle ferait|du body painting et tout...{attente}{page}{fin}
+@03955	Enfin, quand je dis que|j'y suis allée, j'étais|toute petite !{attente}{page}{fin}
+@03956	(Incident en stage){n}{fin}
+@03957	{E09} me regarde,|l'air gêné...{attente}{page}{fin}
+@03958	J'ai l'impression qu'elle a|lu dans mes pensées...|je meurs de honte !{attente}{page}{fin}
+@03959	Pourtant...{attente} l'image si|nette de {E09} dans ma|tête refuse de|s'effacer...{attente}{page}{fin}
+@03960	...Le cœur battant encore|à tout rompre, je ne|pouvais plus retenir mes|sentiments pour {E09}...{attente}{page}{fin}
+@03961	Avec la chaleur qu'il a|fait aujourd'hui, j'étais|le seul à rester|m'entraîner...{attente}{page}{fin}
+@03962	Quoi ?!{attente} Q-qu'est-ce que... ?!{attente}|K-{E0A} !{attente}|Elle n'était pas partie ?!{attente}{page}{fin}
+@03963	Elle change de dessous ?|{E0A} est en train|d'enlever sa culotte...{attente}{page}{fin}
+@03964	Ce geste, la main posée|sur sa culotte... c'est|super sexy...{attente}{page}{fin}
+@03965	...Les petites fesses bien|fermes et galbées de|{E0A}... juste|en dessous...{attente}{page}{fin}
+@03966	Frotter ma joue contre ses|fesses toutes blanches et|lisses... et puis...|et puis...{attente}{page}{fin}
+@03967	Waaah !!!{attente}|Q-qui est lààà ?!|Obsédé !!{attente}{page}{fin}
+@03968	C'est toi, {F08} ?!{attente}|Désolée ! J'étais là, moi !{attente}|Je me change en vitesse !{attente}{page}{fin}
+@03969	{E0A} me répond de|l'intérieur...{attente} Elle n'a pas|l'air fâchée...{attente}|Ouf...{attente}{page}{fin}
+@03970	À peine rassuré...|l'image troublante de|{E0A} m'est revenue|en tête !{attente}{page}{fin}
+@03971	...Le cœur battant encore|à tout rompre, je ne|pouvais plus retenir mes|sentiments pour {E0A}...{attente}{page}{fin}
+@03972	Aah... {E0A}...|Si je pouvais, je foncerais|serrer dans mes bras|ce petit corps...{attente}{page}{fin}
+@03973	Enfin, les cours|sont finis...{attente}{page}{fin}
+@03974	Qui aller voir ?{n}{fin}
+@03975	　{E04} Saeki{n}{fin}
+@03976	　Mizuki Takao{n}{fin}
+@03977	　Yumi Matsuda{n}{fin}
+@03978	　{E08} Shinozawa{n}{fin}
+@03979	　{E09} Okada{n}{fin}
+@03980	　{E0A} Kobayashi{n}{fin}
+@03981	...Mm...|......・{attente}{page}{fin}
+@03982	Tu ne crois pas qu'on|aurait besoin, tous les|deux, de plus de temps|pour sortir ensemble ?{attente}{page}{fin}
+@03983	...Mmh...|......{attente}{page}{fin}
+@03984	Malgré tout... je ne|pouvais que suivre des|yeux Mizuki qui|s'éloignait...{attente}{page}{fin}
+@03985	T'écrire cette lettre,|c'était irréfléchi.|Je m'excuse... Pardon...{attente}{page}{fin}
+@03986	Je ne pouvais que regarder|Yumi s'éloigner, l'air|absent...{attente}{page}{fin}
+@03987	OK, d'accord.|Je t'écoute sérieusement !{attente}{page}{fin}
+@03988	À l'oreille de {E08},|surprise par le baiser,|je murmure tendrement...{attente}{page}{fin}
+@03989	En entendant ça,|le visage de {E08}|a changé...{attente}{page}{fin}
+@03990	Désolée de t'avoir|donné de faux espoirs|avec ma lettre~{attente}{page}{fin}
+@03991	...Je ne pouvais que|regarder {E08}|ainsi...{attente}{page}{fin}
+@03992	Si un jour... on se|retrouve, avec un regard|neuf... alors, ce jour-là,|c'est sûr...{attente}{page}{fin}
+@03993	...Aah...|Ton torse, {F07}...{attente}|il est si chaud...{attente}{page}{fin}
+@03994	...Dis...|{F07}...{attente}{page}{fin}
+@03995	...Qu'est-ce qu'il y a,|{E09}... ?{attente}{page}{fin}
+@03996	Tu sais...{attente} en fait...|la première fois que|je t'ai vu, {F07}...{attente}{page}{fin}
+@03997	j'ai senti... comme un|petit pincement au cœur...{attente}|quelque chose comme ça...{attente}{page}{fin}
+@03998	Et ce pressentiment...|était bien vrai...{attente}{page}{fin}
+@03999	J'ai serré très fort|le corps si fin de|{E09} contre moi...{attente}{page}{fin}
+@04000	Tu me fais venir comme ça,|d'un coup... Tu veux quoi,|{F03} ?{attente}{page}{fin}
+@04001	Aïe...{attente}|On dirait pas qu'elle est|là pour un rendez-vous...{attente}{page}{fin}
+@04002	Mais rien que le fait|qu'elle soit venue,|ça me fait plaisir !!{attente}{page}{fin}
+@04003	Ah...{attente}|Désolée pour l'attente,|{F03} !{attente}{page}{fin}
+@04004	Tu m'as appelée, alors...|bon...{attente} je suis venue,|voilà, quoi~{attente}{page}{fin}
+@04005	Mais si elle est venue...{attente}|c'est que je lui plais.|Je vais partir de là...{attente}{page}{fin}
+@04006	Désolée d'être en retard !{attente}|{F03} !{attente}{page}{fin}
+@04007	Ah, on dirait qu'elle est|contente que je l'invite...{attente}|Je lui plais, on dirait.|Ça promet pour la suite !{attente}{page}{fin}
+@04008	Merci de m'avoir|invitée♥|{F03} !{attente}{page}{fin}
+@04009	Elle est trop contente|que je l'aie invitée !{attente}|C'est sûr... elle est|amoureuse de moi !!{attente}{page}{fin}
+@04010	Allez !|On va s'éclater pour|ce rendez-vous !{attente}{page}{fin}
+@04011	Je suis venue parce que tu|m'as appelée, mais je vois|pas pourquoi tu m'invites...{attente}{page}{fin}
+@04012	{F04}, me voilà.{attente}|Puisque tu m'as invitée,|je suis quand même venue.{attente}{page}{fin}
+@04013	{F04}, me voilà !{attente}|Merci de m'avoir invitée !{attente}{page}{fin}
+@04014	Désolée de t'avoir|fait attendre !{attente}{page}{fin}
+@04015	Que tu m'invites, toi,|{F04}...|...ça me fait plaisir♥{attente}{page}{fin}
+@04016	{F05}, me voilà.{attente}|Je n'avais rien à faire,|alors je t'ai fait l'honneur|de venir...{attente}{page}{fin}
+@04017	Désolée pour l'attente...{attente}|Moi aussi, j'ai plein de|choses à faire, tu sais...{attente}{page}{fin}
+@04018	{F05} !|Merci de m'avoir invitée !|Désolée pour l'attente !{attente}{page}{fin}
+@04019	Je me suis maquillée avec|soin pour toi, {F05},|et du coup, je suis|en retard♥{attente}{page}{fin}
+@04020	Ah, {F06}~{attente}|Shinozawa est venue|parce qu'on l'a appelée~{attente}{page}{fin}
+@04021	Nyahoo~ !{attente}|Shinozawa arrive,|comme ça, au hasard~ !{attente}{page}{fin}
+@04022	Kyaa~ {F06}~ !{attente}|Shinozawa est là~ !{attente}|Nyahaha~ !{attente}{page}{fin}
+@04023	{F06}~{attente}|T'as appelé|Shinozawa ! Elle est|trop émue~♥{attente}{page}{fin}
+@04024	Tu m'as appelée d'un coup,|alors je suis venue...{attente}|{F07}, qu'y a-t-il ?{attente}{page}{fin}
+@04025	Je t'ai fait attendre ?|Excuse-moi...{attente}{page}{fin}
+@04026	{F06}, me voilà !{attente}|Je me suis dépêchée, mais|je t'ai fait attendre ?{attente}{page}{fin}
+@04027	{F07}, me voilà !{attente}|J'étais si contente|que tu m'invites...{attente}{page}{fin}
+@04028	J'étais si contente...|que je me suis faite belle,|et me voilà en retard♥{attente}{page}{fin}
+@04029	Ah, {F08} !{attente}|Tu me convoques d'un coup,|c'est pour quoi, dis ?{attente}{page}{fin}
+@04030	Yooo !{attente}|T'as rien à faire non plus,|{F08}, hein !{attente}{page}{fin}
+@04031	{F08} !{attente}|Thanks pour l'invit' !{attente}|Désolée pour le retard !{attente}{page}{fin}
+@04032	{F08}, me voilà !{attente}|Quand tu m'as invitée,|j'étais trop émue{attente}, hihi♥{attente}{page}{fin}
+@04033	(Et maintenant ?){n}{fin}
+@04034	{FFB}Aller ailleurs ensemble{n}　Se séparer ici{fin}
+@04035	Bon, alors,|on va ailleurs !{attente}{page}{fin}
+@04036	Merci beaucoup pour|ce rendez-vous !!{attente}{page}{fin}
+@04037	C'était trop bien !{attente}|Je t'inviterai encore,|hein !{attente}{page}{fin}
+@04038	{FFB}Rentrer à la maison{n}　Appeler quelqu'un{fin}
+@04039	Venir tout seul, c'est|un peu déprimant...{attente}|Tant pis !|Je rentre à la maison !{attente}{page}{fin}
+@04040	Allez !|Je vais appeler quelqu'un !{attente}|Qui je choisis... ?{attente}{page}{fin}
+@04041	Pfff...|Déjà l'heure de rentrer...{attente}|Sans une fille avec moi,|c'est triste...{attente}{page}{fin}
+@04042	Dis, pourquoi nos|rendez-vous, c'est|toujours ici... ?{attente}{page}{fin}
+@04043	J'aimerais bien sortir|ailleurs, pour changer...{attente}{page}{fin}
+@04044	Aïe...{attente}|Maintenant qu'elle le dit,|c'est vrai qu'on tourne en|rond... pas bon, ça...{attente}{page}{fin}
+@04045	Dis...{attente}|C'est pas facile à dire,|mais...{attente}{page}{fin}
+@04046	La dernière fois aussi...|on était venus ici,|non... ?{attente}{page}{fin}
+@04047	Zut ! La boulette !{attente}|J'avais totalement oublié...{attente}|Là, j'ai raté mon coup...{attente}{page}{fin}
+@04048	Être avec toi, {F03},|à l'endroit que je|préfère...{attente}{page}{fin}
+@04049	{E04} est trop émue...♥{attente}|Merci !|{F03} !{attente}{page}{fin}
+@04050	Ah ! Elle a les larmes|aux yeux !{attente}|La voir aussi émue, ça|me rend super heureux !{attente}{page}{fin}
+@04051	Moi, j'adore venir ici...{attente}{page}{fin}
+@04052	Ça me fait plaisir que tu|m'aies invitée ici...{attente}{page}{fin}
+@04053	Hmm...{attente} on est un peu|coincés, tous les deux...{attente}|Il faut qu'on sorte|plus souvent ensemble.{attente}{page}{fin}
+@04054	Moi...|j'adore cet endroit !{attente}{page}{fin}
+@04055	Être venus ici ensemble...|je ne sais pas... ça m'a|fait plaisir !{attente}{page}{fin}
+@04056	L'ambiance est encore un|peu gauche, parfois...{attente}|mais à force de sortir|ensemble, ça va le faire !{attente}{page}{fin}
+@04057	Être ici, à l'endroit|que j'adore, avec {F03}...|{E04} est trop contente !{attente}{page}{fin}
+@04058	Bon !{attente}|Ça se passe plutôt bien !{attente}|Venir ici, c'était|le bon choix !{attente}{page}{fin}
+@04059	Que c'est mon endroit|préféré...{attente}{page}{fin}
+@04060	tu l'avais deviné,|hein, {F03} !{attente}|...Hihi !{attente}{page}{fin}
+@04061	Ouais ! C'est ça !{attente}|On est naturels, tous les|deux, l'ambiance est top !{attente}{page}{fin}
+@04062	D'habitude déjà,|j'aime bien cet endroit,|mais...{attente}{page}{fin}
+@04063	aujourd'hui, je le|trouve encore plus beau♥{attente}{page}{fin}
+@04064	Moi, venir ici, j'aime|plutôt bien... je crois.{attente}{page}{fin}
+@04065	Tu sais...|cet endroit, je|l'aime plutôt bien !{attente}{page}{fin}
+@04066	Être avec {F03}|à mon endroit préféré...{attente}|{E04} est contente♥{attente}{page}{fin}
+@04067	Que c'est mon endroit|préféré...{attente}{page}{fin}
+@04068	Cet endroit, d'habitude,|je n'y fais même pas|attention, mais...{attente}{page}{fin}
+@04069	Avec toi, {F03}, je suis|toute émue !|...Bizarre, hein♥{attente}{page}{fin}
+@04070	Cet endroit... il faisait|un peu banal, non... ?{attente}{page}{fin}
+@04071	De temps en temps, c'est|pas mal, finalement !{attente}{page}{fin}
+@04072	Avec toi, {F03}, ça peut|être assez sympa !{attente}{page}{fin}

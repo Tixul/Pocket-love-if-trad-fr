@@ -1,0 +1,383 @@
+; Lot 06 : déjeuners préparés, regards échangés, questions sur le toit, jalousie, demandes d'exclusivité.
+
+; ---- déjeuner préparé
+@01828	C'est vrai ?{attente} Ouf...{attente}|Tu le trouves bon,|{F03}...|ça me fait plaisir...♥{attente}{page}{fin}
+@01829	...Merci de m'avoir|préparé à déjeuner|rien que pour moi...♥{attente}{page}{fin}
+@01830	C'est gentil, mais|je suis désolé...{attente}|aujourd'hui, je peux pas...{attente}{page}{fin}
+@01831	Mais...{attente} moi qui l'avais|fait exprès pour toi,|{F03}...{attente}{page}{fin}
+@01832	Visiblement, je te gêne...|Et ce serait dommage de|le gâcher...{attente}|Je le donne à Maeno-kun.{attente}{page}{fin}
+@01833	......|J'ai été vraiment nul|avec elle...{attente}{page}{fin}
+@01834	{F07}...|Aujourd'hui, je me suis|lancée : j'ai cuisiné|un déjeuner...{attente}{page}{fin}
+@01835	Si tu veux bien...|on le mange ensemble ?{attente}{page}{fin}
+@01836	So ! Tant mieux !|Ça valait le coup d'essayer !{attente}|Allez, mangeons !{attente}{page}{fin}
+@01837	Tant mieux !{attente} Après tout,|je l'ai préparé pour toi,|{F07} ♥{attente}{page}{fin}
+@01838	P-pardon...{attente}|Je m'en doutais...{attente}|je te dérange...{attente}{page}{fin}
+@01839	......Moi qui l'avais fait|pour toi, {F07}...|...{attente}Non, ce n'est rien.{attente}{page}{fin}
+@01840	Hein... ?!{attente}|Ça veut dire qu'elle l'a|préparé exprès|pour moi... ?{attente}{page}{fin}
+@01841	Tiens, {F08} !{attente}|Ton déjeuner !{attente}|Mange-le !!{attente}{page}{fin}
+@01842	Ouais, ouais !{attente}|Mange-z-en plein !{attente}{page}{fin}
+@01843	Hein que c'est bon !|J'y ai mis tout mon amour !{attente}|......Héhé ♥{attente}{page}{fin}
+@01844	Tu oses refuser de manger|le déjeuner que je t'ai|fait, mon chéri ?!{attente}{page}{fin}
+@01845	Punition, mon chériii !!{attente}{page}{fin}
+@01846	Waaah !{attente}|Aïe aïe aïe aïe aïe !!|Hiiiiiiii !!!{attente}{page}{fin}
+@01847	Je te parle plus !{attente}{page}{fin}
+@01848	......Ouille !{attente}|Pas d'éclairs à la Lamu,|mais elle m'a broyé les|deux mains...{attente} J'ai mal !{attente}{page}{fin}
+@01849	Mais bon{attente}, elle l'avait|fait rien que pour moi...|Je m'en veux un peu...|......{attente}{page}{fin}
+
+; ---- regards
+@01850	......|{E04} et moi, sans un|mot, nous nous regardions|dans les yeux...{attente}{page}{fin}
+@01851	...Pas besoin de mots :{attente}|ce que ressent {E04}|me parvient, clairement{attente}...|intensément...{attente}{page}{fin}
+@01852	J'ai senti mon cœur|se serrer, débordant|de tendresse pour elle...{attente}{page}{fin}
+@01853	......|Sans un mot, {E09}|me regarde fixement...{attente}{page}{fin}
+@01854	...Pas besoin de mots :{attente}|ce que ressent {E09}|me parvient, clairement{attente}...|intensément...{attente}{page}{fin}
+@01855	......L'air un peu|gênée, {E0A}|me regarde...|...{attente}{page}{fin}
+@01856	...Pas besoin de mots :{attente}|l'attention de {E0A}|me parvient, clairement{attente}...|intensément...{attente}{page}{fin}
+
+; ---- sur le toit : « tu aimes quelqu'un d'autre ? »
+@01857	Ah...{attente} J'allais justement|venir te voir,|{F03}.{attente}{page}{fin}
+@01858	......Mais si ça|continue comme ça...{attente}|j'ai l'impression que ça|va mal tourner...{attente}{page}{fin}
+@01859	{F05} !|J'ai à te parler, j'allais|justement venir te voir.{attente}{page}{fin}
+@01860	Dis, {F03}...{attente}|j'aimerais te demander|quelque chose...{attente}{page}{fin}
+@01861	Hein, à moi... ?{attente}|Oui, bien sûr. Qu'est-ce|que tu veux savoir ?{attente}{page}{fin}
+@01862	Oui... mais...{attente}|pas ici...{attente}|Tu veux bien me suivre ?{attente}{page}{fin}
+@01863	J'ai suivi {E04}|jusque sur le toit|du lycée...{attente}{page}{fin}
+@01864	Elle a l'air plus sérieuse|que d'habitude...|Qu'est-ce qui lui arrive ?|......{attente}{page}{fin}
+@01865	Dis,{attente} {F03}, tu|t'entends bien avec plein|d'autres filles, hein...{attente}{page}{fin}
+@01866	Alors je me demandais...|...{attente}À part moi, est-ce|que tu aimes quelqu'un ?{attente}{page}{fin}
+@01867	(Que répondre ?){n}{fin}
+@01868	{FFB}Personne, je le jure{n}　En fait, oui{n}　Je ne sais pas moi-même{fin}
+@01869	Quelqu'un d'autre... ?{attente}|Il n'y a personne !{attente}|Je te le jure !{attente}{page}{fin}
+@01870	...Ah, ouf !{attente}|Je te crois... N'oublie|pas ce que tu viens|de dire ♥{attente}{page}{fin}
+@01871	Ah, les cours vont|commencer !{attente}|À plus, {F03} ♥{attente}{page}{fin}
+@01872	...{E04}...{attente}|« Je te crois »...|...hein...{attente}{page}{fin}
+@01873	...J'ai le cœur qui bat...{attente}|Je suis content, un peu|gêné... Ça me chatouille|de partout.{attente}{page}{fin}
+@01874	Euh...{attente} pour être franc,|il y a d'autres filles|qui me plaisent...{attente}{page}{fin}
+@01875	Ah...{attente}|c'est comme ça...{attente}|Il y en a, alors...{attente}{page}{fin}
+@01876	Ah, non...{attente} enfin...{attente}|comment dire...{attente}|autant que toi...{attente}{page}{fin}
+@01877	Laisse tomber...{attente}|J'ai compris...{attente}|{F03}, t'es bête...{attente}{page}{fin}
+@01878	......Mince ! C'était|pas malin...{attente}|Mais je suis sincère,|je peux pas me mentir.{attente}{page}{fin}
+@01879	Non...{attente} franchement,{attente}|je ne sais pas moi-même|qui j'aime...{attente}{page}{fin}
+@01880	Ah, d'accord...{attente}|Moi...{attente} moi, tu sais...{attente}{page}{fin}
+@01881	Non...{attente}|ce n'est rien...{attente}|À plus...{attente}{page}{fin}
+@01882	...Hein !{attente} Qu'est-ce|qu'elle allait dire... ?|......{attente}|Ça m'intrigue...{attente}{page}{fin}
+@01883	Mais au fond...{attente}|qui est-ce que je préfère ?|Je ne le sais pas trop|moi-même...{attente}{page}{fin}
+@01884	{F04}...{attente}|euh...{attente} j'ai une question|à te poser...{attente}{page}{fin}
+@01885	Oui...{attente} mais...|pas ici...{attente}|Tu viens avec moi ?{attente}{page}{fin}
+@01886	Mizuki m'a tiré par le|bras et m'a emmené|sur le toit du lycée...{attente}{page}{fin}
+@01887	{F04}...{attente}|tu t'entends bien avec|plein de filles...{attente}{page}{fin}
+@01888	Du coup, je ne sais pas|...{attente}ce que tu ressens|vraiment, {F04}...{attente}{page}{fin}
+@01889	À part moi, il y a|quelqu'un que tu aimes ?{attente}|...Sois franc !{attente}{page}{fin}
+@01890	Tant mieux...{attente}|Je te crois,|{F04}...{attente}{page}{fin}
+@01891	Ah{attente}, c'est bientôt l'heure|du cours, j'y retourne !{attente}|À plus !{attente}{page}{fin}
+@01892	Ce qu'a dit Mizuki...{attente}|« Je te crois,|{F04} »...{attente} hein...{attente}{page}{fin}
+@01893	Non......{attente}|C'est...|vraiment vrai... ?{attente}{page}{fin}
+@01894	...D'accord...{attente}|Pardon de t'avoir fait|venir comme ça...{attente}|......{attente}{page}{fin}
+@01895	Le cours va commencer...|faut y retourner...{attente}{page}{fin}
+@01896	Ah bon...{attente}|...Alors...|non, rien !{attente}{page}{fin}
+@01897	Je veux en avoir|le cœur net !{attente}|Pas ici... viens par là.{attente}{page}{fin}
+@01898	Yumi m'a tiré par le bras|et m'a emmené sur le toit|du lycée...{attente}{page}{fin}
+@01899	Je croyais qu'on était...{attente}|plutôt proches,|tous les deux...{attente}{page}{fin}
+@01900	Mais tu fais le joli cœur|avec toutes, alors je veux|savoir.{attente} Il y a quelqu'un|d'autre ?{attente}{page}{fin}
+@01901	C'est vrai, hein ?{attente}|...J'ai bien fait de|demander ♥{attente}|Je te crois, {F05}.{attente}{page}{fin}
+@01902	......{attente}|Bon, je retourne en classe.|À plus.{attente}{page}{fin}
+@01903	......|Alors Yumi tient à moi|à ce point-là...{attente}{page}{fin}
+@01904	Ah, c'est comme ça !|{F05}, tu fais|vraiment le joli cœur|avec toutes !!{attente}{page}{fin}
+@01905	Laisse tomber !|......|......{attente}{page}{fin}
+@01906	Quel indécis...{attente}|Il serait temps que tu...{attente}|Non, rien !{attente}{page}{fin}
+@01907	Tiens ? {E08}|vient par ici...{attente}|Qu'est-ce qu'elle veut... ?{attente}{page}{fin}
+@01908	Ah... {F06}~{attente}|Tu veux bien venir avec|Shinozawa un moment~ ?{attente}{page}{fin}
+@01909	Shinozawa a une question|super importante~...{attente}{page}{fin}
+@01910	L'air étrangement sérieux,|{E08} m'a emmené|sur le toit du lycée...{attente}{page}{fin}
+@01911	Qu'est-ce que tu voulais|me demander... ?{attente}{page}{fin}
+@01912	En fait~...|......{attente}{page}{fin}
+@01913	Nyaha !{attente} En face, c'est|dur à demander...{attente}|Euuuh...{attente}{page}{fin}
+@01914	{F06}, à part Shinozawa,|il y a une fille dont|t'es très proche,|ou que tu aimes~ ?{attente}{page}{fin}
+@01915	Kyaa ♥ Ce que tu dis !{attente}|Shinozawa est trop|émue~ !!{attente}{page}{fin}
+@01916	Ça valait le coup d'oser|demander~ !{attente} Shinozawa|est trop heureuse~ ♥♥{attente}{page}{fin}
+@01917	Ah ! Les cours vont|commencer~ !|À plus~ !{attente}{page}{fin}
+@01918	...{E08} non plus ne|peut pas s'empêcher de|penser à moi, alors...{attente}{page}{fin}
+@01919	Funya~... Déçue...{attente}|Mais... {F06},|t'es honnête~{attente}{page}{fin}
+@01920	C'est plus la peine~{attente}|Pardon d'avoir posé|une question idiote~{attente}{page}{fin}
+@01921	...Bon, les cours vont|commencer, alors|au revoir...{attente}{page}{fin}
+@01922	Unya ?|Ah bon, c'est comme ça~ ?{attente}{page}{fin}
+@01923	Shinozawa, tu sais~...|Shinozawa, elle~...{attente}{page}{fin}
+
+; ---- départs (variantes)
+@01924	Sur ces mots,|{E09} a quitté le toit|pour retourner en classe...{attente}{page}{fin}
+@01925	Sur ces mots,|{E04} a descendu|l'escalier...{attente}{page}{fin}
+@01926	Sur ces mots,|Mizuki a dévalé|l'escalier...{attente}{page}{fin}
+@01927	Après m'avoir lancé|ces mots avec mépris,|Yumi a descendu|l'escalier...{attente}{page}{fin}
+@01928	Sur ces mots,|{E08} a descendu|l'escalier en cachant|son visage...{attente}{page}{fin}
+@01929	Sans même me regarder,|{E09} a descendu|l'escalier sur ces mots...{attente}{page}{fin}
+@01930	Après avoir dit ça d'une|voix éteinte, {E0A}|a descendu l'escalier...{attente}{page}{fin}
+@01931	...{E04}...|je crois que je vais|t'aimer encore plus,|{F03} ♥{attente}{page}{fin}
+@01932	{E04}, fâchée,|est rentrée dans|le bâtiment...|...{attente}{page}{fin}
+@01933	......|Je te crois...|vraiment...{attente}{page}{fin}
+@01934	Sur ces mots, Mizuki|est rentrée dans le|bâtiment sans un bruit...{attente}{page}{fin}
+
+; ---- Mirei, Konoha
+@01935	{F07}{attente}, tu veux|bien venir sur le toit ?{attente}|S'il te plaît......{attente}{page}{fin}
+@01936	L'air grave, {E09}|m'a emmené sur le toit.{attente}|Que peut-elle bien|me vouloir ?......{attente}{page}{fin}
+@01937	Pardon de t'avoir|entraîné comme ça...{attente}|J'ai une question|à te poser.{attente}{page}{fin}
+@01938	Oui... {F07},|tu es gentil avec les|autres filles aussi, non ?{attente}{page}{fin}
+@01939	Mais quelqu'un que tu aimes|vraiment{attente}... à part moi... ?{attente}|J'aimerais savoir...{attente}{page}{fin}
+@01940	{F07}...|je peux te croire...{attente}|Tant mieux...♥{attente}{page}{fin}
+@01941	Ah...|le cours va bientôt|commencer...{attente}|Je file devant !{attente}{page}{fin}
+@01942	...Alors {E09} s'inquiète|autant que ça|à mon sujet...{attente}|...hein...{attente}{page}{fin}
+@01943	...{attente}Les gens comme ça,|on dit...{attente} ah oui !{attente}|On dit que c'est un|cœur d'artichaut !{attente}{page}{fin}
+@01944	...Alors moi aussi, je|ne suis qu'une fille|parmi tant d'autres...{attente}{page}{fin}
+@01945	...{F07}...|...pourquoi tu ne|sais pas...{attente}{page}{fin}
+@01946	...Tu n'es pas sûr de|tes sentiments...{attente}|Oui, je comprends...{attente}{page}{fin}
+@01947	Alors moi aussi, je...{attente}|...Hihi !|Ah, oublie ça !{attente}{page}{fin}
+@01948	Hé, hé !{attente}|Par ici, par ici !{attente}|Viens viiite !{attente}{page}{fin}
+@01949	Hein ?{attente} Quoi ?{attente}|Qu'est-ce qui se passe ?{attente}{page}{fin}
+@01950	{E0A} m'a tiré|par le bras jusque|sur le toit.{attente}{page}{fin}
+@01951	Dis, t'en fais une tête...|Il s'est passé un truc ?{attente}{page}{fin}
+@01952	Ben, c'est que... c'est que !{attente}|{F08}, t'es|copain avec tout le monde !{attente}{page}{fin}
+@01953	Alors je veux savoir pour|de bon s'il y a une autre|fille que tu aimes !{attente}{page}{fin}
+@01954	...C'est vrai ?{attente}|...Comment dire...|......{attente}Héhé ♥{attente}{page}{fin}
+@01955	J'en reviens paaas !{attente}|Je suis trop contente...|et un peu gênée ♥{attente}{page}{fin}
+@01956	Ah, les cours vont|commencer, alors voilà !{attente}|Je file devant !{attente}{page}{fin}
+@01957	...{E0A} aussi a|l'air pas mal inquiète...{attente}|alors...{attente}{page}{fin}
+@01958	Hmm...{attente}|c'est comme ça...{attente} hein.{attente}{page}{fin}
+@01959	Merci...|c'est bon...{attente}{page}{fin}
+@01960	Bon, je retourne en classe|la première......{attente}{page}{fin}
+@01961	{E0A}, la pile|électrique, abattue|à ce point......{attente}{page}{fin}
+@01962	J'ai l'impression d'avoir|été vraiment méchant...{attente}|Mais je suis sincère...|Tant pis...{attente}{page}{fin}
+@01963	Ah bon, tu sais pas|toi-même ?{attente}|Hmm... d'accord...{attente}{page}{fin}
+@01964	Moi, tu sais !{attente}|......Héhé !{attente}|Non, laisse tomber !{attente}{page}{fin}
+@01965	...{F05}, j'ai|vraiment bien fait de|te poser la question...{attente}{page}{fin}
+@01966	Après avoir crié d'une|voix dure, Yumi a quitté|le toit en vitesse...|...{attente}{page}{fin}
+@01967	...{F07}, tu es|bien comme je pensais...|merveilleux et gentil...{attente}{page}{fin}
+@01968	......Merci,|{F08}...{attente}|...Héhé ♥{attente}{page}{fin}
+@01969	......|Shinozawa est... la plus|heureuse de l'univers~{attente}{page}{fin}
+
+; ---- jalousie : « tu m'as menti »
+@01970	{E04} m'a fait venir|sur le toit.{attente}|Qu'est-ce qu'elle me veut ?{attente}{page}{fin}
+@01971	Dis... {F03}{attente}|tu sais très bien{attente}|ce que je veux te dire.{attente}{page}{fin}
+@01972	Hein ? Quoi donc...{attente}|Je vois pas...{attente}|De quoi tu parles ?{attente}{page}{fin}
+@01973	Enfin !{attente}|Tu m'as menti en disant|qu'il n'y avait personne !{attente}{page}{fin}
+@01974	Tu as l'air très proche|d'une certaine personne !{attente}{page}{fin}
+@01975	Hein !{attente}|Ah, non...{attente}|euh...{attente} c'est que...{attente}{page}{fin}
+@01976	Écoute ! Les autres, c'est|des copines du lycée !{attente}|Juste des amies !{attente}{page}{fin}
+@01977	Ah oui...{attente} vraiment ?{attente}|Des amies bien plus|proches que moi, alors !{attente}{page}{fin}
+@01978	...C'est pas que je|sois jalouse, mais...|...{attente}{page}{fin}
+@01979	J'ai juste honte d'avoir|cru en toi, {F03}...{attente}|Bon...{attente} adieu !{attente}{page}{fin}
+@01980	Ah !{attente} C'est la cata !{attente}|Nous deux...{attente} c'est{attente}|peut-être vraiment|fini......{attente}{page}{fin}
+@01981	Mizuki m'a fait venir|sur le toit.{attente}|Qu'est-ce qu'elle me veut ?{attente}{page}{fin}
+@01982	{F04}, menteur !{attente}{page}{fin}
+@01983	Hein ?!{attente} Q-quoi ?{attente}|Qu'est-ce qui te prend ?{attente}{page}{fin}
+@01984	Tu m'as dit qu'il n'y avait|personne, et tu es tout|proche d'autres filles !{attente}{page}{fin}
+@01985	Belle excuse !{attente}|Si c'est une si bonne amie,|sors avec elle !{attente}{page}{fin}
+@01986	{F04}...{attente}|...j'ai bien compris...{attente}|...Adieu...{attente}{page}{fin}
+@01987	Yumi m'a fait venir|sur le toit.{attente}|Qu'est-ce qu'elle me veut ?{attente}{page}{fin}
+@01988	Désolée de t'avoir fait|venir comme ça...{attente}{page}{fin}
+@01989	{F05}...{attente}|Tu m'avais bien dit qu'il|n'y avait personne|d'autre ?{attente}{page}{fin}
+@01990	Mais t'as l'air bien proche|d'une certaine personne...{attente}|Tu m'as menti ?{attente}{page}{fin}
+@01991	Te chercher des excuses,|c'est minable !{attente}|{F05}, tu m'as|déçue !{attente}{page}{fin}
+@01992	Allez, a{attente}-di{attente}-eu{attente} !{attente}{page}{fin}
+@01993	{E08} m'a fait venir|sur le toit.{attente}|Qu'est-ce qu'elle me veut ?{attente}{page}{fin}
+@01994	Dites~, {F06}~{attente}|C'est super important~{attente}{page}{fin}
+@01995	{F06}, t'as menti|à Shinozawa~{attente}{page}{fin}
+@01996	Tu disais qu'il y avait|personne d'autre~...{attente}{page}{fin}
+@01997	{F06},|t'es super~ proche|d'une autre~{attente}{page}{fin}
+@01998	C'est plus la peine~...{attente}|Shinozawa était trop|pénible, alors t'en|as eu marre~{attente}{page}{fin}
+@01999	Ah...{attente}|Me regarde pas~...{attente}|Faut pas regarder...{attente}{page}{fin}
+@02000	Shinozawa va encore plus|pleurer, alors... elle|s'en va... au revoir...{attente}{page}{fin}
+@02001	......|Je n'avais jamais vu|{E08} faire cette|tête-là......{attente}{page}{fin}
+@02002	Nous deux...{attente} c'est|peut-être vraiment|fini...{attente}{page}{fin}
+@02003	{E09} m'a fait venir|sur le toit.{attente}|Qu'est-ce qu'elle me veut ?{attente}{page}{fin}
+@02004	{F07}...{attente}|tu m'as trompée...{attente}|Comment as-tu pu... !{attente}{page}{fin}
+@02005	Tu ne comprends pas ?{attente}|Tu m'avais juré qu'il|n'y avait personne d'autre !{attente}{page}{fin}
+@02006	...Et tu sors avec une|autre fille...{attente}|Qu'est-ce que ça|veut dire ?!{attente}{page}{fin}
+@02007	I don't|believe it !!{attente}{page}{fin}
+@02008	Une amie ?{attente} Ça ?{attente}|Il y avait...{attente} bien plus|que de l'amitié...{attente}{page}{fin}
+@02009	Je ne crois plus un mot|de ce que tu dis...{attente}|...Adieu...{attente}{page}{fin}
+@02010	{E0A} m'a fait venir|sur le toit.{attente}|Qu'est-ce qu'elle me veut ?{attente}{page}{fin}
+@02011	{F08}...{attente}|Pourquoi t'as menti en|disant qu'y avait|personne d'autre ?{attente}{page}{fin}
+@02012	Y a une fille avec qui|t'es super proche,|à part moi !{attente}{page}{fin}
+@02013	Je vois...{attente} {F08},|t'as menti pour|m'épargner...{attente}{page}{fin}
+@02014	Mais tu sais...{attente}|ça fait encore plus mal|que la vérité...{attente}{page}{fin}
+@02015	Moi...{attente} je vais plus...|vous gêner, tous les deux.{attente}|...On arrête là.{attente}{page}{fin}
+@02016	Sur ces mots, {E04}|est rentrée. De dos,|elle avait l'air|vraiment triste...{attente}{page}{fin}
+@02017	Sur ces mots, Mizuki|est rentrée. De dos, on|aurait dit que ses épaules|tremblaient un peu...{attente}{page}{fin}
+@02018	Sur ces mots, Yumi|est rentrée. De dos,|elle semblait d'une|froideur glaciale...{attente}{page}{fin}
+@02019	...Mais~...|si ça prend encore plus|de temps, Shinozawa,|peut-être que...{attente}{page}{fin}
+@02020	Ah !|C'est rien~{attente}{page}{fin}
+@02021	Sur ces mots, {E08}|est rentrée. De dos,|elle ne ressemblait pas à|la {E08} habituelle...{attente}{page}{fin}
+@02022	...Comme ça, je peux|te faire confiance|et te suivre, {F07}...{attente}{page}{fin}
+@02024	Sur ces mots lourds de|sens, {E09} est|rentrée. De dos, elle|semblait sombre...{attente}{page}{fin}
+
+; ---- sur le toit : « ne sois plus proche des autres »
+@02025	Seul sur le toit désert,|je regardais le ciel,|perdu dans le vague...{attente}{page}{fin}
+@02026	Quand j'ai senti un regard !{attente}|Hein ? Qui c'est ?{attente}{page}{fin}
+@02027	Je t'ai vu monter sur|le toit, {F03}...{attente}|Dis...{attente}{page}{fin}
+@02028	L'autre fois...{attente}|tu m'as dit qu'il y avait|d'autres filles que tu|aimais...{attente}{page}{fin}
+@02029	Tu as le droit d'aimer|qui tu veux...{attente}|{F03}, je le sais|bien, mais...{attente}{page}{fin}
+@02030	Est-ce que tu pourrais...{attente}|...arrêter d'être|si proche d'elles ?{attente}{page}{fin}
+@02031	{FFB}Je m'éloigne des autres{n}　Je reste proche d'elles{fin}
+@02032	...D'accord, promis !{attente}|Je ne serai plus...{attente} proche|d'aucune autre fille !{attente}{page}{fin}
+@02033	Je te promets que|tu seras la seule...|à compter pour moi !!{attente}{page}{fin}
+@02034	Oh ♥ Quel bonheur ♥{attente}|C'était un caprice, et|tu me l'as promis...|Merci !{attente}{page}{fin}
+@02035	{F03}...{attente}|tu es tellement gentil...♥{attente}{page}{fin}
+@02036	Hmm...{attente} Ne plus être|proche des autres filles...{attente}|ça me fait un peu de peine...{attente}{page}{fin}
+@02037	Mais...{attente}|c'est pour elle !{attente}|Je dois mettre les choses|au clair avec les autres !{attente}{page}{fin}
+@02038	Hein...{attente} mais...|j'ai envie de rester proche|d'elles...{attente} Ce sont toutes|de bonnes amies.{attente}{page}{fin}
+@02039	Ah bon...{attente}|De bonnes amies......{attente}{page}{fin}
+@02040	Alors...{attente}|tiens à toutes tes amies|plus qu'à moi !{attente}{page}{fin}
+@02041	Je l'ai fâchée...{attente}|Mais les autres filles|comptent aussi pour moi...{attente}|Tant pis...{attente}{page}{fin}
+@02042	{F04}...{attente}|désolée de te déranger,{attente}|mais j'ai quelque chose|à te demander...{attente}{page}{fin}
+@02043	L'autre jour...{attente}|tu m'as dit que tu aimais|d'autres filles aussi...{attente}{page}{fin}
+@02044	Mais...{attente} j'aimerais...{attente}|que tu ne sois plus|proche des autres...{attente}{page}{fin}
+@02045	...D'accord...{attente}|Je ne suis qu'une amie|parmi d'autres...{attente}{page}{fin}
+@02046	Je me suis fait des idées|toute seule, et j'ai dit|des bêtises...{attente}|...Pardon...{attente}{page}{fin}
+@02047	Dis, {F05}{attente}|j'ai un service à te|demander. Tu veux bien ?{attente}{page}{fin}
+@02048	L'autre jour, tu m'as dit|que tu étais proche d'une|autre fille, non ?{attente}{page}{fin}
+@02049	Mais désormais...{attente}|je voudrais que tu|t'éloignes d'elle.{attente}{page}{fin}
+@02050	Tu veux bien faire ça...|pour moi ?{attente}{page}{fin}
+@02051	C'est vrai ?|C'est vrai de vrai ?{attente}|...Je suis contente ♥{attente}{page}{fin}
+@02052	Ah...{attente}|je m'en doutais...{attente}{page}{fin}
+@02053	T'es vraiment un indécis|de première !{attente} Laisse tomber !|Adieu !!{attente}{page}{fin}
+@02054	Euh...{attente}|{F07}...|j'ai une faveur à te|demander...{attente}{page}{fin}
+@02055	L'autre fois, tu m'as dit|que tu aimais quelqu'un|d'autre, non ?{attente}|C'est à ce sujet...{attente}{page}{fin}
+@02056	...Tu pourrais ne plus|être proche des autres|filles ? S'il te plaît !{attente}{page}{fin}
+@02057	Je le savais...{attente}|Moi aussi, je ne suis qu'une|fille parmi d'autres...{attente}{page}{fin}
+@02058	Pardon...{attente}|Je n'insisterai plus.{attente}|......{attente}{page}{fin}
+@02059	Ne t'occupe plus|de moi...{attente}|Je ferai pareil...{attente}{page}{fin}
+@02060	Aaah... je l'ai fait|pleurer...{attente}|Mais les autres filles|comptent aussi pour moi.{attente}{page}{fin}
+@02061	Je crois que pour elle|aussi, c'était mieux|d'être franc...{attente}{page}{fin}
+@02062	Quelqu'un arrive en|courant à grand bruit...{attente}|Qui ça peut être... ?{attente}{page}{fin}
+@02063	{F08} !{attente}|T'étais là !{attente}|Je t'ai cherché partout !{attente}{page}{fin}
+@02064	L'autre jour...{attente}|quand tu m'as dit qu'il|y avait une autre fille...{attente}{page}{fin}
+@02065	Ça m'a trop, trop|déprimée...{attente}{page}{fin}
+@02066	Bon, t'as le droit d'aimer|qui tu veux, {F08},|je me suis retenue...{attente}{page}{fin}
+@02067	Mais j'y arrive pas !{attente}|Ça me fait mal{attente}, alors arrête|d'être copain avec elles !{attente}{page}{fin}
+@02068	C'est vrai... ?{attente}|Vrai de vrai... ?{attente}{page}{fin}
+@02069	Ouais ! Trop bien !{attente}|Je suis soulagée !!|Héhé ♥{attente}{page}{fin}
+@02070	Franchement, je croyais|que c'était fichu...{attente}|Pardon pour mon caprice.{attente}{page}{fin}
+@02071	Je retourne en classe !{attente}|{F08}|merciii !!{attente}{page}{fin}
+@02072	Décidément, {E0A},|ça lui va bien d'être|pleine d'entrain !{attente}|N'empêche......{attente}{page}{fin}
+@02073	......{attente}|Ah...{attente} c'est vrai, hein.{attente}|Pardon pour mon caprice.{attente}{page}{fin}
+@02074	...Alors maintenant, on|n'a plus besoin d'être|amis...{attente}|......{attente}{page}{fin}
+@02075	Ah...|...c'est {E08} !{attente}{page}{fin}
+@02076	{F06}~...{attente}|Shinozawa est toute|bizarre~......{attente}{page}{fin}
+@02077	L'autre fois, {F06},|t'as dit que tu|aimais quelqu'un d'autre|que Shinozawa~{attente}{page}{fin}
+@02078	Depuis...{attente}|je sais pas pourquoi...{attente}|ça fait super~ mal~{attente}{page}{fin}
+@02079	Alors...{attente} alors, voilà,{attente}|c'est un caprice...|de Shinozawa, mais~{attente}{page}{fin}
+@02080	Tu pourrais...|pas trop être proche|des autres filles~ ?{attente}{page}{fin}
+@02081	Tu me le...|promets~ ?{attente}|C'est vrai ?{attente} Vrai de vrai ?{attente}{page}{fin}
+@02082	Kyaaan ♥ Ouf ♥{attente}|Shinozawa est trop|émue~ !{attente}{page}{fin}
+@02083	{F06}...{attente}|merci~...♥{attente}|À plus~ ♥{attente}{page}{fin}
+@02084	B-bon, d'accord~...{attente}|Faut prendre soin|de ses amis~...{attente}{page}{fin}
+@02085	Pardon d'avoir fait|un caprice...{attente} et de|t'avoir embêté...{attente}{page}{fin}
+@02086	Alors Shinozawa...{attente}|se retire...|pour toujours~{attente}{page}{fin}
+@02087	...Ce qu'elle a dit|tout à l'heure...{attente}|ça voulait dire quoi ?|Ça m'intrigue...{attente}{page}{fin}
+@02088	...Mais surtout, il|faut que je fasse|le point sur ce que|je ressens...{attente}{page}{fin}
+@02089	Sur ces mots, {E0A}|est rentrée. On aurait dit|qu'elle se forçait|à paraître gaie...{attente}{page}{fin}
+@02090	Entre nous,|c'est fini !{attente}|Adieu !!{attente}{page}{fin}
+@02091	Moi non plus, je veux|plus sortir avec toi !!{attente}|Adieu !!{attente}{page}{fin}
+@02092	......Shinozawa|faisait semblant|d'être gaie, mais...{attente}{page}{fin}
+@02093	...{E0A} a fini|par pleurer...{attente}{page}{fin}
+
+; ---- cadeau
+@02094	Bon, va pour un sac !{attente}|Lequel choisir... ?{attente}{page}{fin}
+@02095	{F03}...|je peux regarder ?{attente}{page}{fin}
+@02096	Oui ! Vas-y !{attente}{page}{fin}
+@02097	Mais... qu'est-ce que|ça peut bien être ?{attente}|Dis ? Je peux regarder ?{attente}{page}{fin}
+@02098	Merci beaucoup !|Je l'accepte avec plaisir !{attente}{page}{fin}
+@02099	{F06}...|je peux regarder~ ?{attente}{page}{fin}
+
+; ---- « ne regarde que moi »
+@02100	Dis...|{F03}...{attente}|......{attente}{page}{fin}
+@02101	Quand je t'ai demandé...|tu m'as dit que tu ne|savais pas qui tu aimais...{attente}{page}{fin}
+@02102	Mais...{attente} dans ce cas...{attente}|à partir de maintenant,|ne regarde plus que moi...{attente}{page}{fin}
+@02103	Comme ça, j'en suis sûre...{attente}|toi aussi, {F03},|...{attente}allez, s'il te plaît !{attente}{page}{fin}
+@02104	{FFB}Ne regarder qu'elle{n}　Demander du temps{fin}
+@02105	...{attente}Oui, d'accord !{attente}|Désormais, je ne regarde|que toi !{attente} Sois tranquille !{attente}{page}{fin}
+@02106	Oh ♥ Tant mieux ♥{attente}|Merci !|{F03} ♥{attente}{page}{fin}
+@02107	...Que tu me dises ça...{attente}|ça me rend...{attente}|tellement heureuse ♥{attente}{page}{fin}
+@02108	Pardon...{attente} je n'arrive|pas encore à y voir clair|dans ce que je ressens...{attente}{page}{fin}
+@02109	Tu veux bien me laisser...{attente}|encore un peu de temps... ?{attente}{page}{fin}
+@02110	Ah...{attente}|bon, tant pis, alors.{attente}{page}{fin}
+@02111	Mais...{attente} si tu restes|indécis trop longtemps...{attente}|...moi aussi, je...{attente}{page}{fin}
+@02112	...J'ai pas été sympa...{attente}|Il faut que je fasse|le point sur ce que|je ressens...{attente}{page}{fin}
+@02113	L'autre jour, tu m'as dit|que tu ne savais pas|ce que tu ressentais...{attente}{page}{fin}
+@02114	Alors...{attente}|j'aimerais que tu ne|regardes que moi...{attente}{page}{fin}
+@02115	Ah bon...{attente} Mais si tu|continues comme ça, moi|aussi...{attente} Non, rien !{attente}{page}{fin}
+@02116	Depuis notre discussion...{attente}|j'ai réfléchi...{attente}{page}{fin}
+@02117	{F05}, si tu ne|sais pas toi-même|qui tu aimes...|...{attente}{page}{fin}
+@02118	Désormais...{attente}|j'aimerais que tu ne|regardes que moi.|...{attente}C'est non ?{attente}{page}{fin}
+@02119	D'accord...{attente}|Mais...{attente}|pas trop longtemps...{attente}{page}{fin}
+@02120	Sinon...{attente}|je serai obligée de revoir|ce qu'il y a entre nous...{attente}{page}{fin}
+@02121	Dis, dis, {F06}~{attente}|L'autre fois, quand|Shinozawa t'a demandé...|...{attente}{page}{fin}
+@02122	{F06}, t'as dit|que tu savais pas|toi-même qui tu aimais~{attente}{page}{fin}
+@02123	Et donc...{attente} Shinozawa|a beaucoup réfléchi~{attente}|Et tant qu'à faire~{attente}{page}{fin}
+@02124	...Est-ce que tu voudrais|regarder rien que...{attente}|Shinozawa... ?{attente}{page}{fin}
+@02125	Kyaa !{attente} Shinozawa a|été trop audacieuse !{attente}|Comment faire~ !{attente}{page}{fin}
+@02126	Kyaa ♥|C'est vrai ? Vrai de vrai~ ?{attente}|Shinozawa est rassurée~{attente}{page}{fin}
+@02127	{F06}~, Shinozawa|est ultra-heureuse~|♥♥♥{attente}{page}{fin}
+@02128	Hanya~...{attente}|La demande audacieuse de|Shinozawa a coulé à pic~{attente}{page}{fin}
+@02129	Shinozawa est triste...{attente}|Maaais{attente}, elle va attendre|encore un peu~...{attente}{page}{fin}
+@02130	Alors Shinozawa bat en|retraite, toute penaude~{attente}|{F06}, à plus~{attente}{page}{fin}
+@02131	Dis...{attente} l'autre fois,{attente}|{F07}, tu m'as|dit, je crois...{attente}{page}{fin}
+@02132	...que tu ne savais pas|toi-même qui tu aimais...{attente}{page}{fin}
+@02133	J'y ai réfléchi depuis,|et j'ai décidé de te|demander une chose...{attente}{page}{fin}
+@02134	Si je te demandais de ne|regarder que moi...{attente}|ce serait non... ?{attente}{page}{fin}
+@02135	C'est soudain...{attente}|Tu ne peux sûrement pas|répondre tout de suite...{attente}{page}{fin}
+@02136	Mais si tu ne te décides|pas vite...{attente} moi,|peut-être que...|...{attente}{page}{fin}
+@02137	L'autre jour...{attente} tu disais|que tu savais pas toi-même|qui t'aimais, hein ?{attente}{page}{fin}
+@02138	Alors voilà !{attente} Héhé !{attente}|C'est un peu gênant,|mais je me lance !{attente}{page}{fin}
+@02139	Regarde pas les autres|filles... Regarde que moi...|s'il te plaît !{attente}{page}{fin}
+@02140	Kyaaah !|Je l'ai dit !{attente}|......{attente}{page}{fin}
+@02141	Waouh ! C'est vrai ?!{attente}|Je suis trop contente ♥{attente}|...Merci ♥{attente}{page}{fin}
+@02142	Du coup...{attente} d'un coup...|je suis toute gênée ♥|...{attente}Héhé ♥{attente}{page}{fin}
+@02143	Ah...{attente} c'est vrai, hein.{attente}|On peut pas répondre|à un truc pareil, comme ça.{attente}{page}{fin}
+@02144	Bon, j'attends !{attente}|Et j'espère que ta réponse|sera la bonne !{attente}{page}{fin}
+
+; ---- divers
+@02145	Mais nan, je rigole !|Nyaha !{attente} N'empêche,|Shinozawa est trop|émue~ ♥{attente}{page}{fin}
+@02146	Shinozawa,|c'est pas une ninja !{attente}{page}{fin}
+@02147	...Mon cœur a fait|un bond...{attente}{page}{fin}
+@02148	...En voyant ça,|mon cœur s'est mis|à battre...|très fort...{attente}{page}{fin}
+@02149	Enfin...|c'est qu'une rumeur~{attente}{page}{fin}
+@02150	Mais...|si c'est une sale rumeur,|ce serait moche...{attente}{page}{fin}
+@02151	Dans les clubs de sport,|c'est courant, il paraît~{attente}{page}{fin}
+@02152	Peut-être bien que...{attente}|en cours particulier, on|apprend l'amour à {F00}~{attente}{page}{fin}
+@02153	Ils le font, non ??{attente}{page}{fin}
+@02154	Kyahahahaha !|Trop marrant !!{attente}{page}{fin}
+
+; ---- rompre avec les autres
+@02155	L'autre jour, j'ai promis|à ma copine de ne plus|être proche des autres|filles...{attente}{page}{fin}
+@02156	Le cœur un peu lourd...{attente}|pour tenir parole, j'ai|fait venir {E04} Saeki.|......{attente}{page}{fin}
+@02157	......{attente}|...{attente}Ah...|la voilà...{attente}{page}{fin}
+@02158	{F03} !|Désolée pour l'attente !{attente}|Tu voulais me parler ?{attente}{page}{fin}
+@02159	O-oui...{attente}|En fait...{attente} euh...{attente}{page}{fin}
+@02160	Hihi !{attente}|Tu es bizarre aujourd'hui,|{F03} !{attente}{page}{fin}
+@02161	Tout raide comme ça,|c'est trop drôle !{attente}|Qu'est-ce qu'il y a... ?{attente}{page}{fin}
+@02162	Pardon...{attente}|Je vais être clair...{attente}|J'ai fait une promesse...{attente}{page}{fin}
+@02163	À partir de maintenant...{attente}|on ne pourra plus...|se voir comme avant !{attente}{page}{fin}
+@02164	Hein... ?{attente}|Pourquoi... ?{attente}{page}{fin}
+@02165	Je ne peux pas dire qui...{attente}|mais il y a...{attente} une autre|fille que j'aime !{attente}{page}{fin}
+@02166	Ah, c-c'était ça...{attente}|Ah... ! J'ai compris !{attente}|Tu le lui as promis !{attente}{page}{fin}
+@02167	Vous êtes drôlement|proches, c'est beau...!{attente}{page}{fin}
+@02168	Alors...|tu ne devrais pas traîner|à papoter avec moi, non ?{attente}{page}{fin}
+@02169	Une promesse, ça se tient !{attente}|...Salut !{attente}{page}{fin}
+@02170	......{attente}|Normal qu'elle soit fâchée...{attente}|C'est moi le fautif...{attente}{page}{fin}
+@02171	Mais être clair, c'est|mieux pour nous deux...|...{attente}Haaa... Franchement,|c'est dur...{attente}{page}{fin}
+@02172	Le cœur un peu lourd...{attente}|pour tenir parole, j'ai|fait venir Mizuki Takao.|......{attente}{page}{fin}
+@02173	{F04} !|Pardon du retard !{attente}|Tu voulais me parler ?{attente}{page}{fin}
+@02174	Hmm, si tu ne dis rien,|je peux pas deviner...|Qu'est-ce qu'il y a ?{attente}{page}{fin}
+@02175	Hein... ?{attente}|Quoi ?|Ça veut dire quoi... ?{attente}{page}{fin}
+@02176	C'est pas vrai...{attente} hein ?{attente}|...C'est vrai... ?{attente}|Mais enfin...{attente}{page}{fin}
+@02177	Comment...{attente} d'un coup...|...{attente}{F04}...|t'es horrible !!{attente}{page}{fin}
+@02178	...Après un truc pareil,|normal qu'elle pleure...|......{attente}|C'est ma faute, mais...{attente}{page}{fin}
+@02180	Pour tenir parole, j'ai|fait venir Yumi Matsuda.{attente}|......{attente}{page}{fin}
+@02181	Me voilà !{attente}|Une discussion sérieuse...{attente}|C'est quoi... ?{attente}{page}{fin}
+@02182	C'est dur à dire ?{attente}|Ça m'intrigue !{attente}|Allez, dis-moi vite !{attente}{page}{fin}
+@02183	Qu'est-ce qui te prend ?{attente}|Si tu me dis pas pourquoi,|je l'accepterai pas...{attente}{page}{fin}
+@02184	C'est quoi, ça ?{attente}|Moi qui me demandais ce|que t'allais dire......{attente}{page}{fin}
+@02185	Si c'est une blague...{attente}|elle est de mauvais goût...{attente}|Ça suffit, non ?{attente}{page}{fin}
+@02186	Je plaisanterais pas...{attente}|avec un truc...{attente}|pareil...{attente}{page}{fin}
+@02187	...Ah bon, c'est comme ça|...{attente}T'as du culot,|toi !{attente}{page}{fin}
+@02188	Dans ce cas, sois heureux|pour la vie avec ta|chère inconnue !{attente}{page}{fin}
+@02189	Le cœur un peu lourd...{attente}|pour tenir parole,{attente} j'ai|fait venir {E08}|Shinozawa......{attente}{page}{fin}

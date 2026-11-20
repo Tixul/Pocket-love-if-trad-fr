@@ -1,0 +1,362 @@
+; Lot 26 : Momoyo (lait chaud, bains publics), Konoha (goodies, chien, frère), Mirei (restaurant, CD,
+; infirmerie, confidence), rivaux (Maeno/Ruruna, Hara/Mizuki, Yumi et l'étudiant).
+@09500	Moi qui étais toute au chaud|et toute contente grâce|à mon lait chaud~ !{attente}{page}{fin}
+@09501	Tu as gâché ma bonne|humeur~ !|Hmpf, hmpf !{attente}{page}{fin}
+@09502	Ah, {F06}~|Shinozawa a bu un lait|chaud, elle est heureuse~ !{attente}{page}{fin}
+@09503	Shinozawa est toute|cotonneuse, elle marche|sur un nuage~{attente}|Nyaha~ ! Salut~{attente}{page}{fin}
+@09504	Un pas léger ? On dirait|plutôt qu'elle titube...{attente}|Ivre avec du lait chaud ?{attente}|C'est tout {E08}, ça...{attente}{page}{fin}
+@09505	Mais j'ai eu l'impression|qu'elle me parlait juste|parce qu'elle m'avait vu...|...C'est triste...{attente}{page}{fin}
+@09506	Kyaa~ ! {F06}~{attente}|Shinozawa a bu un lait|chaud, elle est heureuse~ !{attente}{page}{fin}
+@09507	{F06} aussi, va donc|te réchauffer~ ?{attente}|Nyahaha ! Salut~{attente}{page}{fin}
+@09508	Shinozawa était heureuse,|et en croisant {F06},|elle l'est encore plus~♥{attente}{page}{fin}
+@09509	Tiens ? Il y a une fille|près de la buvette...{attente}{page}{fin}
+@09510	Jambes écartées, mains|sur les hanches, en train|de boire son lait cul sec...|ça, c'est sûrement...{attente}{page}{fin}
+@09511	Pas besoin de chercher :|c'est {E08} !{attente}{page}{fin}
+@09512	　Hé ! Tonton !{n}{fin}
+@09513	　Ouh ! Ça fait tonton !{n}{fin}
+@09514	　Belle descente !{n}{fin}
+@09515	　Tu y vas franco !{n}{fin}
+@09516	　Franco, ça fait plaisir !{n}{fin}
+@09517	Pfrrt !{attente}{page}{fin}
+@09518	Waah, dégueu !{attente}{page}{fin}
+@09519	J'ai bien failli me prendre|en pleine figure le lait|que {E08} a recraché !{attente}{page}{fin}
+@09520	C'est ta faute, tu|m'as fait peur !{attente}|Ma bouteille d'après les|bains est fichue~ !{attente}{page}{fin}
+@09521	Rooh~ ! Shinozawa doit|rentrer chez elle et|reprendre un bain~ !{attente}{page}{fin}
+@09522	Elle a un bain chez elle et|va aux bains publics ?{attente}|Une fan des bains ?{attente}|Elle est bizarre, {E08} !{attente}{page}{fin}
+@09523	Mais cette grimace... c'était|à cause du lait gâché, ou|parce qu'elle m'a vu ?|Ça me tracasse...{attente}{page}{fin}
+@09524	Ah, {F06}~|Après les bains, Shinozawa|boit toujours son lait ici~{attente}{page}{fin}
+@09525	Pour bien boire son lait~ :|pieds écartés !{attente} Mains aux|hanches, et le dos droit !{attente}{page}{fin}
+@09526	On porte la bouteille à|la bouche, on avale une|grosse gorgée, et on mâche|avant d'avaler~ !{attente}{page}{fin}
+@09527	Glou glou !{attente} Pwaaah~ !|Tu as compriiis~ ?{attente}|Bon, adieu~ !{attente}{page}{fin}
+@09528	{E08} m'a récité à toute|vitesse l'art de boire du|lait, me l'a démontré,{attente}{page}{fin}
+@09529	puis elle est partie sans|même se retourner sur moi,|qui restais bouche bée...{attente}{page}{fin}
+@09530	Et moi, je suis quoi, là... ?{attente}{page}{fin}
+@09532	Shinozawa a une baignoire|chez elle, mais bon~{attente}{page}{fin}
+@09533	on a toujours envie d'aller|dans les graaands bains|publics, non~ ?{attente}|Nyahahaha !{attente}{page}{fin}
+@09534	Hanya ?{attente} ...|Ah... ...ah...|ATCHOUUUM !!{attente}{page}{fin}
+@09535	Nyahaha ! Shinozawa va|prendre froid après le bain,|elle rentre~ ! À plus~{attente}{page}{fin}
+@09536	Elle a tellement parlé avec|moi qu'elle risque de|prendre froid... Ça me fait|plaisir, mais la pauvre !{attente}{page}{fin}
+@09537	Mais rire de son propre|éternuement, comme une|gamine... trop mignon !|Haha !{attente}{page}{fin}
+@09538	Le bain à la maison, c'est|bien, mais les graaandes|baignoires, c'est le top~|Nyahaha !{attente}{page}{fin}
+@09539	Et en plus~...|comme ça, on peut croiser|{F06}~♥{attente}{page}{fin}
+@09540	Alors Shinozawa ne peut|plus se passer des bains♥{attente}|Nyaha~♥{attente}{page}{fin}
+@09541	Hein, ça veut dire...|parce qu'elle peut me voir ?!{attente}{page}{fin}
+@09542	Si {E08} a les joues|rouges, c'est pas juste|à cause du bain... !{attente}{page}{fin}
+@09543	Ben, forcément, c'est|«Fonce vers le top !», non ?{attente}{page}{fin}
+@09544	Ouais, ouais !|Les deux derniers épisodes,|c'est trop émouvant !{attente}{page}{fin}
+@09545	Je peux les revoir cent fois,|je pleure à chaque fois !{attente}|Rhaaa !{attente}{page}{fin}
+@09546	(Devant le restaurant){n}{fin}
+@09547	Tiens ?{attente} Celle qui vient|de sortir du restaurant...{attente}|ce serait pas {E09} ?{attente}{page}{fin}
+@09548	Elle venait pas pour moi,|j'étais juste sur son|chemin...{attente}|Ça me rend un peu triste...{attente}{page}{fin}
+@09549	Ah, {F07} !{attente}|Le bœuf Stroganoff d'ici|est délicieux !{attente}{page}{fin}
+@09550	J'ai eu l'impression qu'elle|m'a parlé juste parce que|j'étais sur son chemin...{attente}{page}{fin}
+@09551	Mais rien que le fait qu'elle|m'ait parlé, ça me fait|plaisir !{attente}{page}{fin}
+@09552	Ah, {F07} !{attente}|Ce restaurant est vraiment|délicieux !{attente}{page}{fin}
+@09553	Tu as déjà goûté leur|bœuf Stroganoff ?{attente}|Sinon, je te le conseille !{attente}{page}{fin}
+@09554	Ah oui, c'est le plat|de saison !{attente}|En ce moment, ça doit|être le top !!{attente}{page}{fin}
+@09555	Ce plat de saison... c'est|pour les amoureux brûlants !{attente}|J'en fonds d'avance♥{attente}{page}{fin}
+@09556	Avec {F07}...{attente}|Non, rien du tout !{attente}|Allez, à bientôt♥{attente}{page}{fin}
+@09557	Hein ! Ce qu'elle allait|dire... c'était peut-être|qu'elle voulait le manger|avec moi ?!{attente}{page}{fin}
+@09558	Un plat pour les amoureux|brûlants...{attente}|Si je pouvais le manger|avec {E09}... le pied♥{attente}{page}{fin}
+@09559	Tiens ? Au rayon des|nouveautés...{attente}|oui, c'est bien {E09} !{attente}{page}{fin}
+@09560	Ah, {F07}.{attente}|Je suis venue acheter|un nouveau CD.{attente} Bon, salut !{attente}{page}{fin}
+@09561	Ah, {F07} !{attente}|Je suis venue acheter|un nouveau CD !{attente}{page}{fin}
+@09562	Contente de t'avoir vu !|Allez, à bientôt !{attente}{page}{fin}
+@09563	Dans sa main, c'était le|nouvel album de Mr. Kid,|on dirait...{attente}{page}{fin}
+@09564	Écouter ce CD à deux|avec {F07}... ce serait|merveilleux♥{attente}{page}{fin}
+@09565	Ah, j'aimerais vraiment|l'écouter à deux avec elle !!{attente}|Qu'elle me dise ça...|je suis aux anges !!{attente}{page}{fin}
+@09566	Waah ! Une montagne de|goodies d'anime qui se|déplace toute seule !!{attente}{page}{fin}
+@09567	...En fait, quelqu'un les|porte dans ses bras.{attente}|Oh, tout atterrit sur|la caisse.{attente}{page}{fin}
+@09568	Ah ! Mais c'est...|{E0A} !{attente}|Elle vient vers moi avec|tous ses achats !{attente}{page}{fin}
+@09569	Oh non, {F08} !|Mes sacs sont lourds,|je veux rentrer vite !{attente}{page}{fin}
+@09570	Allez, pousse-toi, allez !|Bon ben voilà, salut !{attente}{page}{fin}
+@09571	{E0A} est repartie|en titubant, avec son sac|bourré de goodies d'anime|...{attente}{page}{fin}
+@09572	Cette grimace... c'était à|cause de ses sacs lourds{attente}|ou parce qu'elle m'a vu ?{attente}|...Ça me tracasse...{attente}{page}{fin}
+@09573	Dis, {F05}...|ça, c'est pas du service|client, hein.{attente}{page}{fin}
+@09574	J'ai trop hâte de rentrer|m'enfouir sous tout ça !{attente}|Bon, je suis pressée !{attente}{page}{fin}
+@09575	Ce sourire, c'était pas pour|moi, mais parce qu'elle a|eu ses goodies d'anime...|Pff.{attente}{page}{fin}
+@09576	Regarde, y a ça !|Et puis ça, et...{attente}|et ensuite...{attente}{page}{fin}
+@09577	{E0A} a ouvert son sac|et s'est mise à tout me|présenter, un par un...|...Oh là là...{attente}{page}{fin}
+@09578	Mais elle a l'air tellement|heureuse que ça me rend|joyeux, moi aussi !{attente}{page}{fin}
+@09579	Ah, {F08} !|J'ai fait le plein de|nouveaux goodies d'anime !{attente}{page}{fin}
+@09580	Ce serait trop bien de les|regarder tranquilles avec|{F08}, chez moi♥{attente}{page}{fin}
+@09581	Tahah ! Mais qu'est-ce|que je raconte, moi !{attente}|Je rougiiis♥♥{attente}{page}{fin}
+@09582	J'ai trop honte, je rentre !|Allez, à plus♥{attente}{page}{fin}
+@09590	(Arrière-cour, après l'école){n}{fin}
+@09591	Tiens ?|J'entends une voix que|je connais...{attente}{page}{fin}
+@09592	...Ah ! Mais c'est... !!{attente}|...Maeno et...|{E04} !{attente}{page}{fin}
+@09593	...Hihi♥{attente}|Oh, Maeno-kun, arrête{attente}|t'es trop mé-chant♥{attente}{page}{fin}
+@09594	Ben quoi, c'est toi qui|l'as dit en premier, {E04} !|Ahahaha !{attente}{page}{fin}
+@09595	......|Ils ont l'air... super|proches, non ?!{attente}{page}{fin}
+@09596	{E04} qui se montre si|câline avec Maeno...{attente}|Je ne l'avais...{attente} jamais|vue comme ça...{attente}{page}{fin}
+@09597	Et Maeno n'a pas l'air|de détester ça...{attente}{page}{fin}
+@09598	De quoi ils peuvent bien|parler...{attente}|Entre eux deux...|non, quand même pas...{attente}{page}{fin}
+@09599	J'avais envie de savoir{attente},|et pourtant, sans savoir|pourquoi, je me suis|enfui de là...{attente}{page}{fin}
+@09600	{E04} et Maeno...{attente}|qu'est-ce qu'il y a entre|eux, au juste... ?{attente}{page}{fin}
+@09601	Tiens, {F03}, tu|es là, toi aussi !{attente}{page}{fin}
+@09602	Dis, {F03}, Maeno-kun,|celui de ta classe...{attente}|il est plutôt classe, non ?{attente}{page}{fin}
+@09603	Quoi ! Maeno ?{attente}{page}{fin}
+@09604	Oui ! Il a du goût, et|il est plutôt mignon...|...hihi♥{attente}{page}{fin}
+@09605	...N-ne me dis pas que...|ton genre, {E04},|c'est un type comme lui ?{attente}{page}{fin}
+@09606	Hein... ?|Euh, qui sait !|...Hihi !{attente}{page}{fin}
+@09607	Oh, il faut que je retourne|en classe ! Salut, {F03} !{attente}{page}{fin}
+@09608	C'était quoi, ce petit rire|plein de sous-entendus ?!{attente}|Ne me dis pas que {E04}...{attente}|a un faible pour Maeno...{attente}{page}{fin}
+@09609	Ça, ça sent pas bon|du tout !{attente}{page}{fin}
+@09610	Ah ! Pourquoi {E04}|est venue me dire|un truc pareil...{attente}|Ça me travaille trop...{attente}{page}{fin}
+@09611	Salut, {F00} !{attente}|...Héhé...|Muhuhuhu...{attente}{page}{fin}
+@09612	Qu'est-ce que t'as, Maeno ?|Tu me fais flipper...{attente}|Il s'est passé un truc ?{attente}{page}{fin}
+@09613	Non, rien...{attente}|Héhéhé...{attente}{page}{fin}
+@09614	Tu sais, je crois que moi|et {E04}, on est peut-être|faits l'un pour l'autre !{attente}{page}{fin}
+@09615	Quoi ?!{attente}|Toi et {E04} ?{attente}|Pourquoi tu dis ça...{attente}{page}{fin}
+@09616	Bah, comme ça...{attente}|juste comme ça... héhéhé{attente}{page}{fin}
+@09617	Hé, Maeno !{attente}|Ça veut dire quoi ?!{attente}{page}{fin}
+@09618	Avec un sourire en coin|plutôt vicieux, Maeno est|retourné s'asseoir|...{attente}{page}{fin}
+@09619	Mais c'est quoi, ce délire !!{attente}|Pourquoi Maeno m'a|sorti ça ?!{attente}{page}{fin}
+@09620	Non...{attente} quand même pas...{attente}|Il se serait passé un truc|entre {E04} et Maeno ?!{attente}{page}{fin}
+@09621	Aaah...|Et si c'était vrai,|je fais quoi, moi ?!!{attente}{page}{fin}
+@09622	Tiens ? Celle qui est là-bas,|ce serait pas {E04}... ?{attente}{page}{fin}
+@09623	Hm ? Elle marche en|discutant joyeusement|avec quelqu'un...{attente}{page}{fin}
+@09624	Hein ! M-mais c'est... !!{attente}|Celui qui est avec {E04},|c'est... Maeno !{attente}{page}{fin}
+@09625	...Pourquoi ils rentrent|ensemble, ces deux-là ?!{attente}{page}{fin}
+@09626	...Ah ! Hé, Maeno !{attente}|Touche pas à ses cheveux !!{attente}|Et {E04}, arrête de|prendre cet air ravi !!{attente}{page}{fin}
+@09627	Pourquoi...{attente} mais pourquoi ?{attente}|Depuis quand ils sont...{attente}|devenus si proches|... ?{attente}{page}{fin}
+@09628	Je suis resté planté là,|abasourdi...{attente}|En reprenant mes esprits,|ils avaient disparu...{attente}{page}{fin}
+@09629	Si ça continue comme ça...|...ça va mal finir...{attente}|Mais qu'est-ce que je fais ?|...Aaargh !!{attente}{page}{fin}
+@09630	Tiens ?|Il y a un drôle|d'attroupement...{attente}{page}{fin}
+@09631	Et que des filles...{attente}|Non, y a un mec au milieu !{attente}|Waouh ! Même pour un mec,|il est super beau gosse !{attente}{page}{fin}
+@09632	Pas étonnant qu'il soit|entouré de filles...{attente}|Mais c'est qui, au juste ?{attente}{page}{fin}
+@09633	Dis, Hara-kuuun !{attente}|Maintenant, ces cookies-là :|goû-te-les♥♥{attente}{page}{fin}
+@09634	Hara... ?{attente} Ah, je vois !|C'est lui, Takuya Hara !{attente}|Je le vois pour la 1re fois...|il mérite sa réputation !{attente}{page}{fin}
+@09635	Tentant d'étouffer l'envie|qui montait en moi,|je me suis éloigné...{attente}{page}{fin}
+@09636	Tiens ? Celle qui est là-bas,|ce serait pas Mizuki... ?{attente}{page}{fin}
+@09637	On dirait qu'elle fixe|quelque chose...{attente}|Qu'est-ce qu'elle regarde ?{attente}{page}{fin}
+@09638	Ah ! Mais c'est...|Takuya Hara !{attente}{page}{fin}
+@09639	...C'est vrai que même pour|un mec, je reconnais qu'il|est beau gosse... mais...{attente}{page}{fin}
+@09640	Que Mizuki regarde Hara|avec autant d'intensité...{attente}|franchement...|ça me fait un choc...{attente}{page}{fin}
+@09641	Elle parle avec quelqu'un...{attente}|Elle a l'air de bien rigoler|...{attente}Ah ! Mais c'est... !!{attente}|Takuya Hara !!{attente}{page}{fin}
+@09642	En regardant bien...{attente}|j'ai l'impression que Mizuki|a les joues un peu rouges...{attente}{page}{fin}
+@09645	De quoi est-ce qu'ils|peuvent bien parler...{attente}|Ça me travaille...{attente}{page}{fin}
+@09646	Ah, Mizuki est là !{attente}|Et... elle discute à fond|avec Takuya Hara !{attente}{page}{fin}
+@09647	Mizuki, l'air ravie, les|joues roses, contemple le|visage de Hara, rêveuse|...{attente}{page}{fin}
+@09648	Ah ! Ce sale Hara !|Il lui a tapoté le front|du bout du doigt !!{attente}|Et Mizuki rigole !{attente}{page}{fin}
+@09649	Mais de quoi ils parlent,|tous les deux ?!{attente}|Pourquoi ils rient ensemble|comme ça, si complices ?!{attente}{page}{fin}
+@09650	J'aimerais savoir de quoi ils|parlent, mais voir Mizuki|faire cette tête-là à un|autre... je supporte pas...{attente}{page}{fin}
+@09651	Maeno est venu me voir,|avec une mine sombre...{attente}{page}{fin}
+@09652	Salut, {F00}...|J'ai appris un truc bizarre,|j'en ai le moral à zéro.{attente}{page}{fin}
+@09653	Mon grand frère m'a sorti|qu'il sortait avec une fille|du lycée Koigahara...{attente}{page}{fin}
+@09654	Et devine qui c'est ?{attente}|...Une 2e année...|une certaine Yumi Matsuda !{attente}{page}{fin}
+@09655	Hé !|C'est vrai, ce que tu dis ?!{attente}{page}{fin}
+@09656	Ben...{attente}|...j'en sais rien.{attente}{page}{fin}
+@09657	Comment ça, t'en sais rien ?!{attente}{page}{fin}
+@09658	Mon frère, il aime bien|se la raconter, tu vois.{attente}{page}{fin}
+@09659	Mais hier, il avait l'air|assez sérieux, j'ai|l'impression...{attente}{page}{fin}
+@09660	«T'as l'impression»...|C'est pas très fiable !{attente}{page}{fin}
+@09661	Ouais, t'as raison...|Ha, haha...{attente}{page}{fin}
+@09662	Sur ces mots, Maeno|est retourné à sa place,|la queue entre les jambes.{attente}{page}{fin}
+@09663	Le frère de Maeno et Yumi ?{attente}|Impossible...{attente}|Ça doit être une erreur...|...sûrement...{attente}{page}{fin}
+@09664	Tiens ? Celle qui est là-bas,|ce serait pas Yumi... ?{attente}{page}{fin}
+@09665	Hm ! Elle marche avec|quelqu'un...{attente}|Un type que je connais pas{attente}|On dirait un étudiant...{attente}{page}{fin}
+@09666	Ils se collent drôlement...{attente}|On dirait carrément un|couple, non ?!{attente}{page}{fin}
+@09667	C'est qui, ce type avec|Yumi, au juste ?!{attente}|Il est quoi, pour elle ?|...Non, quand même pas...{attente}{page}{fin}
+@09668	Ah, ils ont disparu !{attente}|Zut ! Je les ai perdus !{attente}|En tout cas...{attente}|ça me travaille...{attente}{page}{fin}
+@09669	Il fait déjà tout noir !|Faut que je rentre vite...{attente}{page}{fin}
+@09670	Hm ? Il y a un couple|là-bas...{attente}|Pff, épaule contre épaule...|les veinards...{attente}{page}{fin}
+@09671	Hein... ?{attente}|Cette fille...{attente}|c'est pas Yumi ?!{attente}{page}{fin}
+@09672	Avec un type qui a l'air|d'un étudiant, ici...|qu'est-ce qu'elle fabrique ?!{attente}{page}{fin}
+@09673	.|.|.|Ils ne font que discuter.{attente}{page}{fin}
+@09674	...N'empêche, ils sont|bien trop près.{attente}|On dirait carrément|des amoureux.{attente}{page}{fin}
+@09675	Ah...|Je les ai perdus de vue...{attente}{page}{fin}
+@09676	C'est qui, ce type ? Il est|quoi, pour Yumi ?{attente}|Ça me travaille...{attente}|Ça me travaille vraiment...{attente}{page}{fin}
+@09677	En passant devant la boîte|de nuit, j'ai entendu des|gens se disputer...{attente}{page}{fin}
+@09678	Ah ! C'est Yumi, avec le type|qui a l'air d'un étudiant !{attente}{page}{fin}
+@09679	On dirait que Yumi|l'engueule, et que lui|est tout embarrassé...{attente}{page}{fin}
+@09680	Dans un endroit pareil,|en uniforme...|Mais qu'est-ce qui lui|arrive, à Yumi ?{attente}{page}{fin}
+@09681	J'entends vaguement leurs|voix, mais impossible de|comprendre ce qu'ils disent.{attente}{page}{fin}
+@09682	Ah !!{attente} Yumi a giflé le|type et elle est partie|en courant !{attente}{page}{fin}
+@09683	Qu'est-ce qui a bien pu se|passer entre eux ?{attente}|Aah... ça me travaille|vraiment...{attente}{page}{fin}
+@09700	Hein ? Celle qui arrive en|titubant, là-bas...{attente}|c'est {E08} !{attente}{page}{fin}
+@09701	Elle a vacillé, et {E08}|a failli s'effondrer|sur les genoux !{attente}{page}{fin}
+@09702	Waah ! Ça va ?!|Vite, à l'infirmerie !{attente}|Accroche-toi à moi !{attente}{page}{fin}
+@09703	{E08}, appuyée sur moi,|avance à grand-peine.{attente}|Je l'ai jamais vue aussi|mal en point...{attente}{page}{fin}
+@09704	Mais qu'est-ce qu'elle a ?{attente}|Ce serait pas...|une maladie... ?{attente}{page}{fin}
+@09705	Mort d'inquiétude,|j'ai emmené {E08}|en vitesse à l'infirmerie !{attente}{page}{fin}
+@09706	(L'infirmière){n}{fin}
+@09707	On a allongé {E08} sur|le lit, et l'infirmière|l'examine...{attente}|...Ah, la voilà !{attente}{page}{fin}
+@09708	Madame !{attente}|Comment va|Shinozawa-san ?{attente}{page}{fin}
+@09709	Pfiou...{attente} Elle dort.{attente}|Elle a joué aux jeux vidéo|3 jours et 3 nuits sans|dormir, à ce qu'il paraît !{attente}{page}{fin}
+@09710	Hein ! Alors... ce n'est|pas une maladie grave,|ni rien de ce genre... ?{attente}{page}{fin}
+@09711	Pas du tout !!{attente}|Franchement, quelle|demoiselle ! Nous faire|une peur pareille !{attente}{page}{fin}
+@09712	Elle dort bien, tu peux|jeter un œil, si tu veux.{attente} Ça|te rassurera, non ?{attente}{page}{fin}
+@09713	Ah, euh...{attente}|Je peux ?{attente}|Bon, juste un peu...{attente}{page}{fin}
+@09714	Par l'interstice du rideau,|j'ai doucement jeté un œil|sur {E08}...{attente}{page}{fin}
+@09715	Elle dort vraiment comme|un bébé, l'air si bien...{attente}|Pff, j'ai eu peur pour rien{attente}{page}{fin}
+@09716	Mais quel visage endormi|innocent et sans défense...{attente}{page}{fin}
+@09717	Ses lèvres, si pâles avant,|ont un rose humide...{attente}|et sa bouche entrouverte|...est bizarrement sexy.{attente}{page}{fin}
+@09718	Les lèvres de {E08}...{attente}|...J'aimerais effleurer|ces lèvres-là...{attente}{page}{fin}
+@09719	Badoum !!{attente}|Mince, l'infirmière est là !{attente}|À cause de {E08}, j'ai|failli l'oublier !{attente}{page}{fin}
+@09720	Bon, madame !{attente}|Je vous confie|Shinozawa-san !{attente}{page}{fin}
+@09721	J'ai filé de l'infirmerie en|vitesse et je suis revenu|en courant en classe...{attente}{page}{fin}
+@09722	Maeno est venu me voir,|l'air sérieux comme|jamais.{attente}{page}{fin}
+@09723	Hé, {F00} !|C'est vrai, cette rumeur ?|Tu sors avec {E08}|Shinozawa ?!{attente}{page}{fin}
+@09724	Gloups !!{attente}|Moi et {E08}, on fait|l'objet de rumeurs ?!{attente}{page}{fin}
+@09725	N-non...|on sort pas vraiment|ensemble, mais...{attente}{page}{fin}
+@09726	je la vois comme une bonne|copine pour s'amuser.{attente}{page}{fin}
+@09727	Une copine pour s'amuser ?{attente}|Hmm... je vois.{attente}{page}{fin}
+@09728	Bon, de toute façon, je me|doutais bien que t'aurais|pas de copine avant moi !{attente}{page}{fin}
+@09729	Prends ton temps pour|chercher une copine,|pas de panique ! Hahaha !{attente}{page}{fin}
+@09730	Maeno, qui m'a cru sur|parole, est retourné à sa|place en riant aux éclats|...{attente}{page}{fin}
+@09731	{E08} et moi...|Les gens ont l'impression|qu'on sort ensemble... ?{attente}{page}{fin}
+@09732	Kyaa~ ! {F06}~|Tu étais là~{attente}|Nyahahaha~{attente}{page}{fin}
+@09733	Mmh~... muhuhu~{attente}{page}{fin}
+@09734	{E08} me fixe des yeux,|avec un petit rire|en coin...{attente}{page}{fin}
+@09735	Quoi, qu'est-ce qu'il y a ?|J'ai un truc sur la figure ?{attente}{page}{fin}
+@09736	Non, non~ !{attente}|Le visage de {F06},|ça calme Shinozawa~{attente}{page}{fin}
+@09737	Hein, mon visage... ?{attente}{page}{fin}
+@09738	Ah ! Oups~|Shinozawa a laissé|échapper ça~{attente}{page}{fin}
+@09739	Enfin, non, je veux dire...|euh~, c'est que~...{attente}{page}{fin}
+@09740	C'est parce que le visage|de {F06} est rigolo~ !{attente}{page}{fin}
+@09741	{E08} est toute rouge !{attente}|Elle est gênée, trop mignon !|Haha !{attente}{page}{fin}
+@09742	Mon visage la calme...|Elle sait dire des choses|qui font plaisir !!{attente}{page}{fin}
+@09743	Toute gênée, {E08}|continuait de me fixer,|et moi, ça me|chatouillait le cœur !{attente}{page}{fin}
+@09744	En montant sur le toit pour|me détendre un peu...{attente}|je suis tombé sur {E08} !{attente}{page}{fin}
+@09745	Ah, {F06}~|Tu tombes bien~ !!{attente}{page}{fin}
+@09746	Tu sais~...|Shinozawa se tracassait~{attente}{page}{fin}
+@09747	Ah bon, il s'est passé|un truc ?{attente}{page}{fin}
+@09748	Dites~, {F06},|Shinozawa est une fille|si bizarre que ça~ ?{attente}{page}{fin}
+@09749	{FFB}Oui, tu es bizarre{n}　Non, pas du tout{n}　Ne t'en fais pas{fin}
+@09750	C'est vrai, t'es bizarre !{attente}|Même pour être gentil, on|peut pas dire que tu|sois normale...{attente}{page}{fin}
+@09751	A-ah bon~...{attente}|Alors elle est vraiment|bizarre~... Funi funi~...{attente}{page}{fin}
+@09752	Non, je trouve pas que|tu sois si bizarre...{attente}{page}{fin}
+@09753	Vraiment~ ?{attente}|Tu te forces pas~ ?{attente}|Ton visage est crispé~{attente}{page}{fin}
+@09754	Bizarre ou pas bizarre,|faut pas te soucier|de ce genre de trucs !{attente}{page}{fin}
+@09755	Hein~, pourquoi ça~ ?{attente}|Shinozawa, ça la tracasse~{attente}{page}{fin}
+@09756	Cent personnes, ça fait|cent façons de penser.{attente}{page}{fin}
+@09757	Si toi, {E08}, tu pensais|tout pareil que les autres,|et que tu faisais tout|pareil...{attente}{page}{fin}
+@09758	ce serait comme si|{E08} Shinozawa|n'existait pas, non ?{attente}{page}{fin}
+@09759	C'est en restant comme|on est qu'on est soi-même,|non ?{attente}{page}{fin}
+@09760	Je sais pas trop le dire...|mais toi, {E08}, je crois|que t'es bien comme ça !{attente}{page}{fin}
+@09761	Ah, je vois~ !{attente}|C'est vrai~ !{attente}|Il faut être soi-même~ !{attente}{page}{fin}
+@09762	Shinozawa se sent|toute légère et|rafraîchie~ !{attente}{page}{fin}
+@09763	{F06}~|Merci beaucoup~ !{attente}|Nyahahaha~ !{attente}{page}{fin}
+@09764	{E08}, le cœur plus léger|peut-être... est rentrée|dans le bâtiment en faisant|une drôle de danse.{attente}{page}{fin}
+@09765	Voilà ! Sinon, ce serait|pas {E08} !{attente}|Content d'avoir pu aider !{attente}{page}{fin}
+@09766	Je regardais le ciel sur|le toit, quand j'ai senti|une présence...{attente}{page}{fin}
+@09767	Près de la rambarde,|il y a {E09}...{attente}{page}{fin}
+@09768	Hm ?{attente} Mais elle a l'air|toute tourmentée...{attente}|Elle a un souci ?{attente}{page}{fin}
+@09769	Ça m'intrigue... mais c'est|pas le genre d'ambiance|où on peut l'aborder...{attente}{page}{fin}
+@09770	Pour l'instant... je vais|la surveiller en silence.{attente}|...Mais...|ça m'intrigue quand même...{attente}{page}{fin}
+@09771	Tiens ? Je sens comme un|regard dans mon dos...{attente}{page}{fin}
+@09772	Qu'est-ce que c'est... ?{attente}|...Ah, c'est {E09} !{attente}{page}{fin}
+@09773	{E09} me fixe, comme|si elle voulait me|dire quelque chose...{attente}{page}{fin}
+@09774	Qu'est-ce qu'il y a... ?{attente}|J'ai quelque chose de sale|sur la figure ?{attente}{page}{fin}
+@09775	Je me suis vite frotté le|visage, mais apparemment,|il n'y avait rien...{attente}{page}{fin}
+@09776	Je me prélassais dans la|cour derrière le lycée,|quand {E08} est arrivée !{attente}{page}{fin}
+@09777	Ah, {F06}~|Shinozawa t'a trouvé~ !|Nyahahaha~ !{attente}{page}{fin}
+@09778	Shinozawa se dit que~...{attente}|vraiment, le visage|de {F06}...{attente}{page}{fin}
+@09779	c'est un visage qui apaise,|rien qu'à le regarder~♥{attente}{page}{fin}
+@09780	Shinozawa voudrait juste le|regarder, sans rien dire~ !{attente}|Tu veux bien~ ?{attente}{page}{fin}
+@09781	O-oui...|si cette tête te suffit,|autant que tu veux...{attente}{page}{fin}
+@09782	......|...Mmh~...|...Nyaha...{attente}{page}{fin}
+@09783	Ah, non, c'est trop dur~ !{attente}|Shinozawa n'arrive pas|à se taire~{attente}{page}{fin}
+@09784	Mais, mais~ !{attente}|Shinozawa est rassurée,|mais vraiment~ !{attente}|Thank youuu~ !{attente}{page}{fin}
+@09785	{E08} me regarde|fixement...|.|.{attente}{page}{fin}
+@09786	Satisfaite, {E08} est|rentrée dans le bâtiment|d'un pas léger...{attente}{page}{fin}
+@09787	Quand elle me fixait, j'avais|le cœur qui battait...{attente}|mais ça m'a fait plaisir !{attente}{page}{fin}
+@09788	{E09} et moi, on comparait|nos réponses aux devoirs|du prochain cours...{attente}{page}{fin}
+@09789	...Ah...{attente}|...Aïe...{attente}{page}{fin}
+@09790	Hein ?!|Qu'est-ce qui t'arrive ?{attente}{page}{fin}
+@09791	Mon ventre...|d'un coup...{attente}{page}{fin}
+@09792	Elle a même du mal à|tenir debout !{attente}|Je l'emmène à l'infirmerie !{attente}{page}{fin}
+@09793	Vite, à l'infirmerie !{attente}|Tu peux marcher ?{attente} Tiens-toi|à moi !{attente}{page}{fin}
+@09794	Elle doit avoir très mal :|{E09} n'arrive même|pas à répondre !{attente}|Il faut se dépêcher !{attente}{page}{fin}
+@09795	{E09} s'est presque|agrippée à mon bras,|comme pour l'enlacer.{attente}{page}{fin}
+@09796	Et au même moment,|j'ai senti quelque chose de|tout doux contre mon bras|...{attente}Serait-ce... !{attente}{page}{fin}
+@09797	La poitrine de {E09} ?!{attente}|...C'est tellement doux|et chaud...{attente}{page}{fin}
+@09798	...Hein !!{attente}|Non, non, non !{attente}|Pendant que {E09} souffre,|c'est vraiment déplacé !!{attente}{page}{fin}
+@09799	Reprenant mes esprits,|j'ai soutenu {E09} et|filé à l'infirmerie !{attente}{page}{fin}
+@09800	J'ai expliqué ses symptômes|à l'infirmière, et {E09},|avec un antidouleur, s'est|allongée sur le lit...{attente}{page}{fin}
+@09801	{E09}, inquiète, m'a|demandé de rester, alors|je me suis assis sur la|chaise près du lit...{attente}{page}{fin}
+@09802	Un moment, elle a froncé|les sourcils de douleur, mais|le médicament a vite agi et|{E09} s'est endormie...{attente}{page}{fin}
+@09803	Elle dort paisiblement...{attente}|Bon, je peux être rassuré,|je crois !{attente}|Ouf...{attente}{page}{fin}
+@09804	Ah, {E09} vient vers moi !|On dirait qu'elle va|mieux !{attente}{page}{fin}
+@09805	{F07} !{attente}|Merci beaucoup de m'avoir|emmenée à l'infirmerie !{attente}{page}{fin}
+@09806	Désolée de t'avoir fait|sécher les cours...{attente}{page}{fin}
+@09807	Tout à l'heure, {F07},|tu étais près de moi, et|ça m'a tellement rassurée♥{attente}{page}{fin}
+@09808	Merci, vraiment♥{attente}|Je vais bien, maintenant,|ne t'inquiète pas !{attente}{page}{fin}
+@09809	Sur ces mots, {E09} m'a|regardé bien en face !{attente}|Oui ! Elle a bonne mine,|tout va bien !{attente}{page}{fin}
+@09810	...Maintenant que je suis|rassuré... le contact de la|poitrine de {E09} me|revient en mémoire !{attente}{page}{fin}
+@09811	Aah... je fais quoi, moi !|Mon cœur s'emballe !!{attente}{page}{fin}
+@09812	Je préparais mes affaires|dans la classe vide,|quand...{attente}{page}{fin}
+@09813	En fait, j'ai besoin de|conseils...{attente} Tu veux bien|venir avec moi ?{attente}{page}{fin}
+@09814	Des conseils, de moi ?{attente}|Oui, d'accord !{attente}{page}{fin}
+@09815	{E09} m'a emmené|sur le toit...{attente}{page}{fin}
+@09816	Sur le toit désert,|{E09} a pris la parole,|comme résolue...{attente}{page}{fin}
+@09817	En fait... moi...|j'aime quelqu'un, et...|......{attente}{page}{fin}
+@09818	J'ai beau lui faire des|avances de toutes sortes...{attente}{page}{fin}
+@09819	il ne fait pas du tout|attention à moi...|...{attente}{page}{fin}
+@09820	Je... je...|ne sais plus quoi faire...|...je n'en peux plus...{attente}{page}{fin}
+@09821	{E09} s'est tue... sans|doute qu'elle allait|fondre en larmes si elle|continuait...{attente}{page}{fin}
+@09822	Ses yeux limpides...|brillent et tremblent,|voilés de larmes...{attente}{page}{fin}
+@09823	Je le déteste, celui à qui|{E09} pense autant...{attente}|Qui ça peut bien être...{attente}{page}{fin}
+@09824	Mais peu importe...|{E09} attend que|je lui remonte le moral...{attente}{page}{fin}
+@09825	Si {E09} a besoin de moi...{attente}|je vais endurer ce|malaise qui me monte|à la gorge...{attente}{page}{fin}
+@09826	Et si tu voyais les choses|de façon plus positive... ?{attente}{page}{fin}
+@09827	Si ça se trouve, tu t'y|prends de façon trop|discrète, tu vois...{attente}{page}{fin}
+@09828	et il ne s'en rend juste|pas compte, peut-être...|...{attente}{page}{fin}
+@09829	Tu crois...|que c'est possible... ?{attente}{page}{fin}
+@09830	Bien sûr ! S'il est du|genre pas très dégourdi,|il voit peut-être rien !{attente}{page}{fin}
+@09831	Ah oui ? Il y a des gens|comme ça ?{attente}{page}{fin}
+@09832	Plein !{attente}|Moi, par exemple...|Je rigole ! Haha !{attente}{page}{fin}
+@09833	Tiens, vraiment ?{attente}|Je ne savais pas...|...hihi !{attente}{page}{fin}
+@09834	J'ai bien fait de t'en|parler, {F07}...{attente}|Je suis vraiment rassurée♥{attente}{page}{fin}
+@09835	Il faut que je reste|positive, sans me presser !{attente}{page}{fin}
+@09836	C'est ça !{attente}|Avec le temps, il finira|sûrement par comprendre.{attente}{page}{fin}
+@09837	Oui... merci !{attente}|Ça m'a redonné le moral !{attente}|Allez, à bientôt !{attente}{page}{fin}
+@09838	{E09}, de nouveau pleine|d'entrain, est rentrée|chez elle.{attente}{page}{fin}
+@09839	J'envie le garçon que {E09}|aime, et en même temps,|je lui en veux, mais...{attente}{page}{fin}
+@09840	je suis vraiment content|d'avoir pu aider {E09} !{attente}{page}{fin}
+@09841	Hm ?{attente} Au loin, il y a|un chien qui promène|son maître ! Enfin, c'est|ce que je croyais...{attente}{page}{fin}
+@09842	C'était {E0A}, tirée|par son chien,|qui arrivait en courant !{attente}{page}{fin}
+@09843	{F08} !|Tu rentres chez toi ?!{attente}{page}{fin}
+@09844	Hah, hah !{attente}|Hif... pfiou~ !{attente}{page}{fin}
+@09845	Franchement, Cape|n'obéit jamais à sa|maîtresse, c'est l'enfer !{attente}{page}{fin}
+@09846	Cape ?|C'est le nom du chien ?{attente}{page}{fin}
+@09847	Ouaip, ouaip !{attente}|Lui, c'est Cape !{attente}|Un shiba pure race !{attente}{page}{fin}
+@09848	Des fois, je l'emmène se|promener ici, au bord de|la rivière !{attente}{page}{fin}
+@09849	Ah ! Cape !{attente}|Arrête de tirer, je te dis !{attente}{page}{fin}
+@09850	Ah, {F08} !{attente}|À plus !{attente}{page}{fin}
+@09851	{E0A} est repartie en|courant, tirée par son|chien...{attente}{page}{fin}
+@09852	Ah, je savais pas que|{E0A} avait un chien...{attente}{page}{fin}
+@09853	N'empêche, on aurait dit|une gamine que son chien|emmène en promenade !{attente}|Pfff ! Trop mignon !{attente}{page}{fin}
+@09854	Pfiou... il fait chaud !{attente}|Je vais aller me rafraîchir|un peu dans le parc...{attente}{page}{fin}
+@09855	Tiens ? Des gamins qui se|battent... mais l'une d'eux,|c'est {E0A} !{attente}{page}{fin}
+@09856	Ça suffit maintenant !{attente}|S'y mettre à plusieurs pour|martyriser un plus faible !{attente}{page}{fin}
+@09857	Vous devriez avoir honte !|HONTE !!!{attente}{page}{fin}
+@09858	Elle passe un sacré savon|à des gamins de fin de|primaire, furieuse !{attente}{page}{fin}
+@09859	Même en primaire, les|garçons sont grands !{attente}|Il y en a même un plus|grand que {E0A} !{attente}{page}{fin}
+@09860	Et s'ils se retournaient|contre elle... ça pourrait|mal tourner, non ?!{attente}|Faudrait peut-être aider...{attente}{page}{fin}
+@09861	Vous, là ! Y en a un qui|serait capable de faire ça|à ce petit tout seul ?!{attente}{page}{fin}
+@09862	Si vous en êtes capables,|allez-y ! Allez, essayez !{attente}{page}{fin}
+@09863	(Écolier){n}{fin}
+@09864	...Ou...|Ouinnn !{attente}|Pardon~ !{attente}{page}{fin}
+@09865	Les gamins se sont|enfuis en pleurant !{attente}{page}{fin}
+@09866	Hé, attendez un peu !{attente}|Vous lui avez même pas|demandé pardon !{attente}{page}{fin}
+@09867	{E0A} s'est lancée|à leur poursuite !{attente}{page}{fin}
+@09868	Eh ben, {E0A}, elle est|petite, mais elle est|courageuse et solide...|une chouette fille !!{attente}{page}{fin}
+@09869	Tiens ? Celle qui marche|là-bas...|ce serait pas {E0A} !{attente}{page}{fin}
+@09870	Elle est avec quelqu'un...{attente}|Un garçon, genre écolier ?{attente}|Qui ça peut être... ?{attente}{page}{fin}
+@09871	Ah !!|Ils se tiennent la main !{attente}|Ils ont l'air proches...{attente}|C'est quoi, leur relation ?!{attente}{page}{fin}
+@09872	Un enfant caché ?!{attente}|...Mais non, n'importe quoi !|Elle l'aurait eu à quel âge ?!{attente}{page}{fin}
+@09873	On dirait carrément|un rencard d'écoliers,|en fait...{attente}{page}{fin}
+@09874	Mais même si elle est|petite, elle sortirait avec|un écolier... ?{attente}{page}{fin}
+@09875	Ah, je les ai perdus !{attente}|Mais c'est qui, ce garçon... ?{attente}|Ça me travaille...{attente}{page}{fin}
+@09876	Je vais m'asseoir un peu|sur un banc pour souffler !{attente}{page}{fin}
+@09877	Tiens ? Un rencard|d'écoliers ! Trop chou !{attente}|...Hé, mais c'est|{E0A} !{attente}{page}{fin}
+@09878	Celui qui est avec elle,|c'est le garçon du centre|commercial !{attente}|C'est bien un rencard ?!{attente}{page}{fin}
+@09879	Aïe ! {E0A} m'a vu !{attente}|Elle dit un truc au garçon|et elle vient vers moi !{attente}{page}{fin}
+@09880	{F08} !{attente}|Quel hasard !{attente}{page}{fin}
+@09881	Ah, euh, je voulais pas du|tout gâcher ce rencard...{attente}{page}{fin}
+@09882	Zut ! J'ai paniqué,|et ça m'a échappé !{attente}{page}{fin}
+@09883	Hein, un rencard ?!{attente}|Qu'est-ce que tu racontes !{attente}{page}{fin}
+@09884	Bon, c'est vrai que mon|frère, contrairement à sa|sœur, il est baraqué !{attente}|Tu t'es trompé, quoi !{attente}{page}{fin}
+@09885	Ah, euh, d'accord~|C'était ton petit frère !{attente}|Ça me paraissait bizarre !{attente}{page}{fin}

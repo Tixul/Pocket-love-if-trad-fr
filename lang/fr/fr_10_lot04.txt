@@ -1,0 +1,361 @@
+; Lot 04 : rumeurs des camarades, Yumi au fast-food, victoires de club, lettres, coups de fil, mails, bipeur.
+@01092	Ah, mais... des fois,|elle dévore Takuya Hara|des yeux, t'as remarqué ?!{attente}{page}{fin}
+@01093	Quoi, c'est vrai ?!|Mizuki aussi a le cœur|qui s'emballe ?!{attente}|Hara-kun est canon~{attente}{page}{fin}
+@01094	Dis, Yumi Matsuda, la 2e|année... elle est pas super|proche de {F01} {F00},|ces temps-ci ?{attente}{page}{fin}
+@01095	Ah si, carrément !{attente}|Y a forcément un truc|entre eux, c'est louche !{attente}{page}{fin}
+@01096	C'est juste mon intuition...{attente}|mais ces deux-là, je suis|sûre qu'ils sont très,|très intimes...{attente}{page}{fin}
+@01097	Quoi ?! Intimes ?|Genre... tu veux dire...{attente}|Kyaaa♥ Hihihi !{attente}{page}{fin}
+@01098	Proches, d'accord, mais...{attente}|c'est juste une aînée qui|s'occupe d'un petit nouveau|pas très dégourdi, non ?{attente}{page}{fin}
+@01099	Ah, ça, c'est bien vu !{attente}|Mais alors, c'est qui,|le vrai chéri de|Yumi Matsuda ?{attente}{page}{fin}
+@01100	Il paraît qu'on l'a vue se|balader avec un mec genre|étudiant à la fac, comme|si c'était son copain...{attente}{page}{fin}
+@01101	Quoi ?! Genre, une|histoire d'amour d'adultes ?{attente}|Kyaaa ! Hahaha !{attente}{page}{fin}
+@01102	Hé, attends, attends !{attente}|{E08} Shinozawa, elle est|pas super proche de ce|garçon, en ce moment ?{attente}{page}{fin}
+@01103	Ouais, ouais ! Voir|Shinozawa gaga à ce point,|ça m'a trop surprise !{attente}{page}{fin}
+@01104	Shinozawa fait l'innocente,|mais...{attente}|si ça se trouve, entre eux,|c'est déjà très intime...{attente}{page}{fin}
+@01105	Quoi, Shinozawa ?|Impossible !{attente}|Mais vu comme ils sont|gagas, c'est louche !{attente}{page}{fin}
+@01106	Ils ont l'air proches, mais|c'est juste un pote, non ?{attente}|Shinozawa ne vit que pour|les jeux vidéo !{attente}{page}{fin}
+@01107	Bref... en gros, c'est :|« L'amour, c'est pas encore|de l'âge de Shinozawaaa~ »{attente}|C'est ça ?{attente}{page}{fin}
+@01108	Kyaaa, trop ressemblant !|Hahaha !{attente}{page}{fin}
+@01109	Dis, y a un garçon proche|de la fille de la 1-B qui|a vécu à l'étranger, non ?{attente}|C'était qui, déjà ?{attente}{page}{fin}
+@01110	Euh, {E09} Okada, c'est ça ?{attente}|Et le garçon proche d'elle,|c'est {F01} {F00} ?{attente}{page}{fin}
+@01111	Ah, voilà !{attente}|Ces deux-là, tu trouves pas|qu'ils sont louuuches ?{attente}{page}{fin}
+@01112	Trop louches, trop louches !{attente}|On sent qu'il vaut mieux|pas les déranger, hein~{attente}{page}{fin}
+@01113	Ils ont l'air proches, oui,|mais...{attente}|{E09} Okada, elle en a vu,|des garçons à l'étranger...{attente}{page}{fin}
+@01114	Ah, je vois~{attente}|Les Japonais, ils font|trop gamins pour elle ?{attente}{page}{fin}
+@01115	Trop exigeante avec les|garçons, et la vie devient|compliquée !{attente}|Je rigole ! Hahaha !{attente}{page}{fin}
+@01116	Dis, {E0A} Kobayashi, elle|est pas un peu trop collée|à {F01} {F00} ?{attente}{page}{fin}
+@01117	Bah non, c'est pas ça~{attente}|{E0A} est toute petite|et elle gigote partout,|c'est tout.{attente}{page}{fin}
+@01118	Ah, c'est vrai !|Elle a juste l'air de lui|tourner autour, en fait~{attente}{page}{fin}
+@01119	Voilà ! {E0A}, elle ne|vit que pour ses jeux de|cartes et ses mangas~{attente}{page}{fin}
+@01120	Hé, cette voix...{attente}|C'est Yumi Matsuda !{attente}{page}{fin}
+@01121	Dis, Yumi~ !{attente}|Le {F00} de 1re année,|t'en penses quoi, toi ?{attente}{page}{fin}
+@01122	(Devant le fast-food){n}{fin}
+@01123	Hein ?{attente} Comment ça ?|Pour moi, ce n'est qu'un|petit jeune, c'est tout.{attente}{page}{fin}
+@01124	Ah bon...{attente} Alors, entre|vous deux, c'est quoi,|exactement ?{attente}{page}{fin}
+@01125	Voyons...{attente}|C'est un garçon bien, et|je le trouve plutôt|sympathique.{attente}{page}{fin}
+@01126	{F05} ?{attente}|C'est un garçon adorable,|et je l'aime beaucoup...{attente}{page}{fin}
+@01127	Ahhh ! C'est louche !{attente}|Attends, attends, c'est quoi|comme relation, au juste ?{attente}{page}{fin}
+@01128	Hihi...♥|Comment dire...{attente}|Je l'aime, ça va de soi♥{attente}{page}{fin}
+@01129	Waouh, elle l'assume !{attente}|Dis, dis, alors vous en|êtes où, tous les deux ?{attente}{page}{fin}
+@01130	Voyons...|Une aînée et son cadet...|c'est tout... je crois.{attente}{page}{fin}
+@01131	Quoi, c'est tout ?{attente}|Ah, et alors, le fameux|étudiant, il en est où ?{attente}{page}{fin}
+@01132	Voyons... un bon ami,|disons. Mais on n'en est|pas encore là, loin de là.{attente}{page}{fin}
+@01133	Euh... voyons...|Ça se passe plutôt bien,|peut-être... Hihi !{attente}{page}{fin}
+@01134	Hmm, c'est louche, tout ça !{attente}|Et alors, le fameux|étudiant, il devient quoi ?{attente}{page}{fin}
+@01135	Entre {F05} et moi...{attente}|je te laisse imaginer♥|...Hihi♥{attente}{page}{fin}
+@01136	Kyaaa ! Que de|sous-entendus !!{attente}|Hein ? Et le fameux|étudiant, il est passé où ?{attente}{page}{fin}
+@01137	Ah, lui...{attente}|Entre nous, c'est fini.{attente}|Il fait partie du passé...{attente}{page}{fin}
+@01138	Maintenant...|je m'amuse bien plus|avec {F05} !{attente}{page}{fin}
+@01139	Lui, il compte beaucoup|pour moi, il est génial...{attente}|si gentil, si mûr...♥{attente}{page}{fin}
+@01140	Je vois...|Alors c'est comme ça|qu'elle me voyait...{attente}{page}{fin}
+@01141	{E08} n'aime peut-être|pas le basket...?{attente} Ou|bien c'est moi qu'elle|n'aime pas ?{attente}{page}{fin}
+@01142	Allez !|Objectif : gagner le|championnat national !!{attente}{page}{fin}
+@01143	Mais Shinozawa, le basket,|elle y connaît pas grand-|chose... et elle aime pas|trop çaaa~{attente}{page}{fin}
+@01144	Mmh, mais être le meilleur|du pays, même dans les|jeux vidéo, c'est dur...|C'est trop fort, ça~{attente}{page}{fin}
+@01145	Ah !|Tu vas à ton|petit boulot ?{attente}{page}{fin}
+@01146	Ah, {F05} !|Eh oui...{attente} Ah !!|Tu tombes bien !{attente}{page}{fin}
+@01147	Je tenais absolument|à te remercier.{attente}{page}{fin}
+@01148	Merci pour le cadeau|d'anniversaire ! Ça m'a|vraiment fait plaisir !{attente}{page}{fin}
+@01149	Mais de rien !{attente}|Je suis content qu'il|t'ait plu !{attente}{page}{fin}
+@01150	Oh non !|Je vais être en retard !{attente}|Bon, à plus !{attente}{page}{fin}
+@01151	Ah, euh, à plus !|Bon courage au boulot !{attente}{page}{fin}
+@01152	Génial !|On dirait qu'il lui a plu !{attente}|J'ai bien fait de le lui|offrir !{attente}{page}{fin}
+@01153	Et même à deux doigts|d'être en retard, elle|prend le temps de venir|me remercier... Trop réglo !{attente}{page}{fin}
+@01155	Hein, Yumi me|regarde... Qu'est-ce|qu'il y a...?{attente}{page}{fin}
+@01156	Matsuda-senpai !|T'as fini ton|service ? Bon travail !{attente}{page}{fin}
+@01157	Merci, toi aussi !{attente} Avant de|partir, je voulais te dire|merci, {F05}.{attente}{page}{fin}
+@01158	Vraiment...|ça m'a fait plaisir...|J'étais si touchée...♥{attente}{page}{fin}
+@01159	Elle me regarde et me|sourit, toute gênée !{attente}{page}{fin}
+@01160	Et à cet instant...{attente}|Yumi accourt vers moi et|m'embrasse sur la joue !{attente}{page}{fin}
+@01161	Ah...{attente}{page}{fin}
+@01162	Hihi...♥|......{attente}{page}{fin}
+@01163	Les joues rouges elle aussi,|Yumi me sourit d'un air|un peu espiègle...{attente}{page}{fin}
+@01164	Et puis, dans un coin de|la cuisine, on s'est|regardés un moment...{attente}{page}{fin}
+@01165	Heureux...{attente}|gêné...{attente}|tout chamboulé, je sens|mon cœur battre fort...{attente}{page}{fin}
+@01166	Bon...|il faut que je rentre...{attente}|Je file, à plus !{attente}{page}{fin}
+@01167	Ah... oui...{attente}|Repose-toi bien...|À plus...{attente}{page}{fin}
+@01168	Et sur ma joue, je sentais|encore la douceur des|lèvres de Yumi...|......{attente}{page}{fin}
+@01169	Hein ? Devant le restaurant,|quelqu'un me regarde !{attente}|Qui ça peut être...?{attente}{page}{fin}
+@01170	{F03} !|Bravo pour la victoire du|club de basket au|championnat national !{attente}{page}{fin}
+@01171	Je t'attendais pour t'inviter|à manger, pour fêter ça !{attente}|Allez, on entre !{attente}{page}{fin}
+@01172	Hein, c'est vrai ?{attente}|Alors là, je suis touché !{attente}|Merci !{attente}{page}{fin}
+@01173	C'est donc {E04} qui|m'invite au restaurant !{attente}{page}{fin}
+@01174	(Au restaurant){n}{fin}
+@01175	{E04} a fait des folies :|elle m'a commandé un steak !{attente}{page}{fin}
+@01176	Elle me supplie de lui|raconter le match, alors|je lui mime toutes les|actions...{attente}{page}{fin}
+@01177	Waouh ! Génial !|{F03}, tu as été|le héros du match !{attente}|Tu es formidable...♥{attente}{page}{fin}
+@01178	{E04} me dévore des|yeux... Ça valait le coup|de faire du sport !{attente}{page}{fin}
+@01179	Hein ? Yumi Matsuda et|{E08} Shinozawa ensemble !{attente}|On dirait qu'elles|m'attendent !{attente}{page}{fin}
+@01180	{F06}~ !|Félicitationnnns~ !|Kyaaa ! Kyaaa !{attente}{page}{fin}
+@01181	Q-quoi ?|Qu'est-ce qui vous prend...?{attente}{page}{fin}
+@01182	Félicitations, {F05}.{attente}|Il paraît que le club de|baseball a gagné le|championnat national !{attente}{page}{fin}
+@01183	On t'attendait pour te|féliciter, {F05} !{attente}{page}{fin}
+@01184	Aujourd'hui, c'est Yumi-san|et Shinozawa qui régalent|{F06}~ !{attente}{page}{fin}
+@01185	Les deux filles m'invitent|donc au café.{attente}{page}{fin}
+@01186	Une fois la commande|passée, elles me supplient|de leur raconter le match.{attente}{page}{fin}
+@01187	Grâce au home run de|{F05}, ils ont égalisé !{attente}|Chapeau, {F05} !{attente}{page}{fin}
+@01188	Ukyaaa ! {F06},|t'es trop classe~♥|Fiou fiouuu !{attente}{page}{fin}
+@01189	Et après, et aprèèès~ !|Il s'est passé quoi~ ?{attente}{page}{fin}
+@01190	Captivées par l'histoire,|elles n'avaient pas l'air|décidées à me laisser|rentrer de sitôt...{attente}{page}{fin}
+@01191	{F05} !{attente}|Bravo pour la victoire|du club de basket !{attente}{page}{fin}
+@01192	Champion national, génial !{attente}|Je t'offre un verre, et|tu me racontes tout !{attente}{page}{fin}
+@01193	C'est donc Yumi qui|m'invite au café !{attente}{page}{fin}
+@01194	Une fois la commande|passée, Yumi s'est|penchée vers moi.{attente}{page}{fin}
+@01195	Tu as mis un panier à|trois points ?!{attente}|Génial ! C'est bien|toi, {F05}♥{attente}{page}{fin}
+@01196	Yumi me dévore des yeux...{attente}|J'en ai le cœur qui|s'emballe...{attente}{page}{fin}
+@01197	{F05} ! Félicitations !{attente}|Il paraît que le club|de foot a gagné !{attente}{page}{fin}
+@01198	Tu as marqué un triplé !{attente}|Trop fort !{attente} C'est bien|toi, {F05}♥{attente}{page}{fin}
+@01199	Yumi est partie en laissant|derrière elle un parfum|frais et acidulé...{attente}{page}{fin}
+@01200	Il y avait une lettre pour|moi dans la boîte...{attente}|De qui ça peut être...?{attente}{page}{fin}
+@01201	Ah, c'est de {E04} !{attente}|Qu'est-ce qu'elle a bien pu|m'écrire......{attente}{page}{fin}
+@01202	(Lettre de {E04}){n}{fin}
+@01203	Je n'arrive pas à dormir,|alors j'ai décidé de|t'écrire une lettre. Hihi♥{attente}{page}{fin}
+@01204	Est-ce que toi aussi,|{F03}, il t'arrive de|ne pas dormir en pensant|à quelqu'un ?{attente}{page}{fin}
+@01205	Et si oui...|à qui tu penses...?{attente}{page}{fin}
+@01206	Et à force de me poser|la question...|je n'arrive plus à dormir.{attente}|C'est bête... Hihi♥{attente}{page}{fin}
+@01207	Allez, à bientôt !|Pour {F00}|　　　　　{E04}{attente}{page}{fin}
+@01208	Waouh ! Elle n'arrivait pas|à dormir à cause de moi ?|Je suis... trop touché !!{attente}|Et en plus...{attente}{page}{fin}
+@01209	Tu sais... {E04} ne|pense qu'à toi,|{F03}...{attente}{page}{fin}
+@01210	On peut se voir quand on|veut, et pourtant, j'ai|tellement, tellement hâte|de te voir...{attente}{page}{fin}
+@01211	J'aimerais tant qu'on soit|déjà demain...♥{attente}{page}{fin}
+@01212	Toi aussi, {F03},|tu penses pareil...?{attente}|Sûrement, hein ? Hihi♥{attente}{page}{fin}
+@01213	Hein ! À la fin de la lettre,|il y a plein de cœurs :|♥♥♥♥♥♥♥♥♥ !{attente}{page}{fin}
+@01214	Alors, cette lettre...|ce serait peut-être...|une lettre d'amour...?{attente}{page}{fin}
+@01215	Ah, c'est de {E08} !{attente}|Qu'est-ce qu'elle a bien pu|m'écrire......{attente}{page}{fin}
+@01216	(Lettre de {E08}){n}{fin}
+@01217	{F06}, ça va~ ?|Shinozawa, elle a pas trop|le moral~{attente}{page}{fin}
+@01218	C'est déjà la nuit, alors|Shinozawa peut plus|jouer avec {F06}~{attente}{page}{fin}
+@01219	Vivement le matin~|Shinozawa veut jouer|plein plein plein~ Snif...{attente}{page}{fin}
+@01220	Et à force d'écrire,|Shinozawa a super sommeil,|tout d'un coup~ !{attente}{page}{fin}
+@01221	Allez, à plus~|Pour {F02}|　　　　　{E08}{attente}{page}{fin}
+@01222	Ça, c'est bien {E08} !|Mais elle déprime parce|qu'elle peut pas jouer avec|moi... Ça me touche !{attente}{page}{fin}
+@01223	Shinozawa veut jouer|encore plein plein plein|avec {F06}...{attente}{page}{fin}
+@01224	Si on pouvait rester|ensemble pour toujours,|Shinozawa serait trop|heureuse~{attente}{page}{fin}
+@01225	Vivement demain~|Demain, on pourra encore|jouer ensemble~{attente}{page}{fin}
+@01226	Hein ?{attente} À la fin de la|lettre, c'est écrit :|« Ta {E08}♥ »...!{attente}{page}{fin}
+@01227	Ah, c'est de {E0A} !{attente}|Qu'est-ce qu'elle a bien pu|m'écrire......{attente}{page}{fin}
+@01228	(Lettre de {E0A}){n}{fin}
+@01229	Cher {F02},|Je me permets de vous|adresser ces quelques|lignes...{attente}{page}{fin}
+@01230	Nan, c'est trop la honte,|j'écris normalement !{attente}{page}{fin}
+@01231	Hé, écoute, écoute !|Tu sais quoi ? Héhé !|J'en ai eu une !!{attente}{page}{fin}
+@01232	Une carte rare, carrément !|C'est énorme, je te jure !|Je suis trop trop heureuse !{attente}{page}{fin}
+@01233	Je voulais te l'annoncer|en premier, {F08},|alors je t'ai écrit !{attente}{page}{fin}
+@01234	Bon, voilà, c'est tout !|Sur ce, adieu !|　　　　　　{E0A}{attente}{page}{fin}
+@01235	C'est bien {E0A}...{attente}|Mais qu'elle m'annonce sa|joie en premier, ça me fait|plaisir, à moi aussi.{attente}{page}{fin}
+@01236	Tu vas sûrement trouver|que ça me ressemble pas...|mais te moque pas, hein !{attente}{page}{fin}
+@01237	Avec toi, {F08}, je sais|pas pourquoi, je me sens|bien et je m'amuse !{attente}{page}{fin}
+@01238	Rien qu'en étant avec toi,|tout le temps, tout le|temps...{attente}{page}{fin}
+@01239	Alors on reste toujours|super proches, d'accord ?|......Héhé{attente}{page}{fin}
+@01240	Mais ce genre de truc,|ça me fout la honte...|C'est pas permis, ça !{attente}{page}{fin}
+@01241	Hahaha ! Et voilà, elle|est revenue à son style|habituel !{attente}{page}{fin}
+@01242	Hein ?{attente} À la fin, il y a :|« À mon {F02} chéri,|avec tout mon amour,|{E0A} » !{attente}{page}{fin}
+@01243	Oh là là... mon cœur bat|la chamade...{attente}|Je sens que je vais pas|fermer l'œil cette nuit...{attente}{page}{fin}
+@01244	Je me sens tout gêné...|et mon cœur bat de plus|en plus fort, lentement|mais sûrement...{attente}{page}{fin}
+@01245	Chez {E04}, je sentais|plus que du respect...{attente}|et moi aussi, j'avais pour|elle de vrais sentiments...{attente}{page}{fin}
+@01246	Après ça, l'ambiance s'est|réchauffée, et on a passé|un super moment ensemble.|......{attente}{page}{fin}
+@01247	Hé hé hé...|J'ai bien fait de|faire du sport !{attente}{page}{fin}
+@01248	Chaque fois que je la relis,|mon cœur s'emballe...{attente}|Je sens que je vais pas|fermer l'œil cette nuit...{attente}{page}{fin}
+@01249	Rien que d'y penser...|mon cœur se met|à battre la chamade.{attente}{page}{fin}
+@01250	Je vois...|C'était donc ça...{attente}{page}{fin}
+@01251	Moi... je me sens|trop heureuse...♥{attente}{page}{fin}
+@01252	C'était sympa...|...Tu sais...|...euh...{attente}{page}{fin}
+@01254	Merci, c'était sympa.{attente}|...Tu sais...|euh... enfin...{attente}{page}{fin}
+@01255	Non... laisse tomber.{attente}|...Désolée !|Bon, à plus...{attente}{page}{fin}
+@01256	Merci, c'était sympa.|À plus...{attente}{page}{fin}
+@01257	Ah, {F03} ?|C'est {E04}...♥|Tu as un moment ?{attente}{page}{fin}
+@01258	Si je veille trop, ça va|gêner l'entraînement, alors|j'arrête là pour ce soir.|Bonne nuit !{attente}{page}{fin}
+@01259	Désolée si je t'ai dérangé...{attente}|Oh, il est déjà si tard !|Allez, bonne nuit !{attente}{page}{fin}
+@01260	Ah !|Le téléphone sonne !{attente}|Qui ça peut être ?{attente}{page}{fin}
+@01261	Allô, oui ?|Ici {F00}...{attente}{page}{fin}
+@01262	Ah, {F03} ?|C'est Saeki...{attente}|Tu as un petit moment ?{attente}{page}{fin}
+@01263	Ah, oui ! Pas de souci !{attente}|Qu'est-ce qu'il y a ?{attente}{page}{fin}
+@01264	Tu sais...|......{attente}{page}{fin}
+@01265	Non, rien de spécial...{attente}|J'avais juste envie de|parler à quelqu'un...{attente}{page}{fin}
+@01266	Ensuite, on a discuté|de tout et de rien|un moment...{attente}{page}{fin}
+@01267	...Elle a dit qu'elle n'avait|rien de spécial...{attente}|...mais on aurait dit qu'elle|voulait me dire un truc...{attente}{page}{fin}
+@01268	Elle avait peut-être un|truc à me dire, en fait...{attente}|Qu'est-ce que c'était...?|Ça me travaille...{attente}{page}{fin}
+@01269	Ah, {F03} ?|C'est {E04}...{attente}|Tu as un moment ?{attente}{page}{fin}
+@01270	Salut, {E04} !|Oui, pas de souci !{attente}{page}{fin}
+@01271	J'avais juste envie de te|parler, {F03}...{attente}|Tu sais...{attente}{page}{fin}
+@01272	...On a parlé de tout|et de rien...{attente}|mais je crois qu'on s'est|encore rapprochés !{attente}{page}{fin}
+@01273	À force de bavarder de|tout et de rien...|une heure est passée|en un clin d'œil !{attente}{page}{fin}
+@01274	Hihi... Tu sais, {F03}...{attente}|En vrai, je voulais juste|entendre ta voix♥{attente}{page}{fin}
+@01275	Waouh♥|Quand elle me dit ça,|je suis si content que|j'en ai plus sommeil !{attente}{page}{fin}
+@01276	...Franchement, c'est|trop bien, tout ça...|Je suis trop heureux♥{attente}{page}{fin}
+@01277	Allô, {F04} ?|C'est Takao...{attente}{page}{fin}
+@01278	Salut, Mizuki !|Qu'est-ce qu'il y a ?{attente}{page}{fin}
+@01279	Oh, rien de particulier,|à vrai dire...{attente}{page}{fin}
+@01280	Ah, {F04} ?|C'est Mizuki...{attente}{page}{fin}
+@01281	Eh bien... j'avais envie|de te parler, comme ça...|...{attente}Tu sais...{attente}{page}{fin}
+@01282	...À vrai dire...{attente}|j'avais envie d'entendre|ta voix, {F04}.{attente}{page}{fin}
+@01283	Allô, ici Matsuda.|Est-ce que {F01} est là,|s'il vous plaît ?{attente}{page}{fin}
+@01284	Oui, c'est moi...{attente}{page}{fin}
+@01285	Ah, {F05} ?|Tu as un moment ?{attente}|Tu sais...{attente}{page}{fin}
+@01286	Merci, c'était sympa.{attente}|...Tu sais, tu dégages|un petit quelque chose|de craquant.{attente}{page}{fin}
+@01287	On dirait qu'elle m'a fait|un compliment !{attente}|Et en parlant avec Yumi,|je la comprends mieux...{attente}{page}{fin}
+@01288	Ah, {F05} ?|C'est moi... Yumi.{attente}|Tu as un moment ?{attente}{page}{fin}
+@01289	Ah ! Yumi !|Oui ! Pas de souci !{attente}{page}{fin}
+@01290	Tant mieux...|En fait, c'est rien|d'important...{attente}{page}{fin}
+@01291	Ah, {F05} ?|C'est Yumi...{attente} J'avais|envie d'entendre ta voix.{attente}{page}{fin}
+@01292	Ah, Yumi !|Justement, moi aussi !{attente}|Ça me fait... plaisir.{attente}{page}{fin}
+@01293	Hihi...|Moi aussi, tu sais♥{attente}|Dis...{attente}{page}{fin}
+@01294	Avec toi, {F05}, je ne|vois pas le temps passer !|J'ai envie de continuer♥{attente}{page}{fin}
+@01295	Allô, c'est Shinozawaaa~{attente}{page}{fin}
+@01296	Hein, quoi ?|Qu'est-ce qu'il y a ?{attente}{page}{fin}
+@01297	Rien de spécial, mais~|Shinozawa avait envie|de parler, alors elle|a appelééé~{attente}{page}{fin}
+@01298	Ensuite, j'ai dû écouter|{E08} me parler de tout|et de rien pendant|des heures......{attente}{page}{fin}
+@01299	C'était trop bien~ !{attente}|Merciii d'avoir tenu|compagnie à Shinozawa~ !{attente}{page}{fin}
+@01300	Elle n'avait vraiment|rien à me dire...{attente}|Ça a duré des plombes,|mais bon, tant pis...{attente}{page}{fin}
+@01301	Nyahaa~ C'est juste...|pour passer le temps~{attente}{page}{fin}
+@01302	Dis, {F06}, tu fais|quoi, là~ ?{attente}|Shinozawa, elle...{attente}{page}{fin}
+@01303	En vrai, Shinozawa...{attente}|elle a appelé parce qu'elle|pensait à {F06}~{attente}{page}{fin}
+@01304	Hein, ce qu'elle vient de|dire... ce serait...{attente}|Rien que d'y penser, mon|cœur se met à s'emballer...{attente}{page}{fin}
+@01305	Et j'avais l'impression|qu'on s'était rapprochés...|un tout petit peu...{attente}|et ça m'a rendu heureux...{attente}{page}{fin}
+@01306	Nyahaa~ {F06}~|C'est Shinozawaaa~ !{attente}{page}{fin}
+@01307	Salut, {E08} !|Qu'est-ce qu'il y a ?{attente}{page}{fin}
+@01308	Dis, {F06},|écoute, écoute~ !{attente}{page}{fin}
+@01309	Rien que d'entendre la|voix de {F06}...{attente}|Shinozawa est trop|heureuse~♥{attente}{page}{fin}
+@01310	Hello !|Ah, pardon... allô,|ici Okada...{attente}{page}{fin}
+@01311	Salut, Okada-san !|Qu'est-ce qu'il y a ?{attente}{page}{fin}
+@01312	Eh bien...{attente} j'aurais|besoin que tu m'expliques|un point de cours...{attente}{page}{fin}
+@01313	Et me voilà à expliquer|au téléphone à {E09} des|exercices de compréhension|de texte en japonais...{attente}{page}{fin}
+@01314	Ah, je vois...{attente}|Le japonais, c'est difficile.|Je dois travailler plus.{attente}{page}{fin}
+@01315	À l'oral, aucun souci, mais|la grammaire et l'analyse,|ça la perd... Elle en bave,|{E09}...{attente}{page}{fin}
+@01316	N'empêche, on n'a parlé|que des cours...|Et c'est tout...?|Pas très drôle...{attente}{page}{fin}
+@01317	Non, rien de spécial, mais|j'avais envie de parler...{attente}|Tu sais...{attente}{page}{fin}
+@01318	Tu sais... euh...|En fait...{attente}{page}{fin}
+@01319	Je me demandais ce que tu|faisais, {F07}, alors|je t'ai appelé.{attente}|Bon, bye !{attente}{page}{fin}
+@01320	Hello !|{F07} ?|C'est {E09}...{attente}{page}{fin}
+@01321	Salut, {E09} !|Qu'est-ce qu'il y a ?{attente}{page}{fin}
+@01322	Euh... comment dire...|Hmm... le japonais, c'est|difficile... Comment je|pourrais dire ça ?{attente}{page}{fin}
+@01323	Bref... euh... {F07},|j'ai eu envie, d'un coup,|d'entendre ta voix.{attente}{page}{fin}
+@01324	Ah, c'est vrai...?{attente}|Ça me fait plaisir...|Merci !{attente}{page}{fin}
+@01325	D'un coup, j'avais|tellement envie d'entendre|ta voix, {F07}...{attente}{page}{fin}
+@01326	Alors...|je t'ai appelé...|......Hihi♥{attente}{page}{fin}
+@01327	Bon, il est tard,|je vais te laisser.|Bonne nuit !{attente}{page}{fin}
+@01328	Bon, j'ai entendu ta voix,|{F05}, alors je te laisse !|Bonne nuit !{attente}{page}{fin}
+@01329	...Hein ? « J'ai entendu ta|voix » ? Ça veut dire quoi ?{attente}|Elle avait envie d'entendre|ma voix, peut-être ?{attente}{page}{fin}
+@01330	Si c'est ça, je suis content.{attente}|Et sinon, en tout cas,|on s'est encore un peu|rapprochés, c'est sûr !{attente}{page}{fin}
+@01331	Mais...{attente} pour aujourd'hui,|je vais m'arrêter là.{attente}|Parce que...{attente}{page}{fin}
+@01332	Les bonnes choses, il vaut|mieux les garder pour|plus tard...{attente}|Allez, bonne nuit♥{attente}{page}{fin}
+@01333	Bon, bonne nuiiit~|Adieu~ !{attente}{page}{fin}
+@01334	Kyaaa ! C'est trop|la honte~ !|Allez, bonne nuiiit~ !!{attente}{page}{fin}
+@01335	Mais en vrai, Shinozawa...{attente}|Kyaaa, trop la honte~|Bonne nuiiit~ !!{attente}{page}{fin}
+@01336	Kyaaa~|Shinozawa a trop honte♥{attente}|Bonne nuit, {F06}.{attente}{page}{fin}
+@01337	D'avoir parlé avec toi,|{F07}... je ne sais pas|pourquoi, ça m'a rassurée.{attente}{page}{fin}
+@01338	Bon, pour aujourd'hui,|j'arrête là, {F07}.|Good Night !{attente}{page}{fin}
+@01339	Ça m'a fait plaisir♥|À bientôt, {F07}.|Good Night !{attente}{page}{fin}
+@01340	Bon, et si j'allais faire|un tour sur Internet......{attente}{page}{fin}
+@01341	Ah ! J'ai reçu un mail !|Ce serait pas...{attente}{page}{fin}
+@01342	(Mail de {E08}){n}{fin}
+@01343	À {F00},{attente}|Shinozawa s'ennuyait, alors|elle envoie des mails à|tout le mooonde~ !{attente}{page}{fin}
+@01344	Ah, c'est tout...|Elle tuait juste le temps !{attente}|......Pff !{attente}{page}{fin}
+@01345	À {F00},{attente}|Shinozawa va te donner|des sites à voir|absolument~ !{attente}{page}{fin}
+@01346	......Ah, c'est tout.|Juste une liste d'adresses|de sites de gamers...|...Pfff...{attente}{page}{fin}
+@01347	Bon, tant que j'y suis,|je vais jeter un œil...{attente}{page}{fin}
+@01348	À {F02} !{attente}|Tu sais...|Shinozawa...{attente}{page}{fin}
+@01349	Aujourd'hui, Shinozawa|a fait plein de trucs~...{attente}{page}{fin}
+@01350	Le mail de {E08} racontait|plein de petites choses|amusantes de sa journée...{attente}{page}{fin}
+@01351	J'avais l'impression de|mieux comprendre ce que|pense {E08}, et ça m'a|fait plaisir !{attente}{page}{fin}
+@01352	Shinozawa avait tellement|envie de voir {F06}...|qu'elle t'écrit ce mail♥{attente}{page}{fin}
+@01353	Il y avait aussi des trucs|sans queue ni tête...|mais ce mail d'amour m'a|fait battre le cœur...{attente}{page}{fin}
+@01354	Hein ?|Mon bipeur sonne !{attente}|Qui ça peut être...{attente}{page}{fin}
+@01355	(Message sur le bipeur){n}{fin}
+@01356	Tu fais quoi ?/{E04}{attente}{page}{fin}
+@01357	Ah ! C'est {E04} !|Faut que je réponde !{attente}{page}{fin}
+@01358	{FFB}Je rêvassais|　Je pensais à {E04}|　C'est un secret{fin}
+@01359	Allez, je tape ma réponse...{attente}|Pi-po-pa-po-pi...{attente}|......{attente}|Ah, une réponse !{attente}{page}{fin}
+@01360	Ah bon, d'accord/{E04}{attente}{page}{fin}
+@01361	Hein...|Quelle réponse sèche...{attente}|J'ai été honnête, pourtant...|Un peu déçu...{attente}{page}{fin}
+@01362	Rhô ! Idiot !/{E04}{attente}{page}{fin}
+@01363	Hein...?{attente}|Elle est gênée, peut-être...{attente}|Ou elle a cru que je|me moquais d'elle...{attente}{page}{fin}
+@01364	Méchant !/{E04}{attente}{page}{fin}
+@01365	Oups...|Ce serait pas...|qu'elle est fâchée...?|......{attente}{page}{fin}
+@01366	{F03}|Tu sais...|Hihi♥/{E04}{attente}{page}{fin}
+@01367	{FFB}Quoi ?|　Je sais déjà♥|　On verra ça plus tard{fin}
+@01368	Rien du tout...|Hihi.../{E04}{attente}{page}{fin}
+@01369	Hmm, c'était quoi ?|Ça m'intrigue...{attente}|Mais bon... ça a l'air|plutôt bien parti !{attente}{page}{fin}
+@01370	Kyaa !|{E04} est trop contente♥|♥♥♥♥♥♥{attente}{page}{fin}
+@01371	Waouh ! Génial !|Plein de cœurs !{attente}|Entre nous, ça a l'air|de super bien marcher !{attente}{page}{fin}
+@01372	{F03}, franchement !!|Rhô ! Idiot !{attente}{page}{fin}
+@01373	Dis, tu fais quoi ?/Mizuki{attente}{page}{fin}
+@01374	Ah ! C'est Mizuki !|Faut que je réponde !{attente}{page}{fin}
+@01375	{FFB}Rien de spécial|　Je pensais à Mizuki|　C'est un secret{fin}
+@01376	Ah, d'accord/Mizuki{attente}{page}{fin}
+@01377	Hahaha !|Oh, {F04}, toi alors♥|/Mizuki{attente}{page}{fin}
+@01378	Ah, elle a l'air contente !{attente}|J'ai bien fait de lui|répondre !!{attente}{page}{fin}
+@01379	Bon, laisse tomber !|/Mizuki{attente}{page}{fin}
+@01380	Regarde dehors !|Les étoiles sont belles !|/Mizuki{attente}{page}{fin}
+@01381	{FFB}Oui, c'est vrai|　Tu es plus belle qu'elles !|　La lune est éblouissante{fin}
+@01382	{F04}, tu regardes|peut-être les mêmes|étoiles que moi♥/Mizuki{attente}{page}{fin}
+@01383	C'est vrai... on regarde|le même ciel étoilé...{attente}|Quand j'y pense, c'est|plutôt romantique...{attente}{page}{fin}
+@01384	Tu n'as vraiment aucun|sens du romantisme !|/Mizuki{attente}{page}{fin}
+@01385	M-mais...{attente}|C'était un compliment, et|on dirait qu'elle est fâchée|......Snif{attente}{page}{fin}
+@01386	Ah, c'est vrai !/Mizuki{attente}{page}{fin}
+@01387	Mizuki et moi, on regarde|peut-être la même lune...{attente}|...Quand j'y pense,|c'est plutôt chouette !{attente}{page}{fin}
+@01388	Tu m'aimes ?/Yumi{attente}{page}{fin}
+@01389	Ah, c'est Yumi !|Si je l'aime ?...{attente}|Qu'est-ce que je réponds...{attente}{page}{fin}
+@01390	{FFB}Oui ! Je t'adore !|　Tu me prends de court...|　J'ai trop envie de toi{fin}
+@01391	Hihi♥|Moi qui te prenais pour|un gamin... petit coquin !|/Yumi{attente}{page}{fin}
+@01392	Ah, très bien !|Laisse tomber !/Yumi{attente}{page}{fin}
+@01393	{F05}... sous tes|airs sages, t'es un|petit pervers, hein~|/Yumi{attente}{page}{fin}
+@01394	Oh non !|Elle a mal compris...|......{attente}{page}{fin}
+@01395	Hein ? Encore|un message...{attente}{page}{fin}
+@01396	Je plaisante !/Yumi{attente}{page}{fin}
+@01397	Ah, c'était une blague !|Ouf...{attente}|Mais elle m'a bien eu...|Snif snif~{attente}{page}{fin}
+@01398	Je ne pense qu'à toi,|{F05}.../Yumi{attente}{page}{fin}
+@01399	Ah, c'est Yumi !{attente}|Trop content !|Qu'est-ce que je réponds ?{attente}{page}{fin}
+@01400	{FFB}Moi aussi, je pense à toi|　Gare à toi, je brûle !|　Merci, Yumi♥{fin}
+@01401	{F05}...♥|/Yumi{attente}{page}{fin}
+@01402	Je devine les mots qui|suivent les « ... » !{attente}|Entre nous, ça a l'air|de super bien marcher !{attente}{page}{fin}
+@01403	C'est quoi, ça...|Trop ringard.../Yumi{attente}{page}{fin}
+@01404	Aïe...|Je voulais jouer les durs,|et elle me trouve nul...|......Snif~{attente}{page}{fin}
+@01405	Merci♥|Me voilà rassurée/Yumi{attente}{page}{fin}
+@01406	Ah... elle s'inquiétait|de quelque chose...?{attente}|En tout cas, j'ai bien|fait de répondre !{attente}{page}{fin}
+@01407	Même avec juste des mots|écrits, on arrive à se|dire ce qu'on ressent...|C'est chouette...{attente}{page}{fin}
+@01408	C'est tellement fort que|si tu saignes du nez,|c'est pas la faute de|Shinozawa~♥{attente}{page}{fin}
+@01409	Oh oh ! Ce serait pas...|des sites cochons,|par hasard ?!!{attente}{page}{fin}
+@01410	Hmm...|je vois...{attente}{page}{fin}
+@01411	Mais par mail, Shinozawa|est moins timide,|on dirait~{attente}{page}{fin}
+@01412	Nyahahaha~♥|(~0~)/{attente}{page}{fin}
+@01413	Je suis resté un moment|à contempler le ciel étoilé,|en pensant vaguement|à Mizuki...{attente}{page}{fin}
+@01414	Persuadé qu'elle aussi|pensait la même chose...{attente}{page}{fin}
+@01415	Ou alors, elle m'a cru|plein d'arrière-pensées...|Si c'est ça...|je suis mal...{attente}{page}{fin}
+@01416	Je ne connais pas grand-|chose au baseball, alors|je m'arrête là...{attente}{page}{fin}
+@01417	...Tu sais...|J'aime regarder le baseball,|et je t'encourage...{attente}{page}{fin}
+@01418	Hahaha ! Trop ressemblant !{attente}|Bon, sur ce...|donne-toi à fond, hein !{attente}{page}{fin}
+@01419	Je ne connais pas grand-|chose au baseball, mais|c'est génial !{attente}{page}{fin}
+@01420	Nyahaa~ ! (~o~)/|C'est Shinozawaaa~♪{attente}{page}{fin}
+@01421	Ah, c'est {E08} !|Faut que je réponde !{attente}{page}{fin}
+@01422	{FFB}C'est {F02}~♪|　Qu'est-ce qu'il y a ?|　Unbaba♪ Unbaba♪{fin}
+@01423	Bye byeee~ !/{E08}{attente}{page}{fin}
+@01424	Quoi ?! C'est tout ?!{attente}|......Pfff...|Au final...|c'était quoi, ce message ?{attente}{page}{fin}
+@01425	Rien du tout~|Funi funi~/{E08}{attente}{page}{fin}
+@01426	Hmm, c'était quoi, au juste ?|Ça m'intrigue...{attente}|Elle s'ennuyait, c'est tout ?{attente}{page}{fin}
+@01427	Kyaaa~ {F02}, t'es|trop drôle~ !/{E08}{attente}{page}{fin}
+@01428	Tu sais, Shinozawa,|elle...{attente}{page}{fin}
+@01429	{FFB}Tu veux boire du lait ?|　Je sais, {E08}|　J'aimerais te voir{fin}
+@01430	Funyaaa.../{E08}{attente}{page}{fin}
+@01431	Hein, c'était pas ça...?|Et elle a pas l'air ravie...{attente}|J'ai un peu raté|mon coup...{attente}{page}{fin}
+@01432	Kyaaa ! Trop la honte,|alors au revoir~ !/{E08}{attente}{page}{fin}
+@01433	Hahaha ! {E08}, elle|est toute gênée...{attente}{page}{fin}
+@01434	Juste des mots écrits,|et pourtant, c'est|vraiment super chouette !{attente}{page}{fin}
+@01435	Ugyaaa ! Non, non, non !|Shinozawa s'en va,|bye bye~{attente}{page}{fin}
+@01436	Hein...?{attente}|Qu'est-ce qui lui prend ?{attente}{page}{fin}
+@01437	...J'ai un peu l'impression|qu'elle est juste gênée...{attente}|...Et ça, c'est plutôt|bon signe...{attente} non ?{attente}{page}{fin}
+@01438	Dis, tu fais quoi ?/{E09}{attente}{page}{fin}
+@01439	Ah, c'est {E09} !|Qu'est-ce que je réponds...{attente}{page}{fin}
+@01440	{FFB}Je rêvassais|　Je pensais à toi|　Je peux pas le dire{fin}
+@01441	On dirait que je dérange.|BYE !/{E09}{attente}{page}{fin}
+@01442	Ah...{attente} c'est elle qui|s'excuse, au final...|...j'ai été maladroit ?{attente}{page}{fin}
+@01443	Même si c'est faux, ça me|fait plaisir ! Thanx !|/{E09}{attente}{page}{fin}
+@01444	« Même si c'est faux »...|Elle ne me croit pas|vraiment, alors...?{attente}{page}{fin}
+@01445	Mais elle a l'air contente...|...J'ai bien fait de|répondre !{attente}{page}{fin}
+@01446	Je vois... pardon.|Bon.../{E09}{attente}{page}{fin}
+@01447	Hein...?{attente}|On dirait qu'elle a mal|compris...{attente} Hmm, j'ai|un peu raté mon coup...{attente}{page}{fin}
+@01448	Il t'arrive rien de|chouette ?/{E09}{attente}{page}{fin}
+@01449	Ah, c'est {E09} !{attente}|Hmm, un truc chouette...{attente}|Qu'est-ce que je réponds ?{attente}{page}{fin}
+@01450	{FFB}Hmm, rien du tout...|　Te voir, ce serait top|　Un rencard avec moi ?{fin}
+@01451	Ah bon.../{E09}{attente}{page}{fin}
+@01452	{F07}, voyons♥|Hihi !/{E09}{attente}{page}{fin}
+@01453	Ah, un cœur !{attente}|Je vois... Entre nous, ça|a l'air plutôt bien parti !{attente}{page}{fin}

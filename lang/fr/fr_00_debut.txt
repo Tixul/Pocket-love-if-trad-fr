@@ -1,0 +1,96 @@
+; Début du jeu : réveil, plan de la semaine, cérémonie d'entrée, réunion de classe, sortie aux cerisiers.
+; Ordre relevé en jeu : 4360-4364, 1253, 4413-4418, 5790-5849.
+
+; ---- dictionnaire {E0x}
+%03	...{fin}
+%04	Ruruna{fin}
+%08	Momoyo{fin}
+%09	Mirei{fin}
+%10	Konoha{fin}
+
+; ---- étiquettes de nom
+@00033	({E09} Okada){n}{fin}
+@00039	({E0A} Kobayashi){n}{fin}
+@00051	({F01} {F00}){n}{fin}
+@00101	(??????){n}{fin}
+
+; ---- réveil
+@04360	...Hmmmf...|Il est quelle heure...?|Gnnn... grmbl...{attente}{page}{fin}
+@04361	Quoi ?! Déjà 8 heures !|Faut que je me lève !{attente}{page}{fin}
+@04362	À partir d'aujourd'hui,|je suis lycéen, moi aussi :|au lycée privé Koigahara !{attente}{page}{fin}
+@04363	Arriver en retard le jour|de la rentrée, ce serait|la honte totale !{attente}{page}{fin}
+@04364	...Bon, je vais d'abord|me passer de l'eau sur la|figure pour me réveiller...{attente}{page}{fin}
+
+; ---- le plan
+@04413	Pfiou...{attente}|Bon ! Passons au fameux|plan que j'ai mis au point|hier soir !{attente}{page}{fin}
+@04414	Au collège, les filles ne|me regardaient même pas...|Mais même moi, peut-être...{attente}{page}{fin}
+@04415	si je planifie bien mes|études, mon look et mes|activités de club, au moins|pour les jours de classe...{attente}{page}{fin}
+@04416	alors qui sait...{attente}|une fille mignonne pourrait|peut-être même devenir|ma petite amie !{attente}{page}{fin}
+@04417	Et là...{attente}|qui sait quelles nouvelles|expériences m'attendent...{attente}|Héhéhé♥{attente}{page}{fin}
+@04418	Allez ! Je fais tout de suite|le planning de la semaine,|et ensuite, direction la|cérémonie d'entrée !!{attente}{page}{fin}
+
+; ---- cérémonie d'entrée
+@05790	(Cérémonie d'entrée){n}{fin}
+@05791	La cérémonie d'entrée|commence enfin !!{attente}{page}{fin}
+@05792	On appelle chaque élève|par son nom, puis viennent|les discours du proviseur|et des invités...{attente}{page}{fin}
+@05793	......|La cérémonie suit son|cours sans le moindre|accroc.{attente}{page}{fin}
+@05794	(Présentateur){n}{fin}
+@05795	Et maintenant, le serment|des nouveaux élèves, par|leur représentante,|{E09} Okada, de la 1-B...{attente}{page}{fin}
+@05796	Waouh, qu'elle est belle !{attente}|La 1-B ? C'est ma classe !{attente}|Dans la même classe qu'elle ?|Quel coup de chance !{attente}{page}{fin}
+@05797	...Oups ! Au lieu de la|dévorer des yeux, je|ferais mieux d'écouter !{attente}{page}{fin}
+@05798	Je jure de m'investir de|tout mon cœur, et avec|ambition, dans mes études|comme dans le sport.{attente}{page}{fin}
+@05799	Pour les nouveaux élèves,|la représentante de la 1-B,|{E09} Okada !{attente}{page}{fin}
+@05800	Après le serment vient le|discours des anciens...{attente}|Lui, un élève de 3e année ?|On dirait un vieux tonton !{attente}{page}{fin}
+@05801	Dans deux ans, je vais|finir comme ça, moi aussi ?|...Ça me fait un peu peur !{attente}{page}{fin}
+@05802	Après les mots de clôture,|tout le monde se lève pour|retourner en classe.{attente}{page}{fin}
+@05803	Hein ?{attente}|Cette fille qui vient de|sortir du gymnase...|je la connais !{attente}{page}{fin}
+@05804	Cette fille... ce ne serait|pas {E04}, mon amie|d'enfance ? On jouait tout|le temps ensemble !{attente}{page}{fin}
+@05805	Ça fait des années que je|ne l'ai pas vue...{attente}|Je me trompe peut-être,|mais c'était son portrait !{attente}{page}{fin}
+
+; ---- réunion de classe
+@05806	(Réunion de classe){n}{fin}
+@05807	Pour notre première réunion|de classe, chacun doit se|présenter à tour de rôle !{attente}{page}{fin}
+@05808	Ah ! C'est la fille qui a|représenté les nouveaux !{attente}{page}{fin}
+@05809	Bonjour à tous,|enchantée !{attente}|Je m'appelle {E09} Okada.{attente}{page}{fin}
+@05810	J'adore la danse classique,|autant la regarder|que la danser.{attente}{page}{fin}
+@05811	J'aime aussi collectionner|les jolis accessoires...{attente}{page}{fin}
+@05812	En tout cas, j'aimerais me|faire plein d'amis, alors|ravie de vous rencontrer !{attente}{page}{fin}
+@05813	Des passe-temps de vraie|petite demoiselle !{attente}|{E09} Okada, hein...{attente}{page}{fin}
+@05814	Salut tout le mooonde !|Moi, c'est {E0A} Kobayashi,|et je me préseeente !!{attente}{page}{fin}
+@05815	Mes passions : les mangas,|les animes et les jeux de|cartes ! C'est à la vie,|à la mort !{attente}{page}{fin}
+@05816	Mon but au lycée : devenir|championne du Japon de|ping-pong ! Enchantéééée !!{attente}{page}{fin}
+@05817	Waouh, une vraie pile !|Mais elle est toute petite,|et trop mignonne...{attente}|{E0A} Kobayashi, hein...{attente}{page}{fin}
+@05818	(Prof principal){n}{fin}
+@05819	On y serait encore demain.|Désormais, présentez-vous|sans vous lever !{attente}{page}{fin}
+@05820	Ouf ! Comme ça, je serai|peut-être un peu moins|stressé !!{attente}{page}{fin}
+@05821	(Shiro Maeno){n}{fin}
+@05822	Ma résolution ?|Devenir le plus grand|tombeur du lycée Koigahara !{attente}{page}{fin}
+@05823	Sacrée résolution !|Un tombeur, hein...|Pas bête...{attente}{page}{fin}
+@05824	Aïe ! C'est déjà mon tour !|J'ai rien préparé !|Qu'est-ce que je vais dire ?{attente}{page}{fin}
+@05825	Je m'appelle {F01} {F00} !|Pas de passe-temps|particulier...{attente}|Ma résolution...{attente}{page}{fin}
+@05826	Argh, qu'est-ce que je dis ?!|Maintenant que je suis|au lycée... moi... je...|enfin, bref...{attente}{page}{fin}
+@05827	...Ma résolution...|c'est d'avoir une|petite amie !!{attente}{page}{fin}
+@05828	Gyahahahaha !|Hiii hi hi hi !|T-trop drôle !!!{attente}{page}{fin}
+@05829	Noooon !|C-c'est pas vrai !!|Ça m'a échappé, j'ai dit|le fond de ma pensée !{attente}{page}{fin}
+@05830	Aïe aïe aïe, toute la classe|est morte de rire...{attente}|Premier jour, et déjà la|honte... Snif, snif...{attente}{page}{fin}
+
+; ---- sortie aux cerisiers
+@05831	(Course d'orientation){n}{fin}
+@05832	Pour mieux se connaître,|toute la classe était|partie en sortie dans|la forêt des cerisiers.{attente}{page}{fin}
+@05833	Celle-là, c'était peut-être|{E04} !{attente}|Je me précipite|à sa poursuite !{attente}{page}{fin}
+@05834	・|・|Rien à faire...{attente}|Je l'ai perdue...{attente}{page}{fin}
+@05835	Après avoir perdu de vue|celle qui ressemblait à|{E04}, je contemplais|les cerisiers, rêveur...{attente}{page}{fin}
+@05836	Les cerisiers du Japon|sont magnifiques !{attente}{page}{fin}
+@05837	Hi !|Tu es {F01} {F00}-kun,|c'est ça ? Moi, je suis...{attente}{page}{fin}
+@05838	{E09} Okada-san...|c'est bien ça ?{attente}{page}{fin}
+@05839	Comment ça, « du Japon » ?|Tu as déjà vu des cerisiers|ailleurs qu'au Japon ?{attente}{page}{fin}
+@05840	Oui, on en trouve un peu|partout, mais les plus|célèbres sont ceux de|Sacramento.{attente}{page}{fin}
+@05841	Sacra-quoi ? Jamais|entendu parler ! C'est en|Chine ? Tu y es allée|en voyage ?{attente}{page}{fin}
+@05842	Ensuite, {E09} m'a raconté|plein de choses...{attente}|Pas des voyages, non :|elle a vécu à l'étranger.{attente}{page}{fin}
+@05843	Elle a suivi son père|au gré de ses mutations,|des États-Unis jusqu'en|Allemagne. Pas facile...{attente}{page}{fin}
+@05844	Et j'ai même appris que|Sacramento est une ville|américaine célèbre|pour ses cerisiers...{attente}{page}{fin}
+@05845	C'était sympa !{attente}|{F03}, tu es|vraiment quelqu'un de drôle !{attente}{page}{fin}
+@05846	Alors, pour cette année|dans la même classe,|je compte sur toi !{attente}{page}{fin}
+@05847	Sur ces mots, {E09} m'a|laissé pour aller discuter|avec d'autres filles|de la 1-B...{attente}{page}{fin}
+@05848	Pouvoir autant parler avec|la fille que je remarquais|depuis la cérémonie...|quelle chance !{attente}{page}{fin}
+@05849	Yo !|Moi, c'est Shiro Maeno !|Ma passion : les jeux vidéo !{attente}{page}{fin}

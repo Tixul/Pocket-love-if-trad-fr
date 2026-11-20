@@ -1,0 +1,362 @@
+; Lot 21 : plage, piscine, patinoire, colza (cache-cache), cerisiers, marché aux puces, tulipes, concerts,
+; fête de quartier (maison hantée), feu d'artifice, reggae, classique, matsutake, anniversaires ratés, mouchoir.
+@07536	L'an prochain, ce serait|sympa d'inviter d'autres|amis et de s'amuser|tous ensemble !{attente}{page}{fin}
+@07537	Hein~ ?! On sera pas juste|tous les deux ?!{attente}|Me fais pas ça...{attente}{page}{fin}
+@07538	Elle insiste sur le « tous|les deux » ? Ou pas ?|Va savoir...{attente}|Ça me travaille !{attente}{page}{fin}
+@07539	Sans inviter d'amis, rien|que nous deux, ce sera|sûrement plus amusant !{attente}{page}{fin}
+@07540	Bien sûr...|j'aimerais revenir chaque|année... juste nous deux♥{attente}{page}{fin}
+@07541	Oui, d'accord !|Si on peut y discuter|tranquillement, je veux|bien y aller !{attente}{page}{fin}
+@07542	Moi, j'avais envie de|nager...{attente}|Pour une fois qu'on est à|la mer, allons nager !{attente}{page}{fin}
+@07543	Oh, vraiment ?{attente}|Bonne idée !|Allons-y tout de suite !{attente}{page}{fin}
+@07544	On vient à la mer et tu|ne comptes pas nager... ?{attente}|Moi, j'ai envie de nager !{attente}{page}{fin}
+@07545	Quand on vient à la mer,|j'ai l'impression qu'il va|se passer quelque chose...|C'est excitant !{attente}{page}{fin}
+@07546	Une belle rencontre...|un amour d'été...|ça fait battre le cœur !{attente}{page}{fin}
+@07547	« Quelque chose »... entre|elle et moi ?{attente}|Ou alors autre chose... ?{attente}|Aaah, ça me travaille !{attente}{page}{fin}
+@07548	Par exemple, entre {F05}|et...{attente} Oh, non, voyons !{attente}|Rien, rien ! Hihi !{attente}{page}{fin}
+@07549	Entre nous aussi, il va|sûrement se passer|quelque chose...{attente}|J'en ai le cœur qui bat♥{attente}{page}{fin}
+@07550	C'est vrai ? C'est vrai ?{attente}|Nyaha~ ! Shinozawa adore|papoter~ !{attente}{page}{fin}
+@07551	Avec {F06}, on va|papoter à fond sur les|rochers, ça va être|trop bien~ !{attente}{page}{fin}
+@07552	Bouuuh !!{attente} Shinozawa,|elle veut se prélasser|sur la plage~ !{attente}{page}{fin}
+@07553	Bonne idée !{attente} Si on peut|y parler tranquillement...|j'ai bien envie d'y aller !{attente}{page}{fin}
+@07554	On est venus jusqu'ici|et tu ne veux pas nager ?{attente}|Moi, j'aimerais bien...{attente}{page}{fin}
+@07555	Ouaaah ! Il y a un coin|pareil ?! J'savais pas !!{attente}|Bon ben, on y va vite !{attente}{page}{fin}
+@07556	Hmmm ?!|Tu prépares pas un coup ?!{attente}|C'est louche, çaaa !{attente}{page}{fin}
+@07557	Nan, je blague !{attente}|Mais moi, franchement,|j'ai envie de nager !{attente}{page}{fin}
+@07558	Pfiou, elle m'a fait peur !{attente}|Mais si elle le dit comme|ça, je peux pas insister...{attente}{page}{fin}
+@07559	(Incident à la piscine){n}{fin}
+@07560	Au bord de la piscine, on|s'amusait à s'éclabousser|et à jouer dans l'eau...{attente}{page}{fin}
+@07561	Jouer dans l'eau comme ça,|ça me rappelle quand|j'étais petite !{attente}{page}{fin}
+@07562	Avec les copains du|quartier, on sortait une|piscine gonflable devant|la maison !{attente}{page}{fin}
+@07563	Ça me manque...|Qu'est-ce qu'ils deviennent,|tous ?{attente}{page}{fin}
+@07564	Et voilà, perdue dans ses|souvenirs...{attente} Elle a oublié|qu'on a rendez-vous ?{attente}|...Ça me fend le cœur...{attente}{page}{fin}
+@07565	Jouer dans l'eau ensemble|comme ça, ça te rappelle|pas ton enfance ?{attente}{page}{fin}
+@07566	Je sais pas, c'est trop|marrant !{attente}|On oublie tout et on joue !|Haha !{attente}{page}{fin}
+@07567	On dirait qu'elle tient|vraiment à jouer avec|moi... J'ai un peu de|chance, là !{attente}{page}{fin}
+@07568	Les gens qui ont connu|{F04} petit...{attente}{page}{fin}
+@07569	Les gens qui ont connu|{F04} petit...|je les envie un peu...{attente}{page}{fin}
+@07570	Je crois que je vais|être jalouse...|...Haha♥{attente}{page}{fin}
+@07575	On s'amusait à faire du|patin à glace...{attente}{page}{fin}
+@07576	Dis, {F04} !|Transpirer ensemble,|ça fait du bien, hein !{attente}{page}{fin}
+@07577	Le patin à glace, c'est|plutôt marrant, en fait !{attente}|Je refais un tour !{attente}{page}{fin}
+@07578	C'est le sport avec moi|qui compte...{attente} ou juste|de transpirer...{attente}|Hmm, ça me travaille !{attente}{page}{fin}
+@07579	Quand on fait du sport|ensemble, j'ai l'impression|que nos cœurs se|comprennent !{attente}{page}{fin}
+@07580	Hein, ça veut dire...{attente}|qu'elle sent nos cœurs|se comprendre ?{attente}{page}{fin}
+@07581	Si c'est ça...|je suis super content !{attente}{page}{fin}
+@07582	Allez, on patine encore !{attente}|Vite, viens !{attente}{page}{fin}
+@07583	Mizuki m'a pris le bras|et m'a entraîné sur|la glace...{attente}{page}{fin}
+@07584	...Un contact si naturel,|comme ça...{attente}|Je suis tout ému !{attente}{page}{fin}
+@07585	En voyant ce champ de|colza en fleur à perte de|vue, j'ai eu envie de jouer|à cache-cache...{attente}{page}{fin}
+@07586	{FFB}Proposer un cache-cache{n}　Laisser tomber{fin}
+@07587	Dis, si on jouait à|cache-cache dans le|champ de colza ?{attente}{page}{fin}
+@07588	Oh ! Ça a l'air amusant !{attente}|J'ai bien envie d'essayer !{attente}{page}{fin}
+@07589	Bon, on fait un chifoumi !{attente}|Chi...{attente} fou...{attente} mi !{attente}|Ah, j'ai perdu...{attente}{page}{fin}
+@07590	C'est {F03} qui cherche !|Ferme bien les yeux, hein !|...Hihi !{attente}{page}{fin}
+@07591	Et on a commencé|notre cache-cache...{attente}{page}{fin}
+@07592	Si on casse des fleurs,|ce serait triste pour elles...{attente}|On laisse tomber, d'accord ?{attente}{page}{fin}
+@07593	(Cache-cache){n}{fin}
+@07594	Retenant mon souffle,|j'avançais doucement|à travers le colza...{attente}{page}{fin}
+@07595	Ah !{attente} Ce bruit...{attente}|C'est par là...{attente}|Sans un bruit, je me suis|glissé de ce côté...{attente}{page}{fin}
+@07596	・|・|Et puis...{attente}{page}{fin}
+@07597	Trouvée !!{attente}{page}{fin}
+@07598	J'ai écarté le colza et|fait un pas en avant... !{attente}{page}{fin}
+@07599	Elle a voulu s'enfuir,|affolée, et nos pieds se|sont pris dans le colza|touffu... on est tombés !{attente}{page}{fin}
+@07600	Enveloppés par les fleurs|de colza, un précieux|moment rien qu'à nous deux|commençait...{attente}{page}{fin}
+@07601	On contemplait en silence|le champ de colza à perte|de vue...{attente}{page}{fin}
+@07602	C'est vraiment magnifique !{attente}|Je suis si contente qu'on|ait rendez-vous dans un|endroit aussi beau !{attente}{page}{fin}
+@07603	Vraiment, ça me fait rêver|......Hihi !{attente}{page}{fin}
+@07604	Elle est contente de le voir|avec moi ?{attente}|Ou juste d'avoir vu un joli|champ de colza ?{attente}{page}{fin}
+@07605	Une page de souvenirs|rien qu'à {F03} et moi !{attente}{page}{fin}
+@07606	J'ai l'impression qu'avec|{F03}, on s'est encore|rapprochés d'un pas...|J'en suis si heureuse♥{attente}{page}{fin}
+@07607	Haha, un cache-cache !|Ça a l'air marrant !{attente}|Allez, je joue !{attente}{page}{fin}
+@07608	Tu me trouveras jamais !{attente}|Hahaha !{attente}{page}{fin}
+@07609	C'est pas vraiment le genre|de truc à faire ici,|je trouve...{attente}{page}{fin}
+@07610	Un cache-cache, ici ?{attente}|C'est un peu gamin...{attente}|mais pour une fois,|pourquoi pas !{attente}{page}{fin}
+@07611	Bon, on fait un chifoumi !{attente}|Chi...{attente} fou...{attente} mi !{attente}|Ouais ! J'ai gagné !{attente}{page}{fin}
+@07612	Oh, j'ai perdu !{attente}|Cache-toi bien, sinon je|vais te trouver tout de|suite !{attente}{page}{fin}
+@07613	Hahaha ! Pas encore !{attente}{page}{fin}
+@07614	Dans un endroit si beau,|jouer comme des gamins...{attente}|Tu n'as aucun sens|de l'ambiance !{attente}{page}{fin}
+@07615	Je me cachais dans le|colza, en retenant mon|souffle...{attente}{page}{fin}
+@07616	Ah !{attente} Ce bruit...{attente}|Je l'ai sentie approcher,|alors j'ai commencé|à changer de cachette...{attente}{page}{fin}
+@07617	Elle a écarté le colza|et a bondi sur moi !{attente}{page}{fin}
+@07618	J'ai voulu m'enfuir,|affolé, et nos pieds se|sont pris dans le colza|touffu... on est tombés !{attente}{page}{fin}
+@07619	Kyaaa~ ! Ça, c'est une|idée géniale~ !{attente}|Shinozawa joue aussi~ !!{attente}{page}{fin}
+@07620	Funiii~, j'ai perdu~ !{attente}|Shinozawa va chercher~ !{attente}|C'est bon~ ? J'arriiive~ ?!!{attente}{page}{fin}
+@07621	Kyaaa~ !|Y a des pucerons qui vont|s'accrocher, Shinozawa|passe son tour~ !{attente}{page}{fin}
+@07622	Nyahaha~ !|Je t'ai trouvé~ !{attente}{page}{fin}
+@07623	Hide-and-seek ! Ça a|l'air amusant !{attente}|D'accord, on y joue !{attente}{page}{fin}
+@07624	Tu m'apprends la version|japonaise ?{attente}|C'est très différent ?{attente}{page}{fin}
+@07625	Je lui ai expliqué les|règles en deux mots...{attente}{page}{fin}
+@07626	On dit « pas encore »,|c'est ça ?{attente}|Pas encore ! Pas encore !{attente}|...Hihi !{attente}{page}{fin}
+@07627	Les jeux japonais...|je ne comprends pas bien|toutes les petites règles...{attente}{page}{fin}
+@07628	Ahaaa ! Trop bien !{attente}|Y a personne, on va|s'éclater à fond !!{attente}{page}{fin}
+@07629	Grrr ! Moi qui suis|si forte pour me cacher !{attente}{page}{fin}
+@07630	Mais je vais te trouver,|c'est sûr et certain !{attente}{page}{fin}
+@07631	Hein ! Ça...|je passe !{attente}{page}{fin}
+@07632	C'est ça, je suis petite,|je me cache facilement !{attente}|J'ai pas envie, nan !{attente}{page}{fin}
+@07633	Hop ! {F08} !|Au nom de la loi,|je t'arrête !!{attente}{page}{fin}
+@07634	Il est trop beau, ce colza !{attente}|Trop contente d'avoir|rendez-vous ici !{attente}{page}{fin}
+@07635	Ce jaune, tu vois...{attente}|rien qu'à le regarder,|ça apaise le cœur !{attente}{page}{fin}
+@07636	Elle est contente pour le|colza, plus que d'être|avec moi...{attente} C'est triste...{attente}{page}{fin}
+@07637	Contente d'être avec moi ?|Ou contente pour le colza ?|...{attente}Aaah, ça me travaille !{attente}{page}{fin}
+@07638	Trop contente d'avoir|admiré ce beau paysage|avec {F08} !{attente}{page}{fin}
+@07639	Passer ce moment avec|{F08}, rien que nous|deux, dans un paysage|si beau...{attente}{page}{fin}
+@07640	c'est le bonheur total...|et mon cœur s'emballe...{attente}|Héhé♥{attente}{page}{fin}
+@07644	{E0A}, sous la pluie de|pétales, était éblouissante...|Mon cœur s'est emballé !{attente}{page}{fin}
+@07645	Dans la forêt des cerisiers,|on passait un moment|tranquille...{attente}{page}{fin}
+@07646	Les pétales qui dansent|dans le vent...|c'est vraiment beau...{attente}{page}{fin}
+@07647	Un rendez-vous dans un|endroit aussi beau...|ça me fait plaisir !{attente}{page}{fin}
+@07648	Une pluie de pétales|grand spectacle, digne|d'un film de samouraïs !{attente}|Ça apaise le cœur !{attente}{page}{fin}
+@07649	Haaa, c'est trop beau !{attente}|J'ai même pas de mots...|...ça me fait rêver !{attente}{page}{fin}
+@07650	{E04}, sous la pluie de|pétales, était comme...|éblouissante...{attente}|Mon cœur s'est emballé !{attente}{page}{fin}
+@07651	On se promenait tous les|deux tranquillement dans|le marché aux puces...{attente}{page}{fin}
+@07652	Un rendez-vous relax|comme ça, c'est sympa !{attente}{page}{fin}
+@07653	Ah, attends-moi deux|secondes ! Je vais voir|les fripes !{attente}{page}{fin}
+@07654	Elle parle de rendez-vous|et elle me plante là...{attente}|C'est un peu trop relax...{attente}|...C'est triste...{attente}{page}{fin}
+@07655	Faire le tour du marché|aux puces ensemble,|c'est vraiment excitant !{attente}{page}{fin}
+@07656	Excitant parce qu'elle est|avec moi... ou parce que|c'est un marché aux puces|...{attente} Ça me travaille !{attente}{page}{fin}
+@07657	Le marché aux puces avec|{F05}, c'est encore plus|amusant que d'habitude !{attente}{page}{fin}
+@07658	Viens, {F05} !|Par ici, par ici !{attente}|Ça a l'air d'avoir de|chouettes fripes !{attente}{page}{fin}
+@07659	Yumi m'a pris par le bras|et m'a entraîné en courant|à travers les stands...{attente}{page}{fin}
+@07660	On dirait qu'on est tous|les deux dans un énorme|magasin de jouets~ !|C'est trop bien~ !{attente}{page}{fin}
+@07661	Kyaaa~ !{attente}|Des jouets en fer-blanc~ !{attente}|Shinozawa en veut, nya~ !{attente}{page}{fin}
+@07662	C'est bien parce qu'on est|tous les deux, ou parce|que c'est la brocante ?{attente}|Hmm, ça me travaille !{attente}{page}{fin}
+@07663	Nyahaha~ !{attente} On dirait|un énorme magasin de|jouets, ici~ !{attente}{page}{fin}
+@07664	Être ici avec {F06},|rien que nous deux,|Shinozawa trouve ça|trop trop bien~ !{attente}{page}{fin}
+@07665	On admirait tranquillement|le champ de tulipes...{attente}{page}{fin}
+@07666	Tu sais, moi...|un rendez-vous dans|un champ de fleurs...{attente}{page}{fin}
+@07667	depuis toute petite...|j'en rêvais !{attente}{page}{fin}
+@07668	Mon rêve s'est réalisé,|je suis si contente !{attente}|Merci...|{F03}{attente}{page}{fin}
+@07669	Parmi les fleurs de toutes|les couleurs, {E04}|souriait, éblouissante...{attente}|Mon cœur s'est emballé !{attente}{page}{fin}
+@07670	Waouh ! C'est beau !{attente}|On se croirait en Hollande !{attente}{page}{fin}
+@07671	Regarder le ciel la nuit,|c'est chouette aussi...{attente}{page}{fin}
+@07672	mais un champ de fleurs en|plein jour, c'est super|romantique aussi !{attente}{page}{fin}
+@07673	Parmi les fleurs de toutes|les couleurs, Mizuki souriait,|rêveuse, éblouissante{attente}...|Mon cœur s'est emballé !{attente}{page}{fin}
+@07674	Tu sais, regarder des|jolies fleurs comme ça...|ça repose le cœur !{attente}{page}{fin}
+@07675	Devant des fleurs aussi|belles, on peut pas faire|les fous ni chahuter|...hein♥{attente}{page}{fin}
+@07676	Parmi les fleurs, {E0A},|plus sage que d'habitude,|était éblouissante{attente}, et|mon cœur s'est emballé !{attente}{page}{fin}
+@07677	Dans la salle de concert,|on était à fond dedans !{attente}{page}{fin}
+@07678	Dis, {F04} !|Quelle ambiance de folie !{attente}{page}{fin}
+@07679	Heureusement qu'on aime|le même artiste !{attente}{page}{fin}
+@07680	Aller au concert de|Mr. Kid avec {F04},|c'est le top !{attente}{page}{fin}
+@07681	Mizuki m'a crié toute sa|joie !{attente}|J'ai l'impression d'avoir vu|une autre facette d'elle !{attente}{page}{fin}
+@07682	Un rendez-vous au concert|de Mr. Kid ? J'ai été|vraiment surprise !{attente}{page}{fin}
+@07683	Mais c'est super amusant !{attente}|C'est le concert d'un|artiste que j'adore !{attente}{page}{fin}
+@07684	Partager cette émotion|avec {F07}, ça me|rend heureuse !{attente}{page}{fin}
+@07685	{E09} m'a crié toute sa|joie !{attente}|J'ai l'impression d'avoir vu|une autre facette d'elle !{attente}{page}{fin}
+@07690	Ah ! Une maison hantée !{attente}|Il pourrait s'y passer|quelque chose... ça a l'air|marrant...{attente}{page}{fin}
+@07691	{FFB}Proposer d'y entrer{n}　Laisser tomber{fin}
+@07692	Dis ! Ça a l'air marrant,|on passe faire un tour|dans la maison hantée ?{attente}{page}{fin}
+@07693	Hein ! La maison hantée ?{attente}|{E04} a peur...|elle veut pas...{attente}{page}{fin}
+@07694	Mais...{attente}|si {F03} reste|près de moi...{attente}{page}{fin}
+@07695	Ça fait un peu froid dans|le dos, mais...{attente}|je veux bien y aller...{attente}{page}{fin}
+@07696	Génial !|J'ai trop hâte !!{attente}|Allez, on entre !!{attente}{page}{fin}
+@07697	Prudemment, on est entrés|dans la sinistre maison|hantée...{attente}{page}{fin}
+@07698	Hein ! La maison hantée ?{attente}|J'ai trop peur, c'est non !{attente}{page}{fin}
+@07699	...Refusé tout net...|Quelle déception...{attente}{page}{fin}
+@07700	C'est vrai, les filles|n'aiment pas avoir peur...{attente}|Je vais pas la forcer, la|pauvre... Allons ailleurs !{attente}{page}{fin}
+@07701	Hein ?{attente} O-ouais...{attente}|Je veux bien essayer...{attente}{page}{fin}
+@07702	Mais tu restes près de moi,|d'accord ?{attente} En fait...|j'ai horreur d'avoir peur...{attente}{page}{fin}
+@07703	Euh...{attente} Moi, ce genre|de truc, j'aime pas trop...|alors je passe !{attente}{page}{fin}
+@07704	Une maison hantée...{attente}|Ç-ça a l'air marrant !|On peut y aller !{attente}{page}{fin}
+@07705	Oh, désolée...{attente}|Les trucs de gamins comme|ça, pas aujourd'hui.{attente}{page}{fin}
+@07706	Nyaha ! Trop marrant~ !{attente}|Quels petits fantômes|on va trouver~ ?{attente}{page}{fin}
+@07707	En route pour l'expédition|chasse aux fantômes~ !|Nyahoooi~ !{attente}{page}{fin}
+@07708	Funyafunya~{attente} Shinozawa|préfère les bonbons à|découper à ce truc nul~ !{attente}{page}{fin}
+@07709	Euh... j'ai...|un peu peur...{attente}|Comment faire...{attente}{page}{fin}
+@07710	Si tu me promets de ne|pas me laisser toute seule...{attente}{page}{fin}
+@07711	alors je veux bien|venir avec toi...{attente}{page}{fin}
+@07712	Je préfère faire le tour|des stands et profiter de|la fête...{attente}|La maison hantée, non.{attente}{page}{fin}
+@07713	Une maison hantée !{attente}|Le grand classique de l'été !|On y va, on y va !{attente}{page}{fin}
+@07714	Moi, contre des fantômes,|je perds jamais, nan !{attente}{page}{fin}
+@07715	Nan nan nan !|À la fête, ce qui compte,|c'est le stand de tir !{attente}|On y va ! Au tir !{attente}{page}{fin}
+@07716	Ha, haha...|Ç-ça fait plus d'effet|que prévu, hein... Haha...{attente}{page}{fin}
+@07717	J-j'ai peur, finalement...{attente}|Un fantôme pourrait...|surgir d'un instant à|l'autre...{attente}{page}{fin}
+@07718	T'inquiète pas...|je suis là...{attente}{page}{fin}
+@07719	Ah ! Kyaaaah !!{attente}{page}{fin}
+@07720	Ah ! {E04} !?{attente}{page}{fin}
+@07721	Oh non ! C'est grave !|Je l'ai perdue de vue !!{attente}{page}{fin}
+@07722	{F03}... je suis là...|a-aide-moi...{attente}|Mes jambes me lâchent...{attente}{page}{fin}
+@07723	・|・|J'ai porté {E04} sur mon|dos jusqu'à la sortie...{attente}{page}{fin}
+@07724	Contre mon dos, je sentais|le corps tout doux de|{E04} et son cœur qui|battait à tout rompre...{attente}{page}{fin}
+@07725	{F03}...|pardon...{attente}{page}{fin}
+@07726	Mais le dos de {F03}...|il est tout chaud...{attente}|Je me sens rassurée...{attente}{page}{fin}
+@07727	La voix de {E04}, mêlée|à son souffle, me|chatouillait l'oreille...{attente}{page}{fin}
+@07728	Le contact de son corps,|ses mots si doux...|mon cœur battait|la chamade...{attente}{page}{fin}
+@07729	Waah ! Nooon !{attente}{page}{fin}
+@07730	Ah ! Mizuki !?{attente}{page}{fin}
+@07731	Euh, d-dis...|{F04}...{attente}|je suis là...{attente}{page}{fin}
+@07732	Je... euh...|m-mes jambes...|me lâchent...{attente}{page}{fin}
+@07733	・|・|J'ai porté Mizuki sur mon|dos jusqu'à la sortie...{attente}{page}{fin}
+@07734	Contre mon dos, je sentais|son corps souple et son|cœur qui battait|à tout rompre...{attente}{page}{fin}
+@07735	Pardon...|je t'ai embêté...{attente}{page}{fin}
+@07736	Mais quand tu me portes|comme ça...{attente}|je me sens rassurée...{attente}{page}{fin}
+@07737	Un peu calmée, sans doute,|Mizuki me chatouillait|l'oreille de sa voix mêlée|à son souffle...{attente}{page}{fin}
+@07738	Le contact de son corps,|sa voix si douce...{attente}|tout m'enflammait, et mon|cœur battait la chamade...{attente}{page}{fin}
+@07739	O-oui...|ça fait peut-être plus|peur que prévu...{attente}{page}{fin}
+@07740	Kyaah ! Nooon !{attente}{page}{fin}
+@07741	Y-Yumi... ?|Qu'est-ce qui t'arrive ?!{attente}{page}{fin}
+@07742	Non... je veux plus...|Aaah ! Nooon !{attente}{page}{fin}
+@07743	J'ai eu trop peur...{attente}{page}{fin}
+@07744	Yumi avait la voix|pleine de larmes...{attente}{page}{fin}
+@07745	Quand je lui ai caressé|doucement les cheveux,{attente}|Yumi a semblé se calmer|un peu...{attente}{page}{fin}
+@07746	Yumi, mignonne comme|une petite fille...|Je ne l'aurais jamais cru...{attente}{page}{fin}
+@07747	Elle était si touchante{attente},|si chère à mon cœur, que|je n'y tenais plus...{attente}{page}{fin}
+@07748	J'ai guidé Yumi, toute|abattue, vers la sortie...|・|・{attente}{page}{fin}
+@07749	Tu trouves~ ?{attente}|Shinozawa trouve ça|plutôt marrant~ !{attente}{page}{fin}
+@07750	Ah ! Regarde~ !{attente}|Le squelette, là-bas~ !{attente}{page}{fin}
+@07751	Regarde~ ? Nyahaha~ !{attente}|Il a pas froid aux os,|celui-là~ ! Nyahaha~ !{attente}{page}{fin}
+@07752	Nyahahahahahaha|nyaha !{attente} Hein~ ?|Shinozawa est bizarre~ !{attente}{page}{fin}
+@07753	J'arrive plus à m'arrêter~ !|Nyahahahahahaha !|Nyaha ! Nyahaha !{attente}{page}{fin}
+@07754	Hiii, {F06}~ !|Au secours~ hihihi !|Muhya ! Nyahi !{attente}{page}{fin}
+@07755	Pliée de rire, {E08}...|s'est cramponnée à|mon bras !!{attente}{page}{fin}
+@07756	Hahi ! Hihahahaha !|Uhihihihihihi !|Muhohohohoho{attente}{page}{fin}
+@07757	Nyaha ! Nyahaha !|Shinozawa rigole trop,|elle va en mourir~{attente}{page}{fin}
+@07758	C'est vrai, les fantômes|sont de la camelote...|alors, drôle, si on veut,|c'est drôle, mais...{attente}{page}{fin}
+@07759	Pendant que je me disais|ça, {E08} me serrait|le bras sans le lâcher...{attente}{page}{fin}
+@07760	Contre mon bras, je sentais|la douceur de sa poitrine...|J'en ai sursauté !{attente}{page}{fin}
+@07761	Nooon hahahahaha|Kyaaa hahahahaha|Au secouuurs héhéhéhé{attente}{page}{fin}
+@07762	Sentant la chaleur de|{E08} contre mon bras,|j'ai supporté ses éclats de|rire jusqu'à la sortie...{attente}{page}{fin}
+@07763	Pas « plus que prévu »...{attente}|Ça fait... vraiment peur !{attente}{page}{fin}
+@07764	Les fantômes japonais...|pourquoi ils font aussi|peur ?!{attente}{page}{fin}
+@07765	Kyaaaaah !{attente}{page}{fin}
+@07766	Wah ! Euh, d-dis !|M-{E09} !?{attente}{page}{fin}
+@07767	Effrayée par un bruit,|{E09} s'est jetée|dans mes bras !!{attente}{page}{fin}
+@07768	Non ! Non !|Ne me lâche pas !!|J'ai peur !{attente}{page}{fin}
+@07769	Le corps tout doux de|{E09} se pressait|contre le mien...{attente}{page}{fin}
+@07770	Les battements affolés de|son cœur{attente}, son souffle|brûlant de peur...{attente} je|les sentais contre moi !{attente}{page}{fin}
+@07771	Au moment où j'allais|la serrer à mon tour...{attente}{page}{fin}
+@07772	Oh... euh !|P-pardon !|Qu'est-ce qui m'a pris...{attente}{page}{fin}
+@07773	{E09} s'est vite écartée|de moi et a baissé la tête,|toute gênée...{attente}{page}{fin}
+@07774	Euh... je...|je vais te suivre derrière,|laisse-moi m'accrocher...{attente}{page}{fin}
+@07775	{E09} est passée derrière|moi et a agrippé ma|chemise...{attente}{page}{fin}
+@07776	En allant vers la sortie,|je ne pouvais m'empêcher|de repenser au contact|du corps de {E09}...{attente}{page}{fin}
+@07777	Hmm ? Hein~ ?|T'aurais pas peur, toi ?{attente}|Trouillard, en fait !{attente}{page}{fin}
+@07778	Et toi, {E0A}, t'as pas|peur ? Tu trembles, non ?{attente}{page}{fin}
+@07779	Hein ! J-je tremble pas|du tout, d'abord !{attente}{page}{fin}
+@07780	Waaah !|Te voilà, toi !!|Je vais t'abattre !!{attente}{page}{fin}
+@07781	Hiyaaaaah !!!|Kiaaaaaïïï !!{attente}|Tiens ! Prends ça !{attente}{page}{fin}
+@07782	Ah, K-{E0A} !!|Fais pas ça, ça craint !!{attente}{page}{fin}
+@07783	{E0A} a attaqué les|fantômes à coups de|genou sautés et de|manchettes de karaté !{attente}{page}{fin}
+@07784	Oups !!!|Le fantôme est cassé !!|Ça craint grave !!{attente}{page}{fin}
+@07785	{F08} !|O-o-on se tire !|Sprint !!!{attente}{page}{fin}
+@07786	{E0A} m'a empoigné la|main et s'est mise à|courir à toute vitesse !{attente}{page}{fin}
+@07787	Sa toute petite main|était moite de sueur,|et elle tremblait...{attente}{page}{fin}
+@07788	Jusqu'à la sortie, j'ai|serré doucement cette|petite main tremblante...{attente}{page}{fin}
+@07789	On faisait le tour des|stands de la fête, et on|s'amusait bien...{attente}{page}{fin}
+@07790	Un rendez-vous à la fête,|c'est le top~ !{attente}|La fête, c'est l'âme du|Japon~ !{attente}{page}{fin}
+@07791	Bon~, maintenant, on|s'applique à la pêche aux|poissons rouges~ !|Nyahahaha !{attente}{page}{fin}
+@07792	On dirait que la fête|l'amuse plus que notre|rendez-vous...{attente}|C'est triste...{attente}{page}{fin}
+@07793	C'est la fête qui est le|top{attente}, ou le rendez-vous ?{attente}|C'est ça que j'aimerais|savoir...{attente}{page}{fin}
+@07794	Venir à la fête avec|{F06}, juste nous deux...|Shinozawa a de la|chance~ !{attente}{page}{fin}
+@07795	Un rendez-vous plein de|charme avec {F06}...|Shinozawa est comblée~♥{attente}{page}{fin}
+@07796	Les fêtes de quartier,|cette ambiance relax,|c'est le top !{attente}{page}{fin}
+@07797	Un rendez-vous aussi|marrant, j'aimerais qu'il|finisse jamais !{attente}{page}{fin}
+@07798	Faire le tour de la fête|avec {F08}, rien que|nous deux, c'est trop bien !{attente}{page}{fin}
+@07799	C'est moi qui l'amuse{attente},|ou c'est la fête ?{attente}|C'est ça que j'aimerais|savoir...{attente}{page}{fin}
+@07800	Je veux profiter encore|et encore de la fête|avec {F08} !{attente}{page}{fin}
+@07801	Mais...|avec {F08}...|...{attente}{page}{fin}
+@07802	je m'amuse tout le temps,|alors ça va...♥{attente}{page}{fin}
+@07815	Les feux d'artifice qui|éclataient nous teintaient|de mille couleurs...{attente}{page}{fin}
+@07816	Oh ! Quels beaux feux|d'artifice ! C'est|magnifique !{attente}{page}{fin}
+@07817	J'aimerais que ça dure|toujours comme ça...{attente}{page}{fin}
+@07818	Si seulement le feu|d'artifice ne finissait|jamais...{attente}{page}{fin}
+@07819	On est venus tous les deux,|mais elle ne voit que le feu|d'artifice, elle m'oublie...{attente}|C-c'est triste...{attente}{page}{fin}
+@07820	Hein ! « Comme ça »...{attente}|avec moi ? Ou à regarder|le feu d'artifice... ?{attente}|Hmm, ça me travaille !{attente}{page}{fin}
+@07821	Je voudrais regarder le feu|d'artifice avec {F03}|pour toujours...{attente}{page}{fin}
+@07822	Dis, {F03}...|il est beau, ce feu|d'artifice...{attente}{page}{fin}
+@07823	J'aimerais que ça dure|toujours comme ça...{attente}{page}{fin}
+@07824	Avec {F03}...|pour toujours...♥{attente}{page}{fin}
+@07825	Un feu d'artifice à deux,|c'est vraiment génial !{attente}{page}{fin}
+@07826	Que c'est beau !|Oh ! Un saule pleureur !{attente}|Génial !{attente}{page}{fin}
+@07827	Génial parce qu'on est|deux ?{attente} Ou pour le feu ?{attente}|...Lequel des deux ?{attente}|Ça me travaille trop !{attente}{page}{fin}
+@07828	C'est génial parce que je|le regarde avec {F05} !|Sûrement !{attente}{page}{fin}
+@07829	Parce que c'est si|romantique...{attente}|Je me sens heureuse♥{attente}{page}{fin}
+@07830	Oooh, la belle bleue~ !{attente}|Hmm~, toute seule, ça|manque de punch~ !{attente}{page}{fin}
+@07831	Les feux d'artifice, c'est|plus marrant à regarder|en criant avec plein de|monde~...{attente}{page}{fin}
+@07832	On est venus à deux,|et elle me sort ça...|...c'est trop cruel !!{attente}{page}{fin}
+@07833	Les feux d'artifice, c'est|plus marrant avec plein|de monde~{attente}|......{attente}{page}{fin}
+@07834	Ah, mais à deux, c'est plus|marrant que tout seul,|hein~ ! Nyahaha...{attente}{page}{fin}
+@07835	Shinozawa pense que|les feux d'artifice, c'est|plus marrant avec plein|de monde~{attente}{page}{fin}
+@07836	Mais aujourd'hui, y a|le bonheur d'être avec|{F06}, alors ça va~ !{attente}{page}{fin}
+@07837	Les feux d'artifice, c'est|plus marrant avec plein|de monde~ !{attente}{page}{fin}
+@07838	Mais aujourd'hui, plutôt|que les feux d'artifice,|Shinozawa regarde le|visage de {F06}~ !{attente}{page}{fin}
+@07839	Elle le fixe, comme ça~ !|Shinozawa se sent toute|heureuse~ !{attente}|Nyaha~♥{attente}{page}{fin}
+@07840	La salle de concert était|bouillante, l'ambiance|à son comble !{attente}{page}{fin}
+@07841	C'est peut-être parce que|c'est du reggae, mais|ça me met en transe !{attente}{page}{fin}
+@07842	YO-YO-YO !{attente}|Je rigole ! Hihi !{attente}{page}{fin}
+@07843	Et voilà, elle n'a plus|que le concert en tête...{attente}|Elle a oublié qu'elle est|en rendez-vous avec moi ?{attente}{page}{fin}
+@07844	Je suis bien chauffée,|j'ai envie de danser|avec {F05} !{attente}{page}{fin}
+@07845	Ce qui compte, c'est « avec|moi »{attente}, ou c'est « danser » ?{attente}|...Ça me travaille !{attente}{page}{fin}
+@07846	Ou alors, c'est d'être|avec {F05}...{attente} Non !|Rien, oublie !{attente}{page}{fin}
+@07847	Ah, la chanson suivante|commence !{attente}{page}{fin}
+@07848	Ou alors, c'est parce que|je suis avec {F05}...|Hihi♥{attente}{page}{fin}
+@07849	Un rendez-vous reggae,|c'est original, c'est|marrant~ !{attente} Nyahaha !{attente}{page}{fin}
+@07850	Plein de gens avec des|têtes de nœud~{attente}|Oups, je me suis trompée !|Des têtes à nœuds~ !{attente}{page}{fin}
+@07851	Hmm, ce qui l'entoure|l'intéresse plus que moi...|...Je me sens seul...{attente}{page}{fin}
+@07852	Voir du reggae avec|{F06}~, Shinozawa est|trop contente~ !{attente}{page}{fin}
+@07853	Contente pour le reggae ?{attente}|Ou de le voir avec moi ?{attente}|Tout est là, à mon avis...{attente}{page}{fin}
+@07854	Mais~, avec {F06}, même|du bon vieil enka, ce serait|sûrement marrant~ !{attente}{page}{fin}
+@07855	Un concert de reggae,|comme rendez-vous, c'est|original et marrant~{attente}{page}{fin}
+@07856	Mais avec {F06},|Shinozawa trouve tout|marrant, partout, tout|le temps~♥{attente}{page}{fin}
+@07857	Le concert de musique|classique se déroulait|dans une ambiance|paisible...{attente}{page}{fin}
+@07858	C'est beau...{attente}|La musique classique,|ça apaise le cœur...{attente}{page}{fin}
+@07859	J'aimerais que ça reste|toujours comme ça...{attente}{page}{fin}
+@07860	Elle est complètement|absorbée par le concert...{attente}|Elle a pas oublié qu'on est|en rendez-vous... ?{attente}{page}{fin}
+@07861	Écouter de la musique|classique ensemble,|comme ça...{attente}{page}{fin}
+@07862	ça me donne envie que|ça reste toujours|comme ça...{attente}{page}{fin}
+@07863	« Comme ça »...|avec moi ? Ou à écouter|du classique ?{attente}|Lequel des deux...{attente}{page}{fin}
+@07864	Écouter du classique|avec {F03}, à deux,|ça m'apaise !{attente}{page}{fin}
+@07865	J'aimerais que ça reste|toujours comme ça...{attente}|Nous deux, ensemble !{attente}{page}{fin}
+@07866	Non, en vrai...|être juste tous les deux,|ça me suffit peut-être♥{attente}{page}{fin}
+@07867	Un rendez-vous comme ça,|c'est vraiment agréable !{attente}{page}{fin}
+@07868	La musique classique,|rien que l'écouter,|ça apaise...{attente}{page}{fin}
+@07869	Écouter du classique|ensemble, tranquillement...|c'est si élégant !{attente}{page}{fin}
+@07870	Être avec moi, écouter|du classique... qu'est-ce|qui compte le plus ?{attente}|...Ça me travaille !{attente}{page}{fin}
+@07871	Un concert classique avec|{F07}, c'est encore plus|beau que d'habitude !{attente}{page}{fin}
+@07872	Écouter du classique, l'un|contre l'autre{attente}, ça a|quelque chose de spécial,|de merveilleux♥{attente}{page}{fin}
+@07880	(Cueillette de matsutake){n}{fin}
+@07881	On cherchait des|matsutake, tout à notre|cueillette...{attente}{page}{fin}
+@07882	En relevant la tête,|mon regard a croisé le sien{attente}|Les mots ne venaient pas...{attente}{page}{fin}
+@07883	Que dire... ? Seuls nos|sentiments débordaient...|On restait sans un mot,|à se regarder...{attente}{page}{fin}
+@07884	On s'amusait à cueillir|des matsutake...{attente}{page}{fin}
+@07885	Un rendez-vous inattendu|comme ça, c'est sympa,|hein !{attente}{page}{fin}
+@07886	Si j'en ramène plein, toute|la famille sera contente,|alors je vais assurer !{attente}{page}{fin}
+@07887	Ah... elle est tellement|prise par la cueillette|qu'elle m'a oublié...|C'est triste...{attente}{page}{fin}
+@07888	Cueillir des matsutake|avec {F04}, c'est|trop sympa !{attente}{page}{fin}
+@07889	C'est sympa parce que|c'est avec moi, ou c'est|la cueillette elle-même{attente}...|Ça me travaille !{attente}{page}{fin}
+@07890	Les matsutake qu'on a|cueillis à deux seront|sûrement les meilleurs|du monde !{attente}{page}{fin}
+@07891	Faire quelque chose à deux,|avec le même but... ça me|rend vraiment heureuse♥{attente}{page}{fin}
+@07892	Plein de champignons|bizarres, c'est trop|marrant~ !{attente}{page}{fin}
+@07893	Shinozawa va ramasser|plein plein de jolis~ !{attente}{page}{fin}
+@07894	{E08} m'a complètement|oublié, elle est à fond|dans sa cueillette !{attente}{page}{fin}
+@07895	Hein ? Des champignons|inconnus... ?{attente} C'est pas|dangereux, ça ?{attente} Je vais|la surveiller, au cas où !{attente}{page}{fin}
+@07896	Cueillir des matsutake|avec {F06}, Shinozawa|s'amuse trop~ !{attente}{page}{fin}
+@07897	Ça se mange, ça~ ?{attente}|C'est l'heure de la|dégustation~ !{attente}{page}{fin}
+@07898	Tu m'as fait peur, toi !{attente}|Ils sont peut-être toxiques,|alors me fais pas des|frayeurs pareilles !{attente}{page}{fin}
+@07899	...Pfiou...{attente}|Mais {E08}, quand elle fait|sa coquine comme ça, elle|est trop mignonne !{attente}{page}{fin}
+@07900	Y en a de toutes sortes...|S'il existait un champignon|de l'amour, ce serait|chouette, nya~ !{attente}{page}{fin}
+@07901	Si y en avait, Shinozawa|en ferait manger à {F06}|...nyaha♥{attente}{page}{fin}
+@07902	Nyahaha ! Je rigole~ !|Je t'ai fait peur~ ?{attente}{page}{fin}
+@07905	Dis, dis~ !|Le cadeau d'anniversaire|de Shinozawa, tu l'as|acheté~ ? Acheté~ ?{attente}{page}{fin}
+@07906	Shinozawa avait trop|trop hâte~ !{attente}{page}{fin}
+@07907	Aïe ! Mince !{attente}|C'est dur à dire, mais...|là, je ferais mieux de|m'excuser franchement...{attente}{page}{fin}
+@07908	Euh, d-dis... L'autre jour,|je t'ai promis un cadeau|d'anniversaire, mais...{attente}{page}{fin}
+@07909	Pardon !|Je suis à sec, j'ai rien|pu acheter...{attente}{page}{fin}
+@07910	Hyoeee~ !!|Shinozawa avait trop hâte...|Le choc total~ !{attente}{page}{fin}
+@07911	Shinozawa, le cœur brisé,|quitte la scène en pleurs~{attente}|Ouiiiin !!{attente}{page}{fin}
+@07912	{E08} est partie en|courant, en pleurant...{attente}{page}{fin}
+@07913	Aïe...|J'ai peut-être fait une|énorme bêtise...|......{attente}{page}{fin}
+@07914	Je n'avais pas pu acheter|le cadeau d'anniversaire|promis à {E0A}...{attente}{page}{fin}
+@07915	Pour m'excuser, je suis|resté un moment en classe|après les cours...{attente}|Et puis......{attente}{page}{fin}
+@07916	Finalement, il ne restait|plus que {E0A} et moi|dans la classe...{attente}{page}{fin}
+@07917	J'ai pas le cœur à ça...|mais je dois m'excuser...{attente}{page}{fin}
+@07918	Quoiii ?! Sérieux ?!{attente}|C'est pas vrai ! T'es nul !|Moi qui avais trop hâte !{attente}{page}{fin}
+@07919	Si t'avais pas d'argent,|fallait le dire dès|le début !{attente}{page}{fin}
+@07920	Me faire espérer pour|me laisser tomber...{attente}|Je veux plus te parler !{attente}{page}{fin}
+@07921	{E0A} est partie en|courant, en pleurant...{attente}{page}{fin}
+@07922	Alors que je passais dans|la cour derrière le lycée...{attente}{page}{fin}
+@07923	Tiens ? J'ai cru voir|{E04} à l'instant...|...J'ai rêvé ?{attente}{page}{fin}
+@07924	...Oh ? Il y a quelque chose|par terre, là-bas...{attente}{page}{fin}
+@07925	Ah, un mouchoir !|À qui il est... ?{attente}{page}{fin}
+@07926	...C'est peut-être celui|de {E04} !|Je vais le garder pour|l'instant...{attente}{page}{fin}
+@07927	J'ai ramassé le mouchoir|et je l'ai mis dans|ma poche...{attente}{page}{fin}

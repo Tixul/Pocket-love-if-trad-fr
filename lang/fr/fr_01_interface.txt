@@ -1,0 +1,47 @@
+; Interface (entrée 11). {>N} = caler la suite à N pixels (alignement des menus d'origine).
+
+; ---- saisie du profil (titres seulement : les claviers #6-#8 restent à faire)
+#0001	{>24}{F09}Ton nom de famille♥{n}{>24}{F0B}Nom{>60}{fin}
+#0002	{>24}{F09}Ton prénom♥{n}{>12}{F0B}Prénom{>60}{fin}
+#0003	{>24}{F09}Ton surnom♥{n}{>12}{F0B}Surnom{>60}{fin}
+
+; ---- planning de la semaine
+#0085	{>72}Planifions{n}{>72}la semaine !{n}{fin}
+#0086	{>72}Aujourd'hui,{n}{>72}c'est congé !{n}{fin}
+#0087	{>72}C'est l'heure{n}{>72}du rencard !{n}{fin}
+#0088	{>72}Étudier{fin}
+#0089	{>72}Se faire beau{fin}
+#0090	{>72}Karaoké{fin}
+#0091	{>72}Jeux vidéo{fin}
+#0092	{>72}Se détendre{fin}
+#0093	{>72}Club{fin}
+#0094	{>72}Petit boulot{fin}
+#0095	{>72}Suivant{fin}
+#0096	{>72}Retour{fin}
+#0097	{>72}Relations{fin}
+#0098	{>72}Infos{fin}
+#0099	{>72}Planning{fin}
+#0100	{>72}Album{fin}
+#0101	{>72}Sauvegarder{fin}
+#0102	{>72}Options{fin}
+#0103	{>72}Quitter{fin}
+#0104	{>72}Sortir{fin}
+#0105	{>72}Appeler{fin}
+#0106	C'est bon comme ça ?{n}{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0107	Activité de club ?{n}{n}{>88}A : Oui{n}{>88}B : Retour{fin}
+
+; ---- claviers de saisie du nom (codes « clavier » : grille de 12 px conservée)
+#0006	{clavier}ABCDEFGHIJ{n}KLMNOPQRST{n}UVWXYZ-'.!{n}abcdefghij{n}klmnopqrst{n}          {fin}
+#0008	{clavier}ÉÈÊËÀÂÎÏÔÛ{n}ÙÇŒ-'.!?  {n}éèêëàâäîïô{n}öûùüçœæ   {n}          {n}          {fin}
+#0010	{clavier}0123456789{n}-'.!?()&+={n}*#/%      {n}          {n}          {n}          {fin}
+#0007	{clavier}uvwxyz?   {n}éèêëàâäîïô{n}öûùüçœ    {n}ÉÈÊÀÂÎÔÇ  {n}0123456789{n}          {fin}
+#0009	{clavier}ÉÈÊËÀÂÎÏÔÛ{n}ÙÇŒ-'.!?  {n}éèêëàâäîïô{n}öûùüçœæ   {n}          {n}          {fin}
+#0011	{clavier}0123456789{n}-'.!?()&+={n}*#/%      {n}          {n}          {n}          {fin}
+
+; ---- anniversaire, groupe sanguin, récapitulatif (valeurs posées par le jeu à x fixe)
+#0078	{F09}Mois de naissance♥{n}{F0B}Mois{n}{n}{ja}　　1　　9{n}　　2　10{n}　　3　11{n}　　4　12{n}　　5{n}　　6{n}　　7{n}　　8{fr}{fin}
+#0079	{F09}Jour de naissance♥{n}{F0B}Jour{n}{n}{ja}　　1　　9　17　25{n}　　2　10　18　26{n}　　3　11　19　27{n}　　4　12　20　28{n}　　5　13　21　29{n}　　6　14　22{n}　　7　15　23{n}　　8　16　24{fr}{fin}
+#0080	{F09}Jour de naissance♥{n}{F0B}Jour{n}{n}{ja}　　1　　9　17　25{n}　　2　10　18　26{n}　　3　11　19　27{n}　　4　12　20　28{n}　　5　13　21　29{n}　　6　14　22　30{n}　　7　15　23{n}　　8　16　24{fr}{fin}
+#0081	{F09}Jour de naissance♥{n}{F0B}Jour{n}{n}{ja}　　1　　9　17　25{n}　　2　10　18　26{n}　　3　11　19　27{n}　　4　12　20　28{n}　　5　13　21　29{n}　　6　14　22　30{n}　　7　15　23　31{n}　　8　16　24{fr}{fin}
+#0082	{>12}{F09}Ton groupe sanguin♥{n}{>12}{F0B}Groupe{>84}{n}{n}{ja}　　A{n}　　B{n}　　AB{n}　　O{n}{n}{n}{fr}{fin}
+#0083	{>12}{F09}C'est bon comme ça ?{n}{F0B}{n}{>12}Nom{n}{>12}Prénom{n}{>12}Surnom{n}{>12}Mois/j.{>84}/{n}{>12}Groupe{n}{n}{F09}{>12}Choisis « Fin » pour{n}{>12}commencer la partie !{n}{fin}

@@ -1,0 +1,361 @@
+; Lot 01 : rencontres du matin (portail, bâtiment, surprise), départ de chez soi, attente en chemin, retour, club.
+@00000	(Sur le chemin du lycée){n}{fin}
+@00001	Devant le portail, par|hasard, mon regard croise|celui de {E04} !{attente}{page}{fin}
+@00003	Mais {E04} m'a ignoré|et elle a filé...{attente}{page}{fin}
+@00004	({E04} Saeki){n}{fin}
+@00005	Ah, {F03}...|bonjour...{attente}{page}{fin}
+@00006	Tiens, {F03} !|Bonjour !{attente}{page}{fin}
+@00007	Ah, {F03}...|bonjour...|Nos regards se croisent♥{attente}{page}{fin}
+@00008	{E04} m'a regardé en|rougissant, avec un sourire.{attente}{page}{fin}
+@00009	Devant le portail, par|hasard, mon regard croise|celui de Mizuki !{attente}{page}{fin}
+@00010	Mais Mizuki m'a royalement|ignoré, et elle a filé...{attente}{page}{fin}
+@00011	(Mizuki Takao){n}{fin}
+@00012	Oh...|Bonjour...{attente}{page}{fin}
+@00013	Ah, {F04} !|Bonjour !{attente}{page}{fin}
+@00014	Bonjour, {F04} !|Quel matin radieux,|l'air est si frais !{attente}{page}{fin}
+@00015	Mizuki m'a regardé, ravie,|et elle a respiré à fond|l'air du matin.{attente}{page}{fin}
+@00016	Devant le portail, par|hasard, mon regard croise|celui de Yumi !{attente}{page}{fin}
+@00017	Yumi est partie aussitôt,|sans dire un mot.{attente}{page}{fin}
+@00018	(Yumi Matsuda){n}{fin}
+@00019	Ah, c'est toi, {F05}.{attente}{page}{fin}
+@00020	Yumi a marmonné ça d'un|air blasé, et elle est|partie.{attente}{page}{fin}
+@00022	Bonjour ! Je t'ai vu|arriver, {F05},|alors je t'ai attendu♥{attente}{page}{fin}
+@00023	Yumi a souri, un peu gênée,|et elle m'a regardé...{attente}{page}{fin}
+@00024	Devant le portail, par|hasard, mon regard croise|celui de {E08} !{attente}{page}{fin}
+@00025	{E08} est partie en|courant à toute vitesse !{attente}{page}{fin}
+@00026	({E08} Shinozawa){n}{fin}
+@00027	Mmh, c'est {F06}~|Gouuud mooorning~{attente}|Haaa~{attente} J'ai... sommeil...{attente}{page}{fin}
+@00028	Ah, {F06}~ !|Nyahahaha !|Bonjouuur~ !{attente}{page}{fin}
+@00029	Nyah ! Croiser le regard|de {F06}... Aujourd'hui,|c'est jour de chance~ !{attente}{page}{fin}
+@00030	{E08} m'a regardé, toute|gênée, puis elle s'est|mise à faire la folle|pour cacher sa gêne...{attente}{page}{fin}
+@00031	Devant le portail, par|hasard, mon regard croise|celui de {E09} !{attente}{page}{fin}
+@00032	{E09} est partie en|courant sans un mot.{attente}{page}{fin}
+@00034	Oh, {F07}...|Bonjour.{attente}{page}{fin}
+@00036	{F07}, tu regardes|les gens droit dans les|yeux. Ça inspire confiance...{attente}{page}{fin}
+@00037	En disant ça, {E09} m'a|fixé dans les yeux,|et elle a rougi...{attente}{page}{fin}
+@00038	Devant le portail, par|hasard, mon regard croise|celui de {E0A} !{attente}{page}{fin}
+@00040	Gloups, c'est {F08}...{attente}{page}{fin}
+@00041	{E0A} m'a carrément évité|et s'est enfuie en courant !{attente}{page}{fin}
+@00042	Hein, {F08} ? J'ai lu|des mangas toute la nuit,|du coup je suis|complètement à l'ouest...{attente}{page}{fin}
+@00043	En fait, elle ne me|regardait pas vraiment...{attente}{page}{fin}
+@00044	Hiyaaa ! {F08} !|Bonjouuur !{attente}{page}{fin}
+@00045	Waouh ! On se regarde dans|les yeux, comme dans un|manga pour filles !{attente}{page}{fin}
+@00046	Mais... j'avoue que|ça me fait plaisir...|...... Héhé♥{attente}{page}{fin}
+@00047	{E0A} est devenue toute|rouge et a détourné|les yeux.{attente}{page}{fin}
+@00048	Ah, {F08}...|B-bonjouuur...{attente}|......{attente}{page}{fin}
+@00049	Héhé !|Je suis trop heureuse~{attente}{page}{fin}
+@00050	Tiens, {E04} est devant|le bâtiment !{attente}{page}{fin}
+@00052	Salut, {E04} !|Bonjour !{attente}{page}{fin}
+@00053	Ah... bonjour...|Je suis pressée...{attente}{page}{fin}
+@00054	{E04} est partie|en courant, en vitesse.{attente}{page}{fin}
+@00055	Ah, {F03}.|Bonjour.{attente}{page}{fin}
+@00057	Ah, {F03}...|bonjour... Hihi♥{attente}{page}{fin}
+@00058	{E04} m'a regardé en|rougissant, avec un grand|sourire tout content !{attente}{page}{fin}
+@00059	Tiens, Mizuki est devant|le bâtiment !{attente}{page}{fin}
+@00060	Salut, Takao-san !|Bonjour !{attente}{page}{fin}
+@00061	Mizuki m'a fait un petit|signe de tête, et elle a|filé sans attendre !{attente}{page}{fin}
+@00062	Ah, {F04}...|Bonjour.{attente}{page}{fin}
+@00064	Mizuki, toute rougissante|et un peu intimidée, m'a|quand même souri.{attente}{page}{fin}
+@00065	Tiens, Yumi est devant|le bâtiment !{attente}{page}{fin}
+@00066	Matsuda-senpai !|Bonjour !{attente}{page}{fin}
+@00067	Yumi a filé rejoindre|ses amies, comme pour|m'éviter.{attente}{page}{fin}
+@00068	Ah, {F05}.|Salut...{attente}{page}{fin}
+@00069	Bonjour, {F05} !|Te voir dès le matin...|la journée commence bien♥{attente}{page}{fin}
+@00070	Yumi m'a regardé avec|un sourire radieux...{attente}{page}{fin}
+@00071	Tiens, {E08} est devant|le bâtiment !{attente}{page}{fin}
+@00072	Hé ho, Shinozawa~ !|Bonjour !{attente}{page}{fin}
+@00073	Ah~ {F06}~ ?|Shinozawa est à plat~|Enfin, bonjour quand même.{attente}{page}{fin}
+@00074	Elle m'a dit bonjour,|mais en faisant la tête...{attente}{page}{fin}
+@00075	'Jour...{attente} Ouaaah~|Ce niveau... jamais je|pourrai le finiiir~{attente}{page}{fin}
+@00076	{E08} a plus la tête|à son jeu vidéo qu'à|moi, on dirait...{attente}{page}{fin}
+@00077	Youhou, {F06} !|Aujourd'hui encore, on va|être en pleine forme~ !{attente}{page}{fin}
+@00078	Kyaa~ {F06}~♥|Te voir dès le matin,|c'est la super chance~{attente}{page}{fin}
+@00079	Shinozawa est si contente|qu'elle s'envole~ !|Vrrrouuum !!{attente}{page}{fin}
+@00080	{E08} m'a tourné autour|en courant, les bras|écartés comme un avion.{attente}{page}{fin}
+@00081	Tiens, {E09} est devant|le bâtiment !{attente}{page}{fin}
+@00082	Salut, Okada-san !|Bonjour !{attente}{page}{fin}
+@00083	Bonjour, {F07} !|Tu vas bien ?{attente}{page}{fin}
+@00084	Oh, {F07}...|Bonjour♥{attente}{page}{fin}
+@00085	{E09} m'a fixé dans les|yeux en rougissant, et je|l'ai regardée aussi !{attente}{page}{fin}
+@00086	Tiens, {E0A} est devant|le bâtiment !{attente}{page}{fin}
+@00087	Salut, {E0A} !|Bonjour !{attente}{page}{fin}
+@00088	Berk, il m'a dit bonjour...|B-bon, ben... à plus...{attente}{page}{fin}
+@00089	Ouais, ouais, salut.{attente}{page}{fin}
+@00090	{F08} qui me dit bonjour !|Tu sais faire plaisir,|toi, petit malin !{attente}{page}{fin}
+@00091	Ah, pardon, je t'ai|même pas dit bonjour...|Bonjour... Héhé♥{attente}{page}{fin}
+@00092	{E0A} m'a regardé dans|les yeux en rougissant,|avec un sourire espiègle !{attente}{page}{fin}
+@00093	...... Elle avait l'air{attente}|de s'en ficher|complètement...{attente}{page}{fin}
+@00094	Ouais !|Ça se passe plutôt bien !{attente}{page}{fin}
+@00095	Gyaaah !!|Shinozawa va être|en retaaard~|On fonce ! On fonce !{attente}{page}{fin}
+@00096	Me faire traiter comme ça...|C-c'est triste...{attente}{page}{fin}
+@00097	Pas de doute... elle|ne m'avait même pas|remarqué ???{attente}{page}{fin}
+@00098	Est-ce que, des fois...{attente}|elle me déteste... ?{attente}{page}{fin}
+@00099	Génial !!|Ça se passe super bien !!{attente}{page}{fin}
+@00100	Soudain, par derrière,|quelqu'un m'a caché|les yeux !{attente}{page}{fin}
+@00102	Devine qui c'est !{attente}{page}{fin}
+@00103	Hein ?! Waah !|Q-qui c'est ?{attente}{page}{fin}
+@00104	Hihi ! C'est moi !|Bonjour, {F03} !|Je t'ai fait peur ?{attente}{page}{fin}
+@00105	Ah ! C'est toi, {E04} !|Tu m'as fait peur !{attente}|Bonjour quand même !{attente}{page}{fin}
+@00106	En voyant ma surprise,|{E04} a ri d'un air|espiègle.{attente}{page}{fin}
+@00107	Quelqu'un m'a tapé sur|l'épaule et j'ai trébuché !{attente}{page}{fin}
+@00108	Waah ! Ou-oulà !{attente}{page}{fin}
+@00109	Oh, pardon ! Ça va ?{attente}{page}{fin}
+@00110	Oui, à peu près...|Euh, c'est qui ?{attente}{page}{fin}
+@00111	Ahah ! {F04} !|Désolée, tu ne t'es pas|fait mal ?{attente}{page}{fin}
+@00112	Ah, Mizuki !{attente} Bonjour !|Oui, ça va !|Regarde, tout va bien !!{attente}{page}{fin}
+@00113	Mizuki me regardait sauter|devant elle, toute ravie...{attente}|Son doux sourire était|presque éblouissant !{attente}{page}{fin}
+@00114	Quelqu'un m'a tapé|sur la tête !{attente}{page}{fin}
+@00115	Bon-jour-à-toi !{attente}{page}{fin}
+@00116	Aïe{attente}, ouille{attente}, ouah{attente}|Q-qui c'est ?! Ça va pas ?|Une tape à chaque mot !{attente}{page}{fin}
+@00117	Ahah ! Pardon, pardon !{attente}|Je pensais pas taper|si fort...{attente}{page}{fin}
+@00118	Ah, c'est toi, Yumi !{attente}|Ça fait mal, tu sais !|Vas-y doucement, quoi !{attente}{page}{fin}
+@00119	Yumi riait de me voir|me frotter la tête...{attente}|Ça faisait mal, mais...|j'étais content !{attente}{page}{fin}
+@00120	Soudain, quelqu'un m'a|serré le cou par derrière !{attente}{page}{fin}
+@00121	Argh ! J'étouffe !{attente}|Qu'est-ce que tu fais...|C'est qui ?! Arrête !{attente}{page}{fin}
+@00122	Nyahahahaha~ !!|C'était Shinozawa~ !|Bonjouuur♥{attente}{page}{fin}
+@00123	Hein ? Ah, Shinozawa !|Bonjour... Non mais,|ça va pas la tête ?!{attente}{page}{fin}
+@00124	Bah, c'est évident !|C'est la clé d'étranglement|de l'amour, voyons~ !{attente}{page}{fin}
+@00125	De-de l'amour...|C'est un peu violent~{attente}{page}{fin}
+@00126	Rooh, {F06}~|Tu fais ton timide~|Trop mignon~♥{attente}{page}{fin}
+@00127	C'est pas ça !|J'ai vraiment failli|étouffer !{attente}{page}{fin}
+@00128	Hein ? T'as eu mal ?{attente}|Pardooon~|T'es fâché ? Fâché ?{attente}{page}{fin}
+@00129	Devant l'innocence totale|de {E08}, je n'avais|même plus envie|de me fâcher.{attente}{page}{fin}
+@00130	Salut, bonjour !|...Hein ?!{attente}{page}{fin}
+@00131	{E09} a couru vers moi|et m'a embrassé sur|la joue !!{attente}{page}{fin}
+@00132	Ah ! Euh...|I-ici, devant tout le|monde... enfin, euh...{attente}{page}{fin}
+@00133	Pourquoi tu es surpris ?|Entre amis proches,|c'est normal, non ?{attente}{page}{fin}
+@00134	...Ah ! C'est vrai qu'au|Japon, on ne se dit pas|bonjour comme ça !{attente}{page}{fin}
+@00135	{E09} a baissé les yeux,|un peu gênée, puis elle|m'a regardé fixement...{attente}{page}{fin}
+@00136	Ah ! {F08} !|Bonjouuuur !!!{attente}{page}{fin}
+@00137	Salut, {E0A} !|Bonj... waah !{attente}{page}{fin}
+@00138	{E0A} a couru vers moi|et m'a sauté au cou !{attente}{page}{fin}
+@00139	Pfff, pas classe ! Tu|tangues pour si peu !{attente}|Faut te muscler les jambes !{attente}{page}{fin}
+@00140	Euh, {E0A}...|Tout le monde|nous regarde...{attente}{page}{fin}
+@00141	C'est rien, c'est rien !{attente}|Gros câlin... héhéhé♥{attente}{page}{fin}
+@00142	C'était un peu gênant, mais|{E0A} était plus douce|et plus chaude que prévu{attente},|et mon cœur battait fort !{attente}{page}{fin}
+@00143	Je sens encore la main|de {E04}, sa chaleur...{attente}|J'étais tout content,|le cœur léger...{attente}{page}{fin}
+@00144	Paf !{attente}{page}{fin}
+@00145	Waah !|Q-quoi ?!{attente}{page}{fin}
+@00146	Gnnnh !!!{attente}{page}{fin}
+@00147	Mais en voyant {E08}|comme ça, moi aussi,|je me suis senti tout|content.{attente}{page}{fin}
+@00148	Les douces lèvres de|{E09} sur ma joue...|Mon cœur s'est mis{attente}|à battre à tout rompre...{attente}{page}{fin}
+@00149	Tiens, {E0A}, la pile|électrique, toute sage...{attente}|Ça voudrait dire que...|ça colle entre nous ?!{attente}{page}{fin}
+@00150	(Devant chez moi){n}{fin}
+@00151	Le matin, en sortant...{attente}|il y a quelqu'un devant|le portail !{attente}{page}{fin}
+@00152	Bonjour, {F03} !{attente}|Surpris ?{attente}{page}{fin}
+@00153	Ah ! Bonjour, {E04} !|Tu m'as surpris !|Qu'est-ce qui se passe ?{attente}{page}{fin}
+@00154	Ben... j'avais envie qu'on|aille au lycée ensemble,|alors je t'ai attendu...{attente}{page}{fin}
+@00155	(Que faire ?){n}{fin}
+@00156	{FFB}On y va ensemble|　Une autre fois{fin}
+@00157	D'accord ! On y va|ensemble !{attente}{page}{fin}
+@00158	C'est vrai ? Super !|Alors, en route !{attente}{page}{fin}
+@00159	On a marché jusqu'au|lycée tranquillement,|en bavardant gaiement.{attente}{page}{fin}
+@00160	C'était super sympa !|On refera le chemin|ensemble... d'accord ?{attente}{page}{fin}
+@00161	Avec toi, {F03},|le chemin du lycée|paraît tout court...♥{attente}{page}{fin}
+@00162	En disant ça, {E04} m'a|fixé dans les yeux, les|joues toutes roses !{attente}{page}{fin}
+@00163	Désolé...|Aujourd'hui, ça|m'arrange pas trop...{attente}{page}{fin}
+@00164	Ah, d'accord...|Tu es très occupé,|{F03}...{attente}{page}{fin}
+@00165	C'est pas ça, mais...{attente}|désolé...|Propose-moi une autre fois !{attente}{page}{fin}
+@00166	Bon, une autre fois...{attente}{page}{fin}
+@00167	Hein ? Mizuki... ?|Bonjour ! Qu'est-ce qui|se passe ?{attente}{page}{fin}
+@00168	Bonjour, {F04} !|Si tu veux... on pourrait|aller au lycée ensemble ?{attente}{page}{fin}
+@00169	Ouf ! J'avais peur|de te déranger...{attente}{page}{fin}
+@00170	Mais non, pas du tout !|Allez, on y va !{attente}{page}{fin}
+@00171	Jusqu'au lycée, on a|couru un peu, bavardé|un peu... On a passé|un super moment !{attente}{page}{fin}
+@00172	{F04},|merci ! C'était|vraiment génial !{attente}{page}{fin}
+@00173	Si on était dans la même|classe, on aurait pu aller|ensemble jusqu'en cours.|C'est dommage...{attente}{page}{fin}
+@00174	Mizuki m'a souri, un peu|triste...{attente}|Ce sourire m'a serré|le cœur.{attente}{page}{fin}
+@00175	Je te dérangeais, c'est ça...{attente}|Pardon...{attente}{page}{fin}
+@00176	Oui, une autre fois.|À plus...{attente}{page}{fin}
+@00177	Mais là-bas... c'est pas|Yumi Matsuda ?|Ah, elle vient par ici !{attente}{page}{fin}
+@00178	On va au lycée ensemble ?{attente}|Je me disais que t'allais|pas tarder, alors je|t'ai attendu.{attente}{page}{fin}
+@00179	Bien, j'aime les garçons|obéissants !{attente}|Mais non, je rigole !|Allez, en route !{attente}{page}{fin}
+@00180	Ah, c'était sympa !|J'ai bien fait d'attendre !|On remet ça quand tu veux.{attente}{page}{fin}
+@00181	Yumi a ri, toute contente,|puis elle m'a regardé|dans les yeux sans un mot...{attente}{page}{fin}
+@00182	Hmm... pas dispo, hein ?|Bon, tant pis.|Une autre fois !{attente}{page}{fin}
+@00183	Bonjouuur !!{attente}|Dis, dis, viens au lycée|avec Shinozawa~ !{attente}{page}{fin}
+@00184	Kyaa~ ! Shinozawa|est trop contente~ !|Vite, on y va, on y va !!{attente}{page}{fin}
+@00185	Jusqu'au lycée, {E08}|a fait la folle, et moi|aussi, entraîné par elle,|j'ai fait le fou.{attente}{page}{fin}
+@00186	Thank you de m'avoir|accompagnée~ ! Shinozawa|déborde d'énergie~{attente}{page}{fin}
+@00187	Shinozawa est repartie|de bonne humeur, filant|comme le vent...|......{attente}{page}{fin}
+@00188	Nyaa~...|{F06} est occupé~|Dommage...{attente}{page}{fin}
+@00189	D'accooord~...|Une autre fois~...{attente}{page}{fin}
+@00190	Hein, {E09} !|Bonjour...|Qu'est-ce qui se passe ?{attente}{page}{fin}
+@00191	Euh, en fait...|seulement si tu veux...|on y va ensemble ?{attente}{page}{fin}
+@00192	WONDERFUL !|Ah... j-je suis contente !|Alors, allons-y !{attente}{page}{fin}
+@00193	C'était très agréable.|Merci beaucoup...{attente}{page}{fin}
+@00194	Elle est venue me chercher|jusque chez moi !|Je suis trop touché !{attente}{page}{fin}
+@00195	Mais pourquoi ? Peut-être|que... peut-être bien...{attente}|...c'est ça !{attente}|Ce serait génial !{attente}{page}{fin}
+@00196	Ah... pardon.{attente}|Débarquer comme ça...|je t'ai dérangé... ?{attente}{page}{fin}
+@00197	Oui... Alors,|une autre fois...{attente}{page}{fin}
+@00198	Ouais ! {F08} !|Bonjouuur !!|On va au lycée !{attente}{page}{fin}
+@00199	Hein, {E0A} ?|Bonjour...|Qu'est-ce qui se passe ?{attente}{page}{fin}
+@00200	J'ai dit qu'on allait au|lycée ensemble ! Alors|je viens te chercher !{attente}{page}{fin}
+@00201	Ça, c'est parlé !|Puisque c'est décidé,|on y va, vite !{attente}{page}{fin}
+@00202	Sur tout le chemin, {E0A}|a couru partout : un chien,|elle fonçait vers lui, un|chat, elle le pourchassait !{attente}{page}{fin}
+@00203	Wouhou, c'était trop bien !|Je suis super contente !{attente}{page}{fin}
+@00204	Courir partout comme ça...|elle ne se fatigue pas ?|{E0A} est vraiment|incroyable !{attente}{page}{fin}
+@00205	Quoi ?! C'est non ?!{attente}|Pfff ! T'as rendez-vous|avec quelqu'un, c'est ça ??{attente}{page}{fin}
+@00206	Bon, une autre fois, alors !|Tant pis pour toi !{attente}|Allez, à plus !{attente}{page}{fin}
+@00207	J'ai peut-être un peu|gaffé...{attente}{page}{fin}
+@00208	Sur ces mots, {E09} m'a|regardé fixement, les|yeux tout humides...{attente}{page}{fin}
+@00209	......|Moi aussi...{attente}{page}{fin}
+@00210	Tiens, qui vient là-bas ?{attente}|C'est {E04} Saeki !{attente}|Je vais l'attendre un peu.{attente}{page}{fin}
+@00211	Dis ! Si tu veux,|on y va ensemble ?{attente}{page}{fin}
+@00212	Euh...|Je sais pas trop...|......{attente}{page}{fin}
+@00213	Désolée, finalement...|pas aujourd'hui.{attente}|Une autre fois.{attente}{page}{fin}
+@00214	Ah bon...|Dommage...|Bon, une autre fois !{attente}{page}{fin}
+@00215	D'accord, on peut|y aller ensemble.{attente}{page}{fin}
+@00216	Super !|Alors, on y va !{attente}{page}{fin}
+@00217	On a marché ensemble|jusqu'au lycée, en|bavardant...{attente}{page}{fin}
+@00218	Quand même, faire le chemin|ensemble, c'est gênant...{attente}|Bon, à plus !{attente}{page}{fin}
+@00219	Est-ce qu'elle se serait|ennuyée... ?{attente}{page}{fin}
+@00220	Ah, tu m'as attendue !|D'accord ! Allons-y|ensemble !{attente}{page}{fin}
+@00221	Merci...|de m'avoir attendue...{attente}|Ça m'a fait très plaisir♥{attente}{page}{fin}
+@00222	Génial !|On dirait que ça lui a plu !{attente}|J'ai bien fait d'attendre !{attente}{page}{fin}
+@00223	Tiens, qui vient là-bas ?{attente}|C'est Mizuki Takao !{attente}|Je vais l'attendre un peu.{attente}{page}{fin}
+@00224	Désolée...|Aujourd'hui, ça tombe mal.|Une autre fois...{attente}{page}{fin}
+@00225	Je l'ai dérangée,|peut-être...{attente}{page}{fin}
+@00226	Hein... avec toi,|{F04}... ensemble ?{attente}{page}{fin}
+@00227	...Pardon !|Finalement, une autre fois !{attente}{page}{fin}
+@00228	Oui, d'accord !|Allons-y ensemble !{attente}{page}{fin}
+@00229	Marcher, c'est bien, mais|on aurait mieux fait de|courir, tu trouves pas ?{attente}{page}{fin}
+@00230	Haa, haa, haa... Mais{attente}|c'était super ! Courir,|ça fait du bien, hein !{attente}{page}{fin}
+@00231	Tiens, qui vient là-bas ?{attente}|C'est Yumi Matsuda !{attente}|Je vais l'attendre un peu.{attente}{page}{fin}
+@00232	Euh...|Ça te dérange si je|fais le chemin avec toi ?{attente}{page}{fin}
+@00233	Ah, bonjour.|Désolée, je suis pressée...|Allez, à plus.{attente}{page}{fin}
+@00234	Bonjour, {F05} !|Mais me proposer ça comme|ça, d'un coup... Bon...{attente}{page}{fin}
+@00235	Non, finalement, je passe.|Une autre fois.{attente}{page}{fin}
+@00236	D'accord !|Allons-y ensemble !{attente}{page}{fin}
+@00237	C'était pas très animé...{attente}|mais bon... c'était sympa.{attente}{page}{fin}
+@00238	Bonjour, {F05} !|Quoi ? Tu m'as attendue ?|Pas mal, dis donc !{attente}{page}{fin}
+@00239	J'aimerais bien rester|plus longtemps avec toi,|mais on a cours...{attente}{page}{fin}
+@00240	Tant pis...{attente}|Merci, c'était sympa.|Allez, à plus♥{attente}{page}{fin}
+@00241	C'est bien {E08}|Shinozawa !{attente}|Je vais l'attendre un peu.{attente}{page}{fin}
+@00242	Désolée, mais Shinozawa|a envie d'y aller toute|seule~ Allez, à plus~ !{attente}{page}{fin}
+@00243	Nyahahaha~ !!|Tu veux y aller avec|Shinozawa ? Tu veux~ ?{attente}{page}{fin}
+@00244	Maiiis~ aujourd'hui,|finalement, je passe~{attente}|Allez, bye-bye-nya !{attente}{page}{fin}
+@00245	Bon, alors je veux bien|t'accompagner~ !{attente}{page}{fin}
+@00246	Shinozawa est toute molle,|toute ramollie~|Mais on rejoue ensemble~ !{attente}{page}{fin}
+@00247	Thank you~ ! Shinozawa|va passer une journée|en pleine forme~♥{attente}{page}{fin}
+@00248	Hmm, sans trop savoir|pourquoi, je suis venu|chez {E09}...{attente}{page}{fin}
+@00249	Elle est encore là... ?|Je vais attendre un peu.{attente}|......{attente}{page}{fin}
+@00250	Je t'attendais ! Si tu veux,|on va au lycée ensemble ?{attente}{page}{fin}
+@00251	C'est gentil, mais je n'ai|pas envie d'y aller avec toi.{attente}|Au revoir...{attente}{page}{fin}
+@00252	Ah, elle est partie...{attente}|J'ai l'impression qu'elle|me calcule pas du tout...{attente}{page}{fin}
+@00253	Oh, bonjour !|Tu m'as surprise !|Voyons......{attente}{page}{fin}
+@00254	Merci de me le proposer,|mais pas aujourd'hui.{attente}|Redemande-moi un autre|jour !{attente}{page}{fin}
+@00255	Avec toi, {F07},|je veux bien faire|le chemin ensemble.{attente}{page}{fin}
+@00256	C'était plutôt sympa !|J'espère qu'on aura|d'autres occasions !{attente}{page}{fin}
+@00257	Ça se passe plutôt bien !|Peut-être qu'elle commence|à s'ouvrir un peu|à moi... !{attente}{page}{fin}
+@00258	Oh ! {F07} qui|m'attend ! Je suis|tellement contente !{attente}{page}{fin}
+@00259	Allez, dépêchons-nous !|Here we go♥♥{attente}{page}{fin}
+@00260	Tiens, là-bas, qui|arrive à tout petits|pas pressés...{attente}{page}{fin}
+@00261	C'est {E0A} Kobayashi !{attente}|Je vais l'attendre|ici un peu.{attente}{page}{fin}
+@00262	Tiens, là-bas, qui|arrive en courant avec|une énergie folle...{attente}{page}{fin}
+@00263	Je suis pressée, moi !|{F08}, vas-y tout seul !|Désolée !{attente}{page}{fin}
+@00264	Hein ?! Tu m'as attendue ?|Merci, merci !{attente}{page}{fin}
+@00265	Mais aujourd'hui, c'est non !|Désolée, une autre fois !{attente}{page}{fin}
+@00266	Bon, puisque t'es là,|on y va ensemble !{attente}|{E0A}, décollage !{attente}{page}{fin}
+@00267	Bon, voilà, voilà !{attente}|Ravie de t'avoir vu,|{F00}-kun !!{attente}{page}{fin}
+@00268	Mais j'ai l'impression|que ça se passe bien !!{attente}{page}{fin}
+@00269	Ouah ! {F08} !|Tu m'as attendue ? Merci|mille fois, trop touchée !{attente}{page}{fin}
+@00270	Ahah, c'était trop bien !|Avec {F08}, je ferais|bien ça tous les jours♥{attente}{page}{fin}
+@00271	C'était sympa !{attente}|{F07}, tu as l'art|de la conversation♥{attente}{page}{fin}
+@00272	Hmm, c'était pas super|animé, mais l'impression|a l'air plutôt bonne !{attente}{page}{fin}
+@00273	Salut ! Bonjour !|Je t'attendais !{attente}{page}{fin}
+@00274	Ah... elle est partie...{attente}|Mais cette réplique...|je l'ai déjà entendue|quelque part, non ?{attente}{page}{fin}
+@00275	(En rentrant du lycée){n}{fin}
+@00276	Tiens, c'est {E04} Saeki !{attente}{page}{fin}
+@00277	{FFB}Rentrer avec elle ?|　Juste dire au revoir{fin}
+@00278	Salut, {E04} !|On rentre ensemble ?{attente}{page}{fin}
+@00279	Ah, {F03}...|J'ai une course à faire.{attente}|Désolée... Salut !{attente}{page}{fin}
+@00280	Ah, salut !|Bon, une autre fois !{attente}{page}{fin}
+@00281	Oui, d'accord ! Justement,|je me disais que rentrer|toute seule, c'est triste !{attente}{page}{fin}
+@00282	Salut ! À plus !{attente}{page}{fin}
+@00283	Ah, salut...{attente}{page}{fin}
+@00284	Ah, {F03} !|Salut !{attente}{page}{fin}
+@00285	Tiens, c'est Mizuki !{attente}{page}{fin}
+@00286	Mizuki !|On rentre ensemble ?{attente}{page}{fin}
+@00287	Désolée...|Aujourd'hui, ça tombe mal.|Salut, à plus...{attente}{page}{fin}
+@00288	Oui, d'accord !|Rentrons ensemble !{attente}{page}{fin}
+@00289	Ah, {F04}...|Salut.{attente}{page}{fin}
+@00290	Salut, {F04} !{attente}{page}{fin}
+@00291	Tiens, c'est Yumi !{attente}{page}{fin}
+@00292	Yumi !|On rentre ensemble ?{attente}{page}{fin}
+@00293	Ah, c'est toi, {F05}.|J'ai un truc à faire, alors|une autre fois. Salut !{attente}{page}{fin}
+@00294	Ah, {F05} !|D'accord, alors|rentrons ensemble !{attente}{page}{fin}
+@00295	Ah, c'est toi, {F05}.|À plus...{attente}{page}{fin}
+@00296	Ah, {F05} !|Salut ! À plus !{attente}{page}{fin}
+@00297	Ah, cette grosse voix !|C'est bien...|{E08} !{attente}{page}{fin}
+@00298	Salut, Shinozawa~ !|On rentre ensemble ?{attente}{page}{fin}
+@00299	Shinozawa file à l'arcade|pour s'enflammer~ !|Allez, bye-byeee~ !{attente}{page}{fin}
+@00300	Mmh~ pile au bon moment~|Shinozawa rentre avec|{F06}, elle aussi~ !{attente}{page}{fin}
+@00301	Shinozawa te quitte~|Bye-bye, {F06},|à la prochaine~ !{attente}{page}{fin}
+@00302	Oh, c'est comme ça~ ?|Bon, à la prochaine !|Bye-byeee~ !{attente}{page}{fin}
+@00303	Tiens, c'est {E09} !{attente}{page}{fin}
+@00304	{E09} !|On rentre ensemble ?{attente}{page}{fin}
+@00305	Euh... désolée. J'ai|quelque chose à faire, je|ne peux pas. J'y vais...{attente}{page}{fin}
+@00306	Oui, avec plaisir !|Alors, on y va ?{attente}{page}{fin}
+@00307	Ah, au revoir...{attente}{page}{fin}
+@00308	Ah, {F07} !|Au revoir ! À bientôt !{attente}{page}{fin}
+@00309	Tiens, cette petite boule|d'énergie, là-bas...|c'est {E0A} !{attente}{page}{fin}
+@00310	Salut, {E0A} !|On rentre ensemble ?{attente}{page}{fin}
+@00311	Bon, voilà, voilà !|À plus~ !{attente}{page}{fin}
+@00312	Puisque l'occasion se|présente, je te ramène,|moi, {E0A} Ryuzaki,|très cher !{attente}{page}{fin}
+@00313	Ouais, ouais, à plus !{attente}{page}{fin}
+@00314	{F08}~ !|Rentre bien, hein !|Allez, bye-byeee !{attente}{page}{fin}
+@00315	Nous autres, ninjas,|allons de ce pas lézarder|dans un manga café !{attente}{page}{fin}
+@00316	Ah, {F08} !|On rentre ensemble ?|Trop chouette !{attente}{page}{fin}
+@00317	Haa... la déception...|C'est triste...{attente}{page}{fin}
+@00318	Ouaiiis !{attente}|J'ai trop hâte,|c'est génial !!{attente}{page}{fin}
+@00319	Bon, tant pis...{attente}{page}{fin}
+@00320	Ah, {F03} !|Je t'attendais pour|qu'on rentre ensemble !{attente}{page}{fin}
+@00321	{FFB}Rentrer ensemble|　Refuser{fin}
+@00322	Oui, d'accord !|Rentrons ensemble !{attente}{page}{fin}
+@00323	Hihi ! Je suis contente !{attente}|Alors, en route !{attente}{page}{fin}
+@00324	Désolé...|Aujourd'hui, ça m'arrange|pas. Une autre fois !{attente}{page}{fin}
+@00325	Hmm, je vois !|Bon, tant pis...{attente}|...Allez, à plus !{attente}{page}{fin}
+@00326	J'ai peut-être été|un peu méchant...{attente}{page}{fin}
+@00327	{F04} !|Tu rentres ?{attente} Si tu|veux, on rentre ensemble !{attente}{page}{fin}
+@00328	Ouf !{attente} J'avais|un tout petit peu peur|que tu dises non...{attente}{page}{fin}
+@00329	Pardon, {F04}, j'ai pas|pensé que t'avais peut-être|autre chose de prévu !{attente}|Bon, salut !{attente}{page}{fin}
+@00330	Ah, {F05} !|Enfin te voilà !|On rentre ensemble ?{attente}{page}{fin}
+@00331	Bien, bien, t'es obéissant,|c'est ce que j'aime !|Allez, on rentre !{attente}{page}{fin}
+@00332	Pfff, t'es pas drôle.{attente}|...Bon, comme tu veux.|Salut !{attente}{page}{fin}
+@00333	Nyah ! {F06} !|Je t'attendais~ !|Rentre avec Shinozawa~ !{attente}{page}{fin}
+@00334	Youpi, youpi~ !|Aujourd'hui, on rentre|en amoureux~ !{attente}{page}{fin}
+@00335	Hyaa~ C'est non~ ?{attente}|Shinozawa est choquée~|Toute ramollie~...{attente}{page}{fin}
+@00336	Ah ! Je t'attendais !|Je me disais qu'on pourrait|rentrer ensemble...{attente} non ?{attente}{page}{fin}
+@00337	Merci ! Tu es un amour,|darling♥|Allez, on rentre !{attente}{page}{fin}
+@00338	P-pardon...{attente}|C'est vrai, t'attendre|comme ça, ça t'a gêné...{attente}{page}{fin}
+@00339	Yo ! {F08} !|Je t'attendais !|On rentre ensemble !{attente}{page}{fin}
+@00340	Ouais, ouais !|Ça, c'est parlé !|Allez, on rentre !{attente}{page}{fin}
+@00341	Dis !|Si tu veux,|on rentre ensemble ?{attente}{page}{fin}
+@00342	...Et voilà comment|on s'est retrouvés|à rentrer ensemble...{attente}{page}{fin}
+@00343	D-darling...|M-moi ?!♥{attente}{page}{fin}
+@00344	Pfff, encore une autre|fois ? T'es pas drôle !|Laisse tomber !!{attente}{page}{fin}
+@00345	(Au club){n}{fin}
+@00346	Bon, c'est fini~ !{attente}{page}{fin}
+@00347	Euh, si ça te dit,|on rentre ensemble ?{attente}{page}{fin}
+@00348	Ah, {F03}...{attente}|J'ai déjà promis à une|copine... Désolée...{attente}{page}{fin}
+@00349	Oui, d'accord !|Je me prépare tout|de suite !{attente}{page}{fin}
+@00350	Bon, j'y vais !|Salut !{attente}{page}{fin}
+@00351	Tiens, là-bas,|c'est Mizuki Takao !{attente}{page}{fin}
+@00352	Ah... désolée.{attente} Je|comptais aller courir|un peu...{attente}{page}{fin}
+@00353	Et de ce côté-là ?{attente}|Ah... on dirait qu'elle|a fini.{attente}{page}{fin}
+@00354	Senpai ! Si ça te dit,|on pourrait faire un bout|de chemin ensemble ?{attente}{page}{fin}
+@00355	D'accord !{attente}|Je rentrais justement,|faisons la route ensemble !{attente}{page}{fin}
+@00356	Senpai !|Merci pour aujourd'hui !|Je rentre, à demain !{attente}{page}{fin}
+@00357	Ah, beau travail...|Salut...{attente}{page}{fin}
+@00358	Ah, {F05} !|Beau travail aujourd'hui !!{attente}{page}{fin}
+@00360	Bon, c'est l'heure|de rentrer !{attente}{page}{fin}
+@00361	Non ! Shinozawa a un|match qui va chauffer !|Gâche pas son plaisir~ !{attente}{page}{fin}
+@00362	Ah, {F06}~ !|Shinozawa voulait|s'enflammer en match, mais...{attente}{page}{fin}
+@00363	Ah~ ! {F06},|tu rentres déjà ?|Shinozawa, elle, commence !{attente}{page}{fin}
+@00364	Ah, elle aussi a l'air|de rentrer...{attente}{page}{fin}
+@00365	Ah, dommage...{attente}|J'ai promis à une fille de|lui apprendre à prononcer...{attente}{page}{fin}
+@00366	Ah, bonne idée !{attente}|Je suis prête, moi aussi.|Rentrons tranquillement !{attente}{page}{fin}
+@00367	Ah, {F08} ! Désolée,|j'ai encore un truc à faire,|je peux pas rentrer !{attente}{page}{fin}
+@00368	{F08}, t'as fini ?|Bon, je t'attends,|change-toi vite !{attente}{page}{fin}
+@00369	{F08}~ !|Beau travail~ !|Bye-byeee~ !{attente}{page}{fin}

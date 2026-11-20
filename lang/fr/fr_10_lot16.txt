@@ -1,0 +1,362 @@
+; Lot 16 : fins (Momoyo, Mirei, Konoha), cadeau oublié, Nouvel An, accessoires, félicitations,
+; examens, vacances, fête sportive, fête du lycée.
+@05546	Mmmhiii~ ! Shinozawa a|trop honte, finalement~ !{attente}|Mais elle va le dire~ !{attente}{page}{fin}
+@05547	Tout chez {F06}...|c'est...{attente}Kyaa~ !|Tout, carrément~ !{attente}{page}{fin}
+@05548	J-j-je... je...|t'aime~ !{attente}|Je t'aime trop~ !{attente}{page}{fin}
+@05549	Haaa~...|Ça y est, c'est dit~ !|Kyaa~ ! Kyaa~ !{attente}{page}{fin}
+@05550	Oh là là, c'est fini~ !|Shinozawa a tellement|honte qu'elle va mourir~ !{attente}{page}{fin}
+@05551	{E08}, trop survoltée,|s'excite toute seule|et n'arrive plus|à s'arrêter.{attente}{page}{fin}
+@05552	Ukyaaa~|Oh là là, non~ !|Nyahaha~ !{attente}{page}{fin}
+@05553	Qu'elle est mignonne !{attente}|Mais à ce rythme... je|vais jamais pouvoir lui|faire ma déclaration...{attente}{page}{fin}
+@05554	Je prends mon courage à|deux mains, je saisis|{E08} par les épaules|et je l'attire contre moi...{attente}{page}{fin}
+@05555	et je lui ferme la bouche|d'un baiser !{attente}{page}{fin}
+@05556	{E08}...{attente}|Moi aussi...|je t'aime fort...{attente}{page}{fin}
+@05557	{F06}...{attente}|...Shinozawa...|est toute émue...♥{attente}{page}{fin}
+@05558	Dans mes bras,|{E08} a fermé|les yeux en silence...{attente}{page}{fin}
+@05559	D'habitude, elle est|bruyante et fait le pitre...{attente}|mais cette {E08}-là,|je l'adore !{attente}{page}{fin}
+@05560	{E08}...|À partir de maintenant,|restons pour toujours|un couple plein de joie...{attente}{page}{fin}
+@05561	...Dis !|Yumi... je...|toi, je...{attente}{page}{fin}
+@05562	Alors c'est moi qui le|dis en premier !{attente}|...{E08} !|Moi aussi, toi, je...{attente}{page}{fin}
+@05563	Pas besoin de me remercier.{attente}|Parce que, Mizuki...{attente}|toi, je...{attente}{page}{fin}
+@05564	Et elle s'en va|d'un pas chancelant...{attente}{page}{fin}
+@05565	{E08}, les joues toutes|rouges, lève les yeux|vers moi...{attente}{page}{fin}
+@05566	D'ici Noël, il faudrait|peut-être que j'y|réfléchisse sérieusement...{attente}{page}{fin}
+@05567	Je prenais l'air dehors|quand Mizuki est venue|vers moi, l'air grave.{attente}{page}{fin}
+@05568	{F04}...|j'ai un truc à te demander|...{attente}{page}{fin}
+@05569	Hein ?|Qu'est-ce qu'il y a ?{attente}{page}{fin}
+@05570	En pensant ça...|je me suis mis à aimer|{E04} encore plus.{attente}{page}{fin}
+@05571	(Fête d'anniversaire){n}{fin}
+@05572	Puisque je suis tombé sur|elle par hasard, je pourrais|peut-être l'inviter...{attente}{page}{fin}
+@05573	Si ça te dit, on pourrait|aller manger une glace|pilée au café ?{attente}{page}{fin}
+@05574	J'ai l'impression d'avoir|entrevu la face cachée|de Yumi...{attente}|d'avoir vu l'interdit...{attente}{page}{fin}
+@05575	Ça me laisse un mauvais|goût dans la bouche...{attente}{page}{fin}
+@05576	(Qui choisir ?){n}{fin}
+@05577	Yaaah ! {F08} !{attente}|J'ai fait le plein de|goodies du nouvel anime !{attente}{page}{fin}
+@05578	Elle veut le regarder|avec moi... hein ?{attente}|Toute gênée ! Trop chou♥{attente}|Je suis trop heureux !!{attente}{page}{fin}
+@05579	...Bon, au moins, le nom|de {E04} n'est pas|sorti. C'est déjà ça...{attente}{page}{fin}
+@05580	Ah, {F06} !|Tu es venu jusqu'ici~ !{attente}{page}{fin}
+@05581	...Aujourd'hui, je suis|venu te dire clairement|ce que je ressens !{attente}{page}{fin}
+@05582	...Je...|je t'aime, {E08} !{attente}{page}{fin}
+@05583	Tu voudrais bien sortir|avec moi... être ma|petite amie ?{attente}{page}{fin}
+@05584	...{F06}...|Shinozawa aussi, après|avoir envoyé la lettre,|elle a réfléchi~{attente}{page}{fin}
+@05585	Et finalement...|elle trouve que c'est|encore trop tôt...{attente}{page}{fin}
+@05586	Avec {F06}, c'est|vrai qu'on s'amuse|super bien~{attente}{page}{fin}
+@05587	Mais c'est tout, en fait,|comme si tu manquais un peu|de personnalité~{attente}{page}{fin}
+@05588	Il manque un truc~{attente}|Shinozawa n'arrive pas|à bien l'expliquer,|pardon~...{attente}{page}{fin}
+@05589	Shinozawa ne connaît pas|la valeur de ses propres|paramètres d'amour~{attente}{page}{fin}
+@05590	Alors...{attente}les relations|garçon-fille, les histoires|d'amour... les baisers|passionnés...{attente}{page}{fin}
+@05591	quand elle les imagine...|Kyaa ! Trop la honte !|Oh là là ! ...Voilà.{attente}{page}{fin}
+@05593	Shinozawa ne te connaît|pas encore...|très bien~{attente}{page}{fin}
+@05594	Et {F06} non plus|ne connaît pas encore|tout de Shinozawa...{attente}{page}{fin}
+@05595	Si on avait eu plus de|rendez-vous, plus de temps|à deux... ça aurait été|bien, hein...{attente}{page}{fin}
+@05596	Alors...|attends encore|un petit peu~{attente}{page}{fin}
+@05597	...D'accord...|...je t'attendrai !{attente}{page}{fin}
+@05598	...Pardon...{attente}|Shinozawa est encore|une débutante...{attente}{page}{fin}
+@05599	Mais un jour...|quand ce sera réglé...{attente}{page}{fin}
+@05600	Ce jour-là...{attente}|ce jour-là...{attente}|...Shinozawa...{attente}{page}{fin}
+@05601	Kyaa~ ! Finalement,|c'est trop la honte~♥{attente}{page}{fin}
+@05602	Rouge comme une tomate,|{E08} est partie|en courant...{attente}{page}{fin}
+@05603	{E08} et moi, on va|bientôt passer|en 2e année...{attente}{page}{fin}
+@05604	Alors, finalement...|......{attente}{page}{fin}
+@05605	...Désolé...|En fait, je n'ai pas|de cadeau...{attente}{page}{fin}
+@05606	Quoi... ?{attente}|Tu m'as fait venir pour|te moquer de moi... ?{attente}{page}{fin}
+@05607	{F03}...|...t'es vraiment nul !!|Je rentre !!{attente}{page}{fin}
+@05608	......|...Oh nooon !|J'ai fait une énorme|bêtise !!{attente}{page}{fin}
+@05609	......|C'est dégueulasse...{attente}{page}{fin}
+@05610	Tu m'as juste fait venir...{attente}|pour te foutre|de moi...{attente}{page}{fin}
+@05611	Je rentre !{attente}{page}{fin}
+@05612	......{attente}|Tiens donc...|Tu ne manques pas d'air !{attente}{page}{fin}
+@05613	Te moquer des filles,|il y a des limites !|...Adieu !!{attente}{page}{fin}
+@05614	Quoi~ ?!|Y en a pas~ ?|Pour de vrai~ ?{attente}{page}{fin}
+@05615	S'il y en a pas, fallait|pas appeler Shinozawa~ !|{F06}, menteur~{attente}{page}{fin}
+@05616	Shinozawa s'ennuie,|alors elle se tire~ !!{attente}{page}{fin}
+@05617	Tu m'as fait venir|pour rien... ?{attente}|Tu es cruel !!{attente}{page}{fin}
+@05618	Ou alors...{attente}ne me dis pas|que tu m'as menée en|bateau... pour t'amuser ?{attente}{page}{fin}
+@05619	......|Je ne veux plus te voir !!{attente}{page}{fin}
+@05620	Quoiii, sérieux ?!|J'y crois paaas !{attente}|Tu te fiches du monde !!!{attente}{page}{fin}
+@05621	Ou alors quoi, hein ?{attente}|Tu te payes ma tête|pour rigoler ?!{attente}{page}{fin}
+@05622	De toute façon, t'es nul !{attente}|Va mourir une fois, tiens !!|Moi, je rentre !!{attente}{page}{fin}
+@05623	Alors ? Elle dort|à poings fermés, hein !{attente}{page}{fin}
+@05624	...Mais moi, j'avais la|tête pleine de {E08}|endormie, comme je l'avais|vue tout à l'heure...{attente}{page}{fin}
+@05625	......|Ce regard de {E09}...{attente}|Il me tracasse...{attente}{page}{fin}
+@05626	...Mais ça sent un peu|le grabuge...{attente}|Je vais regarder d'ici,|en douce...{attente}{page}{fin}
+@05627	(Devant chez moi){n}{fin}
+@05628	Aujourd'hui, c'est la|nouvelle année ! Je suis|plein de résolutions !{attente}{page}{fin}
+@05629	Quand même, l'an dernier|est passé en un éclair...{attente}{page}{fin}
+@05630	Le cœur battant|à tout rompre, j'arrive|dans la cour derrière|le bâtiment...{attente}{page}{fin}
+@05631	Le vent qui annonce le|printemps m'apporte un|léger parfum de {E09}...{attente}{page}{fin}
+@05632	Dans la cour déserte,|{E09} se tenait là,|discrète et immobile...{attente}{page}{fin}
+@05634	{F07} !|Tu es venu !|Je suis si contente !{attente}{page}{fin}
+@05635	J'avais peur que tu ailles|voir quelqu'un d'autre.|Je ne tenais plus en place.{attente}{page}{fin}
+@05636	Jamais de la vie...{attente}|Parce que... {E09}...|toi, je...{attente}{page}{fin}
+@05637	{F07} ! S'il te plaît !{attente}|...Laisse-moi...|laisse-moi parler d'abord.{attente}{page}{fin}
+@05638	...Toi, {E09} ?|......{attente}|D'accord !{attente}{page}{fin}
+@05639	Tu sais...{attente}|Je te suis vraiment|reconnaissante, {F07}.{attente}{page}{fin}
+@05640	Tu vois... dans ce lycée,|avec n'importe qui d'autre,|je n'étais jamais à l'aise.{attente}{page}{fin}
+@05641	À l'étranger... j'étais|une étrangère, d'accord...{attente}{page}{fin}
+@05642	Mais même au Japon,|je me sentais comme une|étrangère. J'étais si|inquiète...{attente}{page}{fin}
+@05643	Je suis censée être|japonaise, pourtant...{attente}|Où était donc mon|identité, je me demandais.{attente}{page}{fin}
+@05644	Mais toi, {F07},|tu m'as traitée comme|tous les autres, non ?{attente}{page}{fin}
+@05645	Comme si ça allait de soi...{attente}|comme une amie...{attente}|comme une Japonaise...{attente}{page}{fin}
+@05646	Je me suis dit...|quelle grandeur d'âme...|quelle belle personne.{attente}{page}{fin}
+@05647	Plus je te voyais...|plus je te parlais...{attente}{page}{fin}
+@05648	plus je suis...|......|tombée amoureuse de toi !{attente}{page}{fin}
+@05649	{E09} me regarde,|un peu gênée,|et un peu inquiète...{attente}{page}{fin}
+@05650	{E09}, moi aussi !|Moi aussi... je...|...je t'aime !{attente}{page}{fin}
+@05651	{F07}...{attente}|C'est vrai... ?|C'est bien vrai ?{attente}{page}{fin}
+@05652	Je ne rêve...|pas, hein...{attente}|Oh ! Je suis si heureuse♥{attente}{page}{fin}
+@05653	{E09} se jette|dans mes bras !{attente}|Je la serre fort|contre moi !{attente}{page}{fin}
+@05654	Dis, {F07}...{attente}|même si un jour... nous|devions être séparés...{attente}{page}{fin}
+@05655	...nos cœurs... resteront|toujours liés...|où que nous soyons, hein ?{attente}{page}{fin}
+@05656	Oui ! Évidemment !{attente}{page}{fin}
+@05657	Comme pour nous assurer|de nos sentiments, nous|avons uni nos lèvres...|encore et encore...{attente}{page}{fin}
+@05660	{F07}...|tu es venu...{attente}{page}{fin}
+@05661	Ta lettre...|m'a fait super plaisir !{attente}{page}{fin}
+@05662	Pour moi, il n'y avait que|toi, {E09}...{attente}|Je... je t'aime !{attente}{page}{fin}
+@05663	{F07}...|ça... je crois que|ce n'est pas possible...{attente}{page}{fin}
+@05664	Tu sais...|toi, {F07},|je ne te déteste pas.{attente}{page}{fin}
+@05665	Seulement... pour ce qui|est d'être un couple{attente}, il|manque un petit quelque|chose...{attente}{page}{fin}
+@05666	C'est peut-être parce que|j'attends énormément|de toi, {F07}...{attente}{page}{fin}
+@05667	Oui... pour être honnête...|je crois que je t'aime|beaucoup.{attente}{page}{fin}
+@05668	Au fond... je crois bien|que je t'aime, oui...{attente}{page}{fin}
+@05669	Mais de là à ce qu'on soit|vraiment "steady"...|...{attente}{page}{fin}
+@05670	je ne suis pas sûre|de mes sentiments...{attente}{page}{fin}
+@05671	Et puis... j'ai l'impression|qu'on ne se comprend pas|encore très bien...{attente}{page}{fin}
+@05672	Si on avait eu plus de|rendez-vous, plus de temps|rien qu'à nous deux...|ça aurait été bien...{attente}{page}{fin}
+@05673	Mais, {E09}...{attente}|si c'est ça... on pourra|sûrement tout arranger !{attente}{page}{fin}
+@05674	Oui... c'est vrai...|Avec du temps, on pourrait|sans doute y arriver...{attente}{page}{fin}
+@05675	Mais, {F07}...|du temps, on n'en a pas.|...{attente}Malheureusement...{attente}{page}{fin}
+@05676	Je ne comprends pas...{attente}|Pourquoi...|ça veut dire quoi ?{attente}{page}{fin}
+@05677	Si je t'ai fait venir|aujourd'hui, c'était aussi|pour te dire adieu...{attente}{page}{fin}
+@05678	Je vais encore...|devoir quitter le Japon.|...{attente}{page}{fin}
+@05679	Quoi ?!|C'est une blague...|Dis-moi que c'est faux ?!{attente}{page}{fin}
+@05680	C'est vrai...|Alors... pardon.{attente}{page}{fin}
+@05681	...Même si on se mettait|ensemble pour de bon|avec des sentiments aussi|incertains...{attente}{page}{fin}
+@05682	ça ne tiendrait sûrement|pas... C'est bien trop|loin...{attente}{page}{fin}
+@05683	...Pour tout ce temps...|...merci...{attente}|C'était si bien...{attente}{page}{fin}
+@05684	{F07}, tu es|mon ami le plus précieux|au Japon !{attente}{page}{fin}
+@05685	See you...{attente}|Adieu, {F07} !{attente}{page}{fin}
+@05686	En larmes,|{E09} s'enfuit en courant,|comme pour s'arracher|à sa douleur...{attente}{page}{fin}
+@05688	Sa silhouette rapetisse|au loin... et se brouille|dans mes yeux...{attente}{page}{fin}
+@05689	Mes larmes aussi coulent|sans pouvoir s'arrêter...|...Et moi... je pleure|tout seul...{attente}{page}{fin}
+@05690	Si seulement on avait eu|le temps... {E09} et moi,|on aurait sûrement...{attente}{page}{fin}
+@05691	......|Même le doux vent de|printemps me semble glacial|......{attente}{page}{fin}
+@05692	Le cœur battant|à tout rompre, j'arrive|au parc naturel|de Koigahara...{attente}{page}{fin}
+@05693	Donnant des coups de pied|dans les cailloux du chemin,|{E0A} m'attendait !{attente}{page}{fin}
+@05694	Aaah !|{F08} !|T'es venu !{attente}{page}{fin}
+@05695	Désolée de t'avoir|fait venir avec une lettre...{attente}{page}{fin}
+@05696	T'as pas à t'excuser.|Moi aussi, je suis venu|parce que je voulais|te voir, {E0A}...{attente}{page}{fin}
+@05697	...{E0A} !{attente}|Toi, je...|...{attente}{page}{fin}
+@05698	Waaah !!!|Attends une seconde !|Atteeends !{attente}{page}{fin}
+@05699	Faut que je me prépare|dans ma tête, quoi !{attente}|Enfin... c'est que...|comment dire...{attente}{page}{fin}
+@05701	Euh...|d'abord, c'est moi qui|vais être franche...{attente}{page}{fin}
+@05702	Hum, moi, autrement dit|{E0A} Kobayashi...{attente}{page}{fin}
+@05703	Raaah !|Qu'est-ce que je suis en|train de rabâcher, moi ?!{attente}{page}{fin}
+@05704	Là... je crois que faut|tout balancer d'un coup...{attente}{page}{fin}
+@05705	Bon, je reprends.|C'est parti !!{attente}{page}{fin}
+@05706	Moi, {F08},|je t'aime ! Je t'aime|à la folie !{attente}{page}{fin}
+@05707	Si une fille toute petite|comme moi, qui n'a que|son énergie pour elle,|ça te va...{attente}{page}{fin}
+@05708	si ça te va...|si ça te va...|......{attente}{page}{fin}
+@05709	Sa voix faiblit peu à peu.|Rouge pivoine, les yeux|humides, {E0A} finit|par se taire.{attente}{page}{fin}
+@05710	Bon, maintenant,|c'est à mon tour de|me déclarer !{attente}{page}{fin}
+@05711	...{E0A} !|Moi aussi, je t'aime !!{attente}{page}{fin}
+@05712	Je veux que tu sortes...|avec moi !!{attente}{page}{fin}
+@05713	Ah...|O-oui !{attente}{page}{fin}
+@05714	{E0A} me regarde|avec un visage tout|attendri...{attente}{page}{fin}
+@05715	Je prends {E0A}|tendrement dans mes bras|et je l'embrasse|doucement...{attente}{page}{fin}
+@05716	La {E0A} pleine d'entrain...|et la {E0A} toute sage|qui est dans mes bras...|ce sont mes trésors...{attente}{page}{fin}
+@05717	{E0A}... désormais...|je veux te serrer dans mes|bras et t'aimer...|pour toujours...{attente}{page}{fin}
+@05718	Pour lui dire|clairement ce que|je ressens !{attente}{page}{fin}
+@05719	...{E0A} !|Je t'aime !!{attente}{page}{fin}
+@05720	J-justement,|à propos de ça...{attente}{page}{fin}
+@05721	{F08}, moi aussi,|je l'aime bien, mais...{attente}{page}{fin}
+@05722	Mais...{attente}sortir ensemble...|...{attente}finalement...|c'est un peu...{attente}{page}{fin}
+@05723	Pfff, {F08}, t'es|super proche d'être un|petit ami potentiel, hein...{attente}{page}{fin}
+@05724	Mais ton charme en tant|que personne... c'est pas|encore tout à fait ça...{attente}{page}{fin}
+@05725	C'est pas loin...{attente}|mais j'ai l'impression|qu'il manque un truc...{attente}{page}{fin}
+@05726	Quand je dis que j'aime|bien {F08}, c'est pas|du mensonge, hein...{attente}{page}{fin}
+@05727	Mais entre l'affection et|l'amour, la frontière...|c'est pas encore clair|pour moi...{attente}{page}{fin}
+@05728	Je suis trop indécise...|Désolée !{attente}{page}{fin}
+@05729	J'ai l'impression qu'on se|connaît... pas encore|super bien.{attente}{page}{fin}
+@05730	Si on avait eu plus de|rendez-vous...{attente}|plus de temps à deux,|ç'aurait été mieux...{attente}{page}{fin}
+@05731	Donc voilà...|on reste comme on est|encore un moment !{attente}{page}{fin}
+@05732	Si ça mettait un froid|entre nous, ça serait|trop nul, hein !{attente}{page}{fin}
+@05733	Alors...|voilà, quoi...{attente}{page}{fin}
+@05734	Hein ? Quoi donc ?{attente}{page}{fin}
+@05735	Tahaa !|Tu veux me le faire dire ?{attente}{page}{fin}
+@05736	...Dire qu'y a aucune|chance... j-je peux pas,|hein ! Allez, à plus !{attente}{page}{fin}
+@05737	Rouge comme une tomate,|{E0A} est partie|en courant...{attente}{page}{fin}
+@05738	{E0A} et moi, on va|bientôt passer en 2e.{attente}|Et là, sûrement...|cette fois, ça marchera...{attente}{page}{fin}
+@05739	Allez ! Cette année,|pour me porter chance,|je vais d'abord au temple|avant d'agir !{attente}{page}{fin}
+@05740	(Visite du Nouvel An){n}{fin}
+@05741	Ouais ! Cette ambiance|typique du Nouvel An,|ça fait du bien !{attente}{page}{fin}
+@05742	Bon, alors,|quel vœu je vais faire ?{attente}{page}{fin}
+@05743	(Quel vœu faire ?){n}{fin}
+@05744	{FFB}Santé : 5000 yens{n}　Progrès : 20000 yens{n}　Amour : 50000 yens{fin}
+@05745	J'ai prié pour être|en meilleure santé !{attente}{page}{fin}
+@05746	J'ai prié pour avoir|plus de charme !{attente}{page}{fin}
+@05747	J'ai prié pour que|ça marche en amour !{attente}{page}{fin}
+@05748	C'est pas vrai !|À peine l'année commencée,|et pas assez d'argent !{attente}{page}{fin}
+@05749	Pfff...|Quelle déception...{attente}{page}{fin}
+@05750	Je trouve qu'il se dégage|de {E04} quelque chose|d'inhabituel...{attente}{page}{fin}
+@05751	Et c'est là que...!{attente}{page}{fin}
+@05752	Dis, {F03}...{attente}|{E04} l'a mis|pour venir...{attente}{page}{fin}
+@05753	Ah, c'est...!{attente}{page}{fin}
+@05754	Oui...{attente}|c'est celui que tu m'as|offert, {F03}.{attente}{page}{fin}
+@05755	Le collier en argent...|{attente}Parce qu'il fait|tellement chic...{attente}{page}{fin}
+@05756	Quand je le porte, j'ai|l'impression que {F03}|est tout près de moi...{attente}{page}{fin}
+@05757	{E04}...{attente}|Merci...{attente}{page}{fin}
+@05758	En voyant {E04} un|peu intimidée, je ressens|une émotion et un bonheur|indescriptibles...{attente}{page}{fin}
+@05759	Le pendentif porte-bonheur|...{attente}Parce qu'il est|trop mignon...{attente}{page}{fin}
+@05760	{F08} !|Toutes à tes pieds, fort !|Je suis un peu jalouse !{attente}{page}{fin}
+@05761	Bravooo !|Trop bien pour toi !!{attente}{page}{fin}
+@05762	{F03}...|C'est génial !|Félicitations !{attente}{page}{fin}
+@05763	Mais {E04}...|va finir par être jalouse !{attente}{page}{fin}
+@05764	Bravo, {F04} !|Chapeau bas !|Félicitations !!{attente}{page}{fin}
+@05765	Mais ça aussi, ça fait|partie de ton charme,|{F04}...♥{attente}{page}{fin}
+@05766	Dis donc, {F05},|t'as du succès !|Je suis un peu jalouse !{attente}{page}{fin}
+@05767	On ressortira ensemble,|hein ! Félicitations !{attente}{page}{fin}
+@05768	Kyaa~ ! Kyaa~ !|{F06}, tu es|un vrai Superman~ !{attente}{page}{fin}
+@05769	Tu es la fiente|du lycée~|Oups, je me suis trompée~|la fierrrté~ !!{attente}{page}{fin}
+@05770	(Mirii Morizono){n}{fin}
+@05771	Quel exploit admirable !|J'en suis tout émue !|J'aimerais tant devenir|ton amie♥{attente}{page}{fin}
+@05772	(Marii Morizono){n}{fin}
+@05773	Pas mal, dis donc !|La prochaine fois, c'est|avec moi que tu sors !{attente}{page}{fin}
+@05774	(Suzune Aikawa){n}{fin}
+@05775	Euh... c'est que...|...euh...|Félicitations !{attente}{page}{fin}
+@05776	(Ami Matsuda){n}{fin}
+@05777	Félicitations !|Tu es incroyable !|Je t'admire !{attente}{page}{fin}
+@05778	(Yukino Fukamachi){n}{fin}
+@05779	Eh bien, eh bien...|Toutes mes félicitations|pour cette fois...{attente}{page}{fin}
+@05780	J'aimerais beaucoup faire|plus ample connaissance|avec un gentilhomme aussi|remarquable que toi !{attente}{page}{fin}
+@05781	(Saki Takemiya){n}{fin}
+@05782	...Tu as réussi, hein...|......{attente}|...Félicitations...{attente}{page}{fin}
+@05783	{F07} !|Félicitations ! Ce fut|un long chemin, hein !{attente}{page}{fin}
+@05784	Il s'en est passé, des|choses, mais ce sont|toutes de beaux souvenirs !{attente}{page}{fin}
+@05785	Un jour...|on se reverra, hein !{attente}{page}{fin}
+@05786	Mon regard tombe sur|la main de {E04}...{attente}|Ah ! C'est...{attente}{page}{fin}
+@05787	La bague à bijou...|{attente}Parce qu'elle est|si jolie et si chic...{attente}{page}{fin}
+@05788	La bague transparente...|{attente}Parce qu'elle est|trop mignonne...{attente}{page}{fin}
+@05789	Je trouve qu'il se dégage|de Mizuki quelque chose|d'inhabituel...{attente}{page}{fin}
+@05850	{F04}...{attente}|Je l'ai mis, tu vois...|...{attente}{page}{fin}
+@05851	Ouais...{attente}|c'est celui que tu m'as|offert, {F04}.{attente}{page}{fin}
+@05852	Le pendentif porte-bonheur|...{attente}Parce qu'il a|un style sympa...{attente}{page}{fin}
+@05853	Avec ça, je me dis que|nos rendez-vous, {F04},|seront encore plus cool...{attente}{page}{fin}
+@05854	Mizuki...{attente}|Merci...{attente}{page}{fin}
+@05855	En voyant Mizuki un|peu intimidée, je ressens|une émotion et un bonheur|indescriptibles...{attente}{page}{fin}
+@05856	Le collier décontracté...|{attente}Parce qu'il fait pas|guindé...{attente}{page}{fin}
+@05857	Mon regard tombe sur|la main de Mizuki...{attente}|Ah ! C'est...{attente}{page}{fin}
+@05858	La bague design en argent|...{attente}Parce qu'elle a|trop la classe...{attente}{page}{fin}
+@05859	Les boucles d'oreilles en|argent...{attente}Parce que|ça se voit pas trop...{attente}{page}{fin}
+@05860	(Examens de mi-trimestre){n}{fin}
+@05861	Le premier obstacle de|ma vie de lycéen : les|examens de mi-trimestre !{attente}{page}{fin}
+@05862	Tout se joue au début...|Allez, je vais tout donner !!{attente}{page}{fin}
+@05863	......{attente}|Ouh là...|C'est quoi, ce truc ?!{attente}{page}{fin}
+@05864	J'y comprends rien...|C'est fichu, là...|...Misère...{attente}{page}{fin}
+@05865	{F08} !|C'est quoi, cette tête|d'enterrement ?!{attente}|Ah... je vois !{attente}{page}{fin}
+@05866	T'as raté ton exam !{attente}|C'est pas comme ça que|tu vas t'en sortir ! Bosse|mieux la prochaine fois !{attente}{page}{fin}
+@05867	Aïe... en plein cœur !|Allez, la prochaine fois,|je vais tout donner !!{attente}{page}{fin}
+@05868	......{attente}Hmm...|plus dur que prévu...{attente}|Je vais avoir un résultat|moyen, je pense...{attente}{page}{fin}
+@05869	Tiens ? Tu as l'air abattu.{attente}|L'examen s'est mal passé ?{attente}|Courage pour la prochaine !{attente}{page}{fin}
+@05870	......{attente}Hmm...|c'est un peu dur, mais...|ça devrait aller...|je vais m'en sortir !{attente}{page}{fin}
+@05871	{F08} !|À voir ta tête, ça s'est|plutôt bien passé, hein !{attente}{page}{fin}
+@05872	Continue comme ça|la prochaine fois !{attente}{page}{fin}
+@05873	......{attente}Hmm...|plus facile que prévu !{attente}|Je peux viser le haut|du classement !!{attente}{page}{fin}
+@05874	À voir ta tête, c'est|dans la poche ?{attente}|{F07}... tu es|vraiment fort...{attente}{page}{fin}
+@05875	Continue comme ça pour|rester parmi les meilleurs !{attente}{page}{fin}
+@05876	Avec un regard aussi|brûlant posé sur moi...|ça vaut le coup de bosser !|La prochaine fois aussi !{attente}{page}{fin}
+@05877	(Examens de fin de trim.){n}{fin}
+@05878	C'est aujourd'hui le dernier|jour des examens de fin|du 1er trimestre... !{attente}{page}{fin}
+@05879	Pourvu que mes révisions|portent leurs fruits !{attente}|Ah ! Ils commencent à|distribuer les sujets !!{attente}{page}{fin}
+@05880	T'as raté ton exam !{attente}|Des vacances d'été bien|tristes t'attendent, hein !{attente}{page}{fin}
+@05881	Aïe... en plein cœur !|Cet été, je vais devenir|un monstre de révisions !{attente}{page}{fin}
+@05882	Tiens ? Tu as l'air abattu.|L'examen s'est mal passé ?|Bon courage pour réviser|pendant l'été.{attente}{page}{fin}
+@05883	T'auras plein de temps|pour t'amuser cet été,|alors ! Trop bien !{attente}{page}{fin}
+@05884	Tu vas pouvoir t'amuser|tant que tu veux cet été,|mais n'oublie pas d'étudier !{attente}{page}{fin}
+@05885	{E09} a raison !{attente}|Cet été, je vais assurer,|côté loisirs comme côté|études !{attente}{page}{fin}
+@05886	......Fini, les examens|de fin de trimestre...{attente}|Quel que soit le résultat,|ouf, quel soulagement !{attente}{page}{fin}
+@05887	C'est aujourd'hui le dernier|jour des examens de|mi-trimestre du 2e... !{attente}|Allez, à fond !!{attente}{page}{fin}
+@05888	Ça y est, aujourd'hui,|c'est le dernier jour des|examens de fin du 2e|trimestre... !{attente}{page}{fin}
+@05889	T'as raté ton exam !{attente}|Ça va être un hiver|froid et bien triste !{attente}{page}{fin}
+@05890	Aïe... en plein cœur !|Cet hiver, je vais devenir|un monstre de révisions !{attente}{page}{fin}
+@05891	Tiens ? Tu as l'air abattu.|L'examen s'est mal passé ?{attente}|Bon courage pour réviser|pendant l'hiver.{attente}{page}{fin}
+@05892	T'auras plein de temps|pour t'amuser cet hiver,|alors ! Trop bien !{attente}{page}{fin}
+@05893	Tu vas pouvoir t'amuser|tant que tu veux cet hiver,|mais n'oublie pas d'étudier !{attente}{page}{fin}
+@05894	{E09} a raison !|Cet hiver, je vais assurer,|côté loisirs comme côté|études !{attente}{page}{fin}
+@05895	Aujourd'hui se terminent|les derniers examens de|mi-trimestre de l'année !{attente}|Allez, à fond !!{attente}{page}{fin}
+@05896	Le dernier gros morceau de|l'année : les examens de|fin du 3e trimestre se|terminent aujourd'hui !{attente}{page}{fin}
+@05897	Tout est bien qui finit bien !{attente}|Cette fois, à fond !!{attente}{page}{fin}
+@05898	T'as raté ton exam !{attente}|Adieu, vacances de|printemps ! T'as pas honte ?{attente}{page}{fin}
+@05899	Aïe, aïe... en plein cœur !!|Mes vacances de printemps|vont passer à réviser|toute l'année...{attente}{page}{fin}
+@05900	Tiens ? Tu as l'air abattu.|L'examen s'est mal passé ?{attente}|Tu vas devoir réviser|ce printemps.{attente}{page}{fin}
+@05901	T'auras plein de temps|pour t'amuser ce printemps,|alors ! Trop bien !{attente}{page}{fin}
+@05903	Des compliments, la chance !{attente}|Ce printemps, je vais|assurer, côté loisirs comme|côté études !{attente}{page}{fin}
+@05904	(Vacances d'été){n}{fin}
+@05905	Ouaiiis !!|Demain commencent enfin|les vacances d'été !!{attente}{page}{fin}
+@05906	Ah, aujourd'hui, c'est|le jour de présence !{attente}|Faut que je file au lycée !{attente}{page}{fin}
+@05907	(Rentrée du 2e trimestre){n}{fin}
+@05908	C'est la rentrée du 2e|trimestre aujourd'hui...{attente}|Retour aux cours tous les|jours... Pfff, la déprime.{attente}{page}{fin}
+@05909	(Vacances d'hiver){n}{fin}
+@05910	C'est les vacances d'hiver !{attente}|Ce soir, c'est le réveillon|de Noël : il faut que|ça avance en amour !{attente}{page}{fin}
+@05911	(Rentrée du 3e trimestre){n}{fin}
+@05912	C'est la rentrée du 3e|trimestre aujourd'hui...{attente}|Retour aux cours tous les|jours... Pfff, la déprime.{attente}{page}{fin}
+@05913	Je trouve qu'il se dégage|de Yumi quelque chose|d'inhabituel...{attente}{page}{fin}
+@05914	{F05}, regarde,|je l'ai mis.{attente}{page}{fin}
+@05915	Tu as remarqué ?{attente}|C'est celui que tu m'as|offert, {F05}.{attente}{page}{fin}
+@05916	Le collier en argent...{attente}|...{attente}Parce qu'il est|élégant et classe...{attente}{page}{fin}
+@05917	Avec ça, nos rendez-vous,|{F05}, seront encore|plus sympas, non ?{attente}{page}{fin}
+@05918	Yumi...{attente}|Merci...{attente}{page}{fin}
+@05919	En voyant Yumi un peu|gênée, je ressens|une émotion et un bonheur|indescriptibles...{attente}{page}{fin}
+@05920	(Incident à la fête sportive){n}{fin}
+@05921	Allez ! Maintenant, c'est|mon épreuve : le relais|800 m !{attente}{page}{fin}
+@05922	Dernier relayeur, c'est une|sacrée responsabilité...{attente}|Mais je vais tout donner,|à fond, jusqu'au bout !!{attente}{page}{fin}
+@05923	Il a une mauvaise foulée !{attente}|Comme ça, il se fatigue|pour rien, il ira pas vite.{attente}{page}{fin}
+@05924	Beurk ! Il se fait doubler|par tout le monde, il est|dernier !! Trop la honte !{attente}{page}{fin}
+@05925	J'ai reçu le témoin en tête,|et pourtant... j'ai fini|dernier...{attente}{page}{fin}
+@05926	Ma première fête sportive|au lycée : tout le monde me|l'a reproché, une horreur.|...{attente}Pfff...{attente}{page}{fin}
+@05927	{F07} fait|des efforts, mais|il est bien trop lent...{attente}{page}{fin}
+@05928	Nyahaha ! {F06},|tu t'es fait|doubler~|Avant-dernier~ !!{attente}{page}{fin}
+@05929	Hmm... sûrement mon manque|de sport au quotidien...|j'ai pas trop brillé...|...Dommage !!{attente}{page}{fin}
+@05930	Encore un effort, tu es|presque premier ! Allez,|{F06}, courage !{attente}{page}{fin}
+@05931	{F03} !{attente} Ah...{attente}|Dommage ! Mais 2e,|c'est super !!{attente}{page}{fin}
+@05932	Ma première fête sportive|s'est finie à la 2e place,{attente}|mais tout le monde m'a|encouragé, trop content !!{attente}{page}{fin}
+@05933	{F03}, génial !!|Il les double tous !!|Qu'il est classe♥{attente}{page}{fin}
+@05934	Ah ! {F07} !|Il est super rapide !|On dirait MJ !!{attente}{page}{fin}
+@05935	Il a reçu le témoin en|dernier, et il finit 1er !|{F07}, tu es génial♥{attente}{page}{fin}
+@05936	Ouais !|J'ai assuré grave !|Fête sportive au top !!{attente}{page}{fin}
+@05937	(Incident à la fête du lycée){n}{fin}
+@05938	Je me baladais devant les|stands des classes quand|quelqu'un m'a interpellé !{attente}{page}{fin}
+@05939	Ah, {F03} !{attente}|Dis, tu veux bien venir|au stand du club de|travaux manuels ?{attente}{page}{fin}
+@05940	On aimerait que les garçons|viennent voir aussi, mais|il n'y en a aucun qui vient.{attente}{page}{fin}
+@05941	Avec toi, {F03},|les garçons oseront|plus entrer, je pense.{attente}{page}{fin}
+@05942	Je fais le faux client,|quoi !{attente}|...OK, pas de problème !|Je vais vous aider !{attente}{page}{fin}
+@05943	Oh, super !|Alors viens avec moi !{attente}{page}{fin}
+@05944	Au club de travaux manuels,|le stand était désert : pas|de garçons, et presque|pas de filles non plus.{attente}{page}{fin}
+@05945	Regarde ce qui te plaît !{attente}|Ah, mets-toi plutôt à un|endroit visible de l'entrée !{attente}{page}{fin}
+@05946	Il y en a qui sont aussi|bien faits que dans|le commerce, mais...{attente}{page}{fin}
+@05947	ceux qui font vraiment|faits main ont du charme|aussi !{attente}{page}{fin}
+@05948	Hihi ! Hein, que oui !|Chacun a son charme, on|ne s'en lasse pas, hein ?{attente}{page}{fin}
+@05949	À force de prendre les|objets, de les regarder,|de les reposer... un|garçon est entré !{attente}{page}{fin}
+@05950	Ah, bienvenue !|Merci beaucoup~ !{attente}{page}{fin}
+@05951	Dès qu'un vrai client|garçon est entré...|il en est arrivé d'autres,|encore et encore !{attente}{page}{fin}
+@05952	Merci beaucoup !{attente}|C'est grâce à toi, {F03} !{attente}{page}{fin}
+@05953	...Ça, c'est une mascotte|que j'ai faite moi-même !{attente}{page}{fin}
+@05954	Je n'ai rien d'autre pour|te remercier, alors je|te l'offre !{attente}{page}{fin}
+@05955	Ce chat à lunettes de|soleil... je l'ai déjà vu|quelque part...{attente}{page}{fin}
+@05956	M-merci...|Il est trop mignon.|J'en prendrai soin...{attente}{page}{fin}
+@05957	Bon, grâce à toi, on|commence à avoir du monde,|alors à tout à l'heure !{attente}{page}{fin}
+@05958	Fait main par {E04}...{attente}|C'est mignon, c'est|tout {E04}, ça...{attente}{page}{fin}
+@05959	Je me baladais près de la|scène de la fête quand|quelqu'un m'a parlé !{attente}{page}{fin}
+@05960	On est déjà en automne,|mais avec tout ce monde,|il fait presque chaud !{attente}{page}{fin}
+@05961	Ah, {E04} !|C'est vrai, moi, je|commence à transpirer !{attente}{page}{fin}
+@05962	Moi aussi !{attente} Quand il|fait aussi chaud, on a|envie d'un truc frais !{attente}{page}{fin}
+@05963	Ah, j'ai envie d'une coupe|chocolat au café du stand !{attente}|On y va ensemble ?{attente}{page}{fin}
+@05964	Ouais ! Bonne idée !|Allons-y !{attente}{page}{fin}
+@05965	{E04} et moi, on file|vers la salle de classe|transformée en café...{attente}{page}{fin}
+@05966	Waouh ! Quel travail !|On dirait un vrai café !!{attente}{page}{fin}
+@05967	J'arrive pas à croire|que c'est une salle|de classe !{attente}{page}{fin}
+@05968	Ouais, ça m'épate !|Comment ils ont fait ?|...{attente}{page}{fin}
+@05969	Mystère...{attente}|Ah ! Mais d'abord...|commandons vite !{attente}{page}{fin}
+@05970	Une fois la commande|passée, {E04} et moi,|on observe la salle|tout autour de nous...{attente}{page}{fin}
+@05971	Ah, ça arrive !|C'est plutôt rapide !{attente}|Allez, à l'attaque~ !{attente}{page}{fin}
+@05972	...Mm...{attente}|Ah...{attente}C'est trop bon !!{attente}{page}{fin}

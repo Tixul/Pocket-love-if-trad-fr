@@ -1,0 +1,250 @@
+; Lot 27 : Konoha et son petit frère, rendez-vous annulés / oubliés (excuses au téléphone),
+; patates douces grillées, fête de quartier et feu d'artifice, présentations des filles.
+@09886	Malgré les apparences,|je m'occupe bien de mon|petit frère, hein !{attente}|Il adore sa grande sœur !{attente}{page}{fin}
+@09887	Ah, il va se sentir seul,|alors j'y retourne !{attente}|Allez, à plus !{attente}{page}{fin}
+@09888	{E0A} est repartie en|courant vers le bac à sable|où l'attendait son frère !{attente}{page}{fin}
+@09889	Son petit frère, hein...{attente}|{E0A} aime bien s'occuper|des autres... Chapeau !{attente}{page}{fin}
+@09890	Haha, à les regarder tous|les deux, j'ai le cœur|qui se réchauffe !{attente}{page}{fin}
+@09891	Je les ai regardés jouer|un moment, puis j'ai|quitté le parc...{attente}{page}{fin}
+@09892	Non mais franchement, on|sort en rencard avec son|petit frère de primaire ?!{attente}|Trop bizaaarre !{attente}{page}{fin}
+@09910	Aujourd'hui, j'ai rencard|avec {E04} !{attente}|J'ai trop hâte... héhéhé{attente}{page}{fin}
+@09911	Ah, {F00}-kun ?|C'est Saeki.{attente}{page}{fin}
+@09912	Aujourd'hui, le rendez-vous,|je n'y vais pas !{attente}|Salut !{attente}{page}{fin}
+@09913	Hein ! Euh, attends !{attente}{page}{fin}
+@09914	Clac !{attente}|Elle a raccroché sec.{attente}|On aurait dit qu'elle|était furieuse...{attente}{page}{fin}
+@09915	...Après ce qui s'est|passé, c'est normal...|...{attente}Mais quand même,|ça me rend triste...{attente}{page}{fin}
+@09916	Aujourd'hui, j'ai rencard|avec Mizuki !{attente}|J'ai trop hâte... héhéhé{attente}{page}{fin}
+@09917	C'est Takao !{attente}|Le rendez-vous|d'aujourd'hui, j'annule !{attente}{page}{fin}
+@09918	Aujourd'hui, j'ai rencard|avec Yumi !{attente}|J'ai trop hâte... héhéhé{attente}{page}{fin}
+@09919	C'est Matsuda ! Je me|permets d'annuler notre|rendez-vous.{attente}|Salut !{attente}{page}{fin}
+@09920	Aujourd'hui, j'ai rencard|avec {E08} !{attente}|J'ai trop hâte... héhéhé{attente}{page}{fin}
+@09921	C'est Shinozawa~{attente}|Le rendez-vous,|c'est annulé~ !{attente}{page}{fin}
+@09922	Hein ! Mais pourquoi ?!{attente}{page}{fin}
+@09923	Tu sais très bien|pourquoi, {F00}~ !|Allez, bye-bye !{attente}{page}{fin}
+@09924	Aujourd'hui, j'ai rencard|avec {E09} !{attente}|J'ai trop hâte... héhéhé{attente}{page}{fin}
+@09925	{F01}-kun ?|Désolée, mais j'annule|notre rendez-vous !{attente}{page}{fin}
+@09926	Réfléchis un peu, et tu|comprendras, non ?{attente}|Sur ce, adieu !{attente}{page}{fin}
+@09927	......|Je m'en doutais...{attente}{page}{fin}
+@09928	Aujourd'hui, j'ai rencard|avec {E0A} !{attente}|J'ai trop hâte... héhéhé{attente}{page}{fin}
+@09929	Ici {E0A} Kobayashi :|je refuse le rendez-vous|d'aujourd'hui !{attente}{page}{fin}
+@09930	Voilà, c'est dit !|Salut !{attente}{page}{fin}
+@09931	Pfiou... encore une journée|crevante... Hm ?{attente}|Attends voir...{attente}{page}{fin}
+@09932	J'ai l'impression d'avoir|oublié un truc important...{attente}|...Aaaaah !!{attente}|La cata ! C'est la cata !{attente}{page}{fin}
+@09933	J'avais rendez-vous avec|{E04} aujourd'hui !{attente}|Q-q-q-qu'est-ce que|je fais ?!{attente}{page}{fin}
+@09934	B-bon, je téléphone !{attente}|Je m'excuse, je m'excuse,|je m'excuse à fond !{attente}{page}{fin}
+@09935	Vite, au téléphone !{attente}|Bip bip bop...|......|......{attente}{page}{fin}
+@09936	Ah ! Euh ! C'est|{F00} à l'appareil !{attente}{page}{fin}
+@09937	{F03} ?|Qu'est-ce que tu veux,|maintenant ?{attente}{page}{fin}
+@09938	Euh... pour aujourd'hui,|pardon !{attente}|Je suis désolé !{attente}{page}{fin}
+@09939	Aucune excuse, je sais !|Je suis vraiment désolé !{attente}|Ça n'arrivera plus jamais !{attente}{page}{fin}
+@09940	Tu ne me pardonneras|peut-être pas, mais...|je voulais m'excuser !{attente}{page}{fin}
+@09941	Pardon de t'avoir fait|passer un si mauvais|moment !{attente}{page}{fin}
+@09942	......|Ce n'était pas un mauvais|moment... j'étais triste...{attente}{page}{fin}
+@09943	J'ai cru que tu ne|m'aimais plus !{attente}|Ne refais plus jamais ça !{attente}{page}{fin}
+@09944	Hein ! Alors, ça veut dire...{attente}{page}{fin}
+@09945	Oui, je te pardonne !{attente}|Tu t'es excusé sincèrement,|sans chercher d'excuses !{attente}{page}{fin}
+@09946	...Merci !{attente}{page}{fin}
+@09947	Bon, il est déjà tard,|alors...|bonne nuit !{attente}{page}{fin}
+@09948	Oui, bonne nuit !{attente}|Pardon...{attente}{page}{fin}
+@09949	......En l'entendant|raccrocher doucement,|j'ai enfin été soulagé.{attente}|Elle n'est plus fâchée.{attente}{page}{fin}
+@09950	Ouf, elle m'a pardonné...|Quel soulagement...{attente}{page}{fin}
+@09951	À l'avenir, je dois faire|gaffe à ne plus jamais|poser de lapin !{attente}{page}{fin}
+@09952	J'avais rendez-vous avec|Mizuki aujourd'hui !{attente}|Q-q-q-qu'est-ce que|je fais ?!{attente}{page}{fin}
+@09953	Hein, {F04}... ?{attente}|Je vais me coucher, là...{attente}{page}{fin}
+@09954	Attends ! Euh...|pour aujourd'hui, pardon !{attente}|Je suis désolé !{attente}{page}{fin}
+@09955	......|Promis, tu ne le|referas plus ?{attente}{page}{fin}
+@09956	Tu n'es pas venu, {F04},|j'étais vraiment triste...|...Ne refais plus ça.{attente}{page}{fin}
+@09957	Allez, c'est bon !{attente}|Pour aujourd'hui,|je passe l'éponge|et j'oublie tout !{attente}{page}{fin}
+@09958	Bon, je vais me coucher,|alors... à plus !{attente}|Bonne nuit !{attente}{page}{fin}
+@09959	J'avais rendez-vous avec|Yumi aujourd'hui !{attente}|Q-q-q-qu'est-ce que|je fais ?!{attente}{page}{fin}
+@09960	Tiens donc ! Qu'est-ce que|tu veux, à cette heure-ci ?{attente}{page}{fin}
+@09961	...Encore une fois...{attente}{page}{fin}
+@09962	Excuse-toi encore une|fois, et je te pardonne !{attente}{page}{fin}
+@09963	C'est vrai ?!{attente}|Pardon !{attente}|Je ne le referai jamais plus !{attente}{page}{fin}
+@09964	Bien, tu es obéissant !{attente}|Je plaisante ! Hihi !{attente}|C'est bon, va !{attente}{page}{fin}
+@09965	Tu as été sérieux, sans|chercher de prétexte,|alors je te pardonne !{attente}{page}{fin}
+@09966	Mais la prochaine fois,|je ne pardonnerai peut-être|pas...{attente}|Allez, bonne nuit !{attente}{page}{fin}
+@09967	J'avais rendez-vous avec|{E08} aujourd'hui !{attente}|Q-q-q-qu'est-ce que|je fais ?!{attente}{page}{fin}
+@09968	...Le numéro de Shinozawa|n'est plus attribué.|Veuillez vérifier|votre numéro...{attente}{page}{fin}
+@09969	...C'est vrai~ ?{attente}|Tu regrettes~ ?{attente}|Tu le referas plus~ ?{attente}{page}{fin}
+@09970	C'est vrai !{attente}|Je regrette !{attente}|Je le referai plus !{attente}{page}{fin}
+@09971	Funya~...|Bon, pour cette fois,|Shinozawa ferme les yeux~{attente}{page}{fin}
+@09972	Hein ! C'est vrai ?!{attente}|Merci beaucoup !{attente}{page}{fin}
+@09973	Bon, Shinozawa va dormir !{attente}|Bonne nuit~ !{attente}{page}{fin}
+@09974	J'avais rendez-vous avec|{E09} aujourd'hui !{attente}|Q-q-q-qu'est-ce que|je fais ?!{attente}{page}{fin}
+@09975	......Quoi ?{attente}{page}{fin}
+@09976	Faire le pied de grue...|plus jamais ça...{attente}{page}{fin}
+@09977	Désormais, quand tu ne|peux pas venir, préviens-moi|bien !{attente}|...C'est compris ?{attente}{page}{fin}
+@09978	Bien sûr que je te|pardonne !{attente}|Tu t'es tellement excusé...|ça me suffit !{attente}{page}{fin}
+@09979	Bon, ce soir, je vais|me coucher.{attente}|Bonne nuit !{attente}{page}{fin}
+@09980	J'avais rendez-vous avec|{E0A} aujourd'hui !{attente}|Q-q-q-qu'est-ce que|je fais ?!{attente}{page}{fin}
+@09981	Heiiin ? Quel {F00}-san ?{attente}|Connais paaas !{attente}{page}{fin}
+@09982	Tu regrettes vraiment,|hein ?!{attente}{page}{fin}
+@09983	Oui, vraiment !|Pardon !{attente}{page}{fin}
+@09984	Alors je peux très bien|ne pas te pardonner, hein ?!{attente}{page}{fin}
+@09985	Tant pis...|Même si c'est triste...{attente}{page}{fin}
+@09986	Mais moi aussi, j'étais|triste, tu sais !!{attente}|Tu m'as posé un lapin !!{attente}{page}{fin}
+@09987	Oui...|Pardon...{attente}{page}{fin}
+@09988	La prochaine fois, je te|pardonnerai pas, hein !{attente}{page}{fin}
+@09989	Bah, vu comme tu t'es|excusé, c'est bon !{attente} Mais|tu me revaudras ça !{attente}{page}{fin}
+@09990	Bon ben, bonne nuit,|et voilà !!{attente}{page}{fin}
+@10000	Oh ! Le marchand de|patates douces grillées|arrive tranquillement|avec sa charrette.{attente}{page}{fin}
+@10001	Hm ? Juste derrière... c'est|pas {E0A} ?{attente}|Ah ! Elle mange une patate|douce toute fumante !{attente}{page}{fin}
+@10002	　Tu vas péter, toi !{n}{fin}
+@10003	　T'es constipée ou quoi ?{n}{fin}
+@10004	Mmpf !|Mmgh...{attente}|Kof ! Kof kof !{attente}{page}{fin}
+@10005	Tu m'as fait peur, j'ai|failli m'étouffer !{attente}|Tu veux me tuer ou quoi ?!{attente}{page}{fin}
+@10006	Je la mangerai tranquille|une fois calmée !|Salut !{attente}{page}{fin}
+@10007	Je m'en veux un peu...{attente}|Mais cette tête dégoûtée,|c'était parce qu'elle|s'étouffait... ?{attente}{page}{fin}
+@10008	Ah, c'est {F08} !{attente}|L'hiver, faut absolument|manger des patates douces|grillées !{attente}{page}{fin}
+@10009	Une patate toute chaude,|tout juste achetée, c'est|le top !!{attente}|C'est le paradis !{attente}{page}{fin}
+@10010	Je la mange avant qu'elle|refroidisse, j'y vais !|Salut !{attente}{page}{fin}
+@10011	Manger sa patate avant|qu'elle refroidisse, c'est|plus important que moi~{attente}|...c-c'est triste~{attente}{page}{fin}
+@10012	Ah, {F08} !!{attente}|Cette patate douce, elle|est trop trop bonne !!{attente}{page}{fin}
+@10013	J'en ai pris plein, c'est|pour manger en famille !{attente}|Tiens, je t'en donne une !{attente}{page}{fin}
+@10014	Waah ! Ça brûle !{attente}{page}{fin}
+@10015	{E0A} m'a lancé une|patate douce, puis elle|est partie en courant,|toute contente...{attente}{page}{fin}
+@10016	Elle avait l'air si|contente... parce qu'elle|m'a vu ? Si c'est ça,|je suis content aussi !{attente}{page}{fin}
+@10017	Me faire surprendre en|train de grignoter...|la honte !!{attente}{page}{fin}
+@10018	Celles-là, c'est pour|manger en famille, j'en ai|pris en plus. Tiens, une|pour toi♥{attente}{page}{fin}
+@10019	Fais gaffe, c'est chaud !{attente}|Bon, ma famille m'attend,|à plus !!{attente}{page}{fin}
+@10020	{E0A} m'a tendu une|patate douce tout doux,|puis elle s'est enfuie,|toute gênée...{attente}{page}{fin}
+@10021	...Délicieux !|On dirait que cette patate|est pleine de l'amour|de {E0A}...♥{attente}{page}{fin}
+@10022	Une fête de quartier, c'est|sympa, mais les stands sont|toujours les mêmes...|À force, on se lasse.{attente}{page}{fin}
+@10023	Les fêtes de quartier,|ça ne m'intéressait pas|trop, mais...{attente}{page}{fin}
+@10024	Avec {F03},|je suis toute émue !{attente}|...C'est bizarre♥{attente}{page}{fin}
+@10025	Une fête de quartier, c'est|pas mal, mais il manque|un vrai charme...{attente}{page}{fin}
+@10026	Les fêtes de quartier, je|n'y allais pas beaucoup|jusqu'ici, mais...{attente}{page}{fin}
+@10027	Une fête de quartier,|une fois par an, ça suffit,|j'ai l'impression...{attente}{page}{fin}
+@10028	À force d'y venir... y a|rien à voir, on finit pas|par se lasser ?...{attente}{page}{fin}
+@10029	J'ai jamais trouvé les fêtes|de quartier spécialement|marrantes, mais...{attente}{page}{fin}
+@10030	Les fêtes de quartier,|jusqu'ici, je les trouvais|pas spécialement drôles...{attente}{page}{fin}
+@10031	Mais quand on y vient|comme ça,{attente} c'est pas|si nul, hein ?{attente}{page}{fin}
+@10032	Mais avec {F04},|je trouve ça marrant...|C'est bizarre !{attente}{page}{fin}
+@10033	Mais du moment que je|suis seule avec {F04},|tout devient marrant♥{attente}{page}{fin}
+@10034	Une fête de quartier, c'est|un classique de saison,|d'accord, mais venir|si souvent...{attente}{page}{fin}
+@10035	Une simple fête de quartier,|et j'en ai le cœur tout|chaviré...{attente}{page}{fin}
+@10036	Les fêtes de quartier, je ne|les aime ni ne les déteste,|mais...{attente}{page}{fin}
+@10037	La fête de quartier, c'est|l'endroit préféré de|Shinozawa, mais aujourd'hui,|c'est spécial~ !{attente}{page}{fin}
+@10038	{F06}~, Shinozawa~,{attente}|elle aime bien les fêtes|de quartier~{attente}{page}{fin}
+@10039	Un rencard à sa fête|de quartier préférée...|Shinozawa est happy~ !{attente}{page}{fin}
+@10040	{F06}~ qui choisit|la fête préférée|de Shinozawa pour sortir...{attente}{page}{fin}
+@10041	Dis, {F07}...{attente}|Même si la fête de quartier|est typique de l'été|japonais...{attente}{page}{fin}
+@10042	pourquoi on vient toujours|ici ? Franchement, j'en ai|assez...{attente}{page}{fin}
+@10043	Why ?{attente} Jamais une fête|de quartier ne m'avait|émue, jusqu'ici...{attente}{page}{fin}
+@10044	Les fêtes de quartier du|Japon, je ne leur trouve|pas de charme spécial...{attente}{page}{fin}
+@10045	C'est vrai, moi aussi|j'aime les fêtes de quartier,|et c'est un spot rare,|que l'été, mais...{attente}{page}{fin}
+@10046	si on y va tout le temps,|on se lasse, hein !!{attente}{page}{fin}
+@10047	{F08} !!{attente}|Moi, j'adore les fêtes|de quartier !!{attente}{page}{fin}
+@10048	Venir avec toi dans un spot|rare, que l'été... trop bien♥{attente}{page}{fin}
+@10049	Les fêtes de quartier,|ça détend, tu trouves pas ?|Moi, j'aime bien !{attente}{page}{fin}
+@10050	Euh... les fêtes de quartier,|j'aime plutôt bien !{attente}|Héhé ! Je suis contente !{attente}{page}{fin}
+@10051	Dis, dis !{attente}|Les fêtes de quartier,|c'est plutôt cool, hein !!{attente}{page}{fin}
+@10052	Le feu d'artifice, chaque|année, je l'attends|avec impatience, mais...{attente}{page}{fin}
+@10053	Moi, venir voir le feu|d'artifice... j'aime|bien ça...{attente}{page}{fin}
+@10054	Tu sais...{attente} le feu|d'artifice, je l'attends|chaque année !{attente}{page}{fin}
+@10055	Que j'aime regarder les|feux d'artifice... tu|le savais...{attente}{page}{fin}
+@10056	Le feu d'artifice, pour moi,|c'était juste un truc qui|revient chaque année, mais{attente}{page}{fin}
+@10057	Le feu d'artifice, pour moi,|c'était juste un truc qui|revient chaque année.{attente}{page}{fin}
+@10058	Le feu d'artifice, pour moi,|c'était juste « ah, tiens,|y en a un », mais{attente}{page}{fin}
+@10059	C'est qu'une fois par an,|et le regarder comme ça...{attente}|c'est chouette, en fait !{attente}{page}{fin}
+@10060	Avec {F04}, je me dis|que j'ai bien fait de venir...|...{attente}C'est bizarre !{attente}{page}{fin}
+@10061	Les feux d'artifice, je les|trouve beaux, c'est vrai...|Mais...{attente}{page}À venir aussi souvent,|l'émotion finit par|s'émousser...{attente}{page}{fin}
+@10062	À venir aussi souvent,|l'émotion finit par|s'émousser...{attente}{page}{fin}
+@10063	On est déjà venus au feu|d'artifice l'autre fois...{attente}{page}{fin}
+@10064	Le feu d'artifice, c'est|un de mes petits plaisirs|de l'année, mais...{attente}{page}{fin}
+@10065	Ce soir, c'est une nuit|vraiment merveilleuse♥{attente}{page}{fin}
+@10066	Le feu d'artifice, c'est|un de mes petits plaisirs|de l'année !{attente}{page}{fin}
+@10067	Merci, {F05}.|J'adore les feux|d'artifice !{attente}{page}{fin}
+@10068	Je suis contente que tu|m'aies invitée !{attente}{page}{fin}
+@10069	Être venue avec toi, et en|plus voir de si beaux feux...|je suis ravie !{attente}{page}{fin}
+@10070	Un feu d'artifice, rien de|tel que de le regarder avec|quelqu'un de proche !{attente}{page}{fin}
+@10071	Le feu d'artifice, l'été,|Shinozawa adore ça~{attente}|Mais aujourd'hui,|c'est spécial~ !{attente}{page}{fin}
+@10072	{F06}~, Shinozawa~,{attente}|elle adore les feux|d'artifice~{attente}{page}{fin}
+@10073	Un rencard à son feu|d'artifice préféré...|Shinozawa est happy~ !{attente}{page}{fin}
+@10074	{F06}~ qui choisit|le feu d'artifice adoré|de Shinozawa pour sortir...{attente}{page}{fin}
+@10075	Dis, {F07}...{attente}|Même si le feu d'artifice|est typique de l'été|japonais...{attente}{page}{fin}
+@10076	Wonderful !{attente}|Les feux d'artifice japonais,|c'est si coloré !{attente}{page}{fin}
+@10077	Je ne fais que regarder|le feu d'artifice avec|{F07}, et pourtant...{attente}{page}{fin}
+@10078	j'ai le cœur tout|brûlant...|...c'est étrange♥{attente}{page}{fin}
+@10079	Les feux d'artifice japonais|sont colorés, c'est vrai,{attente}|mais ils ne m'émeuvent|pas tant que ça.{attente}{page}{fin}
+@10080	C'est vrai que le feu|d'artifice, c'est un spot|rare, que l'été, mais !{attente}{page}{fin}
+@10081	c'est pas un endroit où|on vient si souvent, hein !{attente}{page}{fin}
+@10082	Un feu d'artifice, c'était|aussi émouvant que ça ?!{attente}{page}{fin}
+@10083	Les feux, c'est beau, mais|je croyais qu'avec la foule,|on serait pas tranquilles...{attente}{page}{fin}
+@10084	Bon, c'est un choix bien|estival, sans risque,|on va dire...{attente}{page}{fin}
+@10085	Jusqu'ici, le feu d'artifice,|ça me laissait pas de|souvenirs spéciaux, mais...{attente}{page}{fin}
+@10086	Même si le feu d'artifice|est beau, pourquoi on vient|toujours ici~ ?{attente}{page}{fin}
+@10087	Dis, un feu d'artifice, on|n'y vient pas si souvent,|d'habitude...{attente}{page}{fin}
+@10088	C'est vrai que Shinozawa|aime les fêtes de quartier~|Mais si souvent, nyaa~{attente}{page}{fin}
+@10090	({E08} Shinozawa)|Nyahaha~ !|Bonsoir~ !|Ici {E08} Shinozawa~ !{fin}
+@10091	{page}({E08} Shinozawa)|Hm~ ?|Ne me dites pas... nuit|blanche aux jeux vidéo ?{fin}
+@10092	{page}({E08} Shinozawa)|Nyahahaha !|Comme Shinozawa~ !{fin}
+@10093	{page}({E08} Shinozawa)|Jusqu'au lycée Koigahara,|Shinozawa a joué tous|les jours, à fond{fin}
+@10094	({E08} Shinozawa)|C'est le bonheur|niveau 99, en gros~{fin}
+@10095	({E08} Shinozawa)|Et le jeu préféré de|Shinozawa en ce moment~{fin}
+@10096	{page}({E08} Shinozawa)|c'est Pocket Love ~if~,{fin}
+@10097	{page}({E08} Shinozawa)|une simulation amoureuse|trop trop géniale~{fin}
+@10098	({E08} Shinozawa)|Shinozawa aimerait bien|vivre un amour comme ça~{fin}
+@10099	{page}({E08} Shinozawa)|voilà ce qu'elle pense~♥{fin}
+@10100	{page}({E08} Shinozawa)|Kyaa~ !|C'est trop la honte~ !{fin}
+@10101	({E08} Shinozawa)|Jusqu'à la rentrée, c'est|bains publics et jeux à la|vie à la mort ! À plus~♥{fin}
+@10102	(Mizuki Takao)|Bonjour !|C'est Mizuki Takao !{fin}
+@10103	{page}(Mizuki Takao)|Il est encore tôt, et|tu es déjà à fond !{fin}
+@10104	{page}(Mizuki Takao)|Ah...|mais t'as l'air encore|un peu endormi, non ?{fin}
+@10105	{page}(Mizuki Takao)|Hein ?|Pas du tout, tu dis ?{fin}
+@10106	{page}(Mizuki Takao)|Haha !|Vraiment ?!{fin}
+@10107	{page}(Mizuki Takao)|Au fait, à cette heure-là,|c'est trop agréable, hein !{fin}
+@10108	{page}(Mizuki Takao)|Moi, j'adore courir|à cette heure-là !{fin}
+@10109	{page}(Mizuki Takao)|Quand je cours au bord|de la rivière dans la brume|du matin...{fin}
+@10110	{page}(Mizuki Takao)|le vent sur mes joues,|c'est trop agréable,{fin}
+@10111	{page}(Mizuki Takao)|et je sens vraiment|que je cours.{fin}
+@10112	{page}(Mizuki Takao)|Bientôt, moi aussi,|j'entre au lycée|Koigahara...{fin}
+@10113	(Mizuki Takao)|Si je rencontrais quelqu'un|qui aime courir autant|que moi, ce serait génial♥{fin}
+@10114	{page}(Mizuki Takao)|Haha !|Ça me gêne un peu !{fin}
+@10115	(Mizuki Takao)|Bon, je vais courir|encore un peu.|À plus !{fin}
+@10116	({E09} Okada)|Bonjour !|C'est {E09} Okada !{fin}
+@10117	{page}({E09} Okada)|Depuis ce matin, je ne|pense qu'à la cérémonie|d'entrée à Koigahara.{fin}
+@10118	({E09} Okada)|Même dans mes rêves,|la cérémonie était là,{fin}
+@10119	{page}({E09} Okada)|et mon cœur battait si fort|que je me suis réveillée !{fin}
+@10120	{page}({E09} Okada)|Ma première vie de lycéenne|depuis mon retour au Japon,|j'en attends beaucoup,{fin}
+@10121	{page}({E09} Okada)|alors si je peux me faire|plein de beaux souvenirs,|je serai ravie...{fin}
+@10122	({E09} Okada)|Et si je pouvais vivre|une belle histoire|d'amour...{fin}
+@10123	{page}({E09} Okada)|Hihi♥|Rien que d'y penser,|j'en frissonne♥{fin}
+@10124	({E09} Okada)|Oh, déjà cette heure-ci !{fin}
+@10125	{page}({E09} Okada)|Bon, eh bien,|à bientôt !{fin}
+@10126	({E04} Saeki)|Bonjour !|C'est {E04} Saeki !{fin}
+@10127	{page}({E04} Saeki)|Enfin la cérémonie d'entrée|au lycée Koigahara !{fin}
+@10128	{page}({E04} Saeki)|Au lycée, contrairement au|collège, les élèves viennent|de partout,{fin}
+@10129	{page}({E04} Saeki)|alors c'est l'occasion de|se faire plein d'amis !{fin}
+@10130	{page}({E04} Saeki)|{E04} aussi voudrait|plein de copines, mais...{fin}
+@10131	({E04} Saeki)|si un garçon génial|apparaissait devant|moi...{fin}
+@10132	{page}({E04} Saeki)|je pourrais bien|tomber amoureuse...{fin}
+@10133	({E04} Saeki)|Et puis, aller avec lui|au parc d'attractions...{fin}
+@10134	({E04} Saeki)|faire du shopping ensemble,|ce serait tellement|génial...{fin}
+@10135	({E04} Saeki)|...D'ailleurs, le garçon|dont j'étais si proche|jusqu'en primaire,{fin}
+@10136	{page}({E04} Saeki)|mon ami d'enfance... je me|demande ce qu'il devient...{fin}
+@10137	({E04} Saeki)|{E04} a le pressentiment|qu'il est devenu|un garçon génial.{fin}
+@10138	{page}({E04} Saeki)|Oui, sûrement♥{fin}
+@10139	({E0A} Kobayashi)|Salut !!|C'est {E0A} Kobayashi !!{fin}
+@10140	{page}({E0A} Kobayashi)|Cette année, je rentre|au lycée Koigahara !!{fin}
+@10141	({E0A} Kobayashi)|En ce moment, moi, j'adore|les animes, les mangas et|les jeux de cartes, mais{fin}
+@10142	{page}({E0A} Kobayashi)|au lycée, même toute|petite, je serai championne|du Japon de ping-pong !!{fin}
+@10143	{page}({E0A} Kobayashi)|Hein ?|C'est tout, tu dis ?{fin}
+@10144	{page}({E0A} Kobayashi)|Héhé ! L'amour et tout ça,|ça me va pas trop,|je trouve...{fin}
+@10145	{page}({E0A} Kobayashi)|enfin, c'est ce que|je me dis, mais...{fin}
+@10146	({E0A} Kobayashi)|si un garçon qui apaise|le cœur débarquait, je|serais contente♥{fin}
+@10147	{page}({E0A} Kobayashi)|voilà ce que je pense|aussi, en vrai...{fin}
+@10148	{page}({E0A} Kobayashi)|Héhé !|Ça me gêne quand même !{fin}
+@10149	({E0A} Kobayashi)|Assez parlé d'amour...|...En tout cas, j'ai hâte|d'être à la cérémonie !{fin}
+@10150	(Yumi Matsuda)|Bonsoir !|C'est Yumi Matsuda !{fin}
+@10151	{page}(Yumi Matsuda)|Après les vacances de|printemps, je passe en 2e|année au lycée Koigahara.{fin}
+@10152	{page}(Yumi Matsuda)|Ma première année|de lycée est passée|plutôt vite.{fin}
+@10153	{page}(Yumi Matsuda)|Genre : « Quoi ?|Déjà un an ? »{fin}
+@10154	(Yumi Matsuda)|Mon petit boulot, commencé|en entrant au lycée, ça|fait déjà un an aussi.{fin}
+@10155	{page}(Yumi Matsuda)|Ce serait bien qu'un|nouveau, un garçon mignon,|débarque bientôt...{fin}
+@10156	(Yumi Matsuda)|Me promener avec lui dans|mon allée bordée d'arbres|préférée, à Koigahara...{fin}
+@10157	(Yumi Matsuda)|ça me plairait vraiment,|je me dis, mais...{fin}
+@10158	(Yumi Matsuda)|Ils seront comment, les|nouveaux de cette année...{fin}
+@10159	{page}(Yumi Matsuda)|Oh ! Si je bavarde trop,|il va se faire tard,{fin}
+@10160	{page}(Yumi Matsuda)|alors ce sera tout pour|ce soir ! Bonne nuit !{fin}

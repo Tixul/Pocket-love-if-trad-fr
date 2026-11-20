@@ -1,0 +1,361 @@
+; Lot 15 : fin de rendez-vous Konoha, tenues (Mirei, Konoha), étreintes, photos-stickers, White Day (Ruruna, Mizuki, Yumi, Momoyo).
+@05181	La main de {E0A}...{attente}|un peu moite, semblait|me transmettre les|battements de son cœur...{attente}{page}{fin}
+@05182	Et le temps s'est écoulé|tout doucement, paisible,|rien que pour {E0A} et moi|...{attente}{page}{fin}
+@05183	Ah, {F07} !|Tu étais déjà là !{attente}|Tu as attendu ?{attente}{page}{fin}
+@05184	Oh ! Tu as quelque chose|de différent aujourd'hui !{attente}{page}{fin}
+@05185	Ah !|{E09} inspecte|ma tenue !{attente}{page}{fin}
+@05186	Ces chaussures font très|chic, j'aime beaucoup !{attente}{page}{fin}
+@05187	{F07}...{attente}|ces chaussures n'ont|vraiment rien de chic...{attente}{page}{fin}
+@05188	Il est bien, ce jean !|Ça te donne fière allure !{attente}{page}{fin}
+@05189	Le jean que tu portes,|{F07}...{attente} je ne vois|vraiment pas ce qu'il|a de bien...{attente}{page}{fin}
+@05190	Elle est bien, cette|chemise ! Tu as du goût !{attente}{page}{fin}
+@05191	{F07}...|cette chemise est d'un|terrible mauvais goût...{attente}{page}{fin}
+@05192	Ce genre de tenue aussi,|c'est chic, j'aime bien !{attente}{page}{fin}
+@05193	{F07}...|ça ne te met vraiment|pas en valeur, tu sais...{attente}{page}{fin}
+@05194	Oh ! Tu sens bon !{attente}|Tu soignes les détails,|{F07} !{attente}{page}{fin}
+@05195	{F07}...|Ça ne sentirait pas|un peu mauvais ?{attente}{page}{fin}
+@05196	Ces chaussures, tu les|avais déjà la dernière|fois...{attente}{page}{fin}
+@05197	{F07}...|la dernière fois aussi,|tu avais ce jean...{attente}{page}{fin}
+@05198	Encore cette chemise...{attente}|Tu pourrais faire un peu|plus attention...{attente}{page}{fin}
+@05199	La même tenue que la|dernière fois...{attente}|Tu pourrais soigner un|peu plus ton style...{attente}{page}{fin}
+@05200	En regardant {E04}|de dos...{attente}{page}{fin}
+@05201	une tendresse folle pour|{E04} m'a envahi...{attente}|et mon cœur s'est serré,|douloureusement...{attente}{page}{fin}
+@05202	Sans réfléchir...|j'ai tendu une main|tremblante et pris|{E04} par les épaules !{attente}{page}{fin}
+@05203	Ah...|...{F03}...|......{attente}{page}{fin}
+@05204	Dans mes bras...|les épaules de {E04}|tremblent...{attente}{page}{fin}
+@05205	Pardon... {E04}...|...Mais...|......{attente}{page}{fin}
+@05206	Non... ça va...|J'ai juste été un peu|surprise...{attente}{page}{fin}
+@05207	...Je ne sais pas... je...|...mon cœur...|bat très fort...{attente}{page}{fin}
+@05208	Dans mes bras, moi aussi...|je sens battre le cœur|de {E04}...{attente}{page}{fin}
+@05209	Mon cœur à moi aussi|s'emballe...{attente}|à m'en couper le souffle|...{attente}{page}{fin}
+@05210	...Comme ça...|rester comme ça, toujours...|c'est tout ce que je veux...{attente}{page}{fin}
+@05211	Juste d'être dans tes bras,|{F03}...|je suis... heureuse♥{attente}{page}{fin}
+@05212	Ah, {E04}...{attente}|rien qu'avec ces mots,|mon cœur est sur le point|d'exploser...{attente}{page}{fin}
+@05213	L'odeur des cheveux de|{E04} me chatouille|le nez...{attente}{page}{fin}
+@05214	Mon cœur bat de plus en|plus fort, et pourtant...|je me sens rempli d'un|immense bonheur...{attente}{page}{fin}
+@05215	En contemplant Mizuki|de dos...{attente}{page}{fin}
+@05216	une tendresse folle pour|Mizuki m'a envahi...{attente}|et mon cœur s'est serré,|douloureusement...{attente}{page}{fin}
+@05217	Sans réfléchir...|j'ai tendu une main|tremblante et pris|Mizuki par les épaules !{attente}{page}{fin}
+@05218	...Ah...|...{F04}...{attente}{page}{fin}
+@05219	......Pardon...|...Mizuki...{attente}|...Tu es fâchée ?{attente}{page}{fin}
+@05220	Non...|pas du tout...|c'est pas ça...{attente}{page}{fin}
+@05221	...Euh...|dis... tu sais...{attente}{page}{fin}
+@05222	Sur ces mots, Mizuki|a rougi, baissé la tête,|et n'a plus rien dit...{attente}{page}{fin}
+@05223	Les épaules de Mizuki|sont plus frêles que je|ne pensais...{attente}|et tremblent un peu...{attente}{page}{fin}
+@05224	...Dans mes bras, il me|semble sentir battre|le cœur de Mizuki...{attente}{page}{fin}
+@05225	Je veux la protéger...{attente}|Ce sentiment me remplit|tout entier...{attente}{page}{fin}
+@05226	...C'est bizarre...{attente}|Quand tu me tiens comme|ça par les épaules, mon|cœur bat fort, mais...{attente}{page}{fin}
+@05227	j'ai chaud, je suis|heureuse...{attente}|J'aimerais rester|comme ça, pour toujours.{attente}{page}{fin}
+@05228	Ah, Mizuki...{attente}|rien qu'avec ces mots,|mon cœur est sur le point|d'exploser...{attente}{page}{fin}
+@05229	L'odeur de sa sueur, de|son corps, me chatouille|le nez...{attente}|Son doux parfum acidulé...{attente}{page}{fin}
+@05230	En contemplant Yumi|de dos...{attente}{page}{fin}
+@05231	une tendresse folle pour|Yumi m'a envahi...{attente}|et mon cœur s'est serré,|douloureusement...{attente}{page}{fin}
+@05232	Sans réfléchir...|j'ai tendu une main|tremblante et pris|Yumi par les épaules !{attente}{page}{fin}
+@05233	...Ah...|{F05}, eh bien...|...tu es audacieux...{attente}{page}{fin}
+@05234	Malgré ces mots, Yumi|a posé sa tête|sur mon épaule !{attente}{page}{fin}
+@05235	Les cheveux de Yumi...|me chatouillent le nez...{attente}|et un doux parfum de|shampoing m'envahit...{attente}{page}{fin}
+@05236	Ses épaules fines, dans|mes bras... se soulèvent|et s'abaissent, lentement,|profondément...{attente}{page}{fin}
+@05237	La chaleur de Yumi...|son cœur qui s'emballe...|je les sens dans mes bras|...{attente}{page}{fin}
+@05238	Tes bras, {F05}...|ils sont solides...|je me sens protégée...{attente}{page}{fin}
+@05239	Rien que d'être comme ça...|je suis tellement... rassurée.|...Je suis heureuse...{attente}{page}{fin}
+@05240	Encore un peu...|reste comme ça...{attente}{page}{fin}
+@05241	Ah, Yumi...{attente}|rien qu'avec ces mots,|mon cœur est sur le point|d'exploser...{attente}{page}{fin}
+@05242	En contemplant {E08}|de dos...{attente}{page}{fin}
+@05243	une tendresse folle pour|{E08} m'a envahi...{attente}|et mon cœur s'est serré,|douloureusement...{attente}{page}{fin}
+@05244	Sans réfléchir...|j'ai tendu une main|tremblante et pris|{E08} par les épaules !{attente}{page}{fin}
+@05245	...Ah !{attente}|...{F06}...|euh, euh...{attente}{page}{fin}
+@05246	D-dans ces moments-là...|...qu'est-ce que je|dois faire~... ?{attente}{page}{fin}
+@05247	Ah... pardon...{attente}|Ça te dérange... ?{attente}{page}{fin}
+@05248	N-non, c'est pas ça~...|Je sais vraiment pas|quoi faire......{attente}{page}{fin}
+@05249	J'ai honte...{attente}|mon cœur bat fort...{attente}|j'ai envie de m'enfuir...{attente}{page}{fin}
+@05250	Les épaules de {E08}...|frissonnent par petites|secousses dans mes bras...{attente}{page}{fin}
+@05251	...mais je suis contente...|émue... heureuse...|je veux rester comme ça...{attente}{page}{fin}
+@05252	{E08} devient de plus|en plus rouge, et baisse|la tête...{attente}{page}{fin}
+@05253	Sa voix faiblit peu à peu,|elle tremble comme si|elle allait fondre|en larmes...{attente}{page}{fin}
+@05254	Si ça ne te dérange pas...{attente}|on peut rester|comme ça... d'accord ?{attente}{page}{fin}
+@05255	On peut... rester|comme ça...|vraiment~... ?{attente}{page}{fin}
+@05256	Shinozawa... Shinozawa...|est émue... heureuse...|on dirait un rêve~...{attente}{page}{fin}
+@05257	La chaleur et le cœur de|{E08}, à travers ses|douces épaules, passent|dans mes bras...{attente}{page}{fin}
+@05258	Le doux parfum de {E08},|comme du lait...{attente}|Le contact de son corps,|tendre et chaud...{attente}{page}{fin}
+@05259	Ses gestes si féminins,|pas comme d'habitude...{attente}|Tout en elle me fascine,|éveille tous mes sens...{attente}{page}{fin}
+@05260	En contemplant {E09}|de dos...{attente}{page}{fin}
+@05261	une tendresse folle pour|{E09} m'a envahi...{attente}|et mon cœur s'est serré,|douloureusement...{attente}{page}{fin}
+@05262	Sans réfléchir...|j'ai tendu une main|tremblante et pris|{E09} par les épaules !{attente}{page}{fin}
+@05263	...Oh...|{F07}...{attente}{page}{fin}
+@05264	Un instant, {E09}|m'a regardé d'un air|déconcerté...{attente}{page}{fin}
+@05265	{E09} me regarde droit|dans les yeux...{attente}|Ses yeux semblent un peu|humides...{attente}{page}{fin}
+@05266	Dans mes bras, je sens la|chaleur de ses épaules,|fines et douces...{attente}{page}{fin}
+@05267	Prenant mon courage à|deux mains, j'ai attiré|doucement {E09}|contre moi...{attente}{page}{fin}
+@05268	...Je suis heureuse...{attente}|Merci...{attente}{page}{fin}
+@05269	Quand on est comme ça...|mon cœur bat fort, mais...{attente}|je me sens si apaisée.{attente}{page}{fin}
+@05270	Sur ces mots, {E09} a posé|sa joue sur mon épaule|et fredonné une chanson|en anglais...{attente}{page}{fin}
+@05272	Une douce chanson d'amour,|comme la pop américaine|des années 50...{attente}{page}{fin}
+@05273	Sa voix, comme un souffle,|caresse mon oreille...|et le doux parfum de {E09}|me chatouille le nez...{attente}{page}{fin}
+@05274	En contemplant {E0A}|de dos...{attente}{page}{fin}
+@05275	une tendresse folle pour|{E0A} m'a envahi...{attente}|et mon cœur s'est serré,|douloureusement...{attente}{page}{fin}
+@05276	Sans réfléchir...|j'ai tendu une main|tremblante et pris|{E0A} par les épaules !{attente}{page}{fin}
+@05277	Hein... ?|...{F08}...|q-qu'est-ce que tu fais...{attente}{page}{fin}
+@05278	...Pas besoin de demander,|...tu le sais très bien...|...{attente}Idiot...{attente}{page}{fin}
+@05279	{E0A}, toute rouge, tête|baissée... me lance des|petits regards par en|dessous...{attente}{page}{fin}
+@05280	Quand je la serre fort|par les épaules...|...{attente}{E0A} pose sa joue|contre ma poitrine...{attente}{page}{fin}
+@05281	Moi...|ça m'énervait d'être|toute petite, mais...{attente}{page}{fin}
+@05282	juste maintenant...|je me dis que c'est bien|d'être petite... Hihi{attente}{page}{fin}
+@05283	...Parce que...|je tiens tout entière|dans tes bras, {F08} !{attente}{page}{fin}
+@05284	Dans mes bras, {E0A}|ferme les yeux,|l'air heureuse...{attente}{page}{fin}
+@05285	J'ai l'impression qu'elle|entend mon cœur battre,|et du coup, il bat|encore plus fort...{attente}{page}{fin}
+@05286	La même odeur qu'à notre|dernier rendez-vous...{attente}|Je suis un peu...|déçue...{attente}{page}{fin}
+@05287	{F07},|tu es élégant !|J'aime beaucoup !{attente}{page}{fin}
+@05288	{F07}, tu devrais|apprendre un peu mieux|à t'habiller !{attente}{page}{fin}
+@05289	{F07}...{attente}|tu pourrais faire bien plus|attention à ton style...{attente}{page}{fin}
+@05290	{F08}~ !|Me voilààà !{attente}|T'as attendu ?{attente}{page}{fin}
+@05291	Oh, t'as un look pas|comme d'habitude,|on dirait !!{attente}{page}{fin}
+@05292	Ah !|{E0A} inspecte|ma tenue !{attente}{page}{fin}
+@05293	{F08} ! T'as des|pompes trop stylées !{attente}{page}{fin}
+@05294	Ahaha ! {F08} !|Elles sont bizarres,|tes pompes !{attente}{page}{fin}
+@05295	Trop bien, ce jean !{attente}|Ça te va trop bien !{attente}{page}{fin}
+@05296	Beurk...|Un jean ringard de chez|ringard...{attente}{page}{fin}
+@05297	Oh, elle est|trop bien, ta chemise !{attente}{page}{fin}
+@05298	Waah ! Cette chemise !|...Trop ringard...{attente}{page}{fin}
+@05299	Ce genre de truc,|c'est trop classe !{attente}{page}{fin}
+@05300	{F08}, ça, c'est pas|carrément ringard ?{attente}{page}{fin}
+@05301	Oh !|Tu sens trop bon,|tout frais !!{attente}{page}{fin}
+@05302	{F08}...|ça pue un peu...{attente}{page}{fin}
+@05303	Ah ! Les mêmes pompes|que la dernière fois !{attente}|Ça doit puer des pieds !{attente}{page}{fin}
+@05304	Dis, le même jean qu'au|dernier rendez-vous...|il pue pas ?{attente}{page}{fin}
+@05305	Oh !|Une cabine de|photos-stickers !{attente}{page}{fin}
+@05306	Ce serait sympa d'en|faire une ensemble...|...{attente}{page}{fin}
+@05307	{FFB}L'inviter à poser à deux{n}　Laisser tomber{fin}
+@05308	Dis ! On se fait une|photo-sticker ensemble ?{attente}{page}{fin}
+@05309	Génial !|Elle a dit OK !{attente}{page}{fin}
+@05310	...Tch...|Elle m'a ignoré...|C'est triste~...{attente}{page}{fin}
+@05311	Ah, attends une seconde !|Mes cheveux ne sont pas|en bataille ?|......{attente}{page}{fin}
+@05312	...Bon, c'est parfait !|Allez, prenons la photo !{attente}{page}{fin}
+@05313	OK ! Alors c'est parti !|Attention... on sourit !!{attente}{page}{fin}
+@05314	Clic !{attente}{page}{fin}
+@05315	...Rien que nous deux,|on s'est fait une|photo-sticker en duo !{attente}{page}{fin}
+@05316	Les photos-stickers...|on a beau en faire, c'est|toujours gênant ! Ahah !{attente}{page}{fin}
+@05317	Prêts ?|J'appuie sur le bouton !|Attention... souriez !{attente}{page}{fin}
+@05318	Hmmm...|Pour les photos-stickers,|on ne sait jamais quelle|pose prendre !{attente}{page}{fin}
+@05319	Nyaha~ ! Shinozawa et|{F06}, en duo|tout sucré~ !{attente}{page}{fin}
+@05320	Les photos-stickers,|avec tous ces cadres,|c'est amusant !{attente}{page}{fin}
+@05321	Si on les colle sur une|lettre par avion, ça fait|plaisir aux amis !{attente}{page}{fin}
+@05322	Hnnn ! Attends deux sec !|J'arrive pas à atteindre...|Un marchepied, vite !!{attente}{page}{fin}
+@05323	Voilà, c'est bon !|Quand tu veux !!{attente}{page}{fin}
+@05324	La même chemise qu'au|dernier rendez-vous !|Comme un perso de manga !{attente}{page}{fin}
+@05325	On dirait la même tenue|que l'autre fois...|c'est nul...{attente}{page}{fin}
+@05326	Tu sens pareil qu'au|dernier rendez-vous...|t'aimes bien ce parfum ?{attente}{page}{fin}
+@05327	{F08}, vu comme ça,|t'es trop classe !{attente} Hihi♥{attente}{page}{fin}
+@05328	{F08}, si seulement|t'étais un peu plus|classe... !{attente}{page}{fin}
+@05329	{F08}, ton look est|trop ringard...{attente} Ça me|coupe l'envie de sortir|avec toi...{attente}{page}{fin}
+@05330	(Matin du White Day){n}{fin}
+@05331	C'est le White Day...|Rien que d'y penser, je|tiens plus en place...{attente}{page}{fin}
+@05332	Du coup, je suis arrivé|au lycée plus tôt que|d'habitude...{attente}{page}{fin}
+@05333	Tiens... ?|Il y a quelque chose dans|mon pupitre !{attente}|...C'est...{attente}{page}{fin}
+@05334	Des lettres de filles !{attente}|E-et en plus, trois !!{attente}{page}{fin}
+@05335	...Dans chacune, une fille|a écrit où elle|m'attendrait après|les cours...{attente}{page}{fin}
+@05336	...Je dois choisir qui|aller voir d'ici|la fin des cours...{attente}{page}{fin}
+@05337	Le cœur battant,|je suis monté|sur le toit...{attente}{page}{fin}
+@05338	Une brise fraîche de|printemps caresse|doucement mes joues|brûlantes...{attente}{page}{fin}
+@05339	Les cheveux flottant|dans le vent... {E04}|était là...{attente}{page}{fin}
+@05342	C'était écrit que|tu serais ici...{attente}{page}{fin}
+@05343	Oui... Merci.{attente}|Je suis contente que|tu sois venu !{attente}{page}{fin}
+@05344	Mais d'abord, je me suis|dit...{attente} qu'il fallait que|je te dise vraiment ce|que je ressens...{attente}{page}{fin}
+@05345	On est amis d'enfance,|pas vrai ? Mais...|si ça continue comme ça...{attente}{page}{fin}
+@05346	on ne sera jamais plus|que des amis d'enfance...{attente}|Et ça, je ne veux pas !{attente}{page}{fin}
+@05347	Hein, {E04} !|Alors, tu... moi...|vraiment...{attente}{page}{fin}
+@05348	Nous deux...{attente}|on était ensemble à|l'école primaire, on|s'entendait bien...{attente}{page}{fin}
+@05349	Mais à l'époque...{attente}|je ne te voyais que|comme un ami...{attente}{page}{fin}
+@05350	Alors...|pourquoi... ?{attente}{page}{fin}
+@05351	Au lycée... on a passé|plein de moments|ensemble, {F03}...{attente}{page}{fin}
+@05352	et en te voyant devenir|plus viril... plus fiable,|{F03}...{attente}{page}{fin}
+@05353	je ne pouvais plus...|te voir comme un simple|ami d'enfance...{attente}{page}{fin}
+@05354	En tant qu'homme...|tu es si séduisant...{attente}{page}{fin}
+@05355	Et sans que je m'en rende|compte... tu es devenu|quelqu'un de spécial|pour moi !{attente}{page}{fin}
+@05356	Je... je...|{F03}...|...je t'aime !!{attente}{page}{fin}
+@05357	Ses yeux humides,|au bord des larmes...|me regardent...{attente}{page}{fin}
+@05358	{E04}...|Moi aussi... je t'aime...|de tout mon cœur !!{attente}{page}{fin}
+@05359	{F03} !{attente} Je...|je ne sais pas quoi dire...|...je suis si heureuse...{attente}{page}{fin}
+@05360	Ah, oh non...|je pleure...{attente}|Je suis heureuse, pourtant|... c'est bête...{attente}{page}{fin}
+@05361	...En vrai, me déclarer|la première, ça me faisait|tellement peur...{attente}{page}{fin}
+@05362	Mais... mais tu sais...|j'ai rassemblé tout mon|courage... tout mon...{attente}{page}{fin}
+@05363	À ces mots, les larmes|se sont mises à couler|sans fin des yeux de|{E04}...{attente}{page}{fin}
+@05364	......|Je me suis approché,|et j'ai serré fort ses|petites épaules...{attente}{page}{fin}
+@05365	Puis j'ai caressé ses|joues mouillées de larmes...{attente}|et doucement embrassé|ses lèvres tremblantes...{attente}{page}{fin}
+@05366	...Comme ça...|toujours... toujours...|je veux rester comme ça...{attente}{page}{fin}
+@05367	Dans tes bras, {F03}...|pour toujours...{attente}{page}{fin}
+@05368	...{F03}...|je... t'aime...|...tellement...{attente}{page}{fin}
+@05369	En l'écoutant, j'ai gardé|{E04} serrée contre|moi, longtemps...{attente}{page}{fin}
+@05370	Comme pour nous bénir...|la brise de printemps|nous enveloppe avec|douceur...{attente}{page}{fin}
+@05371	{E04}... à partir de|maintenant, toujours...{attente}|je prendrai soin de toi...{attente}|pour toujours...{attente}{page}{fin}
+@05372	Euh...{attente}|{E04}...{attente}|tu sais, je... je t'...{attente}{page}{fin}
+@05373	Ah ! Attends !|Ne dis pas la suite !{attente}{page}{fin}
+@05374	Hein... pourquoi...|Pourtant, nous deux...{attente}{page}{fin}
+@05375	Pardon pour la lettre...{attente}|Même après l'avoir|envoyée, j'ai hésité|tout le temps...{attente}{page}{fin}
+@05376	Mais tu sais...|maintenant, j'ai pris ma|décision...{attente} Voilà...{attente}{page}{fin}
+@05377	{F03}, toi et moi,|on est amis d'enfance,|mais...{attente}{page}{fin}
+@05378	au lycée, tout le monde|change... petit à petit,|pas vrai ?{attente}{page}{fin}
+@05379	Toi aussi, tu as changé.{attente}|Mais...{attente} j'ai l'impression|qu'il manque encore|quelque chose...{attente}{page}{fin}
+@05380	{F03}, on est amis|d'enfance...{attente}|et je te trouve gentil.{attente}{page}{fin}
+@05381	Comme garçon aussi...{attente}|je trouve que tu es|devenu très séduisant,|mais...{attente}{page}{fin}
+@05382	Mes sentiments pour toi,|{F03}... je n'en suis|pas encore sûre...{attente}{page}{fin}
+@05383	Je crois qu'on devrait|apprendre à mieux|se connaître...{attente}{page}{fin}
+@05384	Bien sûr, on se connaît|plutôt bien... quand|on était petits...{attente}{page}{fin}
+@05385	Mais on n'est plus|des enfants, pas vrai ?|......{attente}{page}{fin}
+@05386	...Alors, pour l'instant,|je veux préserver ce lien|qui n'est pas encore|de l'amour...{attente}{page}{fin}
+@05387	De bons amis...|ça ne te va pas ?{attente}{page}{fin}
+@05388	Alors...|on restera bons|amis, hein ?{attente}{page}{fin}
+@05389	Hihi !|Mais bien sûr !{attente}{page}{fin}
+@05390	Alors...|...juste une chose...|tu veux bien me dire ?{attente}{page}{fin}
+@05391	Quoi donc ?{attente}{page}{fin}
+@05392	Un jour... d'amis, on|pourrait devenir|amoureux... tu crois ?{attente}{page}{fin}
+@05393	Hein...|Ça...{attente}{page}{fin}
+@05394	Ça dépend de toi,|{F03}...|tu ne crois pas ?|...Hihi♥{attente}{page}{fin}
+@05395	Avec un sourire malicieux,|{E04}... est partie|en courant, comme pour|suivre la brise tiède...{attente}{page}{fin}
+@05396	On n'est pas encore|amoureux, mais...{attente}|ce jour-là... n'est sûrement|plus très loin...{attente}{page}{fin}
+@05397	{E04} et moi, on passe|bientôt en 2e année...{attente}|Si on est dans la même|classe, alors sûrement...{attente}{page}{fin}
+@05398	Sur cette pensée...{attente}|j'ai décidé de faire grandir|cet amour naissant, sans|me presser, avec soin...{attente}{page}{fin}
+@05399	Le cœur battant, je me|suis pressé le long|de la rivière...{attente}{page}{fin}
+@05400	Là-bas, au bout de|ce vent... Mizuki|se tenait, toute seule...{attente}{page}{fin}
+@05401	...Mizuki...{attente}{page}{fin}
+@05402	Ah... {F04} !|Tu es venu !{attente}{page}{fin}
+@05403	Je pensais pas|que tu viendrais...{attente}|...merci.{attente}{page}{fin}
+@05404	Ah, attends !{attente}|D'abord... je voudrais|que tu m'écoutes...{attente}{page}{fin}
+@05405	Dis, au début...{attente}|je t'ai fait une mauvaise|impression... non ?{attente}{page}{fin}
+@05406	Hein, pourquoi... ?{attente}{page}{fin}
+@05407	Même quand tu me disais|bonjour, je te répondais|à peine...{attente} Pardon.{attente}{page}{fin}
+@05408	En vrai...|j'étais super contente...{attente}|Je suis nulle...{attente}{page}{fin}
+@05409	Rien qu'en voyant ton|visage, en entendant ta|voix, {F04}...{attente}{page}{fin}
+@05410	j'étais contente, mais|gênée... et je savais|plus du tout quoi faire.{attente}{page}{fin}
+@05411	Parce que tu sais...{attente}|moi, {F04}, je...|......{attente}{page}{fin}
+@05412	...{F04}, je...|......Aaah !|Mon cœur bat trop fort...{attente}{page}{fin}
+@05413	Ah... attends...|...maintenant...|je vais le dire...{attente}{page}{fin}
+@05415	Je me calme...|......{attente}{page}{fin}
+@05416	C'est bon...|cette fois... j'y arrive...{attente}{page}{fin}
+@05417	......|{F04}...|je... toi, je...{attente}{page}{fin}
+@05418	{F04}...|......|...je t'aime !{attente}{page}{fin}
+@05419	J'ai regardé Mizuki droit|dans les yeux... Elle aussi|me fixait sans détourner|le regard...{attente}{page}{fin}
+@05420	Mizuki... moi aussi...|moi aussi, je...|...je t'aime !{attente}{page}{fin}
+@05421	C'est vrai ? Vraiment... ?{attente}|...Je suis contente...|...ouf...{attente}{page}{fin}
+@05422	J'avais peur que tu sois|venu me dire non,|{F04}...{attente}{page}{fin}
+@05423	...・・|Soulagée, Mizuki a baissé|la tête, et des larmes|ont coulé de ses yeux...{attente}{page}{fin}
+@05424	Sans réfléchir, j'ai serré|Mizuki fort dans mes bras...{attente}{page}{fin}
+@05425	Les yeux dans ses yeux,|j'ai pris son visage|entre mes mains...{attente}|et je l'ai embrassée...{attente}{page}{fin}
+@05426	Tu sais...{attente} je suis|une froussarde, mais...{attente}|avec toi, {F04}...{attente}{page}{fin}
+@05427	...je sens que je pourrais|marcher à tes côtés|pour toujours...{attente}{page}{fin}
+@05428	...{F04}...|...je t'aime...{attente}{page}{fin}
+@05429	Mizuki...|à partir de maintenant,|on avancera à deux,|...pour toujours...{attente}{page}{fin}
+@05430	Pas besoin de me|remercier...{attente} Parce que...|Mizuki, je t'aime !{attente}{page}{fin}
+@05431	{F04}...|pardon pour la lettre...|mais je peux pas...{attente}{page}{fin}
+@05432	...Mizuki...|pourquoi... ?{attente}{page}{fin}
+@05433	{F04}, je t'aime au|point de t'avoir écrit,|mais j'hésite encore...{attente}{page}{fin}
+@05434	J'y ai vachement réfléchi,|mais...{attente} non...|pas encore, ça va pas...{attente}{page}{fin}
+@05435	Comment dire...|je te connais pas assez|bien, {F04}...{attente}{page}{fin}
+@05436	Il manque un truc, mais...|...je sais pas quoi...{attente}{page}{fin}
+@05437	Je dis des trucs bizarres,|pardon...{attente}{page}{fin}
+@05438	Ce que je ressens pour toi,|{F04}... est-ce que|c'est vraiment de l'amour...{attente}{page}{fin}
+@05439	Moi-même, je sais|pas encore trop...{attente}{page}{fin}
+@05440	Moi... l'amour, je sais|pas encore bien...|ce que c'est...{attente}{page}{fin}
+@05441	On se connaît pas|encore bien...|toi et moi, hein ?{attente}{page}{fin}
+@05442	On se connaît depuis|même pas un an... et le|temps de parler, rien que|tous les deux...{attente}{page}{fin}
+@05443	on n'en a pas encore|eu assez...|je crois...{attente}{page}{fin}
+@05444	Dans ces conditions...|l'amour... ça me fait|trop peur... j'y arrive pas.{attente}{page}{fin}
+@05445	Alors, {F04}, je veux|qu'on reste comme|avant...{attente}{page}{fin}
+@05446	Ouais !|Ça, c'est sûr !{attente}{page}{fin}
+@05447	Oui... quoi donc ?{attente}{page}{fin}
+@05448	Un jour...|amoureux... ?{attente}{page}{fin}
+@05449	......|Va savoir...{attente}{page}{fin}
+@05450	Je sais pas encore, mais...|...peut-être bien...{attente}{page}{fin}
+@05451	Un peu gênée, Mizuki a|baissé la tête et filé...{attente}|« Peut-être »... ça veut|donc dire...{attente}{page}{fin}
+@05452	Mizuki et moi, on passe|bientôt en 2e année...{attente}|Si on est dans la même|classe, alors sûrement...{attente}{page}{fin}
+@05453	Rien que de l'écouter à|deux, ça me fait plaisir !{attente}{page}{fin}
+@05454	Je vois...{attente} c'était une|musique qu'elle n'aime pas...{attente}|Mais on l'a écoutée à deux,|c'est déjà ça !{attente}{page}{fin}
+@05455	{E09} et moi, on|dégustait ensemble|un cheesecake...{attente}{page}{fin}
+@05456	Et puis, la cuisine ici|est délicieuse !{attente}{page}{fin}
+@05457	Alors, c'est sûr, on va|se faire de beaux|souvenirs.{attente}{page}{fin}
+@05458	Mizuki, sur l'étang, était|si fraîche, si radieuse...{attente}|Mon cœur s'est emballé !{attente}{page}{fin}
+@05459	C'est décidé~ !|Shinozawa va|monter~ !{attente}{page}{fin}
+@05460	Nyahaha~ ! Je sais pas|pourquoi, mais je suis|tout excitée~ !{attente}{page}{fin}
+@05461	{E0A}, assise en face,|si détendue, avait l'air|presque éblouissante...{attente}|Mon cœur s'est emballé !{attente}{page}{fin}
+@05463	Rire au point de ne plus|pouvoir s'arrêter... c'est|bien Shinozawa. Ça me|laisse sans voix...{attente}{page}{fin}
+@05464	Ce qu'est devenu ensuite|le fantôme cassé...|on n'en sait rien...{attente}{page}{fin}
+@05465	Que tu te sois un peu|souciée de moi... ça me|fait plaisir !{attente}{page}{fin}
+@05466	Merci de m'avoir|écoutée, nyaaan~ !{attente}{page}{fin}
+@05467	Le daron du Royaume|sacré des Ahe-Ahe,|c'est trop le top~ !{attente}{page}{fin}
+@05468	Les projets pour les|vacances d'été, hein...{attente}|Je ferais bien d'y réfléchir !{attente}{page}{fin}
+@05469	Je me reposais sur le|toit, quand {E04} s'est|approchée en souriant !{attente}{page}{fin}
+@05470	Je me reposais dans le|couloir, quand Mizuki,|qui passait par là,|m'a adressé la parole !{attente}{page}{fin}
+@05471	Yumi et moi, on bavardait|sur le toit du lycée...{attente}{page}{fin}
+@05472	J'étais dans la cour|derrière le lycée, quand|{E08}, qui passait par là,|m'a adressé la parole !{attente}{page}{fin}
+@05473	Je traînais, avachi dans la|classe surchauffée, quand|{E0A} est venue|me parler !{attente}{page}{fin}
+@05474	Mais vouloir les essayer,|c'est tellement Mizuki !{attente}{page}{fin}
+@05475	Le cœur battant, je|parcourais l'allée bordée|d'arbres, à la recherche|de Yumi...{attente}{page}{fin}
+@05476	Yumi...|......|où es-tu...{attente}{page}{fin}
+@05477	...Ah !|Là, derrière un arbre,|quelqu'un s'est caché...|Yumi... ?{attente}{page}{fin}
+@05478	...Yumi !|C'est toi, hein ?{attente}{page}{fin}
+@05479	Oh non~|Tu m'as trouvée !{attente}{page}{fin}
+@05480	...Pourquoi tu|t'es cachée|... ?{attente}{page}{fin}
+@05481	Hihi ! Je t'ai vu arriver,|{F05}, alors j'ai|voulu te faire peur !{attente}{page}{fin}
+@05482	Franchement ! T'es dure !|J'ai cru que tu t'enfuyais|parce que tu me détestais !{attente}{page}{fin}
+@05483	...Pardon.|Ça ne me ressemble pas...|j'ai trop fait l'idiote...{attente}{page}{fin}
+@05484	Et puis, après t'avoir|écrit, je ne vais pas|m'enfuir, {F05} !{attente}{page}{fin}
+@05485	Attends !{attente} Aujourd'hui...|je vais te dire franchement|ce que je ressens...{attente}{page}{fin}
+@05486	...Alors toi aussi,|{F05}, écoute-moi|sérieusement.{attente}{page}{fin}
+@05487	...Tu sais...|la première fois que je|t'ai vu, {F05}...{attente}{page}{fin}
+@05488	je me suis dit : quel|gamin, ce garçon...{attente}{page}{fin}
+@05489	...T'es dure...{attente}{page}{fin}
+@05490	Pardon...|mais je suis honnête|...{attente}{page}{fin}
+@05491	...Ah bon...|C'est ce que tu pensais|de moi...{attente}{page}{fin}
+@05492	Et puis... tu avais l'air|franc, aussi... je me|disais que tu étais mignon...{attente}{page}{fin}
+@05493	Au début, vraiment,|c'était tout...{attente}{page}{fin}
+@05494	Mais en un an...|{F05}...|tu as tellement changé...{attente}{page}{fin}
+@05495	Tu es devenu plus viril...|on peut compter sur toi|...{attente}{page}{fin}
+@05496	Et puis...|un jour, je me suis|aperçue que...{attente}{page}{fin}
+@05497	toi, {F05}...|...tout entier...{attente}{page}{fin}
+@05498	...Tout entier ?{attente}{page}{fin}
+@05499	Oui...|On ne peut pas encore|toujours compter sur toi...{attente}{page}{fin}
+@05500	tu as encore un côté|gamin...{attente}{page}{fin}
+@05501	et l'instant d'après...|tu me sembles bizarrement|plus adulte que moi...{attente}{page}{fin}
+@05502	Tout ça... tout ce que|tu es, {F05}...{attente}|...eh bien, moi...{attente}{page}{fin}
+@05503	......|je suis tombée amoureuse|de toi, voilà !{attente}{page}{fin}
+@05504	Sur ces mots, Yumi a|baissé la tête, gênée...|et un peu inquiète...{attente}{page}{fin}
+@05505	Yumi...{attente}|Moi aussi...|moi aussi, je t'aime !{attente}{page}{fin}
+@05506	Je passe bientôt en 2e...|Je ne pourrai rester près|de Yumi qu'un an encore...{attente}|mais d'ici là, sûrement...{attente}{page}{fin}
+@05507	{F05}...|c'est vrai... ?|Vraiment... ?{attente}{page}{fin}
+@05508	Yumi me regarde, l'air|inquiet... Ses yeux|tremblent, retenant des|larmes prêtes à couler...{attente}{page}{fin}
+@05509	Submergé de tendresse,{attente}|j'ai serré Yumi tout|doucement contre moi et|je l'ai embrassée...{attente}{page}{fin}
+@05510	Encore...|et encore, nos lèvres|se rejoignent...{attente}{page}{fin}
+@05511	Le bruissement des arbres|dans la brise tiède du|printemps... on dirait|qu'on nous applaudit...{attente}{page}{fin}
+@05512	Bercés par le vent, enlacés,|les yeux dans les yeux,|on s'est assurés de ce|que l'autre ressentait...{attente}{page}{fin}
+@05513	Yumi...{attente} à partir de|maintenant... toujours...|on restera ensemble...{attente}|...pour toujours...{attente}{page}{fin}
+@05514	Sur le coup, ça m'a|choqué...{attente} parce que moi,|je venais me déclarer|à Yumi !{attente}{page}{fin}
+@05515	Attends une seconde !{attente}|Je t'ai écrit, c'est vrai,|mais je pense que c'est|encore trop tôt.{attente}{page}{fin}
+@05516	Tu sais...|je commence à|t'aimer, {F05}.{attente}{page}{fin}
+@05517	En un an, {F05},|tu as changé.{attente}|Tu as beaucoup mûri.{attente}{page}{fin}
+@05518	Mais humainement, il te|manque encore quelque|chose...{attente}{page}{fin}
+@05519	J'ai envie de te regarder|grandir encore un peu,|{F05}...{attente}{page}{fin}
+@05520	Un petit ami plus jeune|que moi... je ne suis pas|sûre que ça marcherait.{attente}{page}{fin}
+@05521	...Alors...{attente}{page}{fin}
+@05522	jusqu'à ce que je|sois sûre...{attente}{page}{fin}
+@05523	pour qu'on apprenne|à mieux se connaître|...{attente}{page}{fin}
+@05524	il nous faut encore|un peu de temps...{attente}{page}{fin}
+@05525	Je pense qu'on ne se|comprend pas encore|vraiment, nous deux...{attente}{page}{fin}
+@05526	Alors ne te presse pas,|{F05}...{attente}{page}{fin}
+@05527	...D'accord...{attente}|Mais dis-moi juste|une chose...{attente}{page}{fin}
+@05528	...D'accord.|Laquelle ?{attente}{page}{fin}
+@05529	Si...|ce qui t'inquiète,|Yumi, se réglait...{attente}{page}{fin}
+@05530	et que d'ici là, j'étais|devenu un homme plus|fiable qu'aujourd'hui...{attente}{page}{fin}
+@05531	à ce moment-là...{attente}|tu me laisserais encore|me déclarer, pour de bon ?{attente}{page}{fin}
+@05532	Voyons...|Si tu deviens un homme|encore mieux, {F05}...{attente}{page}{fin}
+@05533	c'est moi qui me|déclarerai !|Sûrement♥{attente}{page}{fin}
+@05534	Sur ces mots, Yumi a ri,|puis a tourné les talons|et s'en est allée sous le|soleil filtrant des arbres...{attente}{page}{fin}
+@05535	Le cœur battant, je|cherchais {E08} dans le|parc naturel de|Koigahara...{attente}{page}{fin}
+@05536	Dans le parc désert,|{E08} attendait,|toute seule...{attente}{page}{fin}
+@05537	Ah ! {F06}~|Tu es venu~ !|Shinozawa est contente~ !{attente}{page}{fin}
+@05538	Oui, c'est ça~ !|C'est ici~ !|Il n'y a qu'ici~ !{attente}{page}{fin}
+@05539	C'est... la grande décision|de Shinozawa~{attente}{page}{fin}
+@05540	Pour dire une chose|importante, il fallait|l'endroit le plus apaisant~ !{attente}{page}{fin}
+@05541	Grande décision...|...chose importante...|...ce serait...{attente}{page}{fin}
+@05542	Aaah~ ! Non, non~ !{attente}|C'est Shinozawa qui va|le dire~ ! Elle va le dire~ !{attente}{page}{fin}
+@05543	Alors... alors...|{F06}, ne ris pas,|écoute sérieusement~{attente}{page}{fin}
+@05544	Bon, je le dis !{attente}|Shinozawa...{attente}|Shinozawa...{attente}{page}{fin}
+@05545	{F06}, toi...|...euh...|enfin... c'est que...{attente}{page}{fin}

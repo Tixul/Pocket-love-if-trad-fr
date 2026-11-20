@@ -1,0 +1,404 @@
+; Lot 08 (messages 2560-2935) : potins des filles (Momoyo, Mirei, Konoha), pensées troubles du héros,
+; anniversaires (Ruruna, Momoyo, Konoha, Mirei), filles qui regardent l'entraînement (baseball, foot, athlé).
+
+; ---- potins : Momoyo (suite)
+@02560	Hein~ ?{attente}|Shinozawa et {F06},|on est même pas dans|la même classe~...{attente}{page}{fin}
+@02561	Quand on se croise, on se|dit bonjour, et c'est|tout~ !{attente}{page}{fin}
+@02562	Ah, c'est tout ?{attente} Alors|t'es plus accro aux jeux|vidéo qu'à {F00} ?{attente}{page}{fin}
+@02563	{F06} et Shinozawa,|on se promène main|dans la main~ !{attente}{page}{fin}
+@02564	On dirait deux petits|copains de maternelle,|vous deux...{attente}{page}{fin}
+@02565	Alors finalement, toi,|tu préfères tes jeux|vidéo à {F00} ?{attente}{page}{fin}
+@02566	{F06} et Shinozawa,|on marche en se tenant|par les épaules~ !{attente}{page}{fin}
+@02567	Hein ?{attente} Par les épaules ?{attente}|C'est pas plutôt lui qui|te prend par l'épaule ?{attente}{page}{fin}
+@02568	Dans ses bras ? Shinozawa|ose pas dire des choses|pareilles~{attente}|C-c'est trop gênant !{attente}{page}{fin}
+@02569	N-n-n...|notre relation~ ?!!{attente}|Ukyaaah !!{attente}{page}{fin}
+@02570	Ah ! C'est louche !{attente}|Vous vous êtes peut-être|déjà embrassés, non ?{attente}{page}{fin}
+@02571	Muhiii !{attente}|Jamais Shinozawa ferait|un truc pareil~ !{attente}{page}{fin}
+@02572	Shinozawa et {F06},|on s'entend bien~...{attente}|mais on fait pas ça~ !{attente}{page}{fin}
+@02573	C'est vrai, t'as raison !{attente}|Toi, c'est impossible.{attente}|Y a que les jeux pour toi !{attente}{page}{fin}
+@02574	Tu sais, quand {F06}|lui fait un gros câlin,|Shinozawa est déjà|trop heureuse~♥{attente}{page}{fin}
+@02575	Mais aller plus loin,|Shinozawa...{attente}|C-c'est trop gênant !{attente}{page}{fin}
+@02576	Qu'est-ce que tu dis~ !{attente}|Shinozawa va saigner|du nez~ !{attente}|Nyaha, nyahaha~♥{attente}{page}{fin}
+@02577	Hein...{attente}|Nyaha, nyaha,|nyahaha~{attente} Mufuu~♥{attente}{page}{fin}
+@02578	Mmh~ ! T'es méchante !{attente}|Shinozawa aussi est une|jeune fille en fleur~ !{attente}{page}{fin}
+@02579	Y a des choses plus|importantes que les jeux~ !{attente}|...Nyah♥{attente}{page}{fin}
+@02580	Ah bon, c'est comme ça ?!{attente}|Ça alors, je suis surprise !{attente}|Venant de Shinozawa...{attente}{page}{fin}
+@02581	Ben évidemment~ !{attente}|Parce que~...{attente}{page}{fin}
+@02582	Jouer aux jeux vidéo,|c'est plus marrant que|d'être avec {F06}~ !{attente}{page}{fin}
+@02583	......{attente}|Bon, c'est Shinozawa,|on n'y peut rien~ !{attente}{page}{fin}
+
+; ---- potins : Mirei
+@02584	Hein ?{attente} Cette voix...{attente}|C'est celle de {E09} !{attente}{page}{fin}
+@02585	Dis, Okada-san !{attente}|T'es devenue proche de|{F01} {F00}, non ?{attente}{page}{fin}
+@02586	Franchement, qu'est-ce|que tu penses de {F00} ?{attente}{page}{fin}
+@02587	Pardon ?!{attente}|Ce que j'en pense...{attente}|Comment ça... ?{attente}{page}{fin}
+@02588	Voyons !{attente}|{F07} ne représente|rien pour moi !{attente}{page}{fin}
+@02589	Il n'est pas méchant...{attente}|Mais de là à parler|d'aimer ou pas...{attente}{page}{fin}
+@02590	C'est difficile à dire...{attente}|Disons qu'il m'intrigue... ?{attente}|...Hihi !{attente}{page}{fin}
+@02591	...Oui...{attente}|Il est charmant...{attente}|...je l'aime beaucoup♥{attente}{page}{fin}
+@02592	Il n'y a rien du tout entre|nous ! C'est juste un|camarade de classe...{attente}{page}{fin}
+@02593	Ah bon...{attente} Alors,{attente}|y a un autre garçon|dont t'es proche ?{attente}{page}{fin}
+@02594	On s'est tenu la main...{attente}|Mais ça, tout le monde|le fait, non ?{attente}{page}{fin}
+@02595	Euh, tu crois... ?{attente}|Bon, ça a pas l'air|d'aller bien loin...{attente}{page}{fin}
+@02596	Alors, y a un autre|garçon dont t'es proche ?{attente}{page}{fin}
+@02597	{F07} me prend parfois|par l'épaule, mais|pas plus...{attente}{page}{fin}
+@02598	Il ne se passe rien...{attente}|Dommage, d'ailleurs...|...Hihi !{attente}{page}{fin}
+@02599	Voyons...{attente}|Je crois qu'on s'entend|vraiment très bien...{attente}{page}{fin}
+@02600	Très bien, c'est-à-dire ?{attente}|...Vous vous êtes|embrassés, peut-être ?{attente}{page}{fin}
+@02601	Non...{attente}|Malheureusement...{attente}|pas encore...{attente}{page}{fin}
+@02602	Notre relation... ?{attente}|...Hihi !{attente}{page}{fin}
+@02603	Tu sais, quand il...{attente}|me serre dans ses bras,{attente}|...je suis déjà comblée♥{attente}{page}{fin}
+@02604	Pour le reste...{attente}|pas encore, mais...{attente}|...qui sait♥{attente}{page}{fin}
+@02605	Alors, t'as pas d'autre|garçon dont t'es proche ?{attente}{page}{fin}
+@02606	...Ce genre de chose...{attente}|c'est normal à l'étranger,|non ?{attente}|...Hihi♥{attente}{page}{fin}
+@02607	Un baiser ?{attente} À l'étranger,|c'est normal entre gens|proches, non ?{attente} Hihi♥{attente}{page}{fin}
+@02608	À te voir, y a pas d'autre|garçon dans ta vie, hein !{attente}{page}{fin}
+@02609	Je n'ai besoin d'aucun|autre garçon que {F07} !{attente}{page}{fin}
+@02610	Bien sûr qu'il y a un homme|plus proche de moi que|{F07} !{attente}{page}{fin}
+@02611	Hein, qui ça, qui ça ?{attente}{page}{fin}
+@02612	Mon père...{attente}|Je plaisante, voyons !{attente}|En vérité...{attente} c'est secret !{attente}{page}{fin}
+@02613	Quoi, c'est secret ?{attente}|Ça m'intrigue, mais bon,|tant pis~ !{attente}{page}{fin}
+
+; ---- potins : Konoha
+@02614	Hein ?{attente} Cette voix...{attente}|C'est celle de {E0A} !{attente}{page}{fin}
+@02615	Dis, {E0A} !{attente}|Ces temps-ci, t'es|super proche de|{F01} {F00}, non ?{attente}{page}{fin}
+@02616	Beurk ! {F08} ?{attente}|Non mais ça va pas !{attente}|Pitié, quoi !{attente}{page}{fin}
+@02617	Ah bon ?{attente} Vous avez l'air|plutôt complices...{attente}|Y a pas un truc ?{attente}{page}{fin}
+@02618	Hein ?|Avec {F08} ?{attente}|Bah, c'est normal, non ?{attente}{page}{fin}
+@02619	Bof, je me suis jamais|demandé si je l'aimais|ou pas, moi !{attente}{page}{fin}
+@02620	Un truc, genre...|si je l'aime ou pas ?{attente}|...{attente}Héhé !{attente}{page}{fin}
+@02621	{F08}, tu vois...{attente}|c'est un chic type !{attente}|Alors... je l'aime bien !{attente}{page}{fin}
+@02622	Quoi ?!{attente}|...Héhé...{attente}|...héhéhé♥{attente}{page}{fin}
+@02623	Y a rien du tout entre|nous ! C'est juste un|camarade de classe !{attente}{page}{fin}
+@02624	Ah bon, c'est tout ?{attente}|Je croyais vous avoir vus|chahuter ensemble...{attente}{page}{fin}
+@02625	Haha, pardon !{attente}|Te fâche pas~ !{attente}{page}{fin}
+@02626	Mais toi, {E0A}, plus que|les garçons...{attente}|c'est les cartes et les|animes qui comptent, non ?{attente}{page}{fin}
+@02627	Bon, on se serre bien fort|la main, c'est vrai !{attente}{page}{fin}
+@02628	......Ça s'appelle pas|une poignée de main, ça ?{attente}{page}{fin}
+@02629	Hahaha !{attente}|Maintenant que tu le dis,|ouais, peut-être !{attente}{page}{fin}
+@02630	Bref, ça a pas l'air|d'aller bien loin,|entre vous !{attente}{page}{fin}
+@02631	Ben, tu vois...{attente}|des fois, il me prend|par l'épaule...{attente}{page}{fin}
+@02632	{F00} ? En se baissant ?{attente}|...Ça doit pas être|facile...{attente}{page}{fin}
+@02633	Nihé...{attente}Nihéhé !{attente}|C'est vraiment...{attente}|trop chouette entre nous !{attente}{page}{fin}
+@02634	Hein ?!{attente} Ça, quand même...{attente}|c'est encore...{attente}trop tôt♥{attente}{page}{fin}
+@02635	Moi qui croyais que tu|vivais que pour tes cartes|et tes animes...{attente}{page}{fin}
+@02636	Un câlin !{attente}|...on va dire♥{attente}|Héhé... héhéhé♥{attente}{page}{fin}
+@02637	Quoi ? C'est louche !{attente}|Vous vous êtes|embrassés ?! Avoue tout~ !{attente}{page}{fin}
+@02638	Non, pas encore de bisou !{attente}|Rien qu'être dans ses bras,|...c'est le bonheur~♥{attente}{page}{fin}
+@02640	Relation ? Récréation !|Youpi, on va jouer !{attente}|Hein, c'est pas ça ?{attente}{page}{fin}
+@02641	Pas « récréation » !|Pas de jeux !{attente}|Re-la-tion !{attente}{page}{fin}
+@02642	Pan, pan, pan ! ♪|Qui a tué Cock Robin ?! ♪{attente}{page}{fin}
+@02643	Danser pour noyer le|poisson, ça marche pas !{attente}|C'est louche~ !{attente}|Et le bisou, alors ?{attente}{page}{fin}
+@02644	En parlant de bisou...{attente}|y avait pas un jeu qui|s'appelait comme ça ?|...{attente}{page}{fin}
+@02645	C'est bon, laisse tomber.{attente}|Si tu te démènes autant|pour changer de sujet,{attente}|c'est que c'est vrai...{attente}{page}{fin}
+@02646	Euuuh...{attente}|Ben...{attente}|...héhé...{attente}{page}{fin}
+@02647	Quoi......{attente}|A-arrête, enfin...{attente}|...hihihi♥{attente}{page}{fin}
+@02648	{E0A}... vient de...{attente}|faire « hihihi »...{attente}|C'est le monde à l'envers !{attente}{page}{fin}
+@02649	Ça veut dire quoi, ça ?{attente}|Que je suis une gamine|toute petite, c'est ça ?!{attente}{page}{fin}
+@02650	Moi aussi, tu sais,{attente}|y a des choses plus|importantes que les jeux|et les animes !{attente}{page}{fin}
+@02651	Je vois...{attente}|{E0A} aussi est une|jeune fille, finalement...{attente}{page}{fin}
+@02652	Ma vie, je l'ai donnée aux|cartes, aux animes et au|ping-pong !{attente}|Rien d'autre ne compte !{attente}{page}{fin}
+@02653	Venant de {E0A},|je m'en doutais !{attente}{page}{fin}
+@02654	Mais quand j'y pense,|Shinozawa, c'est impossible...{attente}|Y a que les jeux pour elle !{attente}{page}{fin}
+
+; ---- pensées troubles du héros
+@02655	...C'était tellement fort|que je risque de pas|fermer l'œil de la|nuit...{attente}{page}{fin}
+@02656	Sous mes yeux, la scène|semblait se dérouler|comme au ralenti... !{attente}{page}{fin}
+@02657	......|......{attente}|Ça n'a duré qu'une petite|seconde, mais...{attente}{page}{fin}
+@02658	pour moi, ce fut un|moment long, et|terriblement excitant...{attente}{page}{fin}
+@02659	J'ai le cœur qui bat...|Je vais sûrement pas|dormir cette nuit...{attente}{page}{fin}
+@02660	...Hein ! Ç-ça alors !{attente}|Mon regard reste scotché|à la poitrine de {E08} !{attente}{page}{fin}
+@02661	Waouh !!|On voit... on voit tout|le haut de ses cuisses !{attente}{page}{fin}
+@02662	Haleter en voulant voir|sous sa jupe ? Ça, jamais|je l'avouerai, même sous|la torture !{attente}{page}{fin}
+@02663	Mon regard reste scotché|aux jambes de {E09} !{attente}{page}{fin}
+@02664	J'étais dans tous|mes états...{attente}{page}{fin}
+@02665	Mon regard reste scotché|à la poitrine de {E09} !{attente}{page}{fin}
+@02666	Mais mon regard reste|scotché à la poitrine|de {E09}...{attente}{page}{fin}
+@02667	...Même en uniforme, j'ai|l'impression qu'on v-va|voir quelque chose...{attente}|Et puis...{attente}{page}{fin}
+@02668	Ah !{attente}|Mon regard reste scotché|au visage de {E0A} !{attente}{page}{fin}
+@02669	Je suis peut-être tombé|amoureux de {E0A}...{attente}{page}{fin}
+@02670	Hein ? Waouh !{attente}|Mon regard reste scotché|à la poitrine de {E0A} !{attente}{page}{fin}
+@02671	En regardant bien...|c'est rebondi...{attente}|ça a l'air tout doux...{attente}|et tout ferme...{attente}{page}{fin}
+@02672	Glups...{attente}|Malgré moi, j'en ai|le souffle coupé...{attente}{page}{fin}
+@02673	J-j'ai l'impression que|je vais perdre la tête...{attente}{page}{fin}
+
+; ---- anniversaire de Ruruna
+@02675	Ah, {F03} !|Ça tombe bien !{attente}|Je voulais te parler...{attente}{page}{fin}
+@02676	C'est mon anniversaire|aujourd'hui.{attente}|Alors je pensais faire|une petite fête...{attente}{page}{fin}
+@02677	Si tu veux bien...|tu viendrais, toi aussi,|{F03} ?{attente}{page}{fin}
+@02678	{FFB}Aller à la fête{n}　Refuser{fin}
+@02679	Bien sûr !{attente} J'y serai,|avec grand plaisir !{attente}{page}{fin}
+@02680	Oh, je suis contente !{attente}|Alors...{attente}{page}{fin}
+@02681	je vais te préparer plein|de bons petits plats{attente}|rien que pour toi, {F03} !{attente}{page}{fin}
+@02682	Ouais !{attente}|J'ai hâte d'y être !{attente}{page}{fin}
+@02683	Ah...{attente}|Désolé, je suis pas|libre...{attente}{page}{fin}
+@02684	Ah, bon...{attente}|Remarque, il y aura plein|d'autres invités...{attente}{page}{fin}
+@02685	C'est pas grave...{attente}|Mais j'aurais bien aimé...|que tu viennes...{attente}{page}{fin}
+
+; ---- anniversaire de Momoyo
+@02686	Nyahoo~ !!{attente}|{F06}~ !{attente}|Je t'ai enfin trouvé~ !{attente}{page}{fin}
+@02687	Dites, dites~ !{attente}|C'est bientôt l'anniversaire|de Shinozawa~ !!{attente}{page}{fin}
+@02688	Al{attente}ors{attente}...{attente} Shinozawa|veut un cadeau plein|d'amour de {F06}~ !{attente}{page}{fin}
+@02689	{FFB}Lui offrir un cadeau{n}　Ne rien offrir{fin}
+@02690	D'accord, c'est promis !{attente}|Je vais te trouver un|cadeau, tu vas voir !{attente}{page}{fin}
+@02691	Youhouu~ !{attente}|C'est vrai, c'est vrai~ ?{attente}|Shinozawa est ravie~ !{attente}{page}{fin}
+@02692	Alors Shinozawa va|attendre en trépignant~ !!{attente}|Nyahaha~ !{attente}{page}{fin}
+@02693	Ah...{attente}Désolé !{attente}|Ce mois-ci, mon argent|de poche est à sec...{attente}{page}{fin}
+@02694	Funyaa~...{attente}|T'es si fauché que ça~ ?{attente}{page}{fin}
+@02695	Tant pis, Shinozawa|laisse tomber...{attente}|mais elle est toute|triste~...{attente}{page}{fin}
+
+; ---- anniversaire de Konoha
+@02696	{F08} !{attente}|Tu m'écoutes deux sec ?{attente}{page}{fin}
+@02697	C'est bientôt mon|anniversaire, tu sais !{attente}|Du coup... du cooouup !!{attente}{page}{fin}
+@02698	Si jamais tu m'offrais|un cadeau...{attente}|ça me ferait trop plaisir !{attente}{page}{fin}
+@02699	Youpiii !{attente}|Trop contente, trop|trop contente !{attente}{page}{fin}
+@02700	Bon, j'attends ça|avec impatience, hein !{attente}{page}{fin}
+@02701	À sec ?{attente}|Ouch...{attente}Rhooo, bon,|tant pis, va !{attente}{page}{fin}
+@02702	Pfff...{attente}|Moi qui m'en faisais une|joie... c'est nul...{attente}{page}{fin}
+
+; ---- Ruruna remercie
+@02703	Ah, {F03}...{attente}{page}{fin}
+@02704	Merci d'être venu à ma|fête d'anniversaire, hier !{attente}{page}{fin}
+@02705	Que tu sois venu,|{F03}...{attente} ça a rendu|{E04} tellement heureuse...{attente}{page}{fin}
+@02706	Alors...{attente} je tenais|vraiment à te remercier.{attente}{page}{fin}
+
+; ---- fragments de scènes
+@02707	{E04} et moi, on s'était|assis pour souffler|un peu...{attente}{page}{fin}
+@02708	{E04} était assise à côté|de moi et regardait|l'écran...{attente}{page}{fin}
+@02709	{E04} en maillot de bain|me troublait un peu...{attente}|Sans réfléchir, j'ai|tourné les yeux vers elle...{attente}{page}{fin}
+@02710	Tout en disant ça...|mon regard restait|scotché dessus !{attente}{page}{fin}
+@02711	{E04} dans mes bras,{attente}|je glisse mes mains de ses|épaules à ses hanches,|comme pour la découvrir.{attente}{page}{fin}
+@02712	Mizuki...|tout en elle...|est si adorable...{attente}{page}{fin}
+@02713	...Mizuki...{attente}|...Je voudrais que Mizuki|soit à moi, rien qu'à moi...{attente}{page}{fin}
+@02714	Boum !{attente}|P-pas de soutien-gorge ?!{attente}{page}{fin}
+
+; ---- cadeau d'anniversaire de Mirei
+@02715	(Après les cours){n}{fin}
+@02716	Pour pouvoir donner son|cadeau d'anniversaire|à {E09},{attente}{page}{fin}
+@02717	j'étais resté un moment|en classe après les cours...{attente}|Et puis......{attente}{page}{fin}
+@02718	Bon, j'y vais, à plus~ !{attente}{page}{fin}
+@02719	Salut~ !!{attente}{page}{fin}
+@02720	Ouais !{attente}|Enfin seul avec {E09} !{attente}{page}{fin}
+@02721	Il faut que j'en profite|pour lui donner son|cadeau !!{attente}{page}{fin}
+@02722	Bon, {F07},{attente}|j'y vais...{attente}{page}{fin}
+@02723	Ah ! Attends une seconde !{attente}|J'ai quelque chose|à te donner !{attente}{page}{fin}
+@02724	Hein ? Pour moi... ?{attente}{page}{fin}
+@02725	...{attente}Merci !{attente}|Bien sûr, je l'accepte|avec plaisir !{attente}{page}{fin}
+@02726	Qu'est-ce qu'il peut bien|y avoir dedans ? J'ai le|cœur qui bat !{attente}|Dis, je peux l'ouvrir ?{attente}{page}{fin}
+@02727	Bien sûr !{attente}|Vas-y, ouvre-le !{attente}{page}{fin}
+@02728	......{attente}|Oh, un sac en cuir verni !!{attente}{page}{fin}
+@02729	Magnifique !!{attente}|C'est exactement le genre|de sac que je voulais !{attente}{page}{fin}
+@02730	{F07}...{attente}|Merci !{attente}|Je vais le chérir...♥{attente}{page}{fin}
+@02731	......{attente}|De la fourrure... ?{attente}{page}{fin}
+@02732	Ah non...{attente}|c'est de la fausse...{attente}{page}{fin}
+@02733	Mais... quelque chose|d'aussi voyant, c'est|un peu...{attente} tu vois.{attente}{page}{fin}
+@02734	Ah, mais...{attente}|puisque tu me l'offres,|je le garde quand même.{attente}{page}{fin}
+@02735	......{attente}|Oh, un sac en toile !{attente}{page}{fin}
+@02736	Il a l'air très solide|et pratique !!{attente}|Merci beaucoup !{attente}{page}{fin}
+
+; ---- cadeau d'anniversaire de Konoha
+@02737	Pour pouvoir donner son|cadeau d'anniversaire|à {E0A},{attente}{page}{fin}
+@02738	Ouais !{attente}|Enfin seul avec {E0A} !{attente}{page}{fin}
+@02739	Tiens ?{attente}|{F08} !{attente}|Tu rentres pas ?{attente}{page}{fin}
+@02740	Si...{attente}En fait...{attente}|j'ai un truc à te donner !{attente}{page}{fin}
+@02741	Hein ?{attente}|À moi... ?{attente}|...Ah, me dis pas que... !{attente}{page}{fin}
+@02742	Oh, pas mal !{attente}|Bon, ben je l'accepte|avec plaisir !{attente}{page}{fin}
+@02743	Qu'est-ce qu'il peut bien|y avoir là-dedans~ !{attente}|...J'ai trop hâte !{attente}{page}{fin}
+@02744	Ouah, une figurine de|Devil One !!{attente}|Trop la classe !!{attente}{page}{fin}
+@02745	{F08} !{attente}|Merciiii !!{attente}|Le plus beau des cadeaux !{attente}{page}{fin}
+@02747	Oh, l'artbook de|Pocket Love !{attente}|Les persos sont trop|mignons, hein~ !{attente}{page}{fin}
+@02748	{F08},|merci !{attente}{page}{fin}
+@02749	Hein ?{attente} Une montre ?{attente}|C'est quel perso, déjà~ ?{attente}{page}{fin}
+@02750	Pfff...{attente}Quitte à faire,|un perso de Pocket Love,|ça aurait été mieux...{attente}{page}{fin}
+@02751	Mais bon, puisque c'est|un cadeau, je la garde|précieusement !{attente}|Merci beaucoup !{attente}{page}{fin}
+
+; ---- invitation de Mirei
+@02752	Il est tard !{attente}|Il n'y a plus personne...{attente}|Je ferais mieux de rentrer...{attente}{page}{fin}
+@02753	......{attente}Tiens ?{attente}|Quelqu'un revient dans|la classe...{attente}{page}{fin}
+@02754	{F07} !{attente}|Ouf, tu es encore là !{attente}{page}{fin}
+@02755	Tu sais...{attente}|aujourd'hui, c'est mon|anniversaire...{attente}Alors...{attente}{page}{fin}
+@02756	J'organise une petite fête...{attente}|Est-ce que tu voudrais|venir ?{attente}{page}{fin}
+@02757	Super !{attente} Alors je vais|préparer un bon repas|et je t'attendrai !{attente}{page}{fin}
+@02758	Bon, ce sera une fête|entre filles, alors...{attente}{page}{fin}
+@02759	Je voulais te remercier|pour hier...{attente}{page}{fin}
+@02760	Merci d'être venu à ma|fête d'anniversaire...{attente}|Merci du fond du cœur !{attente}{page}{fin}
+@02761	Tu sais... plus que la|venue de n'importe qui...{attente}{page}{fin}
+@02762	c'est ta présence,|{F07}, qui m'a|fait le plus plaisir...♥{attente}{page}{fin}
+@02763	Hihi...{attente}|Ça me gêne un peu !{attente}|Bon, à plus tard !{attente}{page}{fin}
+
+; ---- entraînement de baseball : les filles regardent
+@02775	Après les cours, pendant|l'entraînement du club|de baseball...{attente}{page}{fin}
+@02776	Hé ! {F00} !{attente}|On dirait qu'il y a une|fille qui te regarde !{attente}{page}{fin}
+@02777	Tiens, c'est donc|{F04}...{attente}|Hmm...{attente}{page}{fin}
+@02778	Ah, elle n'est pas venue|pour me voir...{attente}|Elle regarde juste parce|qu'elle s'ennuie... ?{attente}{page}{fin}
+@02779	Oh, {F04} se|débrouille plutôt bien !{attente}|Je ne m'y attendais pas !{attente}{page}{fin}
+@02780	« Pas attendu » ? Vexant !{attente}|Mais si elle vient regarder,{attente}|c'est que je l'intéresse ?{attente}{page}{fin}
+@02781	{F04} est doué,|dis donc !{attente}|C'est impressionnant !{attente}{page}{fin}
+@02782	Elle est venue me voir...{attente}|Ça veut dire que je|compte un peu pour elle,|non ?{attente}{page}{fin}
+@02783	{F04} !{attente}|Bien joué !{attente}|Continue comme ça !{attente}{page}{fin}
+@02784	Ça fait un moment qu'elle|n'a d'yeux que pour moi !{attente}|Et elle m'encourage, en|plus... Ça me gêne !{attente}{page}{fin}
+@02785	Ah, {F05} fait partie|du club de baseball ?{attente}|Tiens donc...{attente}{page}{fin}
+@02786	Tiens, {F05} se démène|plus que je pensais.{attente}|Hmm...{attente}{page}{fin}
+@02787	...Je vois.{attente}|{F05} se débrouille|pas si mal !{attente}{page}{fin}
+@02788	Waouh !{attente}|Encore une belle prise !{attente}|{F05}, t'es génial !{attente}{page}{fin}
+@02789	Ça fait un moment qu'elle|n'a d'yeux que pour moi !{attente}|Des compliments si fort...{attente}|ça me gêne un peu !{attente}{page}{fin}
+@02790	Unya ?{attente} Aujourd'hui,|c'est l'entraînement|de baseball~{attente}|Ça a l'air crevant~{attente}{page}{fin}
+@02791	Hanya ? {attente}{F06}|s'entraîne sérieusement~{attente}|Ça, c'est surprenant~ !{attente}{page}{fin}
+@02792	{F06}, couvert|de sueur et de boue !{attente}|Ça, c'est la jeunesse~ !|C'est plutôt classe~ !{attente}{page}{fin}
+@02793	Kyaa~ !{attente} {F06} !{attente}|Bien attrapé~ !{attente}|Sans aucune faute~ !{attente}{page}{fin}
+@02794	Hmm...{attente}|Le baseball lycéen au|Japon, ça manque un peu|d'intensité...{attente}{page}{fin}
+@02795	{F07} qui se donne|à fond au baseball...|c'est assez inattendu.{attente}{page}{fin}
+@02796	{F07} a l'air d'avoir|de bons réflexes...{attente}|J'ai bien fait de venir.{attente}{page}{fin}
+@02797	Ça fait un moment que|{F07} s'entraîne aux|glissades... Pourvu qu'il|ne se blesse pas.{attente}{page}{fin}
+@02798	Ça fait un moment qu'elle|n'a d'yeux que pour moi !{attente}|Elle s'inquiète même...{attente}|ça me gêne un peu !{attente}{page}{fin}
+
+; ---- fragments de scènes
+@02799	Mon imagination|s'emballait sans fin...|・|・{attente}{page}{fin}
+@02800	À cet instant !|Mon regard est resté|scotché !{attente}{page}{fin}
+@02801	Et puis... l'entrejambe|aussi... c'est...|t-troublant...{attente}{page}{fin}
+@02802	{F03} !|Relève-toi, vite !{attente}{page}{fin}
+@02803	Ah, pardon...{attente}{page}{fin}
+@02804	Franchement...{attente}|Je parie que tu pensais|à des trucs cochons !{attente}{page}{fin}
+
+; ---- baseball : encouragements avant les tournois
+@02805	Je faisais une pause à|l'entraînement, quand|quelqu'un m'a soudain|adressé la parole !{attente}{page}{fin}
+@02806	{F04} !{attente}|Le tournoi régional de|baseball approche !{attente}{page}{fin}
+@02807	Titulaire dès la 1re année,|c'est un sacré honneur !{attente}{page}{fin}
+@02808	Je te soutiens, alors|donne tout !{attente}{page}{fin}
+@02809	Oui ! Je vais tout donner !{attente}|Merci !{attente}{page}{fin}
+@02810	Bon, à plus tard !{attente}|Fais attention de pas te|blesser avant le tournoi !{attente}{page}{fin}
+@02811	Elle me soutient, c'est|trop génial !{attente}|Allez ! Je vais tout donner|pour décrocher le titre !{attente}{page}{fin}
+@02812	{F04} !{attente}|Le club de baseball va|enfin au tournoi national !{attente}{page}{fin}
+@02813	Continue comme ça, et|donne tout au national !{attente}{page}{fin}
+@02814	{F05} !{attente}|J'ai appris la nouvelle !{attente}{page}{fin}
+@02815	Il paraît que tu seras|titulaire au tournoi|régional !{attente}|Pas mal du tout !{attente}{page}{fin}
+@02816	Je te soutiens, alors|donne-toi à fond !{attente}{page}{fin}
+@02817	Tu dois retourner à|l'entraînement, non ?{attente}|Allez, à plus !{attente}{page}{fin}
+@02818	{F05} !{attente}|Le club de baseball va|enfin au national !{attente}{page}{fin}
+@02819	Le club a l'air plein|d'énergie, cette année...|C'est l'effet {F05} ?{attente}{page}{fin}
+@02820	Continue comme ça et vise|le titre national !{attente}|Je te soutiens !{attente}{page}{fin}
+@02821	Nyahoo~ !{attente}|Le tournoi régional de|baseball approche~ !{attente}{page}{fin}
+@02822	Gagne à force de sueur|et de cran~ ! Objectif :|le tournoi national~ !{attente}{page}{fin}
+@02823	Shinozawa va|t'encourager, alors donne|tout, à fond la caisse~ !!{attente}{page}{fin}
+@02824	{F06}~ !{attente}|Le club de baseball va|enfin au national~ !{attente}{page}{fin}
+@02825	Avec {F06}, l'équipe|sera championne du Japon,{attente}|Shinozawa en est sûre~ !{attente}{page}{fin}
+@02826	Bon, Shinozawa rentre|avant de gêner|l'entraînement~{attente}|Salut !{attente}{page}{fin}
+@02827	{F07} !{attente}|Le tournoi régional de|baseball approche, non ?{attente}{page}{fin}
+@02828	Au Japon, être titulaire|en 1re année, ça fait|jaser, on dirait...{attente}{page}{fin}
+@02829	Mais quoi qu'on dise,|moi, je soutiens|{F07} !{attente}{page}{fin}
+@02830	Merci !{attente}|Ça me donne vraiment|du courage !{attente}{page}{fin}
+@02831	Si tu brilles en match|officiel, plus personne|n'osera rien dire !{attente}|Allez, bonne chance !{attente}{page}{fin}
+@02832	Elle s'inquiète pour moi,|ça me fait plaisir !{attente}|Allez ! Je vais tout donner|pour décrocher le titre !{attente}{page}{fin}
+@02833	{F07} !{attente}|Le club de baseball va|enfin au national !{attente}{page}{fin}
+@02834	Tout le monde a vu ce que|vaut {F07}. J'attends|de grandes choses de toi !{attente}{page}{fin}
+@02835	Et bien sûr, moi aussi, je|te soutiendrai de toutes|mes forces !{attente}|Bonne chance !{attente}{page}{fin}
+@02836	Bon, à plus tard !{attente}|God bless|you !!{attente}{page}{fin}
+
+; ---- fragments de scènes
+@02837	Hihi...{attente}|...C'est peut-être un|peu osé...{attente}{page}{fin}
+@02838	Pourtant, les yeux de Yumi|ne quittent pas les miens...{attente}|Des yeux qui semblent|m'implorer...{attente}{page}{fin}
+@02839	Comme pour leur répondre,|j'ai doucement...|posé mes lèvres sur|les siennes...{attente}{page}{fin}
+@02840	Et soudain !|Les jambes de Yumi et|les miennes s'emmêlent !{attente}{page}{fin}
+@02841	Fuii~ Shinozawa va|s'étirer un peu~{attente}|Nnnh~{attente}{page}{fin}
+@02842	Le climat japonais est|bien plus humide qu'en|Amérique ou en Allemagne...{attente}{page}{fin}
+@02843	C'est désagréable...{attente}{page}{fin}
+@02844	C'est vrai que|t'as pas tort...{attente}{page}{fin}
+
+; ---- entraînement de foot : les filles regardent
+@02845	Après les cours, pendant|l'entraînement du club|de foot...{attente}{page}{fin}
+@02846	{F04} !|Joli tir !!{attente}|Continue comme ça !{attente}{page}{fin}
+@02847	Ah, {F05}...|Il est au club de foot,|celui-là ?{attente}|Tiens donc...{attente}{page}{fin}
+@02848	Waouh !{attente} Encore un but !{attente}|{F05}, t'es génial !{attente}{page}{fin}
+@02849	Unya ?{attente} Aujourd'hui,|c'est l'entraînement|de foot~{attente}|Il tombe jamais~ !{attente}{page}{fin}
+@02850	Kyaa~ ! {F06} !{attente}|Comment tu fais pour|pas tomber~ ?{attente}|C'est trop fort~ !{attente}{page}{fin}
+@02851	Ça fait un moment qu'elle|n'a d'yeux que pour moi !{attente}|Même pour si peu, ses|compliments me gênent !{attente}{page}{fin}
+@02852	Oh, le club de foot|s'entraîne...{attente}|Ça a l'air amusant !{attente}{page}{fin}
+@02853	Oh, {F07} joue au|foot mieux que je pensais.|Quelle surprise !{attente}{page}{fin}
+@02854	Il ne fait que des têtes|depuis tout à l'heure...{attente}|Il n'a pas mal au crâne ?{attente}{page}{fin}
+@02855	Taper dans un ballon...|Je sais pas si c'est|marrant ou pas, moi...{attente}{page}{fin}
+@02856	Ah, c'est {F08} !{attente}|Haha, ça te va pas du tout !{attente}|Mais t'es pas mauvais !{attente}{page}{fin}
+@02857	Hé ! C'est méchant, ça !{attente}|Mais elle m'a un peu|complimenté, alors je|vais pas me fâcher.{attente}{page}{fin}
+@02858	Mais si elle est venue|regarder, c'est que je|l'intéresse, non ?{attente}{page}{fin}
+@02859	{F08} a de bons|réflexes, dis donc !{attente}|Je le veux au club de|ping-pong !{attente}{page}{fin}
+@02860	{F08}, quel que|soit le sport, il est|trop classe !{attente}{page}{fin}
+
+; ---- foot : encouragements avant les tournois
+@02861	{F04} !{attente}|Le tournoi régional de|foot approche !{attente}{page}{fin}
+@02862	{F04} !{attente}|Le tournoi national de|foot, c'est pour bientôt !{attente}{page}{fin}
+@02863	{F05} !{attente}|Le tournoi national de|foot approche !{attente}{page}{fin}
+@02864	Il paraît que cette année,|{F05} est la clé|du club de foot !{attente}{page}{fin}
+@02865	Nyahoo~ !{attente}|Le tournoi régional de|foot approche~ !{attente}{page}{fin}
+@02866	Gagne, hein~ !{attente}|Et après, direction le|tournoi national~ !{attente}{page}{fin}
+@02867	{F06}~ !{attente}|Le club de foot va|enfin au national~ !{attente}{page}{fin}
+@02868	{F07} !{attente}|Le tournoi régional de|foot approche, c'est ça ?{attente}{page}{fin}
+@02869	{F07} !{attente}|Le club de foot va enfin|au tournoi national !{attente}{page}{fin}
+@02870	Hé, {F08} !{attente}|Le tournoi approche, et|toi, tu te reposes ?!{attente}{page}{fin}
+@02871	Bref, donne tout !{attente}|Allez, salut !{attente}{page}{fin}
+@02872	Ah...{attente}Elle est partie.{attente}|Mais ses encouragements|m'ont reboosté !{attente}{page}{fin}
+@02873	Allez ! Je vais tout|donner pour gagner !{attente}{page}{fin}
+@02874	Hé, {F08} !{attente}|Le national arrive, et|toi, tu tires au flanc ?!{attente}{page}{fin}
+@02875	Tu dois devenir champion|du Japon de foot, non ?!{attente}|Allez, donne tout !{attente}{page}{fin}
+
+; ---- entraînement d'athlétisme : les filles regardent
+@02876	Après les cours, je|m'entraînais au demi-fond|avec le club d'athlé...{attente}{page}{fin}
+@02877	Hmm, l'athlétisme...|{E04} n'y comprend|pas grand-chose...{attente}{page}{fin}
+@02878	{F03} ne fait que|courir en rond...{attente}|C'est vraiment amusant ?{attente}{page}{fin}
+@02879	Ugh......{attente}|Fendre le vent !{attente}|L'euphorie après l'effort !{attente}|Tu peux pas comprendre ?{attente}{page}{fin}
+@02880	Mais...{attente}|si elle me regarde quand|même, c'est que je|l'intéresse, non ?{attente}{page}{fin}
+@02881	Courir sans jamais|t'arrêter... Tu es|vraiment courageux,|{F03} !{attente}{page}{fin}
+@02882	Ça fait combien de tours ?{attente}|Courage, {F03} !{attente}|Tiens bon !{attente}{page}{fin}
+@02883	Ah, {F05}...|Il est au club d'athlé,|celui-là ?{attente}|Tiens donc...{attente}{page}{fin}
+@02884	Quelle vitesse pour du|demi-fond !{attente}|{F05}, t'es génial !{attente}{page}{fin}
+@02885	Trimer sans relâche,|c'est ça, la jeunesse !{attente}|Allez, le club d'athlé !{attente}{page}{fin}
+@02886	Ah, c'est {F08} !{attente}|Il est rapide, en fait !{attente}|J'en reviens pas !{attente}{page}{fin}
+@02887	{F08} a pas mal|d'explosivité, on dirait !{attente}|Je le veux au club de|ping-pong !{attente}{page}{fin}
+
+; ---- athlé : encouragements avant les tournois
+@02888	Dis, {F03},{attente}|au tournoi régional,|bats ton record, hein !{attente}{page}{fin}
+@02889	Ton record, c'est bien,|mais bats celui du tournoi !{attente}|{E04} compte sur toi !{attente}{page}{fin}
+@02890	Oui !{attente}|Je vais tout donner !{attente}|Merci !{attente}{page}{fin}
+@02891	Bon, à plus tard !{attente}|Bon entraînement !{attente}{page}{fin}
+@02892	Elle me soutient, c'est|trop génial !{attente}{page}{fin}
+@02893	Allez !|Je vais pas la décevoir :|je vise un nouveau record !{attente}{page}{fin}
+@02894	{F03} !|J'attends un nouveau|record au national !{attente}{page}{fin}
+@02895	{F03}, toi, tu|peux le faire...|{E04} y croit !{attente}{page}{fin}
+@02896	Il paraît que t'es|sélectionné pour le|tournoi régional ?{attente}|Pas mal du tout !{attente}{page}{fin}
+@02897	Donne tout et pulvérise|le record !{attente}|Je compte sur toi !{attente}{page}{fin}
+@02898	{F05} !{attente}|Le club d'athlé va|enfin au national !{attente}{page}{fin}
+@02899	{F05}, tu vas forcément|battre un record !{attente}|Bonne chance !{attente}{page}{fin}
+@02900	{F08}, c'est notre|espoir !{attente}|Il va battre le record|du tournoi, hein !{attente}{page}{fin}
+@02901	Donne tout ce que t'as !{attente}|Moi aussi, je soutiens|{F08}, hein !{attente}{page}{fin}
+@02902	Allez, {F08} !{attente}|Sprint vers ce soleil|couchant !!{attente}{page}{fin}
+@02903	Ouais !!{attente}{page}{fin}
+@02904	Ah !{attente}|Je me suis laissé|entraîner à courir...{attente}{page}{fin}
+@02905	Allez !{attente} Sur ma lancée,|je vais pas la décevoir :|je vise un nouveau record !{attente}{page}{fin}
+@02906	Tout le monde attend un|nouveau record !{attente}|Deviens champion du Japon !{attente}{page}{fin}
+@02907	Allez, {F08} !{attente}|Sprint vers l'horizon !!{attente}{page}{fin}
+@02908	Euh...{attente}|On voit pas l'horizon,|d'ici, si ?{attente}{page}{fin}
+
+; ---- athlé : Mizuki, au club elle aussi
+@02911	L'athlé, c'est un sport|individuel, mais le lien|avec les autres compte|aussi, tu ne trouves pas ?{attente}{page}{fin}
+@02912	Je suis d'accord !{attente}|J'ai l'impression qu'on|s'encourage en silence !{attente}{page}{fin}
+@02913	N'est-ce pas !{attente}|Au prochain tournoi,|on donne tout, d'accord ?{attente}{page}{fin}
+@02914	Oui !|Donnons tout !{attente}{page}{fin}
+@02915	Allez !{attente}|Pour pas me faire distancer|par Mizuki,{attente} je vais|viser un nouveau record !{attente}{page}{fin}
+@02916	Dis, {F04} !{attente}|Le national, c'est enfin|pour bientôt !{attente}{page}{fin}
+@02917	Le national, ça me donne|des papillons au ventre !{attente}|J'ai un de ces tracs...{page}{fin}
+@02918	Ah, en fait...{attente}|moi aussi, j'ai le trac !{attente}{page}{fin}
+@02919	Haha !{attente} Mais le jour J,|donnons tout, pour|n'avoir aucun regret !{attente}{page}{fin}
+@02920	...Hm ?{attente}|Je sens un regard venant|des filles du club...{attente}|...Ah, c'est Mizuki !{attente}{page}{fin}
+@02921	...Mais elle a aussitôt|détourné les yeux...{attente}|Elle ne me regardait|pas, en fait...{attente}{page}{fin}
+@02922	Elle parle avec une fille|du club en me jetant des|coups d'œil...{attente}|Je l'intéresse, peut-être ?{attente}{page}{fin}
+@02923	Me voyant la regarder,|Mizuki m'a fait coucou !{attente}|・|・{attente}{page}{fin}
+@02924	J'ai fait un tour de plus...{attente}|elle me regarde encore !{attente}|Je l'intrigue tant que ça ?{attente}{page}{fin}
+@02925	Pfiou...{attente}|Bon, assez couru pour|aujourd'hui...{attente}{page}{fin}
+@02926	Pfiou...{attente} Je vais faire|une pause en regardant les|autres s'entraîner...{attente}{page}{fin}
+@02927	Ah, Mizuki court !{attente}|Si sérieuse, si fière !{attente}|Mizuki qui s'entraîne à|fond, c'est beau, mais...{attente}{page}{fin}
+@02928	la main que j'ai tenue|à notre rendez-vous{attente}|était si douce...{attente}|...Héhéhé !{attente}{page}{fin}
+@02929	Ah, Mizuki court !{attente}|Si sérieuse, si fière !{attente}|Comme ça, on dirait|presque un garçon, mais...{attente}{page}{fin}
+@02930	l'épaule que j'ai touchée|à notre rendez-vous était|si fine, si féminine...{attente}|...Mizuki...{attente}{page}{fin}
+@02931	Ah, Mizuki court !{attente}|Si sérieuse, si fière !{attente}|À la voir s'entraîner|avec tant d'ardeur...{attente}{page}{fin}
+@02932	Ah...{attente} je craque de plus|en plus !{attente}|......Mizukiii~♥{attente}{page}{fin}
+@02933	Ah, Mizuki court !{attente}|Si sérieuse, si fière !{attente}|Comme ça, elle a l'air|costaud, mais...{attente}{page}{fin}
+@02934	quand je l'ai serrée fort|dans mes bras... sa|douceur, je vous dis pas...{attente}{page}{fin}
+@02935	Ah...{attente}|J'aimerais encore être|blotti contre Mizuki,|rien que tous les deux !{attente}{page}{fin}

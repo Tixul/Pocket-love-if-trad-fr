@@ -1,0 +1,361 @@
+; Lot 05 : messages de Mirei au bipeur, félicitations sportives, club photo, déjeuners.
+@01454	Tu n'as vraiment aucun|sens du romantisme...|/{E09}{attente}{page}{fin}
+@01455	Hein ? Mais...{attente}|Pour moi, un rendez-vous,|c'est romantique...{attente}|Pas pour les filles ?{attente}{page}{fin}
+@01456	I miss you.|Je me sens seule...|/{E09}{attente}{page}{fin}
+@01457	{FFB}Moi aussi, je veux te voir{n}　Je t'appelle{n}　Tiens bon{fin}
+@01458	Merci ♥ Tu es adorable.|/{E09}{attente}{page}{fin}
+@01459	Ah, on dirait qu'elle a|compris ce que je ressens...{attente}|...Moi aussi, je voudrais|voir {E09} tout de suite...{attente}{page}{fin}
+@01460	Super ! Je t'attends !|/{E09}{attente}{page}{fin}
+@01461	Allez, je l'appelle !|Bip bip bip...|......|......{attente}{page}{fin}
+@01462	Ah, allô ? C'est {F00},|je voulais...{attente}{page}{fin}
+@01463	Ah ! {F07} !|Tu m'appelles vraiment !|Ça me fait plaisir ♥{attente}{page}{fin}
+@01464	Ensuite, on a discuté|pendant près d'une heure.{attente}{page}{fin}
+@01465	Rien que d'entendre ta voix,|{F07}, ça m'a|redonné le moral.{attente}|Merci... ♥{attente}{page}{fin}
+@01466	Ouais ! J'ai eu raison|de l'appeler !{attente}{page}{fin}
+@01467	Je suis au couraaant !|Le club de baseball a|gagné le tournoi !{attente}{page}{fin}
+@01468	C'est vrai que remporter|le championnat national,|c'est super fort !|Respect !{attente}{page}{fin}
+@01469	...Mais le ping-pong,|c'est encore beaucoup|plus fort, hein !!{attente}{page}{fin}
+@01470	{E0A} me fixe avec un|regard de rivale !{attente}|Si elle me regarde avec|ces yeux-là, je suis mal...{attente}{page}{fin}
+@01471	Pour fêter ton titre de|champion, je t'invite !|Mais tu me racontes tout !{attente}{page}{fin}
+@01472	Elle voulait que je lui|raconte les matchs, alors|je lui ai tout décrit|en mimant chaque action...{attente}{page}{fin}
+@01473	Franchement, je ne trouve|pas que le ping-pong soit|un sport très viril...{attente}{page}{fin}
+@01474	mais gagner le titre,|je reconnais que c'est|un bel exploit.{attente}{page}{fin}
+@01475	(Pause déjeuner : incident){n}{fin}
+@01476	Dans le couloir...{attente}|je suis tombé sur {E04} !{attente}{page}{fin}
+@01477	Ah, {F03}...{attente}|Il paraît que vous avez|gagné au baseball.|Félicitations...{attente}{page}{fin}
+@01478	Ouais, merci !{attente}{page}{fin}
+@01479	C'était un peu formel...{attente}|Elle n'avait pas l'air|très contente pour moi...{attente}|Je me fais des idées ?{attente}{page}{fin}
+@01480	En marchant dans le couloir,|quelqu'un m'a interpellé !{attente}|Ah ! C'est Mizuki !{attente}{page}{fin}
+@01481	{F04} !|Il paraît que l'équipe de|baseball a gagné ! Bravo !{attente}{page}{fin}
+@01482	Continuez sur cette lancée|et gagnez le championnat !{attente}|Je vous soutiens !{attente}{page}{fin}
+@01483	Ç-ça me fait plaisir !{attente}|Allez ! Objectif :|le titre national !|À fond !!{attente}{page}{fin}
+@01484	Hé, celle qui arrive là-bas,|ce serait pas...{attente}|Mais si, c'est Yumi !{attente}{page}{fin}
+@01485	{F05} ! J'allais|justement passer dans|ta classe !{attente}{page}{fin}
+@01486	Hein, dans notre classe ?{attente}|Pourquoi... ?{attente}{page}{fin}
+@01487	On m'a dit que l'équipe de|baseball avait gagné, et|ça m'a fait plaisir, voilà !{attente}{page}{fin}
+@01488	Félicitations !|Continue comme ça !|Objectif : champions|du Japon !{attente}{page}{fin}
+@01489	Bon, à plus.{attente}{page}{fin}
+@01490	{F06}~ !!|Vous avez gagné votre|match de baseball~ !{attente}{page}{fin}
+@01491	C'est merveilleux~ !|Félicitatiooons !!|Hourra !!{attente}{page}{fin}
+@01492	Oh là... t'en fais trop !|On n'a pas encore gagné|le titre, j'ai honte...{attente}{page}{fin}
+@01493	Mais... merci !|Ça me fait vraiment|plaisir d'entendre ça !{attente}{page}{fin}
+@01494	La voir si heureuse pour|moi...{attente}|Je suis vraiment content|de faire du sport !{attente}{page}{fin}
+@01495	Allez ! Objectif :|champions du Japon !|Je vais tout donner !!{attente}{page}{fin}
+@01496	Tiens ?|{E09} vient vers moi.|Qu'est-ce qu'il y a ?{attente}{page}{fin}
+@01497	Congratula-|tions !|Félicitations !{attente}{page}{fin}
+@01498	On m'a dit que tu avais|gagné au baseball !{attente}|Bon courage pour la suite !{attente}{page}{fin}
+@01499	{E0A} se faufile entre|les tables à toute vitesse|pour venir jusqu'à moi !{attente}{page}{fin}
+@01500	Gagné au baseball ?|Bravooo !{attente}|Prochaine étape :|le championnat national !{attente}{page}{fin}
+@01501	{F08} !!|Vise cette étoile qui brille|plus fort que toutes les|autres dans le ciel !{attente}{page}{fin}
+@01502	{E0A} pose la main sur|mon épaule et pointe le|ciel par la fenêtre !{attente}{page}{fin}
+@01503	P-papa !|Je vais y arriver !{attente}|...Hé, mais il fait jour !{attente}{page}{fin}
+@01504	Je me suis laissé emporter...{attente}|mais ses encouragements|m'ont super motivé !{attente}{page}{fin}
+@01505	Ah, {F03} !{attente}|L'équipe de baseball est|championne du Japon !|Félicitations !{attente}{page}{fin}
+@01506	{F04}, bravo !{attente}|L'équipe de baseball est|enfin championne du Japon !{attente}{page}{fin}
+@01507	Félicitations !!|Tu es vraiment|incroyable... {F04} !{attente}{page}{fin}
+@01508	Mizuki me regarde avec des|yeux brillants...!{attente}|J'en ai le cœur|qui bat la chamade...{attente}{page}{fin}
+@01509	...Hihi.|{F05}, t'es plutôt|doué, en fait ♥{attente}{page}{fin}
+@01510	{F06}~ !|Champions du Japon de|baseball, félicitations~ !{attente}{page}{fin}
+@01511	{F06}, t'es|trop fort~ !!|Shinozawa est émue~ ♥{attente}{page}{fin}
+@01512	Euh, merci...{attente}|Ça me gêne un peu~{attente}{page}{fin}
+@01513	{E08} me regarde avec|des yeux brillants...!{attente}|J'en ai le cœur|qui bat la chamade...{attente}{page}{fin}
+@01514	J'ai vu le match de baseball !{attente}|{F07}, tu es génial !|Champions, carrément !!{attente}{page}{fin}
+@01515	Félicitations...{attente}|En ce moment, {F07},|tu rayonnes ♥{attente}{page}{fin}
+@01516	{E09} me regarde comme|si j'étais éblouissant...{attente}|Sous son regard, mon cœur|s'est mis{attente} à battre fort.{attente}{page}{fin}
+@01517	Trop fort, trop fooort !|Vous êtes champions, c'est|vrai ? Je suis trop émue !{attente}{page}{fin}
+@01518	Tellement émue que...|mes mains n'arrêtent pas|de trembler...|un truc comme ça !!{attente}{page}{fin}
+@01519	{F08}...|t'es vraiment trop fort ♥{attente}{page}{fin}
+@01520	{E0A} me regarde avec|des étoiles plein les yeux...{attente}|Je suis trop content de|faire du sport !!{attente}{page}{fin}
+@01521	Le foot, je n'y comprends|pas grand-chose, alors|je m'arrêterai là...{attente}{page}{fin}
+@01522	Bref, c'est pas grave.{attente}|Merci d'avoir fêté la|victoire du club de foot !{attente}{page}{fin}
+@01523	T'as gagné le|championnat national de|foot, il paraît. Bravo.{attente}{page}{fin}
+@01524	Non, je plaisante !{attente}|Allez, champions du Japon,|félicitations !{attente}{page}{fin}
+@01525	J'attends beaucoup de toi,|alors continue comme ça !{attente}{page}{fin}
+@01526	{F04}, tu bats les|records comme si de rien|n'était, hein...{attente}{page}{fin}
+@01527	Félicitations !|Continue comme ça !|Objectif : meilleur|lycée du Japon !{attente}{page}{fin}
+@01528	...On dirait que tu as|changé{attente}, depuis ton titre|national... Hihi.{attente}{page}{fin}
+@01529	Je suis trop content|de faire du sport !{attente}{page}{fin}
+@01530	L'athlétisme, je ne vois|pas trop ce qu'il y a|d'intéressant, mais...|{F07}, tu es fort.{attente}{page}{fin}
+@01531	...Je vois.{attente}|{E09} n'aime pas|l'athlétisme...|Dommage...{attente}{page}{fin}
+@01532	Le ping-pong, ça fait un|peu étriqué, mais...{attente}|champion du Japon, quand|même, chapeau !{attente}{page}{fin}
+@01533	...Yumi n'a pas une très|bonne image du ping-pong.{attente}|...Bon, au moins, elle m'a|félicité, c'est déjà ça.{attente}{page}{fin}
+@01534	Mais...|ça fait plaisir d'être félicité.{attente}|Content de faire du sport.{attente}{page}{fin}
+@01535	D'accord, j'ai compris...|......|/{E09}{attente}{page}{fin}
+@01536	Même par écrit, je sens|à quel point {E09}|est triste...{attente}{page}{fin}
+@01537	{E09}, moi aussi, tu|me manques...{attente}|Je me sens tout à coup|le cœur tellement serré...{attente}{page}{fin}
+@01540	Les filles ont fini avant|nous. Il n'y a plus|personne...|......{attente}{page}{fin}
+@01542	Hein ? Cette voix...{attente}|Ce doit être... Mizuki !{attente}{page}{fin}
+@01543	Salut, bon entraînement !|Les filles ont déjà fini|de se changer ?{attente}{page}{fin}
+@01544	Oui !{attente} Vous aussi, c'est fini ?{attente}|Si tu veux, on rentre|ensemble !{attente}{page}{fin}
+@01545	Super !{attente} Alors je|t'attends au portail !{attente}{page}{fin}
+@01546	Oui ! Merci !|Je me change en vitesse !{attente}{page}{fin}
+@01547	Rentrer avec elle...|j'ai hâte !{attente}|Allez, je me change vite !{attente}{page}{fin}
+@01548	Hm ?{attente} Celle qui trottine|à toute vitesse là-bas,|c'est...{attente} mais oui,|c'est {E0A} Kobayashi !{attente}{page}{fin}
+@01549	Yeah ! {F08} !|Les garçons ont fini ?{attente}|On rentre ensemble !{attente}{page}{fin}
+@01550	Hein ?{attente} Euh, c'est que...|tu peux attendre que|je me change... ?{attente}{page}{fin}
+@01551	Aaah ! Mais ouiii !|Évidemment ! Héhé !|{E0A} se met en attente !{attente}{page}{fin}
+@01552	Alors je t'attends|au portail !{attente}{page}{fin}
+@01553	{F05} ! Bravo pour|le titre de l'équipe|d'athlétisme !{attente}{page}{fin}
+@01554	Quoi, tu as battu le record|de la compétition ? Pas mal,|{F05} !{attente}|...T'es vraiment fort ♥{attente}{page}{fin}
+@01555	{F05} ! Bravo pour|le titre de l'équipe|de ping-pong !{attente}{page}{fin}
+@01556	La clé de la victoire :|des gestes vifs et des|décisions justes, hein...{attente}{page}{fin}
+@01557	Bien joué, {F05} ♥|Tu es cra-quant... ♥{attente}{page}{fin}
+@01558	J'attendais {E0A} pour|qu'on fête ensemble le|titre national du club|de ping-pong.{attente}{page}{fin}
+@01559	......|......{attente}|Ah, la voilà !{attente}{page}{fin}
+@01560	{F08} !|Désolée pour l'attente !|Allez, on entre !{attente}{page}{fin}
+@01561	On a décidé d'aller|au restaurant...{attente}{page}{fin}
+@01562	On s'est mis à parler de la|finale, et ça nous a mis|en ébullition... !{attente}{page}{fin}
+@01563	Mon adversaire était|vraiment fort, tu sais.{attente}{page}{fin}
+@01564	Mais pendant ce match-là,|il a fait plein de fautes.|Je me demande pourquoi.{attente}{page}{fin}
+@01565	Parce que tu n'es qu'un|gamin...{attente}|Oui, je sais, la réplique|culte, c'était obligé...{attente}{page}{fin}
+@01566	En vrai, c'est parce que|t'es fort, {F08}.|Il a dû sentir la pression !{attente}{page}{fin}
+@01567	Ah, tu crois... ?{attente}|Si tu le dis, ça me|fait un peu rougir...{attente}{page}{fin}
+@01568	...Mais c'est vrai...{attente}|T'étais trop...|trop classe... ♥{attente}{page}{fin}
+@01569	...Son regard brûlant|plonge dans le mien...{attente}|Mon cœur...|bat à toute allure...{attente}{page}{fin}
+@01570	...Et j'ai eu l'impression|qu'{E0A} et moi étions unis|par un lien si fort que les|mots étaient inutiles.{attente}{page}{fin}
+@01571	Ah !{attente} C'est la réponse du|concours vidéo sur la vie|des lycéens, auquel j'ai|participé l'autre jour !{attente}{page}{fin}
+@01572	Retenu ou recalé...?{attente}|Aaah... non...|J'ai trop peur pour ouvrir|l'enveloppe ! ......{attente}{page}{fin}
+@01573	Fixer l'enveloppe ne|changera rien au résultat...|......{attente} Allez !|J'ouvre, et basta !{attente}{page}{fin}
+@01574	Aaah ! J'ai le trac !!{attente}|Hein ? « Félicitations » ?|Quoi ?{attente} Je suis retenu ?!|Ouaaaiiis !!!{attente}{page}{fin}
+@01575	Ma photo a été retenue au|concours vidéo sur la vie|des lycéens !!!{attente}{page}{fin}
+@01585	Ah, {F03} !{attente}|Vous avez gagné votre|match de basket ? Bravo !{attente}{page}{fin}
+@01586	Le titre national, ce n'est|peut-être plus un rêve...{attente}|Je t'encourage, courage !{attente}{page}{fin}
+@01587	{F04} !|On m'a dit que vous aviez|gagné au basket, bravo !{attente}{page}{fin}
+@01588	On m'a dit que vous aviez|gagné au basket, alors je|venais te féliciter et|t'encourager !{attente}{page}{fin}
+@01589	Ah, {F06}~{attente}|Shinozawa a appris que|vous aviez gagné|au basket~{attente}{page}{fin}
+@01590	C'est merveilleux~{attente}|Bon, Shinozawa est très|occupée, à plus~ !{attente}{page}{fin}
+@01591	Faire du sport et être|félicité, c'est trop bien !{attente}{page}{fin}
+@01592	Ah, {F07}...|On m'a dit que tu avais|gagné. C'était au basket ?{attente}{page}{fin}
+@01593	Tant mieux.|Félicitations !{attente}{page}{fin}
+@01594	Dis, dis ! Vous avez gagné|votre match de basket ?|Bravooo !!{attente}{page}{fin}
+@01595	Konoha Otonashi vous|encourage ! Visez le titre|national, je vous prie !{attente}{page}{fin}
+@01596	La gérante de la pension...{attente}|Hé, n'importe quoi !{attente}{page}{fin}
+@01597	{F04}, bravo !{attente}|L'équipe de basket est|enfin championne du Japon !{attente}{page}{fin}
+@01598	{F06}~ !|Champions du Japon de|basket, félicitations~ !{attente}{page}{fin}
+@01599	{F07} ! On m'a dit|que l'équipe de basket a|gagné ! Tu as brillé ?{attente}{page}{fin}
+@01600	{F08}, t'es|vraiment trop fort ♥|Un génie du basket ♥♥{attente}{page}{fin}
+@01602	Ah, {F03}...|Vous avez gagné votre|match de foot, hein.{attente}{page}{fin}
+@01603	Félicitations.|Tant mieux pour vous.{attente}{page}{fin}
+@01604	{F04} !{attente}|Vous avez gagné au foot !|Félicitations !{attente}{page}{fin}
+@01605	Parce qu'on m'a dit que|vous aviez gagné au foot !{attente}{page}{fin}
+@01606	{F06}~ !!|L'équipe de foot a gagné|son match, paraît-il~{attente}{page}{fin}
+@01607	Comment tu fais pour|courir sans marcher sur|le ballon~ ?{attente}|Shinozawa admire~{attente}{page}{fin}
+@01608	Ha ha ha !|Marcher dessus, ce serait|plutôt ça le plus dur...{attente}{page}{fin}
+@01609	On m'a dit que vous aviez|gagné au foot ! Il paraît|que c'est toi le buteur !{attente}{page}{fin}
+@01610	...Moi, je continuerai|à te soutenir, {F08},|alors donne tout...{attente}{page}{fin}
+@01611	{F08}~|Vous avez gagné votre|match de foot, hein~{attente}{page}{fin}
+@01612	Bon, bravo et tout ça,|voilà. Allez, salut...{attente}{page}{fin}
+@01613	Je sens comme... de|l'hostilité...{attente} Elle|n'aimerait pas le foot ?{attente}{page}{fin}
+@01614	La photo, je trouve que|ça fait chic, j'aime bien !{attente}{page}{fin}
+@01615	Le regard de {E09} sur|moi est éblouissant...{attente}|Mon cœur s'est mis...|à battre un peu plus fort.{attente}{page}{fin}
+@01616	{E09} me fixe avec un|regard brûlant...{attente}|Mon cœur...|bat très fort...{attente}{page}{fin}
+@01617	Hihi ! Déjeuner ensemble,|rien que nous deux,|c'est comme...{attente}{page}{fin}
+@01618	C'est vraiment...{attente}|trop agréable ♥{attente}{page}{fin}
+@01619	Oui ! C'est vrai !{attente}{page}{fin}
+@01620	{F04} !|L'équipe de foot est|championne du Japon !{attente}{page}{fin}
+@01621	{F06}~ !|Champions du Japon de|foot, félicitations~ !!{attente}{page}{fin}
+@01622	Je suis au courant !|L'équipe de foot a gagné|le championnat national !!{attente}{page}{fin}
+@01623	On nous conte que vous|fûtes sacrés au Japon dans|un kemari fort barbare...|Voilà qui est réjouissant~{attente}{page}{fin}
+@01624	Le kemari se pratique|avec grâce, messire...|Ne l'oublie point~{attente}{page}{fin}
+@01625	Q-qu'est-ce que c'était... ?{attente}|Hmm, on dirait qu'{E0A}|n'aime pas trop le foot.{attente}{page}{fin}
+@01626	{F03}, il paraît que|tu as battu un record en|athlétisme ? On me l'a dit.{attente}{page}{fin}
+@01627	{F04} !|Quand j'y repense, tu étais|génial à la compétition !{attente}{page}{fin}
+@01628	Un record...|Gagner ne serait-ce qu'un|centième, c'est déjà dur...{attente}{page}{fin}
+@01629	...C'est génial.|...Je t'admire ♥{attente}|Je dois m'y mettre aussi !{attente}{page}{fin}
+@01630	Visons tous les deux le|championnat national,|et donnons tout !{attente}{page}{fin}
+@01631	Oui !|On donne tout, tous|les deux !{attente}{page}{fin}
+@01632	Pour moi, et pour que|Mizuki m'admire encore|plus : objectif national,|à fond !!{attente}{page}{fin}
+@01633	Ah, {F05} !{attente}|Je suis au courant !|Tu as battu un record !{attente}{page}{fin}
+@01634	Dis, dis, {F06} !{attente}|C'est vrai que t'as|battu un record~ ?{attente}{page}{fin}
+@01635	Hmm, mais Shinozawa...{attente}|rien qu'à regarder la piste,|elle a la tête qui tourne~{attente}{page}{fin}
+@01636	{F06}, pourquoi|ça te fait rien~ ?|Nyaa~, mystère et boule|de gomme~ !{attente}{page}{fin}
+@01637	{E08} est partie en|penchant la tête...{attente}{page}{fin}
+@01638	Avoir le tournis rien qu'en|regardant la piste...|C'est plutôt toi qui|m'étonnes~{attente}{page}{fin}
+@01639	Ah, {F07}...|On m'a dit que tu avais|battu un record.{attente}{page}{fin}
+@01640	Coucou, {F08} !{attente}|Tu as battu un record|en athlétisme ?{attente}{page}{fin}
+@01641	Comme Ma-kun !|Trop fort, trop fort !|Bravooo !{attente}{page}{fin}
+@01642	Haha ! D'ailleurs,|ta tête quand tu manges,|{F04}...{attente}{page}{fin}
+@01643	on dirait un gamin,|c'était trop drôle !{attente}|Mais...{attente}{page}{fin}
+@01644	c'est sympa de|manger ensemble !{attente}{page}{fin}
+@01645	Ah, {F03} !{attente}|Bravo pour le titre national|de l'équipe d'athlétisme !{attente}{page}{fin}
+@01646	{F04} !{attente}|Quand j'y repense, au|championnat, t'étais trop|classe !{attente}{page}{fin}
+@01647	J'ai eu des sueurs froides,|mais tu t'es détaché à la|fin et tu as gagné !{attente}{page}{fin}
+@01648	...Je t'admire vraiment.{attente}|{F04}, tu es...|génial, et trop beau... ♥{attente}{page}{fin}
+@01649	{F05}, bravo !|Tu as gagné le championnat|national d'athlétisme !{attente}{page}{fin}
+@01650	L'athlé, c'est un combat|solitaire, il faut un sacré|mental, non ?{attente}|Chapeau !{attente}{page}{fin}
+@01651	{F06}~ ! T'es|champion du Japon~ !|Félicitations~ !!{attente}{page}{fin}
+@01652	Mais... tourner en rond|sur la piste, ça doit|donner le tournis...{attente}{page}{fin}
+@01653	Rien que d'y penser...{attente}|Shinozawa a la tête qui|tourne~ Pfiou~, nyaa~{attente}{page}{fin}
+@01654	Pff... Bon...{attente}|Elle me félicite ou|elle se moque de moi ?|J'en sais rien...{attente}{page}{fin}
+@01655	Mais être autant félicité...{attente}|Je suis vraiment content|de faire du sport !!{attente}{page}{fin}
+@01656	Ah, {F07}...{attente}|Champion du Japon d'athlé,|félicitations ! Tant mieux.{attente}{page}{fin}
+@01657	{F08} !{attente}|Ouais ! Champion du Japon !|Je suis trop émue !{attente}{page}{fin}
+@01658	Et si tu deviens athlète|olympique...{attente} tu joueras|encore avec moi ? ♥{attente}{page}{fin}
+@01659	Les Jeux olympiques ?|T'exagères un peu~ !{attente}{page}{fin}
+@01660	Tu joueras avec moi, oui|ou nooon ?!{attente}{page}{fin}
+@01661	...En tout cas...{attente}|{F05}, tu manges|vraiment beaucoup...{attente}{page}{fin}
+@01662	Hein !|Il y a un problème ?{attente}{page}{fin}
+@01663	Ben, avec {E0A}, je peux|jouer quand je veux...{attente}|Hé, attends ?{attente}{page}{fin}
+@01664	Ouiii ! C'est exactement ce|que je voulais entendre ♥{attente}|Trop fort, {F08} !{attente}{page}{fin}
+@01665	Pff...|Au final...|elle m'a bien eu...{attente}{page}{fin}
+@01666	Haha ! Non, au contraire,|un garçon, c'est mieux|quand c'est costaud !{attente}{page}{fin}
+@01667	Et puis, manger à deux,|ça rend le déjeuner|meilleur, non ?{attente}{page}{fin}
+@01669	C'était bon, et en plus,|Shinozawa a pu rester|avec {F06}...{attente}{page}{fin}
+@01670	Ah, {F03}...|On m'a dit que tu avais|gagné au ping-pong. Bravo.{attente}{page}{fin}
+@01671	{F04} !|Tu as gagné ton match|de ping-pong !{attente}|Félicitations !{attente}{page}{fin}
+@01672	Ah, {F05}...{attente}|Tu as gagné au ping-pong ?{attente}|Tant mieux !{attente}{page}{fin}
+@01673	Bon, je retourne en|classe. À plus !{attente}{page}{fin}
+@01674	Tu as gagné ton match|de ping-pong, paraît-il !{attente}|Continue comme ça.{attente}{page}{fin}
+@01675	Ah, {F06}~{attente}|T'as gagné au|ping-pong~ ?{attente}{page}{fin}
+@01676	Coucou ! Ce match, chaque|fois que j'y repense, je|me régale !{attente}|Une victoire écrasante !{attente}{page}{fin}
+@01677	Mais on se repose pas sur|nos lauriers, on continue !{attente}|Objectif : champions|du Japon !{attente}{page}{fin}
+@01678	Ouais !|Objectif national, on|donne tout tous les deux !{attente}{page}{fin}
+@01679	Ah ! L'énergie d'{E0A}|est contagieuse !{attente}|Allez, objectif : le titre|national, à fond !!{attente}{page}{fin}
+@01680	{F03}, le club de|ping-pong a gagné le|championnat national ?{attente}|Félicitations.{attente}{page}{fin}
+@01681	{F04} !{attente}|Le club de ping-pong a|gagné le championnat|national !{attente}{page}{fin}
+@01682	{F04}, tu t'es|toujours entraîné|sans relâche !{attente}{page}{fin}
+@01683	Les gens qui prennent le|sport au sérieux, je trouve|ça craquant... ♥{attente}|Félicitations, vraiment !{attente}{page}{fin}
+@01684	Ah, {F05}...|Le club de ping-pong a|gagné le championnat|national, tant mieux !{attente}{page}{fin}
+@01685	Ah, {F06}~{attente}|Le club de ping-pong a|gagné le championnat~ ?{attente}{page}{fin}
+@01686	Dis, pour fêter le titre,|on se fait une fête au|restaurant Mowab !{attente}{page}{fin}
+@01687	Champions de ping-pong !|How nice !|Félicitations !{attente}{page}{fin}
+@01688	{F08} !|{F08} !!|{F08} !!!{attente}{page}{fin}
+@01689	On a réussiii !!{attente}|On a gagnééé !{attente}|Champions du Japon,|comme on en rêvait !{attente}{page}{fin}
+@01690	Champions du Japon,|c'est trop fort~{attente}|Bon, Shinozawa est très|occupée, à plus~ !{attente}{page}{fin}
+@01691	Ouais ! Bonne idée !|On fait comme ça !{attente}{page}{fin}
+@01692	Youpiii !|C'est décidé, alors !|On va faire la fête|tous les deux !{attente}{page}{fin}
+@01693	Un repas à deux...!{attente}|J'ai comme...|des papillons...{attente}{page}{fin}
+@01694	Et voilà comment j'ai promis|à {E0A} d'aller manger|avec elle pour fêter le titre|du club de ping-pong !{attente}{page}{fin}
+@01695	Nyahahaha~ !|Allez, à plus~{attente}{page}{fin}
+@01696	Ça me met mal à l'aise...{attente}|En fait... il y a même des|gens qui prennent {E04}|en photo en cachette...{attente}{page}{fin}
+@01697	Ça arrive, paraît-il...{attente}|C'est vraiment pénible !{attente}{page}{fin}
+@01698	Ah bon, je vois...|Il y a de ces lourdauds,|quand même...{attente}{page}{fin}
+@01699	Tes photos aussi, {F07},|j'en attends beaucoup...|Alors donne tout...{attente}{page}{fin}
+@01700	Ah, {F03} !{attente}|Il paraît que toi,|{F03}, tu parles super|bien anglais, maintenant ?{attente}{page}{fin}
+@01701	Je te vois d'un autre œil !{attente}|Parler anglais couramment,|c'est trop classe... ♥{attente}{page}{fin}
+@01702	{E04} me regarde avec|admiration...!{attente}|Je suis trop content d'être|au club d'anglais !!{attente}{page}{fin}
+@01703	Ah, {F06}~ !|Chez les filles, on dit que|t'es doué en travaux|manuels~{attente}{page}{fin}
+@01704	T'es devenu|habile de tes mains~|Trop bien~ ! Shinozawa|est jalouse~ !{attente}{page}{fin}
+@01705	Toi aussi, tu es habile,|Shinozawa !{attente}|Tu ferais de jolies choses,|essaie, pour voir ?{attente}{page}{fin}
+@01706	Hein, sérieux ? Sérieux~ ?{attente}|Si tu dis ça,|Shinozawa va rougir~{attente}{page}{fin}
+@01707	Mais puisqu'on la félicite,|Shinozawa va essayer de|faire de jolis bijoux~ !{attente}{page}{fin}
+@01708	{E08} est partie en|dansant comme une folle...{attente}|Sacrée Shinozawa...{attente}{page}{fin}
+@01709	Mais elle m'a dit que j'étais|doué en travaux manuels...{attente}|Ça me gêne un peu...{attente}{page}{fin}
+@01710	Ah, {F03}...{attente}|Dis, tu es au club|photo, c'est ça ?{attente}{page}{fin}
+@01711	Oui, c'est ça !{attente}{page}{fin}
+@01712	Je sais pas, un appareil|photo, ça fait penser à|{E04}... à ces types qui|mitraillent les filles...{attente}{page}{fin}
+@01713	Ah, mais...{attente}|photographe, ça fait|quand même classe !{attente}{page}{fin}
+@01714	Je vois... C'est comme ça|que {E04} voit les choses.{attente}|Je dois bosser pour devenir|un vrai photographe !{attente}{page}{fin}
+@01715	Nyahaha~|{F06}, t'es|au club photo~...{attente}{page}{fin}
+@01716	En fait~,{attente} Shinozawa|aussi adore prendre|des photos~{attente}{page}{fin}
+@01717	Shinozawa et {F06},|on s'entendrait peut-être|bien, finalement~{attente}{page}{fin}
+@01718	Kyaaah~ !!|Mais qu'est-ce que|Shinozawa raconte ?|Trop la honte~ !{attente}{page}{fin}
+@01719	{E08} s'est affolée toute|seule avant de s'enfuir|en courant...{attente}{page}{fin}
+@01720	{E08} aime la photo aussi ?|Je l'aurais jamais cru !!{attente}|On s'entendrait vraiment|bien, peut-être ?{attente}{page}{fin}
+@01721	Dis, {F07},|tu es au club photo ?{attente}{page}{fin}
+@01722	Les photos en noir et blanc,|par exemple... On y voit le|goût du photographe. J'aime|beaucoup les regarder.{attente}{page}{fin}
+@01723	Je vois, sans goût, pas de|belles photos...{attente}|Bon ! Je vais affiner mon|regard et m'y mettre !{attente}{page}{fin}
+@01724	{F03}, je suis au|courant !{attente} Tu as été|retenu au concours vidéo|sur la vie des lycéens !{attente}{page}{fin}
+@01725	{F03}, toi aussi, on te|reconnaît comme|photographe !{attente}|C'est trop classe ♥{attente}{page}{fin}
+@01726	...J'ai pris une belle photo,|et on dirait que {E04}|m'admire... Je suis content|d'être au club photo !{attente}{page}{fin}
+@01727	Ah, {F06}~ !{attente}|T'as été retenu au|concours vidéo~ !{attente}{page}{fin}
+@01728	Félicitations~ !{attente}|C'est trop fort~ !|Shinozawa t'admire~{attente}{page}{fin}
+@01729	{E08} me regarde avec|admiration...!{attente}|Je suis trop content d'avoir|continué la photo !!{attente}{page}{fin}
+@01730	Il paraît que tu as été|retenu au concours photo !{attente}{page}{fin}
+@01731	Merci !{attente}|Mais... j'ai sûrement|eu de la chance.{attente}{page}{fin}
+@01732	Enfin !{attente} Vous, les Japonais,|il faut toujours que vous|jouiez les modestes...|......{attente}{page}{fin}
+@01733	Ah... mince...|Je l'ai vexée... ?{attente}|Qu'est-ce que je fais... ?{attente}{page}{fin}
+@01734	Mais tu sais,{attente} si tu as|été retenu, c'est parce que|tu as du goût, {F07}.{attente}{page}{fin}
+@01735	Parce qu'en ce moment,|{F07}...{attente}|tu rayonnes vraiment ♥{attente}{page}{fin}
+@01736	Que {E09} m'admire autant,|ça me rend heureux !{attente}|Je suis trop content d'avoir|continué la photo !!{attente}{page}{fin}
+@01737	Shinozawa est trop|heureuse ! Trop heureuse !{attente}|{F06}, toi aussi ?{attente}{page}{fin}
+@01738	{F07}, c'était|bon ?{attente}{page}{fin}
+@01739	Oui !|C'était délicieux !{attente}{page}{fin}
+@01740	Quand on déjeune à deux,|c'est vrai que tout a|meilleur goût !{attente}{page}{fin}
+@01741	N'est-ce pas, {F07} ♥{attente}{page}{fin}
+@01742	Et pour sire Jigen|{F08}, c'était comment ?{attente}{page}{fin}
+@01743	C'était bon !{attente}|Mais tu veux pas arrêter|ton imitation ?{attente}{page}{fin}
+@01744	Haha !|Bon, alors j'arrête !{attente}|Mais c'était sympa, hein !{attente}{page}{fin}
+@01745	Déjeuner tout seul,|c'est un peu triste...{attente}|Et si j'invitais quelqu'un ?{attente}{page}{fin}
+@01746	Ah ! Mais c'est...!{attente}|{E04} !!{attente}{page}{fin}
+@01747	{FFB}L'inviter à déjeuner{n}　Laisser tomber{fin}
+@01748	Tiens, {F03} !{attente}|Qu'est-ce qu'il y a ?{attente}{page}{fin}
+@01749	(Qu'est-ce que je dis ?){n}{fin}
+@01750	　Hé, viens bouffer, toi !{n}{fin}
+@01751	　On va manger ensemble ?{n}{fin}
+@01752	　On déjeune ensemble ?{n}{fin}
+@01753	　Tu viens déjeuner, dis ?{n}{fin}
+@01754	　Ça te dirait de déjeuner ?{n}{fin}
+@01755	D'accord, {F03} !{attente}|On déjeune ensemble !{attente}{page}{fin}
+@01756	Bon, il fait beau,|on mange ici !{attente}|Bon appétit !{attente}{page}{fin}
+@01757	......|......{attente} Ouf !|C'était bon, merci !{attente}{page}{fin}
+@01758	Comme quoi, manger à deux,|c'est mille fois meilleur|que tout seul !{attente}{page}{fin}
+@01759	Désolée...|Aujourd'hui, je peux pas...{attente}|Redemande-moi|une autre fois...{attente}{page}{fin}
+@01760	Dommage, mais|tant pis...{attente}|Je vais manger tout seul...|......{attente}{page}{fin}
+@01761	En me voyant, {E04} m'a|fait un petit signe de tête|et elle est passée...|......{attente}{page}{fin}
+@01762	Ah ! Mais c'est...!{attente}|Mizuki !{attente}{page}{fin}
+@01763	Ah, {F04}.|Qu'est-ce qu'il y a ?{attente}{page}{fin}
+@01764	Oui, d'accord !{attente}|On mange ensemble !{attente}{page}{fin}
+@01765	...Ouf...{attente}|Ah, je n'en peux plus !|C'était bon, merci !{attente}{page}{fin}
+@01766	En me voyant, Mizuki m'a|fait un petit signe de tête|et elle est passée...{attente}{page}{fin}
+@01767	Tiens, {F05}...|Qu'est-ce qu'il y a ?{attente}{page}{fin}
+@01768	Voyons voir...{attente}|Bon, d'accord !|On mange ensemble ?{attente}{page}{fin}
+@01769	......Ouf !|C'était trop bon !{attente}|Merci pour le repas !{attente}{page}{fin}
+@01770	Désolée, j'ai promis de|manger avec des filles|de ma classe.{attente}|Une autre fois...{attente}{page}{fin}
+@01771	En me voyant, Yumi Matsuda|m'a fait un petit signe de|la main et elle est passée...{attente}{page}{fin}
+@01772	Nyahoo~ !|{F06}~ !{attente}{page}{fin}
+@01773	La pause déjeuner,|ce moment de bonheur...{attente}|C'est l'heure du repas~ !{attente}{page}{fin}
+@01774	Kyaa~ ! L'heure du|déjeuner en amoureux de|{F06} et Shinozawa~ !{attente}{page}{fin}
+@01775	Shinozawa est contente|et toute gênée~ !{attente}|Elle mange avec {F06}~{attente}{page}{fin}
+@01776	......Pfiou~ !{attente}|Qu'est-ce qu'on a mangé~ !|Shinozawa est repue~ !{attente}{page}{fin}
+@01777	Non~ !{attente}|Ce bonheur, Shinozawa veut|le savourer toute seule~ !{attente}{page}{fin}
+@01778	Ah, {F06}~ !{attente}|Pour Shinozawa, c'est|l'heure du bonheur~ !{attente}{page}{fin}
+@01779	{E08} est partie en|courant, toute joyeuse...{attente}|Pour Shinozawa, manger,|c'est sa raison de vivre...{attente}{page}{fin}
+@01780	En regardant autour de moi|dans la classe, j'ai croisé|par hasard le regard de|{E09} !{attente}{page}{fin}
+@01781	Oui, {F07} ?{attente}{page}{fin}
+@01782	OK, {F07} !|Déjeunons ensemble !{attente}{page}{fin}
+@01783	Bon, on y va !{attente}|Bon appétiiit !{attente}{page}{fin}
+@01784	......Mmm,|c'était délicieux !{attente}{page}{fin}
+@01785	Désolée...|Aujourd'hui, j'ai envie de|manger seule. Une autre...{attente}{page}{fin}
+@01786	Quand nos regards se sont|croisés, {E09} m'a juste|jeté un coup d'œil avant|de retourner à sa place...{attente}{page}{fin}
+@01787	En regardant autour de moi|dans la classe, j'ai croisé|le regard d'{E0A}|Kobayashi !{attente}{page}{fin}
+@01788	Hein ?{attente}|{F08}...|Qu'est-ce que tu veux ?{attente}{page}{fin}
+@01789	Soit...{attente} Le samouraï|que je suis déjeunera donc|avec sire Jigen {F01}.{attente}{page}{fin}
+@01790	Génial !{attente}|Mais cette réplique...{attente}|je l'ai déjà entendue|quelque part...{attente} bof.{attente}{page}{fin}
+@01791	...Hum...|Ce fut un délice...{attente}{page}{fin}
+@01792	Désolé, je refuse...{attente}|Va donc manger avec Fujiko.{attente}|Sur ce, adieu !{attente}{page}{fin}
+@01793	Hop ! {F08} !{attente}|Mange bien et grandis !|Hairi-fure-hohooo !{attente}{page}{fin}
+@01794	Déjeuner avec {F03}...|{E04} est heureuse... ♥{attente}{page}{fin}
+@01795	Euh... enfin...|je me sens...|heureuse, quoi... ♥{attente}{page}{fin}
+@01796	......{attente}|C'est bien...|ce genre de moment... ♥{attente}{page}{fin}
+@01797	...Nyahaa...{attente}|Shinozawa est...|heureuse~... ♥{attente}{page}{fin}
+@01798	Hihi...{attente} Comme ça,|on dirait des amoureux...|... ♥{attente}{page}{fin}
+@01799	{F08} !{attente} Tu vois,|plus on est nombreux à|table, plus c'est bon !{attente}{page}{fin}
+@01800	Ah !{attente} {E04} allait justement|venir te voir, {F03} !{attente}{page}{fin}
+@01801	Dis...|si tu veux, on pourrait|déjeuner ensemble ?{attente}{page}{fin}
+@01802	{FFB}Manger avec elle{n}　Laisser tomber{fin}
+@01803	Avec plaisir !{attente}{page}{fin}
+@01804	Oh, génial !{attente}|Aujourd'hui, je déjeune|avec {F03} !{attente}{page}{fin}
+@01805	Ah, {F04}...{attente}|Si tu veux, on pourrait|déjeuner ensemble ?{attente}{page}{fin}
+@01806	Super...{attente}|Alors, tous les deux|ensemble... hein.{attente}{page}{fin}
+@01807	Ah, d'accord...|Alors, une autre fois...{attente}{page}{fin}
+@01808	Je pensais qu'on pourrait|déjeuner ensemble.|Ça te dit ?{attente}{page}{fin}
+@01809	Hihi, tu es obéissant,|c'est bien !|...Je rigole !{attente}|Allez, on mange dehors !{attente}{page}{fin}
+@01810	Bon, ben...|Tant pis...{attente}|Une autre fois, alors.{attente}{page}{fin}
+@01811	Nyaha, {F06}~ !{attente}|Viens déjeuner avec|Shinozawa~ !!{attente}{page}{fin}
+@01812	Kyaa~ !{attente}|Shinozawa est trop|contente~ ! Mufufu~{attente}{page}{fin}
+@01813	Un déjeuner trop mignon|avec {F06}~ ♥{attente}{page}{fin}
+@01814	Hunyaa...|Shinozawa est triste...{attente}|...Bon, une autre fois~{attente}{page}{fin}
+@01815	Aujourd'hui, Shinozawa...|va déjeuner toute seule,|snif, snif~...{attente}{page}{fin}
+@01816	{F06} !{attente}|Et si on déjeunait|ensemble ?{attente}{page}{fin}
+@01817	Really ?|Ça me fait plaisir !{attente}{page}{fin}
+@01818	{F07}, tu es...|plus froid que je pensais...{attente}{page}{fin}
+@01819	{F08} !{attente}|On mange ensemble !{attente}{page}{fin}
+@01820	À la bonne heure !{attente}|C'est décidé, alors|on attaque tout de suite !{attente}{page}{fin}
+@01821	Aaah !|C'était trop bon !{attente}{page}{fin}
+@01822	{E04} t'a fait un bento...{attente}|...Si tu veux bien...|tu le mangerais ?{attente}{page}{fin}
+@01823	Quoi !{attente} Tu l'as préparé|exprès pour moi ?!{attente}|Trop content !!{attente}{page}{fin}
+@01824	{FFB}Le manger{n}　Refuser{fin}
+@01825	Bien sûr, avec plaisir !{attente}|Un bento fait maison,|c'est le top du top !{attente}{page}{fin}
+@01826	Super !{attente}|Alors, on le mange|ensemble !{attente}{page}{fin}
+@01827	Miam, miam...{attente}|......Mmm, ça !{attente}|...C'est trop bon !{attente}{page}{fin}

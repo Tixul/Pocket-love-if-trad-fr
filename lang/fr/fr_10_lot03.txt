@@ -1,0 +1,361 @@
+; Lot 03 : fin de rendez-vous (invitation chez lui / chez elle), dans la chambre, les adieux, rumeurs au café.
+@00731	Et me voilà parti|chez {E04} !{attente}{page}{fin}
+@00732	Devant la gare de|Koigahara, Mizuki|s'arrête face à moi|......{attente}{page}{fin}
+@00733	Bon, à la prochaine !|Salut !{attente}{page}{fin}
+@00734	Ah, Mizuki !{attente}{page}{fin}
+@00735	Aller chez {F04}...|maintenant ?{attente}{page}{fin}
+@00736	Il faut que je rentre, il|va se faire tard......Pardon.{attente}|Tu me réinviteras ?{attente}{page}{fin}
+@00737	Hmm... C'est vrai que|j'aimerais encore parler...{attente}|Je peux vraiment venir ?{attente}{page}{fin}
+@00738	Bien sûr !{attente}|Super, c'est décidé !|Allez, on y va !{attente}{page}{fin}
+@00739	Je rentre chez moi|avec Mizuki !{attente}{page}{fin}
+@00740	Ahah... J'aimerais bien|parler encore un peu...{attente}|Tu veux... venir chez moi ?{attente}{page}{fin}
+@00741	C-c'est vrai ?{attente} J'avais|peur que tu refuses...{attente}|Ouf, tant mieux !{attente}|Alors, on y va !{attente}{page}{fin}
+@00742	Et me voilà parti|chez Mizuki !{attente}{page}{fin}
+@00743	Arrivée dans la rue|commerçante, Yumi|s'arrête......{attente}{page}{fin}
+@00744	Ah ! Au fait, j'avais|une course à faire,|je l'avais oubliée !{attente}{page}{fin}
+@00745	Merci, {F05},|je me suis bien amusée !|Allez, bye-bye !{attente}{page}{fin}
+@00746	Dis, Yumi...|Quand tu auras fini ta|course, peut-être...{attente}{page}{fin}
+@00747	Venir chez {F05} ?|Hmm, je ne sais pas trop...{attente}{page}{fin}
+@00748	Je pourrais vérifier si|c'est bien rangé !{attente}|...Je plaisante !{attente}{page}{fin}
+@00749	Attends, ça veut dire|que tu viens ?!{attente}|Ouaaais !!{attente}{page}{fin}
+@00750	Ahaha ! Du calme !{attente}|Mais d'abord, je fais|ma course♥{attente}{page}{fin}
+@00751	Une fois sa course faite,|Yumi et moi partons|ensemble chez moi !{attente}{page}{fin}
+@00752	Mais ça ne prendra pas|longtemps... Si tu as le|temps, après...{attente}|tu passes chez moi ?{attente}{page}{fin}
+@00753	Alors tu vas|m'accompagner un peu !{attente}|Allez, en route !{attente}{page}{fin}
+@00754	Une fois sa course faite,|Yumi et moi partons|ensemble chez elle !{attente}{page}{fin}
+@00755	{E08} et moi arrivons|devant la gare de|Koigahara......{attente}{page}{fin}
+@00756	Muhuu~ ! Trop bien~ !|Shinozawa est contente,|super contente~ !{attente}|Et {F06}, alors~ ?{attente}{page}{fin}
+@00757	Oui, moi aussi !{attente}|Avec toi, Shinozawa,|on ne s'ennuie jamais !{attente}{page}{fin}
+@00758	Muhii~ ! Trop contente~ !|Pour Shinozawa, c'est le|plus beau compliment~ !{attente}{page}{fin}
+@00759	Mais il est l'heure de|se dire adieu~ !{attente}|À la prochaine, et|porte-toi bien~ !{attente}{page}{fin}
+@00760	Mais j'aimerais rester|encore un peu avec toi !{attente}|Tu viens chez moi ?{attente}{page}{fin}
+@00761	Aaah, pas de chance~ !{attente}|Aujourd'hui, c'est la|journée bains publics|de Shinozawa~ !{attente}{page}{fin}
+@00762	Kyaa~ ! Kyaa~ !|C'est vrai ? C'est vrai~ ?|Shinozawa arriiive !{attente}{page}{fin}
+@00763	Je rentre chez moi|avec Shinozawa !{attente}{page}{fin}
+@00764	Bon, on file chez|Shinozawa pour faire|une fête de folie~ !!{attente}{page}{fin}
+@00765	Ah, bonne idée !|Allez, on continue|la fête !{attente}{page}{fin}
+@00766	Ukyaa~ !|Shinozawa est trop|contente~ !{attente}|C'est parti~ !{attente}{page}{fin}
+@00767	Et me voilà parti|chez Shinozawa !{attente}{page}{fin}
+@00768	Bon, je te laisse ici !{attente}|Bye, {F07} !|C'était super !{attente}{page}{fin}
+@00769	Et puis il faudra que je|vérifie que tu ne caches|pas de magazines cochons !{attente}{page}{fin}
+@00770	À force de discuter|gaiement en marchant,|nous voilà déjà|devant chez moi !{attente}{page}{fin}
+@00771	Oh, on est déjà devant|chez {F07} ! Le temps|est passé si vite !{attente}{page}{fin}
+@00772	Bon, je te laisse ici !{attente}|Au revoir, {F07} !|C'était super !{attente}{page}{fin}
+@00773	Ah, dis...|Si tu veux, tu ne|passerais pas un peu|chez moi... ?{attente}{page}{fin}
+@00774	J'ai l'impression qu'on|n'a pas fini de parler...{attente}|C'est non... ?{attente}{page}{fin}
+@00775	Aujourd'hui, j'ai à faire.{attente}|Je viendrai une autre fois,|quand j'aurai le temps.{attente}{page}{fin}
+@00776	Génial !|Alors viens, suis-moi !{attente}{page}{fin}
+@00777	{E09} a accepté de|passer chez moi !{attente}{page}{fin}
+@00778	Je dois garder la maison|aujourd'hui...{attente}|Il faut que je rentre...{attente}{page}{fin}
+@00779	Ah, j'ai une idée !{attente}|{F07}, tu ne veux|pas venir chez moi ?{attente}{page}{fin}
+@00780	Comme ça, je pourrai|parler encore avec toi...{attente}|...Hein, d'accord ?{attente}{page}{fin}
+@00781	Je pose mon sac chez moi|et je ressors aussitôt !{attente}{page}{fin}
+@00782	Alors, allons-y !{attente}|Je suis si contente que|{F07} vienne♥{attente}{page}{fin}
+@00783	Et me voilà parti|chez {E09} !{attente}{page}{fin}
+@00784	Devant la gare de|Koigahara, {E0A} lève|les yeux vers moi !{attente}{page}{fin}
+@00785	Haaa, c'était trop bien !|Allez, merci pour|aujourd'hui !{attente}{page}{fin}
+@00786	Moi aussi, j'ai adoré !|Mais toi, {E0A}, tu dois|être plus crevée que moi ?{attente}{page}{fin}
+@00787	Grrr ! Ça veut dire quoi ?{attente}{page}{fin}
+@00788	Que je suis petite, alors|je trottine à petits pas,|c'est ça que tu veux dire ?{attente}{page}{fin}
+@00789	N-non, pas du tout...|Enfin... si, un peu...|...Pardon...{attente}{page}{fin}
+@00790	Bon, {F08} ne pensait|pas à mal, on dirait.|Allez, va, je te pardonne !{attente}|Je rigole !{attente}{page}{fin}
+@00791	Bon, sur ce...|Bye-bye-byyye~ !{attente}{page}{fin}
+@00792	Ouais, quand on est petit,|on fait des petits pas,|alors il en faut plein...{attente}{page}{fin}
+@00793	...Bon, si c'est moi qui|le dis, y a rien à redire !{attente}|...Héhéhé !{attente}{page}{fin}
+@00794	Ahaha ! Alors, tu passes|chez moi te reposer|un peu ?{attente}{page}{fin}
+@00795	Hmm... Pas aujourd'hui.{attente}|J'ai un petit truc à faire.{attente}|Une autre fois !{attente}{page}{fin}
+@00796	Ça, c'est une idée géniale !|Je vais m'incruster un peu...{attente}|...Ça te va vraiment ?{attente}{page}{fin}
+@00797	Je rentre chez moi|avec {E0A} !{attente}{page}{fin}
+@00798	Ouais, je suis vannée !|Complètement à plat...{attente}|Raccompagne-moi !{attente}{page}{fin}
+@00799	Et du coup...|tu viens jouer chez moi ?{attente}{page}{fin}
+@00800	Et me voilà parti|chez {E0A} !{attente}{page}{fin}
+@00801	{E04} et moi arrivons|devant chez moi !{attente}{page}{fin}
+@00802	Dis...|En fait...{attente}|je crois que je vais|rentrer, aujourd'hui...{attente}{page}{fin}
+@00803	Hein ! Pourquoi ?{attente}|J'ai fait quelque chose|qui t'a vexée ?{attente}{page}{fin}
+@00804	Non, ce n'est pas ça...{attente}|Je viens de me rappeler|un truc à faire...{attente}|Pardon...{attente}{page}{fin}
+@00805	Ah bon...|Tant pis, alors...{attente}|Je te raccompagne ?{attente}{page}{fin}
+@00806	Non, c'est gentil...|Je dois passer ailleurs.{attente}|Bon, à bientôt !{attente}{page}{fin}
+@00807	D'accord, je vois.|Fais attention à toi !|Salut ! À bientôt !{attente}{page}{fin}
+@00808	Un imprévu, j'y peux rien,|mais je m'en faisais une|telle joie... Quelle|déception...{attente}{page}{fin}
+@00809	Haaa......|......{attente}{page}{fin}
+@00810	Gloups !!!{attente}{page}{fin}
+@00811	Fais pas de manières,|allez, entre !{attente}{page}{fin}
+@00812	Hihi !|Bon, eh bien...|j'entre, alooors !{attente}{page}{fin}
+@00813	J'entre dans ma chambre|avec {E04} !{attente}{page}{fin}
+@00814	Mizuki et moi arrivons|devant chez moi !{attente}{page}{fin}
+@00815	Hein ? Pourquoi tu|t'excuses ? Qu'est-ce|qu'il y a ?{attente}{page}{fin}
+@00816	Finalement, aujourd'hui...{attente}|je ne peux pas...{attente}|Pardon de t'avoir menti...{attente}{page}{fin}
+@00817	Ce n'est pas ça, mais...{attente}|...En fait, je...|......{attente}{page}{fin}
+@00818	Entrer dans la chambre|d'un garçon... c'est|encore un peu trop...{attente}{page}{fin}
+@00819	C'est pas que tu me|déplais, {F04}...|...{attente}mais je ne peux pas...{attente}{page}{fin}
+@00820	...Ah, d'accord...{attente}|Alors je ne vais pas|te forcer à rester.{attente}{page}{fin}
+@00821	Mais reviens quand tu|veux, sans te prendre|la tête !{attente}{page}{fin}
+@00822	Oui...{attente}Ouf, je suis|soulagée... {F04},|j'avais peur que tu|te fâches...{attente}{page}{fin}
+@00823	Bon, {F04},|salut ! À bientôt !{attente}|Vraiment désolée|pour aujourd'hui !!{attente}{page}{fin}
+@00824	La tête toute gênée|de Mizuki, à l'instant...|qu'elle était mignonne...{attente}{page}{fin}
+@00825	Mais... je m'en faisais|une telle joie...|Quelle déception...{attente}|Haaa...{attente}{page}{fin}
+@00826	Ah, euh... oui...|B-bon, ben...|j'entre...{attente}{page}{fin}
+@00827	J'entre dans ma chambre|avec Mizuki, toute|intimidée !{attente}{page}{fin}
+@00828	Sur ces mots, {E09}|est rentrée chez elle...{attente}{page}{fin}
+@00829	Ou alors... tu ne peux|plus te retenir, c'est ça ?|Hihihi !{attente}{page}{fin}
+@00830	Yumi et moi arrivons|devant chez moi !{attente}{page}{fin}
+@00831	Ah ! Mince !|J'avais oublié...{attente}{page}{fin}
+@00832	Désolééée ! On m'a|demandé de préparer le|dîner, ce soir...{attente}{page}{fin}
+@00833	Je me rattraperai, alors|pardonne-moi !{attente}|Je file, à plus !{attente}{page}{fin}
+@00834	Sur ces mots, Yumi|est rentrée chez elle...{attente}{page}{fin}
+@00835	Yumi, une vraie fée|du logis...{attente}|Un petit plat de Yumi...{attente}|Ah, j'aimerais y goûter !!{attente}{page}{fin}
+@00836	Je vais inspecter à fond|si c'est bien rangé !{attente}{page}{fin}
+@00837	...Je plaisante !{attente}|Bon, j'entre !{attente}{page}{fin}
+@00838	J'entre dans ma chambre|avec Yumi !{attente}{page}{fin}
+@00839	Toujours en pleine fête,|Shinozawa et moi|arrivons devant chez moi !{attente}{page}{fin}
+@00840	Ukii~ C'était trop bien~{attente}|Shinozawa est comblée~{attente}|Finalement, elle rentre~ !{attente}{page}{fin}
+@00841	Hein ! C'est pas sympa~ !{attente}|Monte juste cinq minutes,|allez !{attente}{page}{fin}
+@00842	Hé, attends !|Shinozawa, enfin~ !!{attente}{page}{fin}
+@00843	Pfff, elle est partie...{attente}|Plus on approchait de|chez moi, plus elle avait|l'air un peu tendue...{attente}{page}{fin}
+@00844	Elle était gênée ?{attente}|...Mais elle était si|survoltée juste avant...|Quel contraste !{attente}{page}{fin}
+@00845	Kyaa~ ! On est chez|{F06}~ !{attente}|Shinozawa entre~ !{attente}{page}{fin}
+@00846	J'entre dans ma chambre|avec {E08} !{attente}{page}{fin}
+@00847	{E09} me regarde|ouvrir le portail,|l'air un peu intimidée.{attente}{page}{fin}
+@00848	Oh, zut...{attente}{page}{fin}
+@00849	Oui...{attente}En fait...|j'avais oublié que|j'avais un truc urgent......{attente}{page}{fin}
+@00850	Je viens à peine de|dire que j'entrais...{attente}|et voilà que j'ai menti...{attente}{page}{fin}
+@00851	Je suis désolée...|Qu'est-ce que je fais... ?{attente}{page}{fin}
+@00852	Ouah ! Euh, attends...|Pleure pas, voyons !|Ça ne fait rien !{attente}{page}{fin}
+@00853	Si t'as un truc à faire,|tant pis !{attente}|Tout le monde oublie des|choses, ça arrive !{attente}{page}{fin}
+@00854	Merci, {F07}...|...{attente}Vraiment, pardon.|Une autre fois...{attente}{page}{fin}
+@00855	Oui, une autre fois !{attente}|En attendant, je te|raccompagne ?{attente}{page}{fin}
+@00856	Non... ça ira...{attente}|Bon, {F07},|au revoir ! À bientôt !{attente}{page}{fin}
+@00857	Ouf, elle a arrêté de|pleurer...{attente}Mais {E09} en|larmes, tout à l'heure,|c'était mignon aussi...{attente}{page}{fin}
+@00858	Mais bon...|J'étais sûr que {E09}|viendrait, alors c'est|dur... Haaa...{attente}{page}{fin}
+@00859	Sorry !|Alors, je me permets|d'entrer !{attente}{page}{fin}
+@00860	J'entre dans ma chambre|avec {E09} !{attente}{page}{fin}
+@00861	{E0A} et moi arrivons|devant chez moi !{attente}{page}{fin}
+@00862	......Oh, désolée !{attente}|C'est sympa, mais|finalement, je rentre !{attente}{page}{fin}
+@00863	C'est pas ça, mais...|j'ai trop parlé aujourd'hui,|j'ai plus rien à raconter !{attente}{page}{fin}
+@00864	Je reviendrai avec des|nouvelles histoires !|Pardonne-moi !{attente}{page}{fin}
+@00865	Quand y a des blancs|dans la conversation,|j'ai horreur de ça !{attente}{page}{fin}
+@00866	Ohé, {E0A} !|......{attente}{page}{fin}
+@00867	Elle disait avoir horreur|des blancs, mais...{attente}|j'ai l'impression qu'elle|a lu dans mes pensées...{attente}{page}{fin}
+@00868	Vas-y, entre !{attente}|Installe-toi et|repose-toi bien !{attente}{page}{fin}
+@00869	Trop sympa !|Alors je m'incruste|sans façon !{attente}{page}{fin}
+@00870	J'entre dans ma chambre|avec {E0A} !{attente}{page}{fin}
+@00871	Voyons...{attente} une boisson|pour sportifs, si t'en as,|sinon un jus de fruits !{attente}{page}{fin}
+@00872	Je pensais que ce serait|plus drôle avec quelques|magazines cochons...{attente}{page}{fin}
+@00873	Ahaha !|Je rigole, je rigole !{attente}{page}{fin}
+@00874	À voir {E08} comme ça...{attente}|j'ai le cœur qui s'emballe...{attente}{page}{fin}
+@00875	(Dans ma chambre){n}{fin}
+@00876	{E04} est dans ma|chambre !{attente}|Rien que d'y penser...{attente}|j'ai le cœur qui s'emballe...{attente}{page}{fin}
+@00877	Je vais chercher à boire.|Tu veux quoi ?{attente}{page}{fin}
+@00878	Hmm...{attente} du thé, plutôt !|Avec du lait, {E04}|serait aux anges !{attente}{page}{fin}
+@00879	OK, compris !|Je reviens tout de suite,|attends-moi !{attente}{page}{fin}
+@00880	Je vais chercher|à boire ! Euh...{attente}{page}{fin}
+@00881	{E04} aimait quoi,|déjà... C'était du thé,|non ?{attente}{page}{fin}
+@00882	Oui !{attente} Et avec un peu|de lait, si possible,|{E04} serait ravie !{attente}{page}{fin}
+@00883	Ah, je t'apporte à boire.|Un thé au lait, ça te va ?{attente}{page}{fin}
+@00884	Oui !{attente} ...Hihi♥|Tu te souviens de ce|que {E04} aime♥{attente}{page}{fin}
+@00885	Je reviens dans ma|chambre avec les boissons.{attente}{page}{fin}
+@00886	Ensuite, {E04} est|restée un moment|dans ma chambre !{attente}{page}{fin}
+@00887	Mizuki est dans ma chambre !{attente}|Rien que d'y penser...{attente}|j'ai le cœur qui s'emballe...{attente}{page}{fin}
+@00888	Takao-san aime quoi,|déjà ?|...Un jus de fruits ?{attente}{page}{fin}
+@00889	Oui, un jus, ça me va !{attente}|Mais si t'as une boisson|pour sportifs, je préfère !{attente}{page}{fin}
+@00890	Je t'apporte à boire !{attente}|J'ai fait un gros stock de|boissons pour sportifs !{attente}{page}{fin}
+@00891	Ahah...{attente}|...Merci,|{F04}♥{attente}{page}{fin}
+@00892	Ensuite, Mizuki est|restée un moment|dans ma chambre !{attente}{page}{fin}
+@00893	Yumi est dans ma chambre !{attente}|Rien que d'y penser...{attente}|j'ai le cœur qui s'emballe...{attente}{page}{fin}
+@00894	Tiens, c'est plutôt|bien rangé !{attente}|Tu remontes dans|mon estime !{attente}{page}{fin}
+@00895	C'est encore bien|rangé, aujourd'hui !|Bravo, bravo !{attente}{page}{fin}
+@00896	Dis donc, c'est toujours|nickel chez toi !{attente}{page}{fin}
+@00897	Arrête, tu me gênes !|Bon, je vais chercher|de quoi boire !{attente}{page}{fin}
+@00898	Ensuite, Yumi est|restée un moment|dans ma chambre !{attente}{page}{fin}
+@00899	{E08} se tient bien|sage dans ma chambre|......{attente}{page}{fin}
+@00900	Ah, merci~|Shinozawa voudrait|du lait~{attente}{page}{fin}
+@00901	Du lait, hein...|Est-ce qu'il y en a ?|Sinon, autre chose, ça va ?{attente}{page}{fin}
+@00902	S'il n'y en a pas, autre|chose, ça ira~ Mais|Shinozawa voudrait du lait~{attente}{page}{fin}
+@00903	Il me semble qu'il reste|du lait au frigo...{attente}{page}{fin}
+@00904	C'est vrai ? Y en a ?|Y en a ? Shinozawa est|hyper heureuse~♥{attente}{page}{fin}
+@00905	Bon, je vais chercher|le lait, attends-moi.{attente}{page}{fin}
+@00906	Muhyoo~ ! Shinozawa est|trop contente~ !|Merci mon Dieu,|merci {F06}~{attente}{page}{fin}
+@00907	Ensuite, {E08} est|restée un moment|dans ma chambre !{attente}{page}{fin}
+@00908	{E09} est dans ma chambre !{attente}|Rien que d'y penser...{attente}|j'ai le cœur qui s'emballe...{attente}{page}{fin}
+@00909	Alors, je vais te|demander un café...{attente}|Ah, noir, s'il te plaît.{attente}{page}{fin}
+@00910	C'est bien un café ?|Lait et sucre ?{attente}{page}{fin}
+@00911	Ah, noir, s'il te plaît !{attente}{page}{fin}
+@00912	Alors je te prépare|un café noir et je|te l'apporte !{attente}{page}{fin}
+@00913	Tu connais ma commande,|comme au café du coin !{attente}|Hihi ! Ça me fait plaisir,|et c'est trop drôle !{attente}{page}{fin}
+@00914	Ensuite, {E09} est|restée un moment|dans ma chambre !{attente}{page}{fin}
+@00915	{E0A} est dans ma|chambre !{attente}|C'est bizarre, à la fois|drôle et troublant...{attente}{page}{fin}
+@00916	Du thé au kombu !|Bon, t'en as sûrement pas...{attente}|Alors, un thé vert normal !{attente}{page}{fin}
+@00917	Euh... Du moment que|c'est du thé, ça te va ?{attente}{page}{fin}
+@00918	Bah, du thé, pour le coup,|n'importe lequel, c'est OK !{attente}{page}{fin}
+@00919	Ah... j'ai pas de thé|au kombu. Du thé vert,|ça te va ?{attente}{page}{fin}
+@00920	Oh, tu t'en souvenais !|Trop cool !{attente}|Un vrai Japonais boit|du thé, pas vrai ?{attente}{page}{fin}
+@00921	Alors je te fais un thé|au kombu, spécial {E0A} !{attente}|Je m'en suis fait acheter.{attente}{page}{fin}
+@00922	T'es vraiment attentionné...|Ça me touche♥{attente}|Merci, {F08}♥{attente}{page}{fin}
+@00923	Ensuite, {E0A} est|restée un moment|dans ma chambre !{attente}{page}{fin}
+@00924	Mais tu as été si gentil...{attente}|Je suis vraiment...{attente}|heureuse♥{attente}{page}{fin}
+@00925	Nous avons passé un bon|moment, rien que tous|les deux !{attente}{page}{fin}
+@00926	Ah... Déjà cette heure-là !{attente}|{E04} va rentrer !{attente}{page}{fin}
+@00927	{FFB}L'accompagner à la gare{n}　Au revoir devant chez moi{fin}
+@00928	Ah, alors je te|raccompagne à la gare !{attente}{page}{fin}
+@00929	Nous partons vers la|gare de Koigahara...{attente}{page}{fin}
+@00930	(Un moment devant la gare){n}{fin}
+@00931	Elle me regarde, comme|si elle ne voulait pas|me quitter...{attente}{page}{fin}
+@00932	Je vois mon reflet|dans ses yeux...{attente}{page}{fin}
+@00933	{E04}...{attente}|Je voudrais rester...|encore avec toi...|......{attente}{page}{fin}
+@00934	On se regarde sans rien|dire.{attente}|C'est tout ce qu'on ose...|pour l'instant.{attente}{page}{fin}
+@00935	Son visage est juste là...{attente}|Tout doucement... je pose|mes lèvres sur les siennes...{attente}{page}{fin}
+@00936	Ça n'a duré qu'un instant...{attente}|mais nos lèvres se sont|dit ce que chacun|ressentait, je crois...{attente}{page}{fin}
+@00937	......{F03}{attente}|......Bon...|...À bientôt...♥{attente}{page}{fin}
+@00938	Alors je t'accompagne|dehors !{attente}{page}{fin}
+@00939	Nous sortons devant|la porte...{attente}{page}{fin}
+@00940	Nos cœurs s'emballent...{attente}|Doucement, je l'entoure|de mon bras...{attente}{page}{fin}
+@00941	Elle blottit son visage|contre moi. Je sens|la douceur et la chaleur|de son corps...{attente}{page}{fin}
+@00942	Ce n'est qu'un court|instant...{attente}|mais on a pu sentir ce|que l'autre éprouvait...{attente}{page}{fin}
+@00943	Je suis resté là sans|bouger, jusqu'à ce qu'elle|disparaisse...{attente}{page}{fin}
+@00944	Mais dans ma tête, nos|moments ensemble|repassaient encore|et encore...{attente}{page}{fin}
+@00945	Bon...|je vais y aller.{attente}{page}{fin}
+@00946	Moi aussi, j'ai passé|un super moment !{attente}|Reviens quand tu veux !{attente}{page}{fin}
+@00947	Mizuki...{attente}|Je voudrais rester...|encore avec toi...|......{attente}{page}{fin}
+@00948	......|......{F04}...|À plus...♥{attente}{page}{fin}
+@00949	Bon...|je vais rentrer.{attente}{page}{fin}
+@00950	J'aurais voulu rester plus|longtemps...{attente}|mais tant pis...{attente}{page}{fin}
+@00951	J'ai raccompagné Yumi|jusqu'à la gare de|Koigahara......{attente}{page}{fin}
+@00952	{F05}...|Bon, à plus...{attente}|C'était super...♥{attente}{page}{fin}
+@00953	Ah ? Déjà cette heure-là~|Shinozawa doit rentrer~{attente}{page}{fin}
+@00954	Snif snif~...|Shinozawa voudrait rester|encore avec toi~...{attente}{page}{fin}
+@00955	{E08}...{attente}|Je voudrais rester...|encore avec toi...{attente}{page}{fin}
+@00956	C'est dur de partir, mais|Shinozawa rentre...{attente}|Nyaha, c'était trop bien~{attente}{page}{fin}
+@00957	Kyaa~ ! Kyaa~ !|Shinozawa est toute|gênée~ !{attente}|...Mais trop heureuse~♥{attente}{page}{fin}
+@00958	Hihi !|Oh, {F07}, voyons !|......Oh ?{attente}{page}{fin}
+@00959	Ah ! Déjà cette heure-là !|Désolée, je dois rentrer...|......{attente}{page}{fin}
+@00960	{FFB}L'accompagner chez elle{n}　Au revoir devant chez moi{fin}
+@00961	Alors je te|raccompagne !{attente}{page}{fin}
+@00962	Oh ! C'est vrai ?{attente}|Alors on va pouvoir rester|encore un peu ensemble !{attente}{page}{fin}
+@00963	J'ai décidé de|raccompagner {E09}|chez elle.{attente}{page}{fin}
+@00964	Nous marchons vers chez|{E09} en discutant|tranquillement.{attente}{page}{fin}
+@00965	(Devant chez {E09}){n}{fin}
+@00966	J'ai raccompagné {E09}|jusque devant chez elle...{attente}{page}{fin}
+@00967	Oui !|Merci pour aujourd'hui !|À bientôt !{attente}{page}{fin}
+@00968	Dommage que ma maison|ne soit pas plus loin...{attente}{page}{fin}
+@00969	{E09}...{attente}|Je voudrais rester...|encore avec toi...{attente}{page}{fin}
+@00970	Tu sais... je...{attente}|j'ai passé un moment|merveilleux avec {F07}♥{attente}{page}{fin}
+@00971	Même après qu'elle a|disparu derrière la porte,|je suis resté un moment|à la fixer.{attente}{page}{fin}
+@00972	Rien qu'une seconde|de plus...{attente}|je voudrais rester ici...{attente}{page}{fin}
+@00973	Oh, déjà cette heure-là ?{attente}|J'ai encore plein de trucs|à dire, mais faut que|je file~{attente}{page}{fin}
+@00974	Bon, faut que j'y aille,|Shunpei !{attente} Euh, non,|{F08} !{attente} Héhé !{attente}{page}{fin}
+@00975	Franchement, c'est trop|sympa ! Merci mille fois !{attente}{page}{fin}
+@00976	Ah là là...{attente}|Ça me ressemble pas, mais|je suis toute émue...{attente}{page}{fin}
+@00977	{E0A}...{attente}|Je voudrais rester...|encore... avec toi...{attente}{page}{fin}
+@00978	Héhé... Bon,|merci pour aujourd'hui !{attente}|C'était trop bien !{attente}{page}{fin}
+@00979	......Ah...{attente}|Non... arrête...{attente}|...Idiot...{attente}{page}{fin}
+@00980	{F08}, merci.{attente}|Aujourd'hui...|c'était chouette...{attente}{page}{fin}
+@00981	Bon, {F08}...|Salut, à plus♥{attente}{page}{fin}
+@00982	...Non, j'y arrive pas !{attente}|Je peux pas être sérieuse,|c'est trop la honte !{attente}{page}{fin}
+@00983	Ahaha ! C'est bien toi,|{E0A} !{attente}|Fais attention à toi !|Salut ! À bientôt !{attente}{page}{fin}
+@00984	Je l'ai suivie des yeux|jusqu'à ce qu'elle|disparaisse...{attente}{page}{fin}
+@00985	Quand elle a disparu,|je me suis senti...{attente}|un peu triste,{attente} le|cœur serré...{attente}{page}{fin}
+@00987	......Ah...{attente}{page}{fin}
+@00988	......Mmh...{attente}{page}{fin}
+@00989	Yumi...{attente}|Je voudrais rester...|encore avec toi...{attente}{page}{fin}
+@00990	(Devant chez {E04}){n}{fin}
+@00991	Pfiou, on y est...{attente}|J'ai un peu le trac...{attente}{page}{fin}
+@00992	Ça faisait longtemps que|{F03} n'était pas|venu chez {E04} !{attente}{page}{fin}
+@00993	On se croirait revenus|au bon vieux temps !|Ça me fait trop plaisir♥{attente}{page}{fin}
+@00994	Ma mère dit que si c'est|{F03}, je peux|l'inviter à la maison.{attente}{page}{fin}
+@00995	Entre, vas-y !{attente}{page}{fin}
+@00996	Bon, eh bien...|j'entre !{attente}{page}{fin}
+@00997	(Chambre de {E04}){n}{fin}
+@00998	Ensuite, je suis resté|un moment dans la|chambre de {E04} !{attente}{page}{fin}
+@00999	(Devant chez Mizuki){n}{fin}
+@01000	C'est la première fois|qu'un garçon vient chez|moi...{attente} Ça me gêne un peu.{attente}{page}{fin}
+@01001	{F04}, t'es le seul|que j'invite chez moi...|...Ahah♥{attente}{page}{fin}
+@01002	Bon, entre !{attente}|Fais comme chez toi !{attente}{page}{fin}
+@01003	(Chambre de Mizuki){n}{fin}
+@01004	Ensuite, je suis resté|un moment dans la|chambre de Mizuki !{attente}{page}{fin}
+@01005	(Devant chez Yumi){n}{fin}
+@01006	J'ai une petite sœur|casse-pieds, mais elle ne|viendra pas dans ma|chambre, t'en fais pas...{attente}{page}{fin}
+@01007	Bon...{attente} À quoi on va|jouer, {F05} et moi,|aujourd'hui ?{attente} Hihi{attente}{page}{fin}
+@01008	Allez, entre !{attente}{page}{fin}
+@01009	(Chambre de Yumi){n}{fin}
+@01010	Ensuite, je suis resté|un moment dans la|chambre de Yumi !{attente}{page}{fin}
+@01011	(Devant chez {E08}){n}{fin}
+@01012	Y a plein de jeux, alors|on va jouer à fond~|Muhuhu~ !{attente}{page}{fin}
+@01013	On joue à quoi aujourd'hui ?{attente}|Nyahahaha~ !|Shinozawa a hâte~ !{attente}{page}{fin}
+@01014	Allez, on va mettre|l'ambiance à fond~ !|Entre, entre~ !{attente}{page}{fin}
+@01015	(Chambre de {E08}){n}{fin}
+@01016	Ensuite, je suis resté|un moment dans la|chambre de {E08} !{attente}{page}{fin}
+@01017	Quand je vivais là-bas,|mes amis venaient souvent|jouer à la maison...{attente}{page}{fin}
+@01018	Mais au Japon, {F07}|est mon tout premier|invité !{attente}{page}{fin}
+@01019	Tu sais...{attente}|le seul garçon que j'invite|chez moi... c'est {F07}♥{attente}{page}{fin}
+@01020	Allez, entre !|Welcome,|my lover !{attente}{page}{fin}
+@01021	(Chambre de {E09}){n}{fin}
+@01022	Ensuite, je suis resté|un moment dans la|chambre de {E09} !{attente}{page}{fin}
+@01023	(Devant chez {E0A}){n}{fin}
+@01024	Voilà, c'est chez moi !|Allez, sois pas si raide !|Détends-toi un peu !{attente}{page}{fin}
+@01025	Merci de votre fidélité !|Je rigole ! Héhé !{attente}|Allez, détends-toi !{attente}{page}{fin}
+@01026	Allez, entre, entre !{attente}|Pas besoin de te gêner,|mais alors pas du tout !{attente}{page}{fin}
+@01027	(Chambre de {E0A}){n}{fin}
+@01028	Ensuite, je suis resté|un moment dans la|chambre de {E0A} !{attente}{page}{fin}
+@01029	Quand elle a disparu,|je me suis senti...{attente}|un peu seul...{attente}{page}{fin}
+@01030	...Ah...|Non... faut paaas...{attente}{page}{fin}
+@01031	Hein ? Qu'est-ce qu'elle|a dit en anglais ?{attente}|Bah, tant pis...{attente}{page}{fin}
+@01032	......|Nyahaha ! C'était une|blague... à moitié~ !{attente}{page}{fin}
+@01033	{E09} Okada a vécu à|l'étranger...{attente} alors pour|ces trucs-là aussi, elle doit|être en avance, non~ ?{attente}{page}{fin}
+@01034	Kyaha ! Kyahahaha !|Comme un pays développé,|quoi ! Trop bien trouvé !!{attente}{page}{fin}
+@01035	Dehors, la nuit|commence à tomber|......{attente}{page}{fin}
+@01036	Oh, déjà cette heure-là...{attente}|J'aimerais rester, mais|il faut que je rentre.{attente}{page}{fin}
+@01037	Quoi, déjà ? Dommage...{attente}|Mais bon, tant pis.{attente}{page}{fin}
+@01038	Alors je te raccompagne|dehors.{attente} ...Pour rester|un peu plus avec toi♥{attente}{page}{fin}
+@01039	C'était super !{attente}|{F03}...|Reviens... vite♥{attente}{page}{fin}
+@01040	Moi aussi, c'était génial !{attente}|Mais rien qu'un peu...{attente}|je voudrais rester encore...{attente}{page}{fin}
+@01041	Moi aussi......{attente}{page}{fin}
+@01042	On n'a jamais assez|de temps...{attente}{page}{fin}
+@01043	......|Bon...|il faut que j'y aille...{attente}{page}{fin}
+@01044	...Oui...|Merci pour... aujourd'hui♥{attente}|À bientôt ! Salut !{attente}{page}{fin}
+@01045	Elle m'a regardé partir|jusqu'à ce que je|disparaisse...{attente}{page}{fin}
+@01046	Sur le chemin du retour,|j'avais l'impression de|sentir encore la douceur|de ses lèvres...{attente}{page}{fin}
+@01047	Nos cœurs s'emballent...{attente}|Sans réfléchir, je la|serre dans mes bras...{attente}{page}{fin}
+@01048	Nos lèvres unies lient|nos cœurs, encore plus|fort, plus solidement...{attente}{page}{fin}
+@01049	Ah, c'est vrai...|J'étais tellement pris|par la conversation...|...pardon...{attente}{page}{fin}
+@01050	Bon, je t'accompagne|dehors !{attente}{page}{fin}
+@01051	Oui...|Tu as raison...{attente}{page}{fin}
+@01052	Oh, déjà cette heure-là ?{attente}|Avec {F05}, j'en|oublie le temps !{attente}{page}{fin}
+@01053	Bon, je te raccompagne|un bout de chemin.{attente}{page}{fin}
+@01054	Son visage s'approche...{attente}|Doucement, ses lèvres|se posent sur les miennes !{attente}{page}{fin}
+@01055	...Oui,|moi aussi, j'ai adoré...|Bon, à bientôt !{attente}{page}{fin}
+@01056	Son visage s'approche...{attente}|Lentement, nos lèvres|se rejoignent...{attente}{page}{fin}
+@01057	À travers ce baiser, j'ai|senti nos cœurs se lier,|profondément...|profondément...{attente}{page}{fin}
+@01058	Funyaa~...|Déjà cette heure-là~ ?{attente}|Shinozawa est déçue~{attente}{page}{fin}
+@01059	Mais tant pis, Shinozawa|va te raccompagner~{attente}{page}{fin}
+@01060	C'est dur de se quitter,|mais on se dit au revoir|ici~{attente}|C'était trop bien~♥{attente}{page}{fin}
+@01061	{F06}~...♥{attente}|Shinozawa est si heureuse|qu'elle va fondre~♥{attente}{page}{fin}
+@01062	Oh, je n'avais pas vu...{attente}|Il commence déjà à faire|nuit......{attente}{page}{fin}
+@01063	Au final, c'est elle qui|m'a dit au revoir devant|chez elle...{attente}{page}{fin}
+@01064	Je te raccompagne jusqu'à|l'entrée, sortons ensemble.{attente}{page}{fin}
+@01065	Ne serait-ce qu'une|seconde de plus... je|voudrais rester avec toi|......{attente}{page}{fin}
+@01066	Quoi... Tu rentres déjà ?!|Je vais me sentir seule !{attente}{page}{fin}
+@01067	Mais bon... on se revoit|vite, de toute façon !{attente}|Je te raccompagne dehors !{attente}{page}{fin}
+@01068	{F08}, enfin...|Si tu me dis des trucs|pareils, moi aussi...{attente}{page}{fin}
+@01069	Son visage est juste là...{attente}|Doucement, j'embrasse|{E0A} sur la joue.{attente}{page}{fin}
+@01070	Son sourire timide me|fait sentir que nos cœurs|se comprennent...{attente}{page}{fin}
+@01071	Ahaha ! C'est tellement|toi, {E0A}, et c'est|mieux comme ça !{attente}|Allez, salut !{attente}{page}{fin}
+@01072	Bon, à ma façon, alors :|sur ce...|Bye-bye-byyye~ !{attente}{page}{fin}
+@01073	Hmm, maintenant que|tu le dis, c'est possible~{attente}{page}{fin}
+@01074	Alors, pour ces trucs-là|aussi, elle doit être|drôlement avancée~ ?|Kyahahahaha !{attente}{page}{fin}
+@01075	Kobayashi a l'air d'une|gamine, mais elle, au|moins, elle ne se gêne|pas pour conclure !{attente}{page}{fin}
+@01076	De temps en temps, se|poser un peu tout seul,|c'est pas mal non plus !{attente}{page}{fin}
+@01077	En savourant mon café,|j'entends bavarder des|filles à la table derrière.{attente}{page}{fin}
+@01078	Vu ce qu'elles racontent,|elles sont de mon lycée.{attente}|Ça m'intrigue...{attente}{page}{fin}
+@01079	Ah, au fait !{attente}|{E04} Saeki, elle est|super proche de ce garçon,|en ce moment, non ?{attente}{page}{fin}
+@01080	Quel garçon ?|Ah, tu veux dire...{attente}|{F01} {F00} ?{attente}{page}{fin}
+@01081	Oui, voilà !|Toi aussi, tu l'as vu ?{attente}|C'est trop louche !{attente}{page}{fin}
+@01082	Ouais ! Eux deux, ça a|l'air d'être une histoire|trèèès sérieuse~ !{attente}{page}{fin}
+@01083	Ils en seraient déjà...|à « ça »... ??|Hiiii♥ Ahaha !{attente}{page}{fin}
+@01084	Je vois...{attente} Voilà ce|qu'on raconte sur nous...|J'en savais rien...{attente}{page}{fin}
+@01085	Je me suis levé sans|bruit pour que les filles|ne me voient pas, et je|suis sorti du café...{attente}{page}{fin}
+@01086	Oui, c'est ça !|Toi aussi, tu l'avais|remarqué ? Un peu louche,|non ?{attente}{page}{fin}
+@01087	Hmm, un petit peu~{attente}|Mais avec Shiro Maeno,|ça a l'air bien plus|chaud entre eux !{attente}{page}{fin}
+@01088	Ah, ça, c'est vrai !{attente}|Alors, le chouchou de|{E04}, c'est Maeno,|à coup sûr ?!{attente}{page}{fin}
+@01089	Kyahaha ! Peut-être~ !|Au fait, dis...|......{attente}{page}{fin}
+@01090	Ah, au fait...{attente}|Mizuki Takao, elle est|proche de ce garçon,|en ce moment, non ?{attente}{page}{fin}
+@01091	Bof, ils ont l'air juste|bons amis, non ?{attente}|Mizuki ne vit que pour|l'athlétisme~{attente}{page}{fin}

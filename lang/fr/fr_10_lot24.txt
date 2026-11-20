@@ -1,0 +1,362 @@
+; Lot 24 : desserts (Ruruna), athlé (Mizuki), révisions (Yumi), lait (Momoyo), ballet (Mirei), chiot (Konoha),
+; plats d'hiver, fin d'année, maquillage, nom de scène, classes, stage, anniversaires, glaces pilées, rencontres d'été.
+@08725	Il paraît que leur gâteau|à la banane est délicieux !{attente}{page}{fin}
+@08726	Ah, celui avec une banane|entière dedans !{attente}|Il était trop, trop bon !{attente}{page}{fin}
+@08727	Et quoi d'autre ?{attente}{page}{fin}
+@08728	Leur yaourt plein de fruits|a l'air d'avoir du succès !{attente}{page}{fin}
+@08729	Il y avait plein, plein de|fruits dedans, c'était|trop, trop bon !{attente}{page}{fin}
+@08730	Leur bavarois à la fraise|est vraiment bon !{attente}{page}{fin}
+@08731	Celui avec plein de|fraises !{attente} Il était trop,|trop bon !{attente}{page}{fin}
+@08732	Ben dis donc ! Tout ce qui|a la réputation d'être bon,|tu l'as déjà goûté !{attente}{page}{fin}
+@08733	Oui...{attente}C'est que...|j'avais trop envie d'y|goûter...♥{attente}{page}{fin}
+@08734	Oh, elle est gênée !{attente}|{E04} toute rouge,|c'est trop...{attente} mi-gnon-ne♥{attente}|Mon cœur s'emballe~♥{attente}{page}{fin}
+@08735	L'an dernier, en athlé...{attente}|mes perfs ont moins|progressé que je pensais...{attente}{page}{fin}
+@08736	Alors cette année, je veux|vraiment m'améliorer.|Tu ferais comment, toi ?{attente}{page}{fin}
+@08737	Je vois... Mizuki se fait|autant de souci que ça|pour ses performances...{attente}{page}{fin}
+@08738	{FFB}Tu vas progresser{n}　Bosse et ça viendra{n}　Faut pas te presser{fin}
+@08739	En grandissant, ton corps|va se développer et tes|perfs vont suivre !{attente}{page}{fin}
+@08740	En grandissant, mes perfs|vont suivre, hein...{attente}{page}{fin}
+@08741	Mais tu sais, au lycée,|les filles ne grandissent|plus tellement.{attente}{page}{fin}
+@08742	Oups, j'ai raisonné comme|un garçon...{attente}{page}{fin}
+@08743	Je voulais l'encourager,|et je l'ai encore plus|déprimée...{attente}|Raté...{attente}{page}{fin}
+@08744	Si tu bosses sérieusement,|les résultats suivront,|t'inquiète pas !{attente}{page}{fin}
+@08745	L'an dernier aussi,|je pensais avoir donné|tout ce que j'avais...{attente}{page}{fin}
+@08746	Tes efforts de l'an dernier|vont fleurir cette année,|tu verras !{attente}{page}{fin}
+@08747	Haha ! C'est un peu tiré|par les cheveux, mais...{attente}{page}{fin}
+@08748	Venant de toi, {F04},|je commence à y croire !{attente}|Merci beaucoup !{attente}{page}{fin}
+@08749	Elle n'a pas l'air|complètement convaincue...{attente}|mais bon, elle sourit,|c'est déjà ça... !{attente}{page}{fin}
+@08750	Pense pas trop aux perfs.|Le plus important, c'est|de prendre plaisir à|courir, non ?{attente}{page}{fin}
+@08751	...{attente}Oui...{attente}|C'est parce que j'aime|courir que je me suis|mise à l'athlé...{attente}{page}{fin}
+@08752	À force de penser qu'aux|perfs, j'avais oublié|le plus important...{attente}{page}{fin}
+@08753	Merci, {F04}...|...de m'avoir rappelé|ce qui compte vraiment !{attente}{page}{fin}
+@08754	Ah ! On dirait que ça|l'a débloquée !{attente}|Trop content d'avoir pu|aider Mizuki !{attente}{page}{fin}
+@08755	Pfff... à discuter comme|ça, on en oublierait|presque, mais...{attente}{page}{fin}
+@08756	cette année, faut que je|me mette sérieusement à|réviser pour la fac !{attente}|J'en déprime d'avance.{attente}{page}{fin}
+@08757	C'est pas du genre de|Yumi, d'être si défaitiste...{attente}|Elle veut que je lui dise|quelque chose ?{attente}{page}{fin}
+@08758	{FFB}Courage !{n}　On n'y peut rien{n}　Pourquoi me demander ?{fin}
+@08759	Courage !{attente}|Je ne peux rien pour toi,|mais je te soutiens !{attente}{page}{fin}
+@08760	Haha ! Dit comme ça, ça|me donne envie de bosser !{attente}|Merci beaucoup !{attente}{page}{fin}
+@08761	Allez ! Cette année, je|vais bûcher comme une|dingue !{attente}|...Je rigole ! Hihi !{attente}{page}{fin}
+@08762	Ah, elle va mieux !{attente}|Tant mieux~ !{attente}|C'est quand elle a la pêche|que Yumi est la plus jolie !{attente}{page}{fin}
+@08763	Bah, c'est comme ça...{attente}|Tu passes en 3e année,|et c'est pour toi, non ?{attente}{page}{fin}
+@08764	C'est vrai, mais...{attente}|tu dis ça comme si ça ne|te concernait pas.|C'est un peu froid.{attente}{page}{fin}
+@08765	Un jour, toi aussi, tu seras|à ma place, tu sais !{attente}{page}{fin}
+@08766	Bon, je retourne en classe|réviser sérieusement !{attente}|Salut !{attente}{page}{fin}
+@08767	Oups, la boulette !{attente}|Je l'ai vexée...{attente}|Mais Yumi a raison...{attente}{page}{fin}
+@08768	J'aurais dû me mettre|un peu plus à sa place...{attente}{page}{fin}
+@08769	Pourquoi me demander ça...{attente}|L'an prochain, je serai|dans la même situation...{attente}{page}{fin}
+@08770	Ah...{attente} c'est vrai...{attente}|Je ne devrais pas angoisser|mon adorable petit cadet...{attente}{page}{fin}
+@08771	Ce genre de problème,|c'est à moi de le régler|toute seule...{attente}{page}{fin}
+@08772	Pardon ! Me laisser aller,|ça ne me ressemble pas !{attente}|Ça m'a réveillée !{attente}{page}{fin}
+@08773	J'ai bien fait de t'en|parler, {F05}...{attente}|Merci beaucoup !{attente}{page}{fin}
+@08774	Yumi est redevenue|elle-même !{attente}|J'ai rien fait, mais tant|mieux si ça lui fait plaisir !{attente}{page}{fin}
+@08775	Dis, dis~, {F06},|c'est quoi, ton lait|préféré~ ?{attente}{page}{fin}
+@08776	(Mon lait préféré, c'est...){n}{fin}
+@08777	{FFB}Lait au café{n}　Lait aux fruits{n}　Lait nature{fin}
+@08778	Moi, c'est le lait au café|que je préfère !{attente}{page}{fin}
+@08779	Nyahaha~ !{attente}|C'est un goût de gamin~ !{attente}|Mufufu~ !{attente}{page}{fin}
+@08780	Ah bon, tu crois... ?{attente}{page}{fin}
+@08781	Mais Shinozawa aussi|en boit parfois~{attente}{page}{fin}
+@08782	Ben alors ! Tu dis que c'est|pour les gamins, mais|toi aussi, t'en bois~ !{attente}{page}{fin}
+@08783	Nyahaha !|Shinozawa aussi est une|gamine~ !{attente}{page}{fin}
+@08784	Shinozawa trouve que|le lait après le bain,|c'est le paradis !{attente}{page}{fin}
+@08785	Ah là là, {E08} a l'air|aux anges !{attente}|Mais... qu'elle est mignonne !{attente}{page}{fin}
+@08786	Moi, c'est le lait aux fruits|que je préfère !{attente}{page}{fin}
+@08787	Kyaa~ ! Tu es un|connaisseur~ !{attente}|Aux bains publics, c'est|un objet rare~ !{attente}{page}{fin}
+@08788	Quand, une fois de temps|en temps, on en trouve~{attente}{page}{fin}
+@08789	on a trop envie d'en|boire un~ !{attente}{page}{fin}
+@08790	Moi, c'est le lait nature|que je préfère !{attente}{page}{fin}
+@08791	Youpi~ !|Shinozawa aussi~ !{attente}|Le lait blanc, y a rien|de mieux !{attente}{page}{fin}
+@08792	{F06} et Shinozawa|sont peut-être faits l'un|pour l'autre~ !{attente}|Kyaa ! Kyaa !{attente}{page}{fin}
+@08793	Dis, {F07}, qu'est-ce|que tu penses du ballet ?{attente}{page}{fin}
+@08794	Hein, le ballet ?{attente}|La danse, hein ? Pas le|balai pour le ménage ?{attente}{page}{fin}
+@08795	(Le ballet, hein...){n}{fin}
+@08796	{FFB}Un peu vieillot{n}　Bon pour la posture{n}　Genre yoga{fin}
+@08797	Je trouve ça un peu|vieillot...{attente}{page}{fin}
+@08798	Ah bon... ?{attente}|C'est vieillot, tu trouves... ?{attente}{page}{fin}
+@08799	On dirait que c'est peu|connu au Japon...{attente}{page}{fin}
+@08800	Oh, on dirait qu'elle est|un peu déçue...{attente}{page}{fin}
+@08801	Mais le ballet, c'est|vraiment pas notre truc,|on n'y peut rien...{attente}{page}{fin}
+@08802	Avec le ballet, on doit|avoir une belle posture !{attente}{page}{fin}
+@08803	Oui ! Il faut se tenir bien|droite, alors forcément,|on marche mieux !{attente}{page}{fin}
+@08804	Ça a l'air gracieux, mais|en réalité, il faut une|force musculaire énorme !{attente}{page}{fin}
+@08805	Ensuite, {E09} m'a parlé|du ballet avec passion|jusqu'à la fin|de la récré !{attente}{page}{fin}
+@08806	Le ballet... c'est un peu|comme le yoga, non ?{attente}{page}{fin}
+@08807	Haha !{attente}|Tu es drôle, {F07} !{attente}{page}{fin}
+@08808	C'est vrai que les deux|développent la souplesse,|sur ce point, ça se|ressemble peut-être...{attente}{page}{fin}
+@08809	Mais le ballet, malgré|les apparences, c'est|très, très dur !{attente}{page}{fin}
+@08810	Ensuite, {E09} m'a|expliqué le ballet en|détail jusqu'à la fin|de la récré...{attente}{page}{fin}
+@08811	Écoute, écoute !{attente}|Notre shiba a eu|des petiiits !{attente}{page}{fin}
+@08812	Et on a décidé d'en|garder un seul !{attente}{page}{fin}
+@08813	Mais je sèche pour le nom !|T'aurais pas une idée ?!{attente}{page}{fin}
+@08814	(Un nom de chiot, hein...){n}{fin}
+@08815	{FFB}Shiba{n}　Rickson{n}　Ouafkichi{fin}
+@08816	Et pourquoi pas Shiba ?{attente}{page}{fin}
+@08817	Rooh !|C'est pile ce qu'il est !|Zéro originalité !{attente}{page}{fin}
+@08818	Mon père a dit pareil !{attente}|{F08}, t'as des|réflexes de vieux tonton !{attente}{page}{fin}
+@08819	Bon, pas grave !{attente}|Je vais encore y|réfléchir un peu !{attente}{page}{fin}
+@08820	OK, c'était pas original,|mais vieux tonton...{attente}|Dis plutôt simple et pur !{attente}{page}{fin}
+@08821	Et pourquoi pas Rickson ?{attente}{page}{fin}
+@08822	Hmm ?{attente} Ça me dit|quelque chose, ça !{attente}{page}{fin}
+@08823	Mais bon, pourquoi pas !{attente}|Rickson, hein !{attente}|C'est plutôt pas mal !{attente}{page}{fin}
+@08824	{F08},|thank youuu !{attente}{page}{fin}
+@08825	Pourvu qu'il ne devienne pas|un chien qui prend les|jambes des gens pour|des toilettes...{attente}{page}{fin}
+@08826	Et pourquoi pas Ouafkichi ?{attente}{page}{fin}
+@08827	Hmm ?{attente} C'est pas un jeu|de mots sur Nyankichi,|le chat, ça ?{attente}{page}{fin}
+@08828	Euh...|N-non...{attente}{page}{fin}
+@08829	Uhaha ! J'en étais sûre !{attente}|C'est écrit en gros|sur ta figure !{attente}{page}{fin}
+@08830	Mais tant qu'à faire,|j'aurais préféré une|vraie réponse sérieuse !{attente}{page}{fin}
+@08831	Pfff... moi qui pensais|avoir réfléchi sérieusement|au nom du chiot...{attente}|Tss !{attente}{page}{fin}
+@08840	Qu'est-ce qu'il fait froid|dans le couloir !{attente}|J'ai envie de manger|un truc bien chaud !{attente}{page}{fin}
+@08841	Dis, {F03}, pour toi,|c'est quoi, le bon plat|d'hiver ?{attente}{page}{fin}
+@08842	(Un plat d'hiver...){n}{fin}
+@08843	{FFB}Ragoût{n}　Brioche à la viande{n}　Oden{fin}
+@08844	L'hiver, c'est le ragoût !{attente}{page}{fin}
+@08845	Ça réchauffe de|l'intérieur !{attente}{page}{fin}
+@08846	Surtout quand il y a plein|de bonnes choses dedans !{attente}{page}{fin}
+@08847	Ensuite, on a parlé de|plats chauds pendant toute|la récré, avec entrain,|dans le couloir glacial.{attente}{page}{fin}
+@08848	L'hiver, c'est les brioches|à la viande !{attente}{page}{fin}
+@08849	Toutes chaudes et|fumantes... miam~ !{attente}{page}{fin}
+@08850	Oh non, à force d'y|penser, j'en ai envie !{attente}{page}{fin}
+@08851	L'hiver, c'est l'oden !{attente}{page}{fin}
+@08852	C'est trop bon quand c'est|bien imbibé de bouillon !{attente}{page}{fin}
+@08853	Les beignets de tofu : on|croque dedans, et le jus|se répand dans la bouche !{attente}{page}{fin}
+@08854	Ah, {F04} !{attente}|Notre 1re année est|bientôt finie...{attente}{page}{fin}
+@08855	(Déjà la fin de l'année...){n}{fin}
+@08856	{FFB}C'est passé si vite{n}　C'était long{n}　En 2e année...{fin}
+@08857	C'est passé super vite !{attente}{page}{fin}
+@08858	Les souvenirs de cette|année remontent en chacun|de nous, et les mots|nous manquent...{attente}{page}{fin}
+@08859	Les bons moments...|les moments durs...{attente}|Chaque instant est|un souvenir précieux.{attente}{page}{fin}
+@08860	Et maintenant, devant|nous...{attente} quel avenir|nous attend... ?{attente}{page}{fin}
+@08861	Ça a été une longue année.{attente}{page}{fin}
+@08862	Moi, je l'ai trouvée|super courte...{attente}{page}{fin}
+@08863	Je sens un décalage entre|Mizuki et moi, et je reste|sans voix...{attente}{page}{fin}
+@08864	Mizuki aussi me regarde,|l'air inquiet...{attente}{page}{fin}
+@08865	En 2e année...{attente}|ce serait bien qu'on soit|dans la même classe !{attente}{page}{fin}
+@08866	Oui...{attente}{page}{fin}
+@08867	En si peu de mots, j'ai|l'impression qu'on se|comprend parfaitement...{attente}{page}{fin}
+@08868	Et rien que ça, ça me|rend vraiment heureux.{attente}{page}{fin}
+@08869	Dis, {F05}...|ça va te paraître bizarre,|mais...{attente}{page}{fin}
+@08870	Tu penses quoi des filles|très maquillées ?{attente}{page}{fin}
+@08871	(Les filles très maquillées...){n}{fin}
+@08872	{FFB}J'aime pas{n}　J'aime bien{n}　Ça dépend du visage{fin}
+@08873	Moi, j'aime pas trop...{attente}|Le maquillage, le strict|minimum, ça suffit !{attente}{page}{fin}
+@08874	Haha !|Les garçons disent|tous ça !{attente}{page}{fin}
+@08875	D'accord, compris !{attente}|Pardon pour cette question|bizarre ! Salut !{attente}{page}{fin}
+@08876	« Tous » ? Elle a posé la|question à d'autres ?{attente}|Et pourquoi me demander|ça d'un coup...{attente}{page}{fin}
+@08877	Ça me travaille|vraiment~ !{attente}{page}{fin}
+@08878	Moi, j'aime bien !{attente}|Si ça rend plus jolie, même|beaucoup, où est le mal ?{attente}{page}{fin}
+@08879	Oh, tu raisonnes|comme une fille !{attente}{page}{fin}
+@08880	Mais un maquillage épais|qui se voit, c'est un|maquillage de gamine !{attente}{page}{fin}
+@08881	Une vraie femme, ce qui|compte, c'est d'avoir l'air|maquillée au naturel !{attente}{page}{fin}
+@08882	Oh, c'est bizarre de parler|maquillage avec un garçon !|Haha !{attente}{page}{fin}
+@08883	C'est elle qui en parlait~{attente}|Mais Yumi tient vraiment|à faire adulte...{attente}|Il se passe un truc ?{attente}{page}{fin}
+@08884	Ça, ça dépend du visage|de chacune, non ?{attente}{page}{fin}
+@08885	Un maquillage sans mesure,|c'est juste moche.|Je trouve ça nul.{attente}{page}{fin}
+@08886	Oh, t'es plutôt sévère !{attente}{page}{fin}
+@08887	Mais c'est vrai qu'un|maquillage mal dosé,|c'est raté !{attente}{page}{fin}
+@08888	Si on se bouche les oreilles|aux critiques, on ne devient|jamais jolie !{attente}{page}{fin}
+@08889	Ça m'aide beaucoup !{attente}|Merci ! Salut !{attente}{page}{fin}
+@08890	Ah, je vois !{attente} Yumi|voulait des avis pour|son propre maquillage !{attente}|Elle bosse son sujet~ !{attente}{page}{fin}
+@08891	Dites, {F06}~{attente}|si Shinozawa devenait|une star...{attente}{page}{fin}
+@08892	quel nom de scène elle|devrait prendre, d'après|toi~ ?{attente}{page}{fin}
+@08893	(Un nom de scène...){n}{fin}
+@08894	{FFB}{E08} Shinozawa{n}　Momoko Shinozawa{n}　Onizawa MOMO{fin}
+@08895	« {E08} Shinozawa »,|c'est très bien !{attente}{page}{fin}
+@08896	Hanya ? Mais c'est mon|vrai nom, tout bête~{attente}|Mais c'est pas mal, en fait~{attente}{page}{fin}
+@08897	Ton nom, {E08}, il fait|déjà nom de scène tel quel.|C'est mignon !{attente}{page}{fin}
+@08898	Kyaa~ ! Arrête~ !{attente}|Shinozawa est toute|contente et gênée~ !{attente}{page}{fin}
+@08899	Faut que j'aille faire|un bisou de remerciement|à mes parents~ !{attente}|Nyahahaha~ !{attente}{page}{fin}
+@08900	...Mais si {E08}|devient une star...{attente}|ce sera comique, ou au|mieux, idole de variétés !{attente}{page}{fin}
+@08901	Ça, je ne le dirai|jamais, même sous|la torture...{attente}{page}{fin}
+@08902	Je verrais bien|« Momoko Shinozawa » !{attente}{page}{fin}
+@08903	Nyahahahaha !{attente}|Ça me dit quelque chose,|ce nom~ !{attente}{page}{fin}
+@08904	Mais pour percer seule|dans le monde dur du|spectacle, ça porte|peut-être chance~ !{attente}{page}{fin}
+@08905	Et « Onizawa MOMO »,|ça te dit ?{attente}{page}{fin}
+@08906	Nyahaha ! Le drôle de|décalage entre le nom et|le prénom, c'est rigolo~ !{attente}{page}{fin}
+@08907	Avec ça, Shinozawa pourrait|survivre dans le monde|impitoyable du spectacle~ !{attente}{page}{fin}
+@08908	Dis, {F05}...|...euh...{attente}{page}{fin}
+@08909	Hm ? Qu'est-ce qu'elle a ?{attente}|On dirait qu'elle a|l'air plus sérieuse|que d'habitude...{attente}{page}{fin}
+@08910	En fait......{attente}|...Ah, rien, laisse tomber !{attente}{page}{fin}
+@08911	Attends !{attente} Tu t'arrêtes|en pleine phrase ? Là, je|veux savoir !{attente}|Qu'est-ce qu'il y a ?{attente}{page}{fin}
+@08912	Non, non, c'est rien !{attente}|C'est vraiment rien...{attente}|Ne t'en... fais pas.{attente}{page}{fin}
+@08913	Ah, elle est retournée à|sa place...{attente} Mais|qu'est-ce qui lui prend ?{attente}{page}{fin}
+@08914	C'était pas une tête de|« c'est rien »...{attente}|Elle voulait me dire un|truc important, non ?{attente}{page}{fin}
+@08915	Mais qu'est-ce que ça|peut bien être ?{attente}|......Hmmm...{attente}|Raaah, ça me travaille !{attente}{page}{fin}
+@08916	Diiis, {F08} !|En 2e année, on change|de classe, hein !{attente}{page}{fin}
+@08917	(Changer de classe...){n}{fin}
+@08918	{FFB}Ça m'embête{n}　Ça me plaît{n}　Je sais pas trop{fin}
+@08919	Changer de classe, ça|m'embête un peu~{attente}{page}{fin}
+@08920	J'aimerais rester dans|la même classe que|{E0A}...{attente}{page}{fin}
+@08921	Q-qu'est-ce que tu|racontes !{attente}|...Tu me fais rougir~{attente}|...Héhé !{attente}{page}{fin}
+@08922	Bon, prions pour qu'on|soit ensemble, d'accord !{attente}{page}{fin}
+@08923	Changer de classe !{attente}|Trop bien !{attente}{page}{fin}
+@08924	Je vais me faire de|nouveaux amis, ça va me|changer les idées !{attente}{page}{fin}
+@08925	Ah ouais ! Alors moi,|je compte pour du beurre !{attente}|Hmpf, d'accord !{attente}{page}{fin}
+@08926	Oups...{attente}|Je l'ai vexée... ?{attente}|Mais c'est ce que je pense,|j'y peux rien...{attente}{page}{fin}
+@08927	Juste quand je commençais|à me faire à cette classe...|C'est compliqué~{attente}{page}{fin}
+@08928	Oui, oui ! Moi aussi,|je ressens pareil !{attente}{page}{fin}
+@08929	Pas vrai~ !{attente}{page}{fin}
+@08930	Ensuite, va savoir|pourquoi, on a passé|la récré à se dire|« pas vrai, pas vrai »...{attente}{page}{fin}
+@08931	Oui, c'est vraiment|passé à toute vitesse...{attente}{page}{fin}
+@08940	(Stage du club d'athlé){n}{fin}
+@08941	Aujourd'hui commence le|stage du club d'athlé !{attente}|Allez, à fond~ !{attente}{page}{fin}
+@08942	Le stage du club d'athlé|est fini !{attente}|J'ai pris de l'endurance~ ?{attente}{page}{fin}
+@08943	(Fête d'anniversaire){n}{fin}
+@08944	Aujourd'hui, c'est la fête|d'anniversaire de {E04} !{attente}|Tout le monde est déjà là !{attente}{page}{fin}
+@08945	{E04} !|Joyeux anniversaire !{attente}{page}{fin}
+@08946	{F03} !|Tu es venu !{attente}{page}{fin}
+@08947	Bien, tout le monde !{attente}|On va pouvoir commencer !{attente}{page}{fin}
+@08948	Bon, pour porter le toast,|ce sera notre seul|garçon...{attente}|{F08} !{attente}{page}{fin}
+@08949	Euh, bon...{attente}|Eh bien, aujourd'hui, c'est|l'anniversaire de|Saeki-san, alors...{attente}{page}{fin}
+@08950	Kyaa~ ! {E04}-chan !{attente}|Haaappy biiirthday~{attente}|Happy~ ! Happy~ !{attente}{page}{fin}
+@08951	{E04}-chan, joyeux|anniversaire !!{attente}{page}{fin}
+@08952	Santé ! Bon anniversaire,|{E04}-chan !{attente}{page}{fin}
+@08953	La fête a commencé !{attente}|Gâteau, jeux...{attente}|chacun s'amuse|à sa façon.{attente}{page}{fin}
+@08954	On passe un moment|vraiment génial !{attente}|...Et puis...{attente}{page}{fin}
+@08955	Merci beaucoup à tous|d'être venus aujourd'hui !{attente}|C'était une super fête !{attente}{page}{fin}
+@08956	Après avoir salué chacun,|{E04} est venue près|de moi...{attente}|et m'a chuchoté à l'oreille :{attente}{page}{fin}
+@08957	{F03}...|Je suis tellement contente|que tu sois venu♥{attente}{page}{fin}
+@08958	L'an prochain aussi,|j'aimerais la passer|avec toi, {F03}...{attente}{page}{fin}
+@08959	La voix de {E04}, mêlée|d'un doux soupir, semble|s'infiltrer au plus|profond de moi.{attente}{page}{fin}
+@08960	Aujourd'hui, c'est la fête|d'anniversaire de {E09} !{attente}{page}{fin}
+@08961	{E09} !|Joyeux anniversaire !{attente}{page}{fin}
+@08962	Des amis de l'église où|je vais le dimanche sont|venus aussi !{attente}{page}{fin}
+@08963	Tout le monde ! Merci|beaucoup d'être venus|pour moi aujourd'hui !{attente}{page}{fin}
+@08964	Amusez-vous bien !{attente}|Et pour porter le toast...|{F07}, s'il te plaît !{attente}{page}{fin}
+@08965	Euh, bon...{attente}|Eh bien, aujourd'hui, c'est|l'anniversaire de|Okada-san, alors...{attente}{page}{fin}
+@08966	Joyeux anniversaire,|{E09} !{attente} Santé !!{attente}{page}{fin}
+@08967	Cheers !{attente}|Merci, tout le monde !{attente}{page}{fin}
+@08968	Cette fête a été vraiment|super !{attente}|Merci à tous !{attente}{page}{fin}
+@08969	Là-dessus, {E09} a dit|au revoir à chacun d'une|étreinte ou d'un bisou...{attente}|enfin, ce fut mon tour.{attente}{page}{fin}
+@08970	{F07}...|Merci d'être venu,|ça m'a fait plaisir♥{attente}{page}{fin}
+@08971	Cette journée...|je ne l'oublierai jamais...{attente}{page}{fin}
+@08972	{E09} m'a fait un|petit bisou sur la joue,|puis m'a raccompagné...{attente}{page}{fin}
+@08973	Est-ce une impression,|ou ce baiser n'était pas|comme celui des autres... ?{attente}{page}{fin}
+@08974	Sentant encore sur ma joue|la douceur des lèvres de|{E09}, je suis rentré|chez moi...{attente}{page}{fin}
+@08975	Yumi m'a donné rendez-vous|sur le toit...{attente}|Qu'est-ce qu'elle me veut ?{attente}{page}{fin}
+@08976	Ah, {F05} !{attente}|Tu es déjà là !{attente}{page}{fin}
+@08977	En fait, j'ai un truc|à te donner !{attente}{page}{fin}
+@08978	Hein, à moi ?{attente}|Qu'est-ce que c'est ?{attente}{page}{fin}
+@08979	C'est ça...{attente}|Tu devines ce que c'est ?{attente}{page}{fin}
+@08980	Yumi agite des feuilles|devant mes yeux...{attente}|Ce serait pas...{attente}{page}{fin}
+@08981	Ah, t'as deviné !|Les sujets d'examen de|l'an dernier !{attente}{page}{fin}
+@08982	Waouh, ça m'aide trop !{attente}|Merci beaucoup !{attente}{page}{fin}
+@08983	Plein de gens les|voulaient, mais...{attente}{page}{fin}
+@08984	j'ai gribouillé dessus,{attente}|et je voulais pas les donner|à des gens dont je suis|pas proche.{attente}{page}{fin}
+@08985	...Pour être franche,|c'est à toi, {F05},|que je voulais|les donner...{attente}{page}{fin}
+@08986	Hihi ! Alors maintenant,|révise bien !{attente}{page}{fin}
+@08987	Elle me les a apportés|exprès pour moi... je suis|trop touché !!{attente}|Faut que je bosse dur !{attente}{page}{fin}
+@08988	Joyeux anniversaire,|{E04} !{attente}|Tous ensemble, santéééé !!{attente}{page}{fin}
+@08995	(Un jour de vacances d'été){n}{fin}
+@08996	En passant devant le café,|je suis tombé sur {E04}.{attente}{page}{fin}
+@08998	{FFB}L'inviter à une glace pilée{n}　Laisser tomber{fin}
+@08999	Salut, {E04} ! Quelle|chaleur !{attente}|On prend une glace pilée|dans ce café ?{attente}{page}{fin}
+@09000	Ah, {F03} !|Justement, j'étais venue|ici pour en manger une !{attente}{page}{fin}
+@09001	C'est plus sympa à deux !{attente}|Allez, on entre !{attente}{page}{fin}
+@09002	{E04} et moi, on va donc|manger une glace pilée|ensemble au café.{attente}{page}{fin}
+@09003	Ah, {F03}...{attente}|Je viens d'en manger une.{attente}|Allez, à plus !{attente}{page}{fin}
+@09004	Elle ne m'a laissé aucune|chance...{attente}|...C'est triste~ !{attente}{page}{fin}
+@09005	Salut, {E04} !{attente}|À plus !{attente}{page}{fin}
+@09006	Ah, {F03} !|À plus !{attente}{page}{fin}
+@09007	Salut ! Il fait encore|chaud aujourd'hui !{attente}|Avec cette chaleur,{attente} ça|te dit, une glace pilée ?{attente}{page}{fin}
+@09008	Ah, {F04} ! Quel hasard !{attente}|Une glace pilée ?|Bonne idée, on y va !{attente}{page}{fin}
+@09009	Mizuki et moi, on va|manger une glace pilée|au café.{attente}{page}{fin}
+@09010	Ah, {F04}...{attente}|Désolée, j'ai un truc|à faire...{attente} Salut.{attente}{page}{fin}
+@09012	Tiens, {F05} !{attente}|Quel hasard de te croiser|ici !{attente}{page}{fin}
+@09013	Ah, bonjour !{attente}|Il fait une de ces chaleurs !|On mangerait bien une|glace pilée, pas toi ?{attente}{page}{fin}
+@09014	Excellente idée !{attente} Cette|chaleur est insupportable !{attente}|On y va tout de suite !{attente}{page}{fin}
+@09015	Yumi et moi, on va|manger une glace pilée|au café.{attente}{page}{fin}
+@09016	Désolée, aujourd'hui, j'ai|pas trop le temps !{attente}|Allez, à plus !{attente}{page}{fin}
+@09017	Ah, bonjour !{attente}|Bon, à plus !{attente}{page}{fin}
+@09018	Oui, à plus !{attente}{page}{fin}
+@09019	Tiens ? La fille scotchée|au rayon jeux vidéo...{attente}|c'est bien {E08} !{attente}{page}{fin}
+@09020	Ohé, Shinozawa !{attente}|Ça te dit, une glace pilée|au café ?{attente}{page}{fin}
+@09021	Kyaa~ ! {F06}~{attente}|Tu m'as fait peur~ !{attente}|Une glace pilée~ ?{attente}{page}{fin}
+@09022	Super idée~ !{attente}|Shinozawa te suit~|Allons-y tout de suite~ !{attente}{page}{fin}
+@09023	{E08} et moi, on va|manger une glace pilée|au café !{attente}{page}{fin}
+@09024	Shinozawa est pressée,|elle peut pas venir~ !{attente}|Bon, bye-byeee~ !{attente}{page}{fin}
+@09025	Hm ?{attente} La fille qui regarde|les jouets, là-bas...{attente}|c'est pas {E09} ?{attente}{page}{fin}
+@09026	Salut, {E09} !{attente}|Ça te dit, une glace pilée|au café ?{attente}{page}{fin}
+@09027	Ah, {F07}, toi|aussi, tu es là !{attente}{page}{fin}
+@09028	Une glace pilée ? Super !{attente}|Ça va peut-être nous|rafraîchir un peu !{attente}|Allons-y !{attente}{page}{fin}
+@09029	{E09} et moi, on va|manger une glace pilée|au café !{attente}{page}{fin}
+@09030	C'est gentil, mais j'ai|quelque chose à faire...{attente}|...Je suis désolée.{attente}{page}{fin}
+@09031	Elle avait l'air vraiment|gênée de refuser...{attente}|Je l'ai peut-être mise|mal à l'aise...{attente}{page}{fin}
+@09032	Ah, la fille qui s'agite|devant le rayon mangas...|...c'est {E0A} !{attente}{page}{fin}
+@09033	Ohé, {E0A} !{attente}|Il fait chaud, ça te dit|une glace pilée ?!{attente}{page}{fin}
+@09034	T'es fou de crier si fort !{attente}|C'est la honte, là !{attente}{page}{fin}
+@09035	Si on va manger une glace,|on y va tout de suite !{attente}{page}{fin}
+@09036	{E0A} m'attrape la main|et file hors de la librairie !{attente}|Elle qui crie tout le temps,|elle fait sa timide~ !{attente}{page}{fin}
+@09037	Et puis, j'ai trop de trucs|à faire, je peux pas venir !{attente}|Bon, sur ce, salut !{attente}{page}{fin}
+@09038	Elle qui crie toujours plus|fort que moi~ !{attente}|Pas la moindre chance...|C'est triste...{attente}{page}{fin}
+@09039	On mangeait nos glaces en|passant un bon moment...{attente}{page}{fin}
+@09040	Ensuite, on a fini nos|glaces et on est sortis...{attente}{page}{fin}
+@09041	Merci de m'avoir tenu|compagnie, ça m'a fait|plaisir.{attente} Allez, à plus !{attente}{page}{fin}
+@09042	Devant le café, je l'ai|regardée s'éloigner...{attente}{page}{fin}
+@09043	Nyahaha~ !{attente} Elle était|trop bonne, la glace~ !{attente}|Bon, bye-byeee~ !{attente}{page}{fin}
+@09044	À plus, {F07} !{attente}{page}{fin}
+@09045	Les téléphones, ça va du|TER au TGV, en passant|par le RER, hein !{attente}{page}{fin}
+@09046	Ça, c'est des trains !{attente}|Si je me reprends toute|seule, on est pas sortis !{attente}{page}{fin}
+@09047	Allez, allez !{attente}|Mange vite, sinon ta glace|va fondre !{attente}{page}{fin}
+@09048	Ouais, à pluuus !{attente}{page}{fin}
+@09050	Tiens...|une fille arrive en face.{attente}{page}{fin}
+@09051	Ah ! C'est {E04} !{attente}{page}{fin}
+@09052	(Qu'est-ce que je lui dis ?){n}{fin}
+@09053	　Tu fais quoi ? Tu gênes !{n}{fin}
+@09054	　Hé ! Tu fais quoi, là ?{n}{fin}
+@09055	　T'as l'air de t'ennuyer !{n}{fin}
+@09056	　Tu fais quoi ?{n}{fin}
+@09057	　Salut ! Tu fais quoi ?{n}{fin}
+@09058	Ah, c'est toi, {F03}.|Je suis pressée !{attente}|...Allez, salut !{attente}{page}{fin}
+@09059	J'ai l'impression qu'elle|m'évite carrément...{attente}|Qu'elle me traite comme ça...|c-c'est triste~...{attente}{page}{fin}
+@09060	Ah, {F03}.{attente}|Je suis sortie me promener !{attente}|Bon, à plus !{attente}{page}{fin}
+@09061	{F03} ! Quel hasard !{attente}|J'étais en train de me|promener !{attente}{page}{fin}
+@09062	...Bon, à plus,|{F03} !{attente}{page}{fin}
+@09063	Elle avait l'air un peu|contente de me voir !{attente}|...Ça se présente plutôt|bien, on dirait !{attente}{page}{fin}
+@09064	Un jour, ce serait bien|qu'on se promène tous|les deux !{attente}|...Hihi♥{attente}{page}{fin}
+@09065	Se promener ensemble !{attente}|Si seulement ça arrivait !{attente}|Ah, que je suis heureux !{attente}{page}{fin}
+@09066	Tiens...|une fille sort de là.{attente}{page}{fin}
+@09067	Un « salut » tout sec,|c'est pas une réponse...{attente}|Est-ce qu'elle m'évite ?!{attente}{page}{fin}
+@09068	Ah, {F04}...|Je sors du karaoké.{attente}{page}{fin}
+@09070	Ah, {F04}, toi aussi|tu viens au karaoké ?{attente}|Moi, j'ai fini de chanter !{attente}{page}{fin}
+@09071	...Bon,|à la prochaine !{attente}{page}{fin}
+@09072	La prochaine fois, j'aimerais|chanter avec toi, {F04}...{attente}|...Haha !{attente}{page}{fin}
+@09073	Le karaoké ensemble...|ça veut dire tous les deux ?{attente}|J'en ai le cœur|qui s'emballe !{attente}{page}{fin}
+@09074	(Devant le café manga){n}{fin}
+@09075	Ah, c'est toi, {F05} !{attente}|Je suis juste venue lire|des mangas pour souffler.{attente}{page}{fin}
+@09076	Allez, à plus !{attente}{page}{fin}
+@09077	Te voir, {F07}, ça|m'a donné la force de|réviser en rentrant♥{attente}{page}{fin}
+@09078	Oh, {F05} !{attente}|Je viens de lire des mangas|pour me détendre !{attente}{page}{fin}
+@09079	Bon, {F05},|à la prochaine !{attente}{page}{fin}
+@09080	Un jour, j'aimerais bien|lire des mangas tranquilles,|tous les deux♥{attente}|...Hihi♥{attente}{page}{fin}
+@09081	Tranquilles, tous les deux !{attente}|Si seulement ça arrivait !{attente}|Ah, que je suis heureux !{attente}{page}{fin}
+@09082	(Devant le musée d'art){n}{fin}
+@09083	Muhiii~ ! Dehors, on meurt|de chaud~ !|Turbo dash~ !{attente}{page}{fin}
+@09084	{E08} a filé à toute|vitesse, je ne sais où...{attente}{page}{fin}
+@09085	Cette mine dégoûtée... à|cause de la chaleur, ou|parce qu'elle m'a croisé ?{attente}|...Ça m'inquiète...{attente}{page}{fin}
+@09086	Ah, {F06}~|Il fait trop chaud, alors|Shinozawa se rafraîchit|au musée~{attente}{page}{fin}
+@09087	Bon, à plus~ !{attente}{page}{fin}
+@09088	Kyaa~ ! {F06}~{attente}|Shinozawa se rafraîchissait|au musée, il fait chaud~ !{attente}{page}{fin}
+@09089	Tu viens pas te|rafraîchir dedans aussi~ ?{attente}|Nyahaha ! À pluuus~{attente}{page}{fin}
+@09090	Te croiser ici, {F06},|c'est trop de bonheur,|Shinozawa va en mourir♥{attente}{page}{fin}
+@09091	Être accueilli avec autant|de joie juste en la croisant,|je suis heureux aussi~♥{attente}{page}{fin}
+@09092	(Bibliothèque de Koigahara){n}{fin}
+@09093	Tiens ?|Une fille devant|la bibliothèque.{attente}{page}{fin}
+@09094	Oh...{attente}|Bonjour...{attente}{page}{fin}
+@09095	Ah, {F07}.{attente}|J'étais en train de réviser|à la bibliothèque.{attente}|Bon, BYE.{attente}{page}{fin}
+@09096	Ah, {F07} !{attente}|Tu viens réviser ?{attente}|Moi, je viens de finir.{attente}{page}{fin}
+@09097	Courage à nous deux pour|les devoirs de vacances !{attente}|Allez, BYE !{attente}{page}{fin}
+@09098	Bon courage pour tes|révisions, {F07} !{attente}|BYE !{attente}{page}{fin}
+@09099	Avec ce qu'elle m'a dit,|j'ai le cœur qui bat, je vais|pas pouvoir réviser !{attente}|Mais je suis heureux~♥{attente}{page}{fin}
+@09100	Ah, c'est toi, {F08}.{attente}|Il faisait chaud, je suis|venue piquer une tête !{attente}|Salut !{attente}{page}{fin}
+@09101	Oh, {F08} !{attente}|Fallait venir plus tôt,|on aurait nagé ensemble !{attente}{page}{fin}
+@09102	La prochaine fois, viens|plus tôt, hein !{attente}|Allez, à pluuus !{attente}{page}{fin}
+@09103	{E0A} était venue nager...{attente}|Pas de bol pour le timing !{attente}|Mais elle avait l'air contente|de me voir ! Trop bien !{attente}{page}{fin}
+@09104	Mais bon, qu'on me voie en|maillot, ça me gêne...{attente}|alors c'est peut-être|mieux... Héhé.{attente}{page}{fin}
+@09105	Alors, {F08}...|à plus...♥{attente}{page}{fin}
+@09106	{E0A} était en mode|petite demoiselle...{attente}|Elle était trop mignonne,|mon cœur s'est emballé !{attente}{page}{fin}
+@09110	Je faisais les courses pour|ma mère quand quelqu'un|m'a interpellé !{attente}{page}{fin}
+@09111	Ah, c'est toi, {F03}.|Je t'ai pris pour quelqu'un|que je connais...{attente}{page}{fin}
+@09112	Désolée !|...Salut !{attente}{page}{fin}
+@09113	On aurait au moins pu|discuter un peu...{attente}|On dirait qu'elle m'évite...|Elle me déteste ?{attente}{page}{fin}

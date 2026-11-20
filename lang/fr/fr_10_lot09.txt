@@ -1,0 +1,398 @@
+; Lot 09 : clubs (basket, ping-pong), scènes « troublantes » (Ruruna, Mizuki, Yumi, Momoyo, Mirei, Konoha),
+; textes de démo, intro, plage de Sazanami.
+
+; ---- club de basket
+@02936	Après les cours, pendant|l'entraînement au club|de basket...{attente}{page}{fin}
+@02937	Tiens, du basket...{attente}|Je m'y connais pas trop,|mais ça a l'air dur...{attente}{page}{fin}
+@02938	Oh, c'est {F03}...{attente}|Il s'entraîne sérieusement,|en fait...{attente}{page}{fin}
+@02939	Oh, c'est {F03} !{attente}|Mais il est super doué !|Trop fort !{attente}{page}{fin}
+@02940	{F03}, quand il fait|du sport, il est|vraiment craquant !{attente}{page}{fin}
+@02941	J'ai l'impression qu'un|regard brûlant suit|chacun de mes pas...{attente}{page}{fin}
+@02942	Ça me rend tout chose...|Je vais finir par ne plus|pouvoir courir !!{attente}{page}{fin}
+@02943	{F07} qui marque|en double pas...|Je ne m'y attendais pas.{attente}{page}{fin}
+@02944	Wow !{attente} Ça, c'était|un fadeaway !{attente}|{F07}, bravo !{attente}{page}{fin}
+@02945	Le basket, hein...{attente}|De toute façon, moi,|je suis petite, na !{attente}{page}{fin}
+@02946	Oh là, elle déprime...{attente}|Ça la travaille vraiment...{attente}|C'est normal qu'il y ait|plein de grands, ici...{attente}{page}{fin}
+@02947	...Bref, elle n'est pas|venue pour me voir,|en fait...{attente}|Elle s'ennuie, ou quoi ?{attente}{page}{fin}
+@02948	Dis, {F03}...{attente}|Le tournoi régional,|c'est bientôt !{attente}|Tu te sens comment ?{attente}{page}{fin}
+@02949	Tu vas gagner, hein !{attente}|{E04} t'encourage, alors|donne tout ce que tu as !{attente}{page}{fin}
+@02950	{F03} !{attente}|Le tournoi national|approche, tu es à fond,|on dirait !{attente}{page}{fin}
+@02951	Tu vas être champion du|Japon, c'est sûr !{attente}|Puisque {E04} est là pour|t'encourager ! Hihi !{attente}{page}{fin}
+@02952	{F04} !{attente}|Le tournoi régional de|basket, c'est bientôt !{attente}{page}{fin}
+@02953	{F04} !{attente} Le tournoi|national de basket, c'est|pour très bientôt !{attente}{page}{fin}
+@02954	{F05} !{attente}|Ça y est, le tournoi|national de basket !{attente}{page}{fin}
+@02955	Il paraît que cette année,|c'est toi, {F05}, la clé|du jeu de l'équipe !{attente}{page}{fin}
+@02956	{F07} !{attente}|Le tournoi régional|de basket approche !{attente}{page}{fin}
+@02957	{F07} !{attente}|Le club de basket va|enfin aux championnats|nationaux !{attente}{page}{fin}
+@02958	Bon, à bientôt !{attente}|Break a leg !!|Bonne chance !{attente}{page}{fin}
+@02959	T'as été choisi comme|titulaire, alors donne|tout, hein !!{attente}{page}{fin}
+@02960	Tu vises le titre national,|pas vrai ?!{attente}|Assure, hein !{attente}|Je suis à fond avec toi !{attente}{page}{fin}
+
+; ---- club de ping-pong
+@02961	Après les cours, pendant|l'entraînement au club|de ping-pong...{attente}{page}{fin}
+@02962	{F04} !|Joli coup coupé !!{attente}|Continue comme ça !{attente}{page}{fin}
+@02963	Oh, le club de ping-pong|s'entraîne, aujourd'hui...{attente}|Hihi ! Ça a l'air amusant !{attente}{page}{fin}
+@02964	Oh, {F07} !{attente}|Je ne pensais pas qu'il|pouvait être aussi vif !{attente}{page}{fin}
+@02965	Wow !{attente} Quel coup|lifté incroyable !{attente}|{F07}, tu es doué !{attente}{page}{fin}
+@02966	{F04} !{attente}|Le tournoi régional de|ping-pong, c'est bientôt !{attente}{page}{fin}
+@02967	Participer à un tournoi|dès la 1re année,|c'est génial !{attente}{page}{fin}
+@02968	{F04} !{attente}|Le tournoi national de|ping-pong approche !{attente}{page}{fin}
+@02969	Fini, l'entraînement|du jour !{attente}|Qu'est-ce que j'ai sué !{attente}{page}{fin}
+@02970	{F08} !{attente}|Beau boulooot !!!{attente}{page}{fin}
+@02971	Ah ! Cette voix pleine|d'énergie... pas besoin|de réfléchir : c'est|{E0A} !{attente}{page}{fin}
+@02972	Ouais ! {F08}, t'es|resté t'entraîner tard !|Chapeau !{attente}{page}{fin}
+@02973	Ouais, je sais pas,|si je m'entraîne pas,|je me sens pas bien !{attente}{page}{fin}
+@02974	Je vois !{attente}|Avec le tournoi régional|qui approche, on est|motivés, hein !{attente}{page}{fin}
+
+; ---- cours de sport de la 1-D (Ruruna)
+@02975	Soudain, ça s'agite|dehors, sous la fenêtre.{attente}|Qu'est-ce qui se passe... ?{attente}{page}{fin}
+@02976	Je jette un œil dehors :|les garçons de la 1-D|courent partout...{attente}{page}{fin}
+@02977	Ah, ils ont sport après...{attente}|Des mecs en tenue de|sport, c'est pas vraiment|ce que je veux voir...{attente}{page}{fin}
+@02978	......Hein !{attente}|Les filles sortent aussi !{attente}|Ça veut dire que peut-être|{E04} aussi...{attente}{page}{fin}
+@02979	Ah ! La voilà !{attente}|En p-petit short de gym !!{attente}|...E-enfin...|c'est normal, hein...{attente}{page}{fin}
+@02980	Mais comme je n'ai pas|l'habitude de la voir|comme ça... ça me fait|un drôle d'effet !{attente}{page}{fin}
+@02981	Quand même...{attente}|Qu'elles sont belles, les|jambes de {E04}...{attente}|Blanches et si douces...{attente}{page}{fin}
+@02982	...Mais qu'est-ce que je|regarde, moi !{attente}|Non, non, non !{attente}|Regarde ailleurs !!{attente}{page}{fin}
+@02983	M-mais... j'aimerais bien|regarder encore un peu...{attente}|......{attente}|......Hein ?{attente}{page}{fin}
+@02984	Ah !{attente}|Elle réajuste son|s-short qui remonte !{attente}{page}{fin}
+@02985	Un geste tout bête...{attente}|...mais tellement sexy...{attente}|...Mon cœur s'emballe !{attente}{page}{fin}
+@02986	M-mater en douce, c'est|pas bien, je sais, mais...|j-je peux pas m'en priver !{attente}|Q-qu'est-ce que je fais ?!!{attente}{page}{fin}
+@02987	...{attente}Mais...{attente}|...si elle me laissait poser|la tête sur ces cuisses...{attente}{page}{fin}
+@02988	Ce serait sûrement moelleux,|tout chaud, tout doux...{attente}|Q-qu'est-ce que ce serait|bon...{attente}{page}{fin}
+@02989	Les cuisses de {E04}...|toutes blanches, toutes|douces...{attente}|Aaah ! Mon cœur s'affole !!{attente}{page}{fin}
+@02990	Ah...{attente}|Ooh, elle est partie...{attente}|J'aurais voulu en voir plus,|mais...{attente} Pfff, dommage !{attente}{page}{fin}
+@02991	...C'est pas le moment|de dire des bêtises !{attente}|Faut que je retourne en|classe, moi aussi !{attente}{page}{fin}
+
+; ---- tricot (Ruruna)
+@02992	{E04} m'apprenait|à tricoter des torsades...{attente}{page}{fin}
+@02993	Oui, c'est ça !{attente}|{F03}, tu as fait|de sacrés progrès !{attente}{page}{fin}
+@02994	Bon, maintenant,|tu changes d'aiguille !{attente}{page}{fin}
+@02995	Je change d'aiguille...{attente}|comme ça...{attente} Ah !|J'ai fait tomber la laine !{attente}{page}{fin}
+@02996	Oh là là, quel maladroit...{attente}|Et moi qui venais juste|de te féliciter...{attente}{page}{fin}
+@02997	Pardon !{attente} Je la ramasse,|attends une seconde...{attente}|Hop là...{attente}{page}{fin}
+@02998	...Hein ?{attente}|Elle est passée où...{attente}|Voyons voir...{attente} Hm ?{attente}{page}{fin}
+@02999	Waah !{attente}|S-sous cet angle...{attente}|o-on pourrait presque voir !{attente}{page}{fin}
+@03000	Aaah !{attente} Là, j'ai cru|apercevoir un petit|truc blanc !{attente}{page}{fin}
+@03001	...{attente}Mais qu'est-ce que|je regarde, moi !{attente}|Non, non, non !{attente}|Cherche la laine !!{attente}{page}{fin}
+@03002	Ouh !{attente}|Là, j'ai l'impression que|les jambes de {E04}|ont bougé...{attente}{page}{fin}
+@03003	Aaah...|Les jambes de {E04}...|J'arrête pas d'y penser !{attente}{page}{fin}
+@03004	Aah...{attente} Rien que d'être|si près des jambes de|{E04}, mon cœur bat|à tout rompre !!{attente}{page}{fin}
+@03005	Tiens ?{attente}{page}{fin}
+@03006	Glups !!|O-oh non !!{attente}{page}{fin}
+@03007	{F03}, ta pelote|a roulé de ce côté !{attente}{page}{fin}
+@03008	Hein ?{attente} Ah, v-vraiment ?{attente}|Pas étonnant que je la|trouvais pas, ha, ha, ha !{attente}{page}{fin}
+@03009	Tu peux sortir !{attente}|Je l'ai ramassée !{attente}{page}{fin}
+@03010	O-oui...{attente}{page}{fin}
+@03011	Tiens !{attente}|Ne la fais plus tomber !{attente}{page}{fin}
+@03012	M-merci...{attente}{page}{fin}
+@03013	......|Avec un sourire pareil,|j'ai l'impression d'avoir|fait un truc horrible...{attente}{page}{fin}
+@03014	Waaaah...{attente}|Je culpabilise à mort !!{attente}|.........{attente}|N'empêche... dommage !{attente}{page}{fin}
+
+; ---- athlétisme (Mizuki)
+@03017	Salut, Mizuki !{attente}|Beau boulot... hein ?!{attente}{page}{fin}
+@03018	Waah !{attente}|Son débardeur est collé|par la sueur, et en plus...|i-il est transparent !{attente}{page}{fin}
+@03019	Oui, merci !{attente}|Je t'ai vu tout à l'heure,|t'as l'air en pleine forme !{attente}{page}{fin}
+@03020	En regardant bien...|la silhouette de Mizuki...|si nette{attente}, si pleine{attente},|si ronde{attente}... Aaah !{attente}{page}{fin}
+@03021	...Ah...{attente}|Le vent m'apporte|un léger parfum...{attente}{page}{fin}
+@03022	C'est l'odeur de Mizuki...{attente}|Sa sueur et un doux|parfum de fille...{attente}|C'est trop troublant...{attente}{page}{fin}
+@03023	C-c'est tellement troublant|que j'ai la tête qui|tourne...{attente} Et puis...{attente}{page}{fin}
+@03024	Mon cœur va exploser...|d'une seconde à l'autre !!{attente}|Mizuki...{attente}|Mizuki...{attente}{page}{fin}
+@03025	Oh, {F04} !{attente}|T'es tout rouge !{attente}{page}{fin}
+@03026	T'as pas trop couru ?{attente}|Moi, je retourne courir,|mais force pas trop, hein !{attente}{page}{fin}
+@03027	......{attente}|Qu'elle s'inquiète comme ça|pour moi... j'ai l'impression|d'être un sale type...{attente}{page}{fin}
+@03028	L'avoir matée du début|à la fin...{attente}|Je culpabilise à mort !!{attente}|.........{attente}{page}{fin}
+
+; ---- étoile filante (Mizuki)
+@03029	On bavardait gaiement,|de tout et de rien...{attente}{page}{fin}
+@03030	L'autre jour, en regardant|les étoiles, j'ai vu une|étoile filante !{attente}|C'était magnifique !!{attente}{page}{fin}
+@03031	Ah ouais ?!{attente} Veinarde !{attente}|Tu as fait un vœu ?{attente}{page}{fin}
+@03032	Justement...{attente}|J'étais tellement fascinée|que j'ai oublié...{attente}{page}{fin}
+@03033	Ha ha !{attente}|T'es plus tête en l'air|que je croyais !{attente}{page}{fin}
+@03034	Grave !{attente} Sur le coup,|je me suis trouvée|trop nulle...{attente}{page}{fin}
+@03035	Mizuki a croisé les bras,|un peu fâchée contre|elle-même, et a soupiré...{attente}{page}{fin}
+@03036	Pfff...{attente}|La prochaine fois, je fais|un vœu, c'est décidé !{attente}{page}{fin}
+@03037	Mizuki a serré ses bras|croisés pour montrer|sa détermination...{attente} Hein !{attente}{page}{fin}
+@03038	En regardant bien...{attente}|entre ses bras...|sa poitrine qui ressort...|...{attente}Gloups !{attente}{page}{fin}
+@03039	Mizuki...{attente} elle a une|poitrine si généreuse...?{attente}|J'avais jamais remarqué !{attente}{page}{fin}
+@03040	Mais je sais pas...{attente}|Ça a l'air rebondi...{attente}|tout doux...{attente}|et ferme...{attente}{page}{fin}
+@03041	Aah...{attente}|Si je pouvais y enfouir|mon visage, comme ça...{attente}|ce serait sûrement...{attente}{page}{fin}
+@03042	Aaah ! N-non, arrête !|Je peux pas m'empêcher|de regarder !{attente} Et puis,{attente}|mon cœur s'emballe...{attente}{page}{fin}
+@03043	Si seulement je pouvais|me glisser entre ses bras,|tout contre ces douces|rondeurs...{attente}{page}{fin}
+@03044	Désolée, je t'ai fait|discuter debout trop|longtemps... Ça va pas ?{attente}{page}{fin}
+@03045	N-non...{attente}|Pas du tout !{attente}|C-c'est rien, je t'assure !{attente}{page}{fin}
+@03046	Bon, tant mieux...{attente}|Je vais y aller, alors.|Allez, à plus !{attente}{page}{fin}
+@03047	O-oui... à plus !{attente}|Merci de t'être|inquiétée pour moi...{attente}{page}{fin}
+
+; ---- petit boulot (Yumi)
+@03048	Ouf, ouf, quelle chaleur !!{attente}|Pourquoi il fait aussi chaud|dans une cuisine !!{attente}{page}{fin}
+@03049	Trempé de sueur, c'est|horrible...{attente}|J'en ai ras le bol !{attente}|......{attente} Hm ?{attente}{page}{fin}
+@03050	D'ailleurs...|Yumi, au comptoir, doit|crever de chaud, elle aussi,|la pauvre...{attente}{page}{fin}
+@03051	Eh oui{attente}, sa chemise est|trempée de sueur,|toute collée à sa peau...{attente}{page}{fin}
+@03052	Mais en regardant bien...{attente}|elle transpire tellement|que sa chemise devient|transparente...{attente}{page}{fin}
+@03053	Ah !{attente} On v-voit à travers !!|C'est pas un peu risqué ?!{attente}|On voit même nettement|les bretelles du soutif !!{attente}{page}{fin}
+@03054	Je devrais sans doute|pas regarder...{attente}|mais si c'est visible,|j'y peux rien !{attente}{page}{fin}
+@03055	...Pourtant, Yumi, je la|voyais comme une grande|sœur, je la croyais|plus costaude...{attente}{page}{fin}
+@03056	Mais elle est toute fine...{attente}|Un dos qui donne envie|de... tout doucement...|la soutenir...{attente}{page}{fin}
+@03057	Oui...|tout doucement, de dos...|la serrer par les épaules...{attente}{page}{fin}
+@03058	Et puis...|et puis...{attente}|Aah... Yumi...|je veux te protéger...{attente}{page}{fin}
+@03059	Hé, {F00} !{attente}|Qu'est-ce que tu rêvasses !{attente}|T'es en plein service !{attente}{page}{fin}
+@03060	Ah, o-oui !{attente}|Pardon, patron !{attente}{page}{fin}
+@03061	...Snif, je me suis fait|enguirlander...{attente}|N'empêche, qu'il était sexy,|le dos de Yumi...{attente}{page}{fin}
+
+; ---- fragments (Mirei, Konoha)
+@03062	À ce moment-là, mon regard|est resté scotché sur|la tenue de {E09} !{attente}{page}{fin}
+@03063	La poitrine de {E09}|débordait, d'un blanc|presque translucide,|si rebondie...{attente}{page}{fin}
+@03064	...En Amérique,|tout le monde portait|des maillots comme ça,|pourtant...{attente}{page}{fin}
+@03065	En voyant {E09}|comme ça...{attente}{page}{fin}
+@03066	...J'ai l'impression|que les yeux de {E09}|essaient de me dire|quelque chose...{attente}{page}{fin}
+@03067	{E09} me regarde,|l'air gênée...{attente}|...{attente}Ses lèvres entrouvertes|tremblent légèrement...{attente}{page}{fin}
+@03068	{E09} et moi, on|continue de s'embrasser,|nos sentiments brûlant|à petit feu...{attente}{page}{fin}
+@03069	Je me disais ça, mais...|mon regard restait|scotché sur la poitrine|de {E0A}...{attente}{page}{fin}
+@03070	...Du coin de l'œil,|je jette des regards|furtifs vers la poitrine|de {E0A}...{attente}{page}{fin}
+@03071	Je ne sais pas ce qui|lui a pris, mais...{attente}{page}{fin}
+@03072	Mon regard est resté|scotché sur {E0A} !{attente}{page}{fin}
+@03073	...Au même moment, mon|regard a été aspiré par|le maillot de {E0A} !{attente}{page}{fin}
+@03074	...Ça chatouille...|...{attente}{page}{fin}
+@03075	Qu'est-ce que tu fais là !|Sors d'ici, vite !!{attente}{page}{fin}
+@03076	J'allais entrer dans le|vestiaire pour me changer...|...{attente}quand soudain...{attente}{page}{fin}
+@03077	Quelqu'un est reparti avec|la clé du vestiaire|des filles !{attente}{page}{fin}
+@03078	Alors j'ai pas eu le choix,|je me changeais ici !|Désoléééée !!{attente}{page}{fin}
+
+; ---- « Don't Believe » (Yumi)
+@03079	(Derrière le lycée){n}{fin}
+@03080	Dis, {F05}, t'as vu|l'émission d'hier,|« Don't Believe » ?{attente}{page}{fin}
+@03081	Ah, celle où... ?{attente}|Un type percute une femme|à forte poitrine, et il se|retrouve la tête coincée...{attente}{page}{fin}
+@03082	Oui, celle-là !{attente}|Il arrivait plus à se|dégager, il a failli|mourir étouffé !{attente}{page}{fin}
+@03083	Ils ont dit qu'elle avait|dû enlever son soutif|pour le sortir de là...{attente}{page}{fin}
+@03084	Avec une poitrine pareille,|elle doit avoir un mal de|dos terrible... Et des|bretelles bien larges !{attente}{page}{fin}
+@03085	Moi, je suis un garçon,|je peux pas savoir...|C'est si fatigant que ça ?{attente}{page}{fin}
+@03086	Évidemment !{attente}|Hmm, voyons...|c'est comme...{attente}{page}{fin}
+@03087	porter un gros sac à dos|sur le ventre, 24 heures|sur 24 !{attente}{page}{fin}
+@03088	Ah ouais, je vois...{attente}|Forcément, on doit avoir|mal au dos, c'est épuisant !{attente}{page}{fin}
+@03089	Mais...{attente} t'as de la|chance, senpai, toi, t'as|pas ce problème !|Ha ha !{attente}{page}{fin}
+@03090	Dis donc, t'es gonflé !{attente}|Moi aussi, j'ai une|belle poitrine ! Regarde !{attente}{page}{fin}
+@03091	Je plaisantais, mais...{attente}|Yumi, piquée au vif, a|remonté sa poitrine|avec ses deux bras !{attente}{page}{fin}
+@03092	Euh, non, c'est que...|« regarde », c'est vite dit...{attente}|Euh...{attente}{page}{fin}
+@03093	Waouh !{attente}|Elle est vraiment plus|grosse que je pensais !{attente}|Et q-quel décolleté !!{attente}{page}{fin}
+@03094	Et puis ça fait pas|forcé du tout...{attente}|On dirait que ça déborde|d'entre ses bras...{attente}{page}{fin}
+@03095	Comme dans l'histoire|de « Don't Believe »,|tout à l'heure...{attente}{page}{fin}
+@03096	dans la poitrine de Yumi,|j'aimerais bien enfouir|mon visage... et étouffer...{attente}{page}{fin}
+@03097	Ce serait sûrement doux...|tout chaud...|et ça sentirait bon...{attente}{page}{fin}
+@03098	Aaah !|Rien que d'y penser,|mon cœur bat tellement|qu'il va exploser !{attente}{page}{fin}
+@03099	Alors, hein ?{attente}|Tu oses encore dire|qu'elle est petite ?{attente}{page}{fin}
+@03100	Euh, non...|Elle est... pas petite...{attente}|Pardon...{attente}{page}{fin}
+@03101	Pas petite, c'est peu dire !|Une poitrine pareille...{attente}|...{attente}J'en peux plus,|j'ai le cœur qui s'affole !{attente}{page}{fin}
+@03102	Bien !|Je vois que tu as compris !{attente}|Je rigole !{attente}{page}{fin}
+@03103	Oh non...{attente}|{F05}, pourquoi tu|rougis comme ça ?!{attente}{page}{fin}
+@03104	Tu vas me faire rougir,|moi aussi...{attente}|Bon, à plus !{attente}{page}{fin}
+@03105	Soudain gênée, Yumi est|partie presque en courant,|toute rouge...{attente}{page}{fin}
+@03106	La poitrine de Yumi...|elle était aussi grosse|que ça...{attente}{page}{fin}
+@03107	Ouf...{attente} Mon cœur bat|encore à tout rompre...{attente}{page}{fin}
+
+; ---- caméra cachée (Momoyo)
+@03108	Soudain, quelqu'un a surgi|au coin du couloir !{attente}{page}{fin}
+@03109	Tadaaa !!!{attente}{page}{fin}
+@03110	Ah, c'est {E08} !{attente}|Dans son élan, sa jupe|s'est s-soulevée !{attente}{page}{fin}
+@03111	Des cuisses si blanches...|et ce petit bout que|j'entrevois, c'est... ?!{attente}|C-c'est peut-être... ?!{attente}{page}{fin}
+@03112	Oh... c-ça, c'est|beaucoup trop pour moi !!{attente}{page}{fin}
+@03113	Je savais que c'était mal,|mais j'arrivais pas à|quitter des yeux les|cuisses de {E08} !{attente}{page}{fin}
+@03114	Dis, dis !{attente}|T'as eu peur ?{attente}|T'as eu peuuur ?{attente}{page}{fin}
+@03115	Nyahaha !{attente}|{F06} est tout|figééé !{attente}{page}{fin}
+@03116	Héhéhé...|Caméra cachée Shinozawa :|suc-cès-to-tal !!{attente}{page}{fin}
+@03117	Bon, Shinozawa retourne|en classeuuh~{attente}|À plus !{attente}{page}{fin}
+@03118	C'est vrai que j'ai eu|un choc...{attente} mais c'est à|cause des cuisses toutes|blanches de {E08}...{attente}{page}{fin}
+@03119	Et puis... si elle avait|surgi un peu plus vite,|j'aurais tout vu...{attente}|Raah, dommage !{attente}{page}{fin}
+@03120	Aaah !|Les cuisses de Shinozawa|sont gravées dans ma tête !{attente}{page}{fin}
+
+; ---- chaufferette (Momoyo)
+@03121	Dis, {F06}~|T'as pas un peu|chaud, toi~ ?{attente}{page}{fin}
+@03122	Non, moi j'ai pas chaud.{attente}|J'aurais même un peu froid.{attente}{page}{fin}
+@03123	Funyaa...{attente}|Shinozawa, elle a chaud...|Pourquoi donc, hein~ ?{attente}{page}{fin}
+@03124	T'as pas attrapé froid ?|Tu te sens pas bien ?{attente}{page}{fin}
+@03125	Ah...{attente}|J'ai chauuud...|Trop chauuud !!{attente}{page}{fin}
+@03126	Tout à coup, {E08} s'est|mise à déboutonner|sa veste !{attente}{page}{fin}
+@03127	C-c'est pas vrai...{attente}|Même si t'as chaud...|c'est pas une bonne idée...{attente}|Ah, elle ouvre sa veste !{attente}{page}{fin}
+@03128	Nyahaha !{attente}|J'avais oubliééé !{attente}{page}{fin}
+@03129	Shinozawa avait mis une|chaufferette dans sa|poche de poitrine~{attente}|Pfiou, j'avais chaud !{attente}{page}{fin}
+@03130	Ha... ha ha...{attente}|C'était donc ça...|Forcément, t'avais chaud...{attente}{page}{fin}
+@03131	La poitrine de {E08}...|elle est plutôt grosse !!{attente}{page}{fin}
+@03132	On dirait presque que son|chemisier va craquer...{attente}{page}{fin}
+@03133	Si elle bombait encore un|peu le torse, les boutons|sauteraient... et tout|jaillirait d'un coup...{attente}{page}{fin}
+@03134	Et si ça arrivait...{attente}|......Ouh !|C'est trop !!{attente}{page}{fin}
+@03135	E-et puis...|avec une taille pareille,|ça doit être super...|tout doux...{attente}{page}{fin}
+@03136	...Avec une taille pareille,|ça tiendrait même pas dans|la paume de ma main...{attente}|I-incroyable...{attente}{page}{fin}
+@03137	Mon imagination commençait|à s'emballer...{attente}|Mon cœur cognait si fort|que j'en étouffais...{attente}{page}{fin}
+@03138	Oups, je me suis un peu|trop refroidie !{attente}|Shinozawa a froid !{attente}{page}{fin}
+@03139	Nyaha~ !{attente}|Une chaufferette, c'est|quand même bien chaud~ !{attente}{page}{fin}
+@03140	Ah...{attente}|T-tant mieux...{attente}{page}{fin}
+@03141	Oui, tant mieux~ !|Et alors...{attente}{page}{fin}
+@03142	On a continué à papoter,|mais j'étais ailleurs : je|ne pensais qu'à la|poitrine de {E08}...{attente}{page}{fin}
+
+; ---- escalier (Mirei)
+@03143	Oh, {F07} !{attente}|Tu tombes bien !|Tu veux bien m'aider ?{attente}{page}{fin}
+@03144	Hein ? T'aider à quoi ?{attente}{page}{fin}
+@03145	Le professeur m'a demandé|d'aller chercher les|documents pour le cours.{attente}{page}{fin}
+@03146	Ah, c'est tout ?|Pas de problème !{attente}{page}{fin}
+@03147	Tu me sauves !{attente}|Merci beaucoup !{attente}|Allons-y !{attente}{page}{fin}
+@03148	Je suivais {E09} dans|l'escalier, pour aller|chercher les documents...{attente}{page}{fin}
+@03149	Désolée de te faire|perdre ta récréation|pour ça...{attente}{page}{fin}
+@03150	Hein ? Mais non,|pas du tout...{attente}{page}{fin}
+@03151	Je lève la tête vers la voix|de {E09}, et là...{attente}{page}{fin}
+@03152	Waah !|Les jambes nues de {E09} !!{attente}{page}{fin}
+@03153	P-pas du tout...|ça me fait plaisir...|ha... ha ha...{attente}{page}{fin}
+@03154	Plus je les regarde, plus|je les trouve fines et|belles, les jambes|de {E09}...{attente}{page}{fin}
+@03155	À chaque marche, elles|se tendent... c'est|drôlement sexy...{attente}{page}{fin}
+@03156	Et en plus... à chaque pas,|sa jupe virevolte et|attire le regard...{attente}{page}{fin}
+@03157	Ah !|Encore un peu et je vois !{attente}|Ouh, waah !{attente}|Raah, dommage !!{attente}{page}{fin}
+@03158	Oh !|C-cette fois, oui !{attente}|Ooh !{attente}|Ah, raté...{attente}{page}{fin}
+@03159	On voit presque, mais pas|tout à fait... ça me rend|encore plus fébrile !{attente}|Raah, j'en peux plus !!{attente}{page}{fin}
+@03160	Tiens ? Qu'est-ce qu'il y a ?|Tu as le souffle court...{attente}|Tu es fatigué ?{attente}{page}{fin}
+@03161	N-non... haa, haa...|pas du tout...|pff, pff...{attente}{page}{fin}
+@03162	{E09} me regarde,|l'air inquiet...{attente}{page}{fin}
+@03163	A-allez ! Dépêchons-nous|d'aller chercher les|documents !{attente}{page}{fin}
+@03164	Oui, tu as raison !{attente}|Allons-y !{attente}{page}{fin}
+@03165	Chaque fois que la jupe|de {E09} virevolte,|mon regard est attiré|par là...{attente}{page}{fin}
+
+; ---- prononciation anglaise (Mirei)
+@03166	Au club de conversation|anglaise, {E09} m'apprenait|la bonne prononciation...{attente}{page}{fin}
+@03167	Non, ce n'est pas ça.|Allez, encore une fois !{attente}{page}{fin}
+@03168	T... trouuu...|...{attente}{page}{fin}
+@03169	Mais non !{attente}|Là, tu dis « true » !|Mords-toi un peu la langue !{attente}{page}{fin}
+@03170	C-comme ça... ?{attente}{page}{fin}
+@03171	Oui, et dis-le comme ça !{attente}|Through this|way !{attente}{page}{fin}
+@03172	Th... trouuu...|zisse ouè...{attente}{page}{fin}
+@03173	Oh là là !{attente} Pourquoi tu|rentres ta langue|exprès comme ça ?{attente}{page}{fin}
+@03174	Regarde bien le mouvement|de ma bouche !{attente}{page}{fin}
+@03175	Agacée par ma lenteur|à comprendre, {E09} a fini|par se pencher vers moi !{attente}{page}{fin}
+@03176	Waah !|La poitrine de {E09}|se resserre...|...ah, ah, aaah !{attente}{page}{fin}
+@03177	Through...|« th », hein !{attente}|Through...{attente}{page}{fin}
+@03178	Le décolleté... le décolleté...|on le voit si bien !!{attente}{page}{fin}
+@03179	La voix de {E09} résonne|au loin, répétée comme|une formule magique...{attente}{page}{fin}
+@03180	Qu'il a l'air doux,|le décolleté de {E09}...{attente}|Si je pouvais y enfouir|mon visage, comme ça...{attente}{page}{fin}
+@03181	Un léger parfum sucré,|celui de {E09},|me chatouille le nez...{attente}{page}{fin}
+@03182	{E09}...|{E09}...|Je... je...{attente}{page}{fin}
+@03183	{F07} !{attente}|Tu regardes bien, au moins ?{attente}{page}{fin}
+@03184	Oui...|ça a l'air...|tellement agréable...{attente}{page}{fin}
+@03185	Z-zut !{attente}|J'ai dit tout haut|ce que je pensais !{attente}|C'est la cata !!{attente}{page}{fin}
+@03186	Non, euh... je veux dire...|une prononciation aussi|belle, c'est agréable...{attente}{page}{fin}
+@03187	Enfin...|j'étais sous le charme...{attente}{page}{fin}
+@03188	Ah, c'est ça...{attente}|Mais toi aussi, {F07}, tu|y arriveras avec un peu|d'entraînement !{attente}{page}{fin}
+@03189	Allez, on s'y remet !{attente}|Répète après moi !{attente}|Through !{attente}{page}{fin}
+@03191	Good !{attente}|C'est très bien, continue !{attente}{page}{fin}
+@03192	...Mais{attente}, pendant un bon|moment, le décolleté de|{E09} est resté gravé|devant mes yeux...{attente}{page}{fin}
+
+; ---- lunettes (Konoha)
+@03193	Et là... tout à coup,|{E0A} a remonté ses|lunettes du bout du doigt|en criant...{attente}{page}{fin}
+@03194	Raaah, quand je transpire,|j'ai beau les remonter,|elles glissent tout le temps !{attente}{page}{fin}
+@03195	C'est galère, les lunettes...{attente}|Mais comment t'as fait pour|avoir une si mauvaise vue ?{attente}{page}{fin}
+@03196	Aïe !{attente}|Tu me poses LA question ?{attente}|Tu me coinces, là !{attente}{page}{fin}
+@03197	En fait, c'est parce que je|regarde trop d'animes et|de mangas, voilà !{attente}{page}{fin}
+@03198	Ha ha ! Ah, c'était ça !{attente}|Ça m'étonne pas !{attente}{page}{fin}
+@03199	C'est un compliment ?{attente}|Ou tu te moques ?{attente}|Faut savoir !{attente}{page}{fin}
+@03200	Euh, non, enfin...{attente}|C'est un compliment,|évidemment !{attente}{page}{fin}
+@03201	Mouais...|Bon, je vais te croire !{attente}{page}{fin}
+@03202	Mais tu sais, ma vue est|pas si mauvaise que ça !|Regarde...{attente}{page}{fin}
+@03203	{E0A} a relevé ses|lunettes sur son front et|s'est mise à lire une|affiche au loin...{attente}{page}{fin}
+@03204	Mardi prochain...|Euh... des presti...|digitateurs... hein ?{attente}{page}{fin}
+@03205	{E0A}... elle est|p-peut-être mignonne...{attente}|Ses yeux brillent... ils sont|magnifiques...{attente}{page}{fin}
+@03206	Une fille jolie sans|ses lunettes... ce grand|classique des mangas|existe vraiment...{attente}{page}{fin}
+@03207	On dirait...|une autre personne...{attente}{page}{fin}
+@03208	Si elle détachait ses|cheveux et s'habillait bien...{attente}|elle se changerait peut-être|en vraie beauté...{attente}{page}{fin}
+@03209	...Plus je la regarde...{attente}|plus j'ai l'impression|d'être aspiré par ces|yeux qui brillent...{attente}{page}{fin}
+@03210	Bwaah !{attente}|Pas des prestidigitateurs !{attente}|Des prestataires !{attente}{page}{fin}
+@03211	Pfff !!{attente}|Avec ou sans lunettes,|une pile reste une pile !{attente}|C'est bien {E0A}...{attente}{page}{fin}
+@03212	« Des prestataires|viendront cirer les sols » :|j'ai bien réussi à lire !{attente}{page}{fin}
+@03213	Tu vois, ma vue est|pas si mauvaise !{attente}{page}{fin}
+@03214	Tu crois... ?|T'avais l'air d'avoir|bien du mal, pourtant...{attente}{page}{fin}
+@03215	Bon, grâce à ça, j'ai pu|admirer son vrai visage...{attente}|mais ça, je le garde|pour moi...{attente}{page}{fin}
+@03216	Ben ouais...|C'est pour ça que je porte|des lunettes ! Ça me saoule !{attente}{page}{fin}
+@03217	Passe aux lentilles !{attente}|Tu serais mign... enfin,|euh, ce serait plus|pratique...{attente}{page}{fin}
+@03218	Des lentilles, hein...{attente}|Ouais, peut-être...{attente}|Hmm...{attente}{page}{fin}
+@03219	« Tu es mignonne, en plus. »{attente}|Je ne sais pas pourquoi,|mais ces mots, je les|ai ravalés...{attente}{page}{fin}
+@03220	J'ai comme envie que le|joli visage de {E0A}|sans lunettes reste|mon petit secret...{attente}{page}{fin}
+@03221	En y pensant, j'ai soudain|commencé à regretter de|lui avoir conseillé|les lentilles...{attente}{page}{fin}
+@03222	Ah, mais il paraît que|les lentilles, c'est galère|à entretenir, non ?{attente}{page}{fin}
+@03223	C'est vrai, ça...{attente}|Au final, les lunettes,|c'est peut-être le plus|simple !{attente}{page}{fin}
+@03224	Le sourire de {E0A},|derrière ses lunettes, est|presque éblouissant !!{attente}{page}{fin}
+
+; ---- étirements (Konoha)
+@03225	Dis, {F08} !{attente}|Ça fait du bien,|la récré, hein !{attente}{page}{fin}
+@03226	Rester sans bouger en|cours, ça m'ankylose,|je supporte pas !{attente}{page}{fin}
+@03227	Toi, si tu bouges pas,|tu tiens pas en place, non ?{attente}{page}{fin}
+@03228	Ah, peut-être bien !{attente}|Et puis j'ai mal aux|épaules, c'est l'horreur !{attente}{page}{fin}
+@03229	Mmmh !{attente}|Ça fait trop du bien de|s'étirer comme ça !{attente}{page}{fin}
+@03230	C-ce serait... ?!{attente}|Ce renflement... !!{attente}{page}{fin}
+@03231	Pas de doute...{attente}|c'est...{attente}|sa poitrine... !{attente}{page}{fin}
+@03232	Je croyais que {E0A}|avait un corps de gamine,|mais...{attente} je suis|plutôt surpris...{attente}{page}{fin}
+@03233	J'ai l'impression que|{E0A} fait soudain|plus adulte...{attente}|Mon cœur s'emballe...{attente}{page}{fin}
+@03234	Plus j'essaie de ne pas|penser à sa poitrine, plus|mon cœur s'emballe, et|j'ai du mal à respirer...{attente}{page}{fin}
+@03235	Aaah, ça fait du bien !{attente}|Les étirements à la récré,|c'est indispensable !{attente}{page}{fin}
+@03236	Hein ? Ah, oui...|C-c'est vrai...{attente}{page}{fin}
+@03237	Ben ? {F08},|qu'est-ce qui t'arrive ?{attente}|T'as l'air tout raplapla !{attente}{page}{fin}
+@03238	Ah, je sais !{attente}|J'ai compriiis !{attente}|Toi alors, {F08} !{attente}{page}{fin}
+@03239	Elle m'a g-grillé en train|de mater sa poitrine ?!{attente}|Faut dire que j'ai regardé|un bon moment...{attente}{page}{fin}
+@03240	C-c'est la cata...{attente}|Qu'est-ce que je fais...{attente}{page}{fin}
+@03241	T'es comme moi, hein !{attente}|Quand on pense au cours|d'après, on a le moral|à zéro !{attente}{page}{fin}
+@03242	Hein ? Ah... oui,|c'est ça !{attente}|Ha... ha ha !{attente}{page}{fin}
+@03243	Pfiou...{attente}|C'était moins une...{attente}|Heureusement qu'elle a|mal compris...{attente}{page}{fin}
+@03244	Mais du coup, sa poitrine|est gravée encore plus|profond dans ma mémoire...{attente}{page}{fin}
+
+; ---- fragments divers (démo)
+@03245	(Incident en classe){n}{fin}
+@03246	On a fait le chemin|ensemble jusque derrière|le lycée...{attente}{page}{fin}
+@03247	Arrivés au lycée, on est|entrés en classe ensemble.{attente}{page}{fin}
+@03248	Ça sent l'excuse|à plein nez...{attente}{page}{fin}
+@03249	Quand {F07} m'a invitée,|mon cœur a fait...|un petit bond...{attente}{page}{fin}
+@03250	......|Tu sais...{attente}{page}{fin}
+@03251	...Pardon,|{F07}♥{attente}{page}{fin}
+@03252	Mais... depuis que tu|m'as invitée, je suis|tout excitée...{attente}{page}{fin}
+@03253	J'ai l'impression|d'être encore|en train de rêver...{attente}{page}{fin}
+@03254	Et puis, Shinozawa a|l'habitude de patienter|dans les RPG, c'est rien~{attente}{page}{fin}
+@03255	Notre taux de synchro|doit dépasser les|400 pour cent♥{attente}{page}{fin}
+@03256	...C'est comme un auteur|de BD comique qui ferait|un manga de ninjas|sérieux...{attente}{page}{fin}
+@03257	À côté du roi de la|patience des mangas,|c'est rien ! Héhé !{attente}{page}{fin}
+@03258	Sinon...{attente}|le Robot Casse-Amour|pourrait bien décoller|et tout ruiner, hohoho !{attente}{page}{fin}
+@03259	Genre, on pourrait croiser|le prince de la colline...{attente}|Ah{attente}, non, ça risque pas !{attente}{page}{fin}
+@03260	C'est comme un fantôme|revenu d'Amérique qui|viendrait lancer des piques !{attente}{page}{fin}
+@03261	Ceci est une intro|provisoire.{attente}{page}{fin}
+
+; ---- intro (version démo)
+@03262	(Cérémonie d'entrée){n}{fin}
+@03263	À partir d'aujourd'hui,|je suis enfin lycéen !{attente}{page}{fin}
+@03264	Au collège, j'étais|complètement transparent,|les filles m'ignoraient...{attente}{page}{fin}
+@03265	Maintenant que je suis au|lycée, je vais tout donner :|études, club et amour !{attente}{page}{fin}
+@03266	Parce qu'après tout,|au lycée...{attente}{page}{fin}
+@03267	les filles aussi...{attente}|ont envie de découvrir|l'amour... et du coup...{attente}{page}{fin}
+@03268	moi aussi, j'aurai|ma chance...{attente}|...Héhéhé♥{attente}{page}{fin}
+@03269	Et c'est ainsi...{attente}|que ma vie de lycéen|a commencé !{attente}{page}{fin}
+@03270	J'ai fait la connaissance|de {E09} Okada, de ma|classe, qui a grandi|à l'étranger,{attente}{page}{fin}
+@03271	de {E0A} Kobayashi,|fan de mangas et membre|du club de ping-pong,{attente}{page}{fin}
+@03272	de Mizuki Takao, une|sportive du club|d'athlétisme,{attente}{page}{fin}
+@03273	de Yumi Matsuda, qui a|un petit boulot au|Hamburger KAWAI,{attente}{page}{fin}
+@03274	et de {E08} Shinozawa,|une fan de jeux vidéo...{attente}{page}{fin}
+@03275	Et j'ai retrouvé|{E04} Saeki,|mon amie d'enfance.{attente}{page}{fin}
+@03276	Et maintenant,|que la partie commence !{attente}{page}{fin}
+
+; ---- plage de Sazanami
+@03277	Venir à la mer avec|{F03}{attente}, nager...|manger une glace pilée...{attente}{page}{fin}
+@03278	On a juste marché|ensemble sur la plage,|et pourtant...{attente}{page}{fin}
+@03279	je ne sais pas, ça m'a|vraiment touchée...{attente}{page}{fin}
+@03280	(Incident en rendez-vous){n}{fin}
+@03281	Moi, la mer...|j'aime plutôt bien...{attente}{page}{fin}
+@03282	Tu sais, la plage de|Sazanami, ça fait vraiment|bord de mer, alors je|l'aime bien...{attente}{page}{fin}
+@03283	Avec {F03}, rien que|nous deux, à la plage|de Sazanami...{attente}|{attente}{E04} est ravie♥{attente}{page}{fin}
+@03284	Dis... {F03}...{attente}|Quand {E04} est ici|avec toi, {F03}...{attente}{page}{fin}
+@03285	elle se sent tellement...|apaisée...{attente}{page}{fin}
+@03286	La mer...{attente} on a un peu|l'impression que les gens|matent notre maillot, non ?{attente}{page}{fin}
+@03287	On est juste venus ici,|avec {F04}{attente}, on a|nagé, regardé les vagues...{attente}{page}{fin}
+@03288	Quand je venais toute|seule, cette plage ne me|faisait pas grand effet...{attente}{page}{fin}
+@03289	La plage de Sazanami,|j'ai rien pour ni contre,|mais...{attente}{page}{fin}
+@03290	Waah !!{attente}|L-le haut de son maillot|est hyper sexy...{attente}{page}{fin}
+@03291	J'ai bien essayé de|détourner les yeux...{attente} mais|en vrai, je ne regardais|que là...{attente}{page}{fin}
+@03293	La clavicule de {E04}...|si bien dessinée...{attente}|si sexy...{attente}{page}{fin}
+@03294	Si seulement je pouvais...{attente}|du bout des doigts...|l'effleurer doucement...{attente}{page}{fin}
+@03295	Elle doit être toute lisse,|toute chaude...{attente}|et en la caressant,|ça chatouillerait un peu...{attente}{page}{fin}
+@03296	En faisant descendre mes|doigts... il y aurait ce|décolleté tout blanc...{attente}{page}{fin}
+@03297	Et puis... la poitrine de|{E04}, toute blanche et|douce, qui se soulève à|chaque respiration...{attente}{page}{fin}
+@03298	Elle a l'air de vouloir|sortir de son bandeau...{attente}|Aaah ! Mon cœur va|exploser !{attente}{page}{fin}
+@03299	...Les cheveux de {E04}...{attente}|La clavicule de {E04}...{attente}|Et... la poitrine|de {E04}...{attente}{page}{fin}

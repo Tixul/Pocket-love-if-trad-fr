@@ -1,0 +1,360 @@
+@04815	Kyaa~ ! Kyaa~ !{attente}|C'est trop pour moi~ !!{attente}|Shinozawa s'en vaaa~ !{attente}{page}{fin}
+@04816	Qu'elle dise que je brille,|ça me gêne un peu, mais...{attente}|recevoir des compliments,|c'est trop bon !!{attente}{page}{fin}
+@04817	(À la pharmacie){n}{fin}
+@04818	Tiens ?{attente}|Là, derrière ce rayon...|c'est...{attente}|{E09} !{attente}{page}{fin}
+@04819	{E09} aussi m'a|remarqué, on dirait...{attente}|Elle vient par ici !{attente}{page}{fin}
+@04820	Oh, {F07} !{attente}|Quel hasard de te|croiser ici !{attente}{page}{fin}
+@04821	Toi aussi, {F07},|tu fais des courses ?{attente}{page}{fin}
+@04822	Ouais, enfin...|un truc comme ça.{attente}{page}{fin}
+@04823	Dis, tu ne serais pas venu|acheter des cosmétiques|pour homme, par hasard ?{attente}{page}{fin}
+@04824	Ah, pardon, quelle drôle|de question !{attente}|C'est que je te trouve plus|séduisant, ces temps-ci...{attente}{page}{fin}
+@04825	Oh, il faut que j'y aille...|Allez, à bientôt !{attente}{page}{fin}
+@04826	Héhé...|Elle m'a fait un compliment !{attente}|J'ai bien fait de soigner|mon apparence !{attente}{page}{fin}
+@04827	Oh, {F07} !{attente}|Tu viens acheter des|médicaments ?{attente}|Ou des cosmétiques ?{attente}{page}{fin}
+@04828	Dis, {F07}, tu es|devenu plus séduisant,|ces derniers temps, non ?{attente}{page}{fin}
+@04829	Je me disais que tu|devais faire attention à|ton apparence, toi aussi !{attente}{page}{fin}
+@04830	Hein, c'est vrai ?{attente}|Si c'est le cas...|ça me fait super plaisir !{attente}{page}{fin}
+@04831	Le maquillage, je ne sais|pas trop... mais prendre|soin de sa peau, c'est|important !{attente}{page}{fin}
+@04833	Ces derniers temps... je te|trouvais vraiment devenu|très séduisant, mais...{attente}{page}{fin}
+@04834	Et encore plus en civil !{attente}|Une seconde, {F07}, je|ne t'ai même pas reconnu !{attente}{page}{fin}
+@04835	Vraiment...|tu es superbe...♥{attente}{page}{fin}
+@04836	Elle m'a complimenté !{attente}|Quand elle me regarde avec|des yeux si brûlants,|ça me gêne un peu !{attente}{page}{fin}
+@04837	Tiens ?{attente} Là-bas, le nez|collé à la vitrine des|cartes, c'est...{attente}{page}{fin}
+@04838	C'est bien {E0A} !{attente}{page}{fin}
+@04839	Ah, elle se retourne !{attente}|Elle a senti mon regard ?{attente}|Elle vient par ici !{attente}{page}{fin}
+@04840	Aaah !{attente}|{F08} !!{attente}|Quel hasaaard !{attente}{page}{fin}
+@04841	Ah, au fait !{attente}|{F08}, il paraît que|t'es devenu plus adroit !{attente}{page}{fin}
+@04842	Mais comparé à mon adresse|à moi, t'as encore du|chemin à faire !!{attente}{page}{fin}
+@04843	Ah, et même si je suis|adroite, je triche jamais|aux cartes, hein !{attente}{page}{fin}
+@04844	Bref, {F08}, prends|exemple sur moi et|entraîne-toi dur !{attente}{page}{fin}
+@04845	Devant un tel élan, je n'ai|rien pu dire d'autre que|« oui »...{attente}{page}{fin}
+@04846	Je dois m'accrocher pour ne|pas me faire battre par|{E0A} !{attente}{page}{fin}
+@04847	Ah, au faaait !{attente}|{F08}, t'es devenu|vachement adroit, dis !{attente}{page}{fin}
+@04848	On dirait que t'es presque|à mon niveau, non ?{attente}|Toi, alors, toi !{attente}{page}{fin}
+@04849	Mais je vais pas me laisser|battre aussi facilement,|hein !{attente}{page}{fin}
+@04850	Là, même moi, je fais|plus le poids...{attente}{page}{fin}
+@04851	Je suis un peu jalouse !{attente}|Avec une adresse pareille,|au ping-pong aussi, tu dois|être coriace !{attente}{page}{fin}
+@04852	Héhé...{attente}|Bon, à plus !{attente}|Bye bye-eee~ !{attente}{page}{fin}
+@04853	Emporté par son élan,|je n'ai presque rien pu dire,|mais...{attente}{page}{fin}
+@04854	{E0A} qui me regarde avec|admiration... Je suis|aux anges !{attente}{page}{fin}
+@04855	{F04}...|Tes chaussures... elles sont|pas un peu moches ?{attente}{page}{fin}
+@04856	Il est cool, ton jean,|{F04} !{attente}|Il te va bien !{attente}{page}{fin}
+@04857	{F04}...{attente}|Ton jean... il est|un peu bizarre...{attente}{page}{fin}
+@04858	Elle est cool, ta chemise !{attente}{page}{fin}
+@04859	Ta chemise... je la trouve|pas terrible...{attente}{page}{fin}
+@04860	Ah, ce genre de truc,|je trouve ça cool !{attente}{page}{fin}
+@04861	{F03}...|C'est... quoi, ça ?{attente}{page}{fin}
+@04862	{F04} !|Tu sens bon !{attente}{page}{fin}
+@04863	{F04}... C'est gênant|à dire, mais...{attente}|tu sens un peu mauvais...{attente}{page}{fin}
+@04864	Ah...{attente} T'avais déjà|ces chaussures, la dernière|fois, non ?{attente}{page}{fin}
+@04865	Tiens ?|Le même jean que l'autre|fois...{attente}|Hmm...{attente}{page}{fin}
+@04866	C'est la même chemise|que l'autre fois, ça...{attente}{page}{fin}
+@04867	T'étais déjà habillé|comme ça la dernière fois,|non...{attente}{page}{fin}
+@04868	Tu sens pareil qu'à notre|dernier rendez-vous...{attente}{page}{fin}
+@04869	{F04},|t'as la classe, comme ça !{attente}{page}{fin}
+@04870	{F04}, ta tenue est|pas mal, mais tu pourrais|faire un petit effort !{attente}{page}{fin}
+@04871	{F04}...{attente}|Habillé comme ça, c'est|moi qui ai honte...{attente}{page}{fin}
+@04872	{F05}, je t'ai|fait attendre, hein !{attente}{page}{fin}
+@04873	Comme c'est un rendez-vous|prévu, t'as une tenue un|peu différente, hein !{attente}{page}{fin}
+@04874	Ah !|Yumi inspecte ma tenue !{attente}{page}{fin}
+@04875	Elles sont bien, tes|chaussures ! Pas mal !{attente}{page}{fin}
+@04876	{F05}...|Tes chaussures, elles|craignent...{attente}{page}{fin}
+@04877	Ton jean te va super bien !|Il a la classe !{attente}{page}{fin}
+@04878	{F05}, ton jean|est vraiment trop ringard...{attente}{page}{fin}
+@04879	Joli modèle, ta chemise !{attente}|Elle te va bien !{attente}{page}{fin}
+@04880	Hm ?{attente} {E04} vient|vers moi !{attente}|Qu'est-ce qu'il y a ?{attente}{page}{fin}
+@04881	Dis, {F03}...{attente}|Tu ne serais pas devenu|un peu plus adroit ?{attente}{page}{fin}
+@04882	Oui ! Tes gestes sont|plus assurés, on dirait !{attente}|Continue comme ça !{attente}{page}{fin}
+@04883	Waouh, {E04} m'a|fait un compliment !{attente}|Trop content !{attente}{page}{fin}
+@04884	Dis, {F03}...{attente}|tu es devenu adroit,|ces derniers temps !{attente}{page}{fin}
+@04885	Oui !{attente}|Tes gestes sont plus sûrs,|tu as fait des progrès !{attente}{page}{fin}
+@04886	Moi non plus, je ne dois|pas me laisser distancer !{attente}{page}{fin}
+@04887	Allez, moi non plus, je|ne vais pas me laisser|distancer par {E04} !{attente}{page}{fin}
+@04888	Dis, {F03}...{attente}|tu es devenu super adroit,|ces derniers temps !{attente}{page}{fin}
+@04889	Oui !{attente} Tu es peut-être|même le plus adroit du club|de travaux manuels !{attente}{page}{fin}
+@04890	{F03}, tu sais,|{E04} t'admire trop♥{attente}{page}{fin}
+@04891	{E04} me regarde avec|des yeux brûlants...|Ça valait le coup de faire|des travaux manuels !!{attente}{page}{fin}
+@04892	{F04}, tu bosses dur,|ces derniers temps !{attente}{page}{fin}
+@04893	J'ai l'impression que t'es|devenu plus costaud,|aussi !{attente}{page}{fin}
+@04894	Ouais ! Si tu continues|comme ça, tes chronos vont|encore s'améliorer !{attente}{page}{fin}
+@04895	Continue tes efforts !{attente}|Allez, j'y vais !{attente}{page}{fin}
+@04896	{F04}, tu bosses|vraiment dur, en ce moment !{attente}{page}{fin}
+@04897	T'as des muscles de vrai|athlète, maintenant !|Ça fait costaud !{attente}{page}{fin}
+@04899	Ouais !{attente}|Continue comme ça !{attente}|Moi non plus, je vais pas|me laisser battre !{attente}{page}{fin}
+@04900	{F04}, tu bosses|super dur, en ce moment !{attente}{page}{fin}
+@04901	T'as changé physiquement...|De loin, on dirait|quelqu'un d'autre !{attente}{page}{fin}
+@04902	Ouais, t'es super costaud...|...je te trouve canon♥{attente}{page}{fin}
+@04903	Mizuki me regarde avec|admiration !!{attente}|Tout cet entraînement|aura payé !!{attente}{page}{fin}
+@04904	Pfiou...|Enfin fini !{attente}|Bon, je rentre !{attente}{page}{fin}
+@04905	Dis, {F05} !{attente}|T'as un peu changé, ces|derniers temps !{attente}{page}{fin}
+@04906	Oui, t'as l'air un peu|plus net qu'avant !{attente}{page}{fin}
+@04907	Les clients n'aiment pas|manger là où ceux qui sont|en cuisine font négligés,|non ?{attente}{page}{fin}
+@04908	Que t'aies l'air plus propre,|c'est très bien, ça !{attente}{page}{fin}
+@04909	Ah, bonne fin de service !{attente}{page}{fin}
+@04910	Héhé, elle m'a complimenté !{attente}|Dire que j'ai l'air plus|propre... ça me gêne|un peu !{attente}{page}{fin}
+@04911	Mais...|J'avais l'air si négligé|que ça, avant ?{attente}|Ça me fait un choc...{attente}{page}{fin}
+@04912	Dis, {F05} !{attente}|T'as changé, ces derniers|temps !{attente}{page}{fin}
+@04913	Oui, t'as l'air bien net,|ça respire la propreté.{attente}|C'est très bien, ça !{attente}{page}{fin}
+@04914	Et puis, on dirait que t'es|devenu plus beau gosse !{attente}{page}{fin}
+@04915	{F05}...|t'es devenu beau gosse,|ces derniers temps !{attente}{page}{fin}
+@04916	Le genre jeune homme|bien propre sur lui...{attente}{page}{fin}
+@04917	Tu es devenu...|vraiment craquant♥{attente}{page}{fin}
+@04918	Nya !{attente}|En fait, Shinozawa était|dans la salle d'à côté~ !{attente}{page}{fin}
+@04919	Tu savais pas ?{attente}|Tu savais paaas~ ?{attente}{page}{fin}
+@04920	Euh, non...|je ne m'en doutais pas !{attente}{page}{fin}
+@04921	Shinozawa a écouté|{F06} chanter~|Nyahaha~ !{attente}{page}{fin}
+@04922	Tu as plutôt bon goût,|en fait~ !{attente}|C'est nice~{attente}{page}{fin}
+@04923	Bon, Shinozawa te dit|bye bye ici~ !{attente}|À plus~ !{attente}{page}{fin}
+@04924	Ah, alors à plus !|Salut !{attente}{page}{fin}
+@04925	Dire que je l'ai fait|fondre, c'est exagéré...|mais les compliments,|c'est trop bon !!{attente}{page}{fin}
+@04926	Shinozawa est un petit peu|tombée sous le charme de|la voix de {F06}~ !{attente}{page}{fin}
+@04927	Tu as plutôt bon goût,|dis donc~ !{attente}|Shinozawa est épatée~ !{attente}{page}{fin}
+@04928	Kyaa~ ! {F06}~{attente}|Shinozawa était dans|la salle d'à côté~ !{attente}{page}{fin}
+@04929	Les chansons de {F06} !{attente}|La voix de {F06} !|Trop trop bon goût~{attente}{page}{fin}
+@04930	Shinozawa en a oublié de|chanter, elle a fondu~ !!{attente}|Complètement fondue~ !{attente}{page}{fin}
+@04931	Le club, c'est fini !{attente}|Bon, je rentre...{attente}{page}{fin}
+@04932	Dis, {F07}...{attente}|Tu as changé, ces derniers|temps... comment dire...{attente}{page}{fin}
+@04933	Tu es devenu un peu plus|séduisant...{attente}|C'est mon imagination ?{attente}{page}{fin}
+@04934	Tu vas sûrement changer|encore, je ne peux plus te|quitter des yeux !{attente}|...Hihi !{attente}{page}{fin}
+@04935	Dis, {F07}...{attente}|tu es devenu séduisant,|ces derniers temps !{attente}{page}{fin}
+@04936	Ta coiffure est mieux{attente}|et ton uniforme bien|repassé fait très soigné !{attente}{page}{fin}
+@04937	Si tu prenais encore un peu|soin de toi, tu pourrais|poser pour les magazines...{attente}{page}{fin}
+@04938	Dis, {F07}...{attente}|tu es devenu terriblement|séduisant, tu sais !{attente}{page}{fin}
+@04939	Des agents ne t'ont jamais|repéré dans la rue... ?{attente}{page}{fin}
+@04940	Hein, arrête !{attente}|Quand même, faut pas|exagérer...{attente}{page}{fin}
+@04941	Tu crois ? Pourtant, tu es|vraiment superbe♥{attente}{page}{fin}
+@04942	Ouais, tout le monde est|rentré !{attente}|Moi aussi, j'y vais !{attente}{page}{fin}
+@04943	Dis, {F08}, tu|bouges vachement mieux,|ces temps-ci !{attente}{page}{fin}
+@04944	Ouais, ouais !{attente}|Muscle-toi encore plus|et mets le feu au club|de ping-pong !{attente}{page}{fin}
+@04945	Elle m'a complimenté !{attente}|Trop content !{attente}|Ça valait le coup de|m'entraîner !!{attente}{page}{fin}
+@04946	Dis, {F08}...{attente}|tu bouges super bien,|ces temps-ci !{attente}{page}{fin}
+@04947	Sans rire !{attente}|Même quand je te balade,|tu suis toutes les balles !{attente}{page}{fin}
+@04948	T'es devenu costaud, en|plus, ça le fait !!{attente}|Continue comme ça !{attente}{page}{fin}
+@04949	Ouais !{attente} Dis donc !{attente}|Tu bouges super bien,|maintenant !{attente}{page}{fin}
+@04951	Sans rire !{attente}|T'as l'endurance pour|renvoyer n'importe quelle|balle !!{attente}{page}{fin}
+@04952	Et un physique costaud !{attente}|Trop génial !!!{attente}{page}{fin}
+@04953	Continue comme ça !{attente}|Allez, j'y vais~ !{attente}{page}{fin}
+@04954	{E0A} vient vers moi|avec un air grave !{attente}|Qu'est-ce qui se passe ?{attente}{page}{fin}
+@04955	Dis, {F08}...{attente}|T'as pas un peu|mauvaise mine !?{attente}{page}{fin}
+@04956	Tu t'en rends pas compte ?{attente}|Bon, c'est peut-être|moi qui me fais des idées...{attente}{page}{fin}
+@04957	Mais force pas trop,|hein !{attente}{page}{fin}
+@04958	Bon, je retourne en classe !{attente}|À plus~ !{attente}{page}{fin}
+@04959	Ouais, merci de|t'inquiéter pour moi !{attente}{page}{fin}
+@04960	{F08}, ça va !?{attente}|T'as une mine affreuse !!{attente}{page}{fin}
+@04961	Mais si !{attente}|Tu forces trop, non ?{attente}|Lève un peu le pied !{attente}{page}{fin}
+@04962	Quand t'as pas la pêche,|{F08}, ça me perturbe|aussi... franchement...{attente}{page}{fin}
+@04963	{F08}...|t'es blanc comme un linge...{attente}|T'es encore vivant ?{attente}{page}{fin}
+@04964	J-je suis vivant...|mais je suis si pâle... ?{attente}{page}{fin}
+@04965	Comme ça... tu vas finir|par t'écrouler !{attente}|Franchement...{attente}{page}{fin}
+@04966	Quand t'as pas la pêche,|{F08}, moi non plus,|j'ai plus la pêche !{attente}{page}{fin}
+@04967	C'est ton corps, hein !{attente}|Prends-en soin, un peu !{attente}|Repose-toi bien !{attente}{page}{fin}
+@04968	Mais...{attente} c'est vrai,|{E0A} a peut-être|raison...{attente}|J'ai la tête qui tourne...{attente}{page}{fin}
+@04969	{F05}...|Ta chemise...|elle est ringarde à mort...{attente}{page}{fin}
+@04970	Ce genre de truc,|ça fait plutôt classe !{attente}{page}{fin}
+@04971	{F05}...|C'est ça, qu'on appelle|ringard.{attente}{page}{fin}
+@04972	{F05},|tu sens bon, dis donc !{attente}{page}{fin}
+@04973	Tu sens bizarre...{attente}|Au prochain rendez-vous,|fais quelque chose...{attente}{page}{fin}
+@04974	{F05}, t'avais déjà|ces chaussures la dernière|fois...{attente}{page}{fin}
+@04975	Ce jean...{attente}|tu le portais déjà|au dernier rendez-vous...{attente}{page}{fin}
+@04976	Cette chemise, tu la|portais déjà au dernier|rendez-vous...{attente}|Elle sent pas ?{attente}{page}{fin}
+@04977	Tiens ?{attente} Pareil qu'au|dernier rendez-vous...|Hmm...{attente}{page}{fin}
+@04978	Tu sens pareil qu'au|dernier rendez-vous...{attente}|Fais un effort, un peu.{attente}{page}{fin}
+@04979	{F05}, t'as la classe,|habillé comme ça !{attente}|Ça te va bien !{attente}{page}{fin}
+@04980	{F05}, fais un peu plus|attention à ta tenue !|Dommage, c'est presque ça !{attente}{page}{fin}
+@04981	{F05}...{attente}|T'es tellement ringard|que c'en est pitoyable...{attente}{page}{fin}
+@04982	Ah ! {F06},|Shinozawa est arrivée~ !{attente}|Tu as attendu~ ?{attente}{page}{fin}
+@04983	Ah ! Tu as changé|de style pour ton|rendez-vous avec|Shinozawa~ !{attente}{page}{fin}
+@04984	Ah !|{E08} inspecte ma tenue !{attente}{page}{fin}
+@04985	Ooh, jolies chaussures~{attente}|Shinozawa les trouve|trop classe, elle aussi~{attente}{page}{fin}
+@04986	Nyahaha~{attente}|{F06}, tes chaussures|sont trop moches~{attente}{page}{fin}
+@04987	Ce jean !|Plutôt sobre et|trop classe~ !{attente}{page}{fin}
+@04988	{F06}...{attente}|Ton jean... il a un truc|bizarre~...{attente}{page}{fin}
+@04989	Elle est stylée, ta|chemise~{attente}|Shinozawa la trouve|super bien~ !{attente}{page}{fin}
+@04990	Mais...{attente} j'aimerais|discuter plus longtemps...{attente}|Je sais ! Je vais lui|demander son numéro !{attente}{page}{fin}
+@04991	Dis...{attente} des fois, même|chez moi, j'ai envie|de discuter avec toi...{attente}{page}{fin}
+@04992	Si ça te dit...|euh...{attente} tu voudrais bien|me donner ton numéro ?{attente}{page}{fin}
+@04993	Les coups de fil des|garçons... c'est un peu...{attente}|Mes parents sont stricts...{attente}{page}{fin}
+@04994	Alors... pour l'instant,|je ne peux pas te le|donner...{attente}|Désolée.{attente}{page}{fin}
+@04995	Ah bon...{attente}|Dommage, mais|tant pis...{attente}{page}{fin}
+@04996	Pas de numéro pour cette|fois, mais j'aurai d'autres|occasions...|Bon, c'est pas grave !{attente}{page}{fin}
+@04997	Pour toi, {F03},|je veux bien !{attente}|Mon numéro, c'est...{attente}{page}{fin}
+@04998	{E04} m'a donné son|numéro de téléphone !{attente}|Comme ça, on pourra|parler quand on veut !{attente}{page}{fin}
+@04999	Hein...{attente}|Euh... c'est que...{attente}{page}{fin}
+@05000	Là... pour l'instant...|euh... désolée !{attente}{page}{fin}
+@05001	Pour toi, {F04},|je veux bien !{attente}|Mon numéro, c'est...{attente}{page}{fin}
+@05002	Mizuki m'a donné son|numéro de téléphone !{attente}|Comme ça, on pourra|parler quand on veut !{attente}{page}{fin}
+@05003	Désolée...{attente}|Ça, je ne peux pas encore|te l'accorder...{attente}{page}{fin}
+@05004	Et puis, je n'ai pas envie|que ma petite sœur se|moque de moi...{attente}{page}{fin}
+@05005	C'est vrai !{attente}|Moi aussi, ça m'arrive...|...d'accord !{attente}{page}{fin}
+@05006	Alors note bien !{attente}|Mon numéro, c'est...{attente}{page}{fin}
+@05007	Yumi m'a donné son|numéro de téléphone !{attente}|Comme ça, on pourra|parler quand on veut !{attente}{page}{fin}
+@05008	Nyahaha~ !{attente}|Tu veux savoir ?|Tu veux savoiiir~ ?{attente}{page}{fin}
+@05009	Mais c'est non~ !{attente}|À la maison, Shinozawa est|à fond dans les jeux !{attente}{page}{fin}
+@05010	Si on la dérange,|elle se fâche~ !{attente}{page}{fin}
+@05011	Allez, je te le dis~ !{attente}|Le numéro de Shinozawa,|c'est...{attente}{page}{fin}
+@05012	{E08} m'a donné son|numéro de téléphone !{attente}|Comme ça, on pourra|parler quand on veut !{attente}{page}{fin}
+@05013	...Il arrive que des amis|de l'étranger m'appellent|à la maison...{attente}{page}{fin}
+@05014	Mes amis du Japon, je peux|les voir pour discuter,|non ?{attente}|Alors, désolée.{attente}{page}{fin}
+@05015	Oui ! Avec plaisir !{attente}|J'y pensais aussi !{attente}|Mon numéro, c'est...{attente}{page}{fin}
+@05016	{E09} m'a donné son|numéro de téléphone !{attente}|Comme ça, on pourra|parler quand on veut !{attente}{page}{fin}
+@05017	Me passer un coup de fil ?|Ce serait un coup de fil...|à retordre ! Hahaha !{attente}{page}{fin}
+@05018	Beurk, une blague de vieux !{attente}|Bon, c'est moi qui l'ai|sortie, je suis mal placée !{attente}{page}{fin}
+@05019	Allez, on rentre, on rentre !{attente}{page}{fin}
+@05020	Argh...{attente} Elle a esquivé|en beauté...{attente}{page}{fin}
+@05021	Elle veut pas que je|l'appelle, quoi...{attente} Mais|j'aurai d'autres occasions...|Bon, c'est pas grave !{attente}{page}{fin}
+@05022	Héhé, ça me fait trop|plaisir que tu dises ça !{attente}|Chez moi, c'est le...{attente}{page}{fin}
+@05023	{E0A} m'a donné son|numéro de téléphone !{attente}|Comme ça, on pourra|parler quand on veut !{attente}{page}{fin}
+@05024	(Parc naturel de Koigahara){n}{fin}
+@05025	Kyaa~ ! Cette chemise,|quel mauvais goût~{attente}{page}{fin}
+@05026	Ah, ce genre de truc,|Shinozawa trouve|ça trop classe~ !{attente}{page}{fin}
+@05027	{F06}...{attente}|Ça, ça fait vraiment|trop ringard~{attente}{page}{fin}
+@05028	Aaah ! {F06} sent|trop bon~ !{attente}{page}{fin}
+@05029	Funyaa~...{attente}|Y a une drôle|d'odeur~...{attente}{page}{fin}
+@05030	Je suis venu au parc|naturel de Koigahara pour|offrir un cadeau à {E04}.{attente}{page}{fin}
+@05031	Elle devrait arriver|d'une minute à l'autre...{attente}|Ah ! La voilà !{attente}{page}{fin}
+@05032	{F03}, me voilà !|Un cadeau pour moi ?|C'est quoi ?{attente}{page}{fin}
+@05033	Oui, en fait...|c'est ça !{attente}{page}{fin}
+@05034	Ah ! Ça !{attente}|Je le voulais depuis|longtemps !{attente}|{E04} est ravie !{attente}{page}{fin}
+@05035	{F03},|merci beaucoup !{attente}|J'en prendrai soin♥{attente}{page}{fin}
+@05036	Ouais !{attente}|On dirait qu'il lui plaît|énormément !{attente}|Le cadeau a fait mouche !{attente}{page}{fin}
+@05037	Merci,|{F03} !{attente}{page}{fin}
+@05038	Avec ce cadeau-là, elle a|l'air contente, sans plus...{attente}{page}{fin}
+@05039	Euh, ça... ?{attente}|Ce genre de chose...|c'est pas trop mon truc...{attente}{page}{fin}
+@05040	Mais bon, puisque tu me|l'offres, je le prends !{attente}{page}{fin}
+@05041	Argh...|Ce cadeau, c'était|un mauvais choix...{attente}|Je suis dépité...{attente}{page}{fin}
+@05042	Je suis venu au parc|naturel de Koigahara pour|offrir un cadeau à Mizuki.{attente}{page}{fin}
+@05043	{F04}, me voilà !{attente}|Un cadeau pour moi ?|Qu'est-ce que c'est...{attente}{page}{fin}
+@05044	Ah, ça !{attente}|Je le voulais depuis|longtemps !{attente}|Trop contente !{attente}{page}{fin}
+@05045	{F04}...|merci beaucoup !{attente}|J'en prendrai soin, promis !{attente}{page}{fin}
+@05046	Ah, c'est ça !{attente}|Ça me faisait de l'œil|depuis un moment !{attente}{page}{fin}
+@05047	{F04},|merci !{attente}{page}{fin}
+@05048	Hein ? Ça... ?{attente}|......{attente}{page}{fin}
+@05049	...Mais bon,|je le prends quand même !{attente}{page}{fin}
+@05050	Je suis venu au parc|naturel de Koigahara pour|offrir un cadeau à Yumi.{attente}{page}{fin}
+@05051	Désolée pour l'attente,|{F05} !{attente}|Un cadeau pour moi ?|Qu'est-ce que c'est ?{attente}{page}{fin}
+@05052	Oh, ça !{attente} Ça fait|longtemps que j'en rêvais !{attente}|Je suis ravie !{attente}{page}{fin}
+@05053	{F05},|merci...{attente}|Je suis touchée♥{attente}{page}{fin}
+@05054	Ah, c'est ça !{attente}|Ça m'intéressait depuis|un moment !{attente}{page}{fin}
+@05055	{F05},|merci !{attente}{page}{fin}
+@05056	Quoi, c'est ça ?{attente}|Puisque tu me l'offres,|je le prends, mais...{attente}{page}{fin}
+@05057	Ce genre de truc, c'est|pas mon style.{attente}|Tu le savais pas ?{attente}{page}{fin}
+@05058	Je suis venu au parc|naturel de Koigahara pour|offrir un cadeau à {E08}.{attente}{page}{fin}
+@05059	{F06}~ !{attente}|Un cadeau pour Shinozawa ?|C'est quoi, c'est quoi~ ?{attente}{page}{fin}
+@05060	Ah, ça !{attente}|Ça me tentait un peu|depuis un moment !{attente}{page}{fin}
+@05061	Kyaa~ !{attente}|Shinozawa le voulait|depuis super longtemps~ !{attente}{page}{fin}
+@05062	{F06}, comment tu|as deviné~ ?{attente}|Shinozawa est émue~♥{attente}{page}{fin}
+@05063	Nya ! C'est ça~ !{attente}|Ça intriguait un peu|Shinozawa depuis|un moment~{attente}{page}{fin}
+@05064	{F06},|thank you~ !{attente}{page}{fin}
+@05065	Ehh~, c'est quoi, ça ?{attente}|Ce genre de truc, c'est pas|le style de Shinozawa~{attente}{page}{fin}
+@05066	Shinozawa est un petit peu|déçue~{attente}{page}{fin}
+@05067	Je suis venu au parc|naturel de Koigahara pour|offrir un cadeau à {E09}.{attente}{page}{fin}
+@05068	Pardon pour le retard !{attente}|Un cadeau pour moi ?|J'en ai le cœur qui bat !{attente}{page}{fin}
+@05069	Ah, c'était ça !|Je suis contente !{attente}{page}{fin}
+@05070	Je le voulais depuis|longtemps !{attente}|Je suis ravie, {F07} !{attente}|Merci beaucoup♥{attente}{page}{fin}
+@05071	Ah, c'est ça !{attente}|Merci, {F07}.{attente}{page}{fin}
+@05072	Ça m'intéressait, mais pas|au point de l'acheter.{attente}|Ça tombe bien !{attente}{page}{fin}
+@05073	Hein ? C'est ça...{attente}|Ce n'est pas tout à fait|mon goût, mais...{attente}{page}{fin}
+@05074	Je suis venu au parc|naturel de Koigahara pour|offrir un cadeau à {E0A}.{attente}{page}{fin}
+@05075	{F08} !|Me voilààà !{attente}|Il paraît que t'as un|cadeau pour moi ?{attente}{page}{fin}
+@05076	Aaah ! Ça, c'est... !{attente}|Le truc que je voulais|depuis super longtemps !!{attente}{page}{fin}
+@05077	{F08}, thanks !{attente}|Je suis trop contente !{attente}|Je suis aux anges♥{attente}{page}{fin}
+@05078	Ah, c'est ça !{attente}|Ça me trottait un peu|dans la tête, ce truc !{attente}{page}{fin}
+@05079	Thanks, thanks !{attente}|Ça m'enlève un poids,|on dirait !{attente}{page}{fin}
+@05080	Quoiii ! Ça !?{attente}|C'est pas mon truc du tout !{attente}{page}{fin}
+@05081	{F06}...|mêmes chaussures qu'au|dernier rendez-vous~{attente}{page}{fin}
+@05082	À toujours mettre les|mêmes chaussures, tu vas|choper des champignons~{attente}{page}{fin}
+@05083	{F06}, tu es|pauvre~ ?{attente}|Même jean qu'avant~{attente}{page}{fin}
+@05084	Aaah ! La même chemise|qu'au dernier rendez-vous...|c'est pas drôle~{attente}{page}{fin}
+@05085	Oh là là~{attente} Pareil qu'au|dernier rendez-vous~...{attente}|C'est pas marrant~{attente}{page}{fin}
+@05086	Ça sent un peu comme la|dernière fois~...|C'est pas drôle~{page}{fin}
+@05087	{F06}...|tu as un air de|nice guy~♥{attente}{page}{fin}
+@05088	La tenue de {F06},|c'est presque ça, mais|pas tout à fait~ !{attente}{page}{fin}
+@05089	La tenue de {F06}...{attente}|c'est tellement affreux|que Shinozawa en pleure~{attente}{page}{fin}
+@05090	En marchant tous les deux,|par hasard... ma main a|effleuré celle de {E04}... !{attente}{page}{fin}
+@05091	...Ah...{attente}|P-pardon !{attente}{page}{fin}
+@05092	...{E04}, toute gênée,|a voulu retirer sa main|en vitesse, mais...{attente}{page}{fin}
+@05093	j'ai suivi le bout de ses|doigts... et je les ai|effleurés doucement...{attente}{page}{fin}
+@05094	Ah...|ta main, {F03}...{attente}|elle est toute chaude...{attente}{page}{fin}
+@05095	Tiens... tes doigts,|ta paume... ils sont|tellement...{attente}{page}{fin}
+@05096	Tout en disant ça...|{E04} m'a doucement serré|la main en retour, de ses|doigts tremblants !{attente}{page}{fin}
+@05097	La main de {E04}...|douce, un peu moite...{attente}{page}{fin}
+@05098	Le cœur battant de {E04}|me parvient à travers|ses doigts tremblants...{attente}{page}{fin}
+@05099	Mon cœur aussi bat la|chamade... et une douce|chaleur m'envahit|tout entier...{attente}{page}{fin}
+@05100	Dis, {F03}...|j'aimerais qu'on reste|encore un peu comme ça...{attente}{page}{fin}
+@05101	Dis... tu veux bien ?|......{attente}{page}{fin}
+@05102	{E04} ressent la même|chose que moi...{attente}{page}{fin}
+@05103	Au lieu de répondre,|j'ai serré tendrement...|la main de {E04}...{attente}{page}{fin}
+@05104	Ah...|merci...♥{attente}{page}{fin}
+@05105	Un moment paisible,|rien qu'à {E04} et moi,|s'est écoulé lentement...{attente}{page}{fin}
+@05106	En marchant tous les deux,|par hasard... ma main a|effleuré celle de Mizuki... !{attente}{page}{fin}
+@05107	Ah, pardon !|Je t'ai cogné...{attente}{page}{fin}
+@05108	...Mizuki a retiré sa main|en vitesse, toute rouge,|et a baissé les yeux !{attente}{page}{fin}
+@05109	La main de Mizuki, à peine|effleurée... si douce...|si attendrissante...{attente}{page}{fin}
+@05110	J'ai tendu la main vers|celle de Mizuki...|encore une fois...|doucement...{attente}{page}{fin}
+@05111	...Ah...|Euh...|...euh...{attente}{page}{fin}
+@05112	Malgré son trouble, Mizuki|n'a pas repoussé ma main...{attente}{page}{fin}
+@05113	Alors j'ai serré|tendrement... la main|de Mizuki...{attente}{page}{fin}
+@05114	Ah...{attente}|...ta main, {F04}...|elle est chaude et grande...{attente}{page}{fin}
+@05115	La main douce de Mizuki...|un peu moite...|tremble légèrement...{attente}{page}{fin}
+@05116	Le trouble de Mizuki...|son émoi... me parviennent|à travers ses doigts...{attente}{page}{fin}
+@05117	C'est bizarre...{attente}|Comme ça, je me sens|rassurée, on dirait...{attente}{page}{fin}
+@05118	Mizuki ressent...|la même chose que moi...{attente}{page}{fin}
+@05119	À cet instant...{attente}|j'ai eu l'impression|qu'on se comprenait mieux,|Mizuki et moi...{attente}{page}{fin}
+@05121	En marchant tous les deux,|par hasard... ma main a|effleuré celle de Yumi... !{attente}{page}{fin}
+@05122	...Ah !{attente}{page}{fin}
+@05123	...On s'est regardés une|seconde !{attente}|Yumi, les joues un peu|roses, a l'air gênée.{attente}{page}{fin}
+@05124	Ce genre de chose...|ça me gêne un peu, hein !|Hihi !{attente}{page}{fin}
+@05125	Pourtant, en disant ça...|Yumi n'a pas retiré|sa main...{attente}{page}{fin}
+@05127	La main de Yumi... si douce,|si attendrissante...|que j'en suis resté|sans voix !{attente}{page}{fin}
+@05128	...Nos mains toujours l'une|contre l'autre, on s'est|regardés sans un mot...{attente}{page}{fin}
+@05129	La main douce de Yumi...{attente}|légèrement moite...|me transmet les battements|de son cœur...{attente}{page}{fin}
+@05130	...Tant qu'on y est...|aujourd'hui, on n'a qu'à|marcher main dans la main !{attente}{page}{fin}
+@05131	C'est un peu gamin,|mais de temps en temps,|ça fait pas de mal...{attente}{page}{fin}
+@05132	Main dans la main...|je sens Yumi bien plus|proche de moi que|d'habitude...{attente}{page}{fin}
+@05133	Avec ce sentiment...{attente}|ce moment de tendresse,|rien qu'à Yumi et moi,|s'est écoulé lentement...{attente}{page}{fin}
+@05134	En marchant tous les deux,|par hasard... ma main a|effleuré celle de {E08}... !{attente}{page}{fin}
+@05135	...Hyaa !{attente}{page}{fin}
+@05136	...{E08}... a sursauté,|si surprise qu'elle a|failli bondir...{attente}{page}{fin}
+@05137	Puis elle est devenue toute|rouge et a baissé la tête !{attente}{page}{fin}
+@05138	Sa réaction était|tellement mignonne...|si attendrissante...{attente}{page}{fin}
+@05139	Sans hésiter...|j'ai effleuré doucement...|les doigts de {E08}...{attente}{page}{fin}
+@05140	Ah... euh...|...c'est que...{attente}{page}{fin}
+@05141	{E08}, toute raide,|semblait trembler|légèrement...{attente}{page}{fin}
+@05142	...Pardon.|Ce genre de chose...|ça te déplaît ?{attente}{page}{fin}
+@05143	Ah, non, c'est pas ça~...|C'est pas que ça déplaît...|pas du tout~...{attente}{page}{fin}
+@05144	...Dans ces moments-là,|Shinozawa... ne sait pas|quoi faire~{attente}{page}{fin}
+@05145	Quand je l'ai regardée|de près, {E08} a|rougi de plus belle...{attente}{page}{fin}
+@05146	J'ai serré tendrement|la main de {E08}...{attente}|Sa main moite était|si douce...{attente}{page}{fin}
+@05147	À travers sa peau contre|la mienne, je crois sentir|les battements de son cœur|...{attente}{page}{fin}
+@05148	Sans un mot, on est restés|main dans la main un moment|...{attente}{page}{fin}
+@05149	Et un moment paisible et|comblé, rien qu'à {E08} et|moi, s'est écoulé lentement|...{attente}{page}{fin}
+@05150	En marchant tous les deux,|par hasard... ma main a|effleuré celle de {E09}... !{attente}{page}{fin}
+@05151	...Oh...{attente}{page}{fin}
+@05152	{E09}, un peu surprise,|a regardé nos deux mains|posées l'une sur l'autre...{attente}{page}{fin}
+@05153	Lentement...|{E09} a levé la tête...|et m'a regardé dans|les yeux !{attente}{page}{fin}
+@05154	...Euh...|je ne sais pas quoi dire|...{attente}{page}{fin}
+@05155	Les joues légèrement roses,|{E09} est toute troublée|...{attente}{page}{fin}
+@05156	Sans hésiter, j'ai|serré doucement la main|de {E09}...{attente}{page}{fin}
+@05157	Gênée, {E09} a détourné|les yeux...{attente}|Mais elle n'a pas cherché|à repousser ma main...{attente}{page}{fin}
+@05158	Les doigts fins et doux|de {E09}...|sa main un peu moite...{attente}{page}{fin}
+@05159	En sentant la main de {E09}|dans la mienne, mon cœur|s'emballe peu à peu...{attente}{page}{fin}
+@05160	Mais en même temps...|une sensation douce,|chaude et apaisante|m'enveloppe...{attente}{page}{fin}
+@05161	Ta main, {F07}...|grande et chaude...|c'est si agréable...{attente}{page}{fin}
+@05162	Comment dire...|oui... je me sens|tellement rassurée...{attente}{page}{fin}
+@05163	Tout en disant ça, {E09}|m'a serré la main|bien fort en retour !{attente}{page}{fin}
+@05164	{E09}, elle aussi...|ressent la même chose|que moi...{attente}{page}{fin}
+@05165	Sur cette pensée, sans|lâcher la main de {E09},|j'ai plongé mon regard|dans ses yeux rouges...{attente}{page}{fin}
+@05166	Et un moment paisible,|rien qu'à {E09} et moi,|s'est écoulé lentement|...{attente}{page}{fin}
+@05167	En marchant tous les deux,|par hasard... ma main a|effleuré celle de {E0A}... !{attente}{page}{fin}
+@05168	...Hein... ?{attente}{page}{fin}
+@05169	{E0A}, l'air intriguée,|a regardé un instant nos|mains l'une sur l'autre...{attente}{page}{fin}
+@05170	Ah, euh... ?|...Haha...|Euh... c'est que...{attente}{page}{fin}
+@05171	{E0A}, prise de court,|semblait même oublier|de retirer sa main.{attente}{page}{fin}
+@05172	Sans hésiter...|j'ai pris doucement|la main de {E0A} !{attente}{page}{fin}
+@05173	...Waah !{attente}{page}{fin}
+@05174	Non, c-c'est pas ça~|C'est pas que ça me|déplaît, mais...{attente}{page}{fin}
+@05175	C-c'était si soudain...|j'étais pas... prête...|Haha... pfiouuu...{attente}{page}{fin}
+@05176	{E0A} a poussé un grand|soupir, puis a tourné|vers moi son visage|écarlate !{attente}{page}{fin}
+@05177	Euh... dis...|C'est bon, ça va...{attente}{page}{fin}
+@05178	Sur ces mots, {E0A}|m'a souri, toute gênée !{attente}{page}{fin}
+@05180	J'ai serré fort la main|de {E0A}, comme pour|la protéger !{attente}{page}{fin}

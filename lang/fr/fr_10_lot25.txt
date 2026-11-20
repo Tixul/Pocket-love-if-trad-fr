@@ -1,0 +1,382 @@
+; Lot 25 : rencontres en ville le week-end (été, hiver), invitations surprises (grande roue, étoiles,
+; boîte de nuit, esquimau, maths, manga café), filles qui regardent l'entraînement du jour de congé.
+
+; ---- rencontres en ville (été)
+@09114	Ah, {F03}.{attente}|Toi aussi, des courses ?{attente}|...Bon, à plus !{attente}{page}{fin}
+@09115	Ça fait plaisir qu'elle|m'ait parlé, mais...{attente}|j'ai l'impression que|c'était par politesse~...{attente}{page}{fin}
+@09116	Ah, {F03} !{attente}|Je suis venue acheter|de la crème solaire !{attente}{page}{fin}
+@09117	Parce que je veux pas que|tu me voies avec la figure|toute bronzée♥{attente}{page}{fin}
+@09118	Quoi ! Elle fait attention|à pas bronzer... pour moi !{attente}|Ah, je suis peut-être|un sacré veinard...{attente}{page}{fin}
+@09119	En passant devant le parc,|quelqu'un m'a appelé !{attente}{page}{fin}
+@09120	Ah, c'est {F04} !{attente}|...Je me suis trompée|de personne !{attente}|Bon, salut !{attente}{page}{fin}
+@09121	D'accord, elle s'est trompée|de personne, mais pas|besoin de faire une tête|pareille...{attente}{page}{fin}
+@09122	Elle me déteste, ou quoi...{attente}|...Ça me travaille...{attente}{page}{fin}
+@09123	Ah, {F04}.{attente}|Il faisait frais dans le|parc, alors je me reposais !{attente}{page}{fin}
+@09124	Bon, je rentre.|À plus !{attente}{page}{fin}
+@09125	J'ai l'impression qu'elle|m'a parlé juste comme ça...{attente}{page}{fin}
+@09126	{F04}, quel hasard !{attente}|Il fait frais dans le parc,|alors je faisais une pause !{attente}{page}{fin}
+@09127	Tu devrais essayer aussi,|{F04} ! Le vent était|trop agréable !{attente}|Allez, à plus !{attente}{page}{fin}
+@09128	Mais en te voyant,|{F04}, j'ai de nouveau|super chaud♥{attente}{page}{fin}
+@09129	Avoir chaud rien qu'en me|voyant... C'est la preuve|qu'elle craque pour moi !{attente}|Je me sens tout heureux !{attente}{page}{fin}
+@09130	(Librairie Nakamura){n}{fin}
+@09131	Et si je m'achetais un|volume de Shonen Kid...{attente}{page}{fin}
+@09132	Tiens, {F05} ?{attente}{page}{fin}
+@09133	Oh non...{attente}|Ah, rien, rien !|À plus !{attente}{page}{fin}
+@09134	Comment ça, « oh non » ?!{attente}|Est-ce qu'elle...|me déteste... ?{attente}{page}{fin}
+@09135	Dans une librairie, il fait|frais, on y traîne toujours !{attente}|Bon, à plus !{attente}{page}{fin}
+@09136	Tu viens acheter un livre,|{F05}, on dirait !{attente}|Moi, j'étais au frais !{attente}{page}{fin}
+@09137	Te croiser comme ça,|{F05}...{attente}|j'ai bien fait de venir|me rafraîchir ici♥{attente}{page}{fin}
+@09138	Si je traîne trop, ce sera|pas sympa pour le libraire.|J'y vais... À plus !{attente}{page}{fin}
+@09139	Être si contente de|me croiser...{attente}|Ah, je suis aux anges !{attente}{page}{fin}
+@09140	Que de gens qui rentrent|d'une journée de sortie...{attente}|Les veinards !{attente}{page}{fin}
+@09141	Ah, c'est {F06}~{attente}{page}{fin}
+@09142	Moi qui venais de passer|un super moment au parc|d'attractions~{attente}|Funifuni~...{attente}{page}{fin}
+@09143	En me voyant, {E08}|est partie, l'air fâché|...{attente}{page}{fin}
+@09144	Quoi~, ça l'embête tant que|ça de me croiser ?!{attente}|...C'est trop triste...{attente}{page}{fin}
+@09145	Nyah ! Shinozawa est allée|au parc d'attractions~ !|Trop bien, hein~ !!{attente}{page}{fin}
+@09146	T'es jaloux ?{attente}|Dis~, t'es jaloux ?{attente}|Hé hé hé !{attente}{page}{fin}
+@09147	{E08} a ri d'un air|fier, puis elle est partie|en dansant gaiement...{attente}{page}{fin}
+@09148	Bah, elle voulait juste|frimer avec son parc~{attente}|...Pff !{attente}{page}{fin}
+@09149	Shinozawa revient du parc|d'attractions, elle est en|mode hyper joyeuse~ !{attente}{page}{fin}
+@09150	Shinozawa veut te donner|un peu de ce bonheur~ !{attente}|À plus~ ! Nyah !{attente}{page}{fin}
+@09151	Elle avait vraiment l'air|super heureuse~ !{attente}|Ça me met de bonne humeur{attente}{page}{fin}
+@09152	Mais vouloir partager son|bonheur avec moi...{attente}|ça veut dire quoi~ ?{attente}|Ça m'intrigue un peu !{attente}{page}{fin}
+@09153	Si j'y étais allée avec|{F06}, j'aurais été|encore plus heureuse,|nyah~♥{attente}{page}{fin}
+@09154	Kyaa~ !{attente} Shinozawa a trop|honte, elle rentre~ !{attente}|À plus~♥{attente}{page}{fin}
+@09155	Si elle me dit qu'elle serait|plus heureuse avec moi,|c'est moi qui vais avoir|le cœur qui bat !!{attente}{page}{fin}
+@09156	Hein ?{attente} La fille au rayon|des friandises...{attente}|ce serait pas {E09} ?{attente}{page}{fin}
+@09157	Elle venait pas me voir :|elle passait juste par là|pour aller à la caisse~{attente}|Ça me fait de la peine...{attente}{page}{fin}
+@09158	J'ai déjà entendu ça...{attente}|Mais surtout...{attente}|cette tête dégoûtée...|ça me rend triste...{attente}{page}{fin}
+@09159	Tiens, {F07}.{attente}|Je viens acheter des|friandises importées.{attente}|Allez, BYE !{attente}{page}{fin}
+@09160	Elle m'a parlé en passant,|sur le chemin de la caisse,{attente}|mais ça fait plaisir|qu'elle m'ait salué !{attente}{page}{fin}
+@09161	Ah, {F07} !|Je viens acheter un|Baumkuchen allemand !{attente}{page}{fin}
+@09162	Ce Baumkuchen est enrobé|de chocolat, et il est|tout moelleux !{attente}{page}{fin}
+@09163	Si tu en as l'occasion,|goûte-le !{attente} Je te le|recommande ! Allez, BYE !{attente}{page}{fin}
+@09164	Je croyais que c'était un|gâteau au chocolat, mais|c'était un Baumkuchen !{attente}{page}{fin}
+@09165	Venir exprès jusqu'à|moi pour me dire ça...|ça me touche~ !{attente}{page}{fin}
+@09166	La prochaine fois, j'aimerais|te faire goûter ça,|{F07}♥{attente}|Allez... à plus♥{attente}{page}{fin}
+@09167	« Dis aaah ! »...|voilà ce que j'ai imaginé♥{attente}|Ah, je me sens|super heureux !{attente}{page}{fin}
+@09168	Hein ?|Qui c'est qui trottine|vers moi, là-bas... ?{attente}{page}{fin}
+@09169	Pas besoin de chercher :|c'est {E0A} !{attente}{page}{fin}
+@09170	...En me baladant, je suis|tombée sur un drôle|d'énergumène...{attente}{page}{fin}
+@09171	Qu'est-ce que je fais~...{attente}|......{attente}{page}{fin}
+@09172	C'est tout ce que t'as... ?{attente}{page}{fin}
+@09173	Contre {F08}, je peux|pas libérer ma puissance...{attente}{page}{fin}
+@09174	J'ai déjà entendu ça...{attente}|Et puis je suis pas son|adversaire de combat|de rue, moi !{attente}{page}{fin}
+@09175	Ah, c'est {F08} !{attente}|Ntchaaaaaaaaaaaaaaaaaa|aaaaaaaaaaaaaaaaa !!{attente}{page}{fin}
+@09176	Balade au bord de la|rivière : détente à fond !{attente}|Allez, sur ce !{attente}{page}{fin}
+@09177	Un « rayon Ntcha » à bout|portant, ça fait mal~...{attente}|J'ai mal aux oreilles...{attente}{page}{fin}
+@09178	Mais j'ai l'impression|qu'elle était tout excitée|de me croiser par hasard !{attente}{page}{fin}
+@09179	Ah, c'est {F08} !{attente}|...Oh non...{attente}|Qu'est-ce que je fais ?!{attente}{page}{fin}
+@09180	C'est tellement soudain que|j'ai le cœur qui bat...{attente}|J'arrive même pas à blaguer{attente}{page}{fin}
+@09181	...D-dis...|j'étais contente|de te voir♥{attente}|Bon, à plus...{attente}{page}{fin}
+@09182	{E0A}, aussi timide ?|...{attente}Est-ce que...|par hasard...{attente}{page}{fin}
+@09183	Si c'est ça, je serais|trop content♥{attente}{page}{fin}
+
+; ---- rencontres : choix d'approche
+@09190	Hein ?|La fille qui vient|vers moi, là...{attente}{page}{fin}
+@09191	　T'as rien à faire, hein ?{n}{fin}
+@09192	　Qu'est-ce que tu fiches !{n}{fin}
+@09193	　T'as l'air de t'ennuyer{n}{fin}
+@09194	　Tiens, des courses ?{n}{fin}
+@09195	　Ça alors ! Des courses ?{n}{fin}
+@09196	Ah, c'est que toi, {F03}.{attente}|Je vais manger un|cheesecake. Salut !{attente}{page}{fin}
+@09197	On aurait dit qu'elle|voulait dire « me suis pas »{attente}|Qu'elle me traite comme ça...|c-c'est triste~...{attente}{page}{fin}
+@09198	Ah, {F03}.{attente}|Je vais manger|un cheesecake !{attente}{page}{fin}
+@09199	J'ai trop hâte, alors à plus,|{F03} !{attente}{page}{fin}
+@09200	Elle avait déjà la tête|dans son cheesecake~...{attente}|Un bonjour vite fait,|c'est un peu triste...{attente}{page}{fin}
+@09201	{F03}, quel hasard !{attente}|{E04} va manger|un cheesecake !{attente}{page}{fin}
+@09202	Mais d'avoir croisé|{F03}, j'ai le cœur|si plein que je pourrai|plus rien avaler♥{attente}{page}{fin}
+@09203	Si elle me dit ça, c'est|moi qui ai le cœur plein !|Trop ému♥{attente}|Ah, je suis aux anges♥{page}{fin}
+@09204	Hein ? La fille qui achète|un billet, là-bas...{attente}|c'est bien Mizuki !{attente}{page}{fin}
+@09205	　Hé, toi ! Tu fugues ?{n}{fin}
+@09206	　Hé ! Tu vas où, toi ?{n}{fin}
+@09207	　Tiens, tu vas où ?{n}{fin}
+@09208	　Tu vas loin comme ça ?{n}{fin}
+@09209	　Salut ! Tu sors ?{n}{fin}
+@09210	Ah, {F04}.|Je vais à la piscine.|...Salut.{attente}{page}{fin}
+@09211	Ah, {F04} !|Je vais à la piscine !{attente}{page}{fin}
+@09212	Si je pouvais y aller avec|{F04}, ce serait|chouette...{attente}|...Ahah♥{attente}{page}{fin}
+@09213	La piscine, à deux !{attente}|J'espère qu'on ira !{attente}{page}{fin}
+@09214	Mizuki en maillot de bain...{attente}|Ah... rien que d'y penser,|mon cœur s'emballe|et ne s'arrête plus !{attente}{page}{fin}
+@09215	(Devant la salle d'arcade){n}{fin}
+@09216	Hein ? Celle qui est devant|la salle d'arcade...{attente}|c'est bien Yumi !{attente}{page}{fin}
+@09217	Ah, c'est toi, {F05}.{attente}|Je suis juste venue jouer|un peu pour décompresser.{attente}{page}{fin}
+@09218	Tiens, {F05} !|Je viens de jouer un peu|pour décompresser !{attente}{page}{fin}
+@09219	La prochaine fois, j'aimerais|qu'on joue tranquillement|tous les deux !{attente}|...Hihi♥{attente}{page}{fin}
+@09220	Jouer à deux !{attente}|Ça a l'air sympa !{attente}|Ah, je suis trop heureux !{attente}{page}{fin}
+@09221	Hein ?|Une fille sort de là|en titubant...{attente}{page}{fin}
+@09222	　Ça y est, t'es gâteuse ?{n}{fin}
+@09223	　T'es dans la lune ou quoi !{n}{fin}
+@09224	　T'as l'air dans les vapes{n}{fin}
+@09225	　Tiens, il t'arrive un truc ?{n}{fin}
+@09226	　Tu te sens pas bien ?{n}{fin}
+@09227	Funyaa~... Je venais de lire|un manga d'amour génial,|j'étais trop bien~{attente}{page}{fin}
+@09228	Mon humeur romantique est|toute gâchée~ !{attente}|Hmpf, hmpf !!{attente}{page}{fin}
+@09229	Ah, elle était juste plongée|dans son manga...{attente}|Ça la fâche d'être ramenée|à la réalité, peut-être...{attente}{page}{fin}
+@09230	J'aimerais croire que c'est|pas de me croiser, moi, qui|l'a mise de mauvaise|humeur...{attente}{page}{fin}
+@09231	Hanya, {F06}~{attente}{page}{fin}
+@09232	Shinozawa est encore dans|le monde du manga d'amour|qu'elle vient de lire~{attente}{page}{fin}
+@09233	Salut~{attente}|Honyaa~...{attente}{page}{fin}
+@09234	Son manga compte plus|que moi, alors...{attente}|Ça me fait de la peine~{attente}{page}{fin}
+@09235	Oh là, {F06}|ressemble au garçon|du manga~{attente}{page}{fin}
+@09236	Kyaa~, mon cœur se met|à battre la chamade~ !{attente}|Je rentre~{attente}{page}{fin}
+@09237	{E08} est repartie|en titubant, comme quand|elle est sortie...{attente}{page}{fin}
+@09238	Qu'elle me confonde avec le|garçon du manga... ça me|fait tout drôle !{attente}|Mais ça me fait plaisir !{attente}{page}{fin}
+@09239	{F06}~{attente}|Shinozawa vient de lire|un manga d'amour~{attente}{page}{fin}
+@09240	L'héroïne : Shinozawa~|le garçon : {F06}~{attente}|Et ils vivent un amour|romantique{attente}{page}{fin}
+@09241	...Shinozawa imaginait ça,|complètement ailleurs~{attente}|Kyaa~ ! Hiii♥♥{attente}{page}{fin}
+@09242	{E08} et moi, amoureux...{attente}|Même si c'est un manga,|elle m'imagine, moi, dans|le rôle...{attente}{page}{fin}
+@09243	Moi aussi, j'ai le cœur qui|bat, je suis content et|gêné à la fois~ !{attente}{page}{fin}
+@09244	(Devant le planétarium){n}{fin}
+@09245	Tiens, {F07}.|Je sors du planétarium.|BYE !{attente}{page}{fin}
+@09246	Ah, {F07} !{attente}|Je sors tout juste|du planétarium !{attente}{page}{fin}
+@09247	C'est frais et apaisant,|tu devrais y aller, {F07} !{attente}|Allez, BYE !{attente}{page}{fin}
+@09248	Mmh, c'est gentil de me le|conseiller, mais un garçon|tout seul, ça rime à rien~{attente}|Mais quelle chance !{attente}{page}{fin}
+@09249	Avec {F07},|ça aurait été encore|plus romantique♥{attente}{page}{fin}
+@09250	Allez, à plus,|{F07}♥{attente}{page}{fin}
+@09251	Si elle me dit des choses|pareilles, mon cœur bat !{attente}|...Quel bonheur~♥{attente}{page}{fin}
+@09252	Hein... ?{attente}|Une fille regarde un chiot|avec une drôle d'intensité{attente}{page}{fin}
+@09253	Ah ! Je croyais que c'était|une gamine, mais c'est|{E0A} !{attente}{page}{fin}
+@09254	　Entre petits, on s'aime ?{n}{fin}
+@09255	　T'aimes ce qui est petit ?{n}{fin}
+@09256	　Tu aimes les chiots ?{n}{fin}
+@09257	　Tu aimes les chiens ?{n}{fin}
+@09258	　Salut ! J'adore les chiens !{n}{fin}
+@09259	Hein ? Qui ? T'as dit quoi ?{attente}|Beurk, c'est {F08}...{attente}{page}{fin}
+@09260	Je regardais tranquillement|le chiot, et voilà, tu me|gâches tout mon plaisir !{attente}{page}{fin}
+@09261	Ça la dégoûte tant que ça|de me croiser ?{attente}|Elle me déteste à ce point ?|......{attente}Le choc !{attente}{page}{fin}
+@09262	Hein ? {F08} ?{attente}|T'as dit un truc ?{attente}{page}{fin}
+@09263	J'étais trop absorbée par le|chiot, j'ai pas entendu ce|que tu m'as dit !{attente}{page}{fin}
+@09264	Les chiots, c'est trop bien !{attente}|Allez, sur ce !{attente}{page}{fin}
+@09265	Pour {E0A}, un chiot,|c'est plus captivant que|moi~...{attente}|Ça me fait de la peine~{attente}{page}{fin}
+@09266	Hein ? {F08} ?{attente}|Pardon, pardon !{attente}|T'as dit quelque chose ?{attente}{page}{fin}
+@09267	J'étais trop absorbée par le|chiot, j'avais pas remarqué !{attente}|...Héhé !{attente}{page}{fin}
+@09268	Mais ça m'a fait plaisir|que tu m'appelles !{attente}|Salut, salut !{attente}{page}{fin}
+@09269	C'est vrai, on se lasse pas|de regarder un chiot !{attente}|Mais qu'elle soit contente|de me voir, ça fait plaisir !{attente}{page}{fin}
+@09270	Hein ? {F08} ?{attente}|J'avais l'air niaise, hein ?{attente}|Hihi, trop la honte !{attente}{page}{fin}
+@09271	J'étais trop dans le chiot,|j'ai pas bien entendu, mais|ça me fait plaisir que|tu m'appelles{attente}{page}{fin}
+@09272	Je me sens de plus en plus|heureuse♥{attente}|Héhé ! Salut !{attente}{page}{fin}
+
+; ---- invitation : Ruruna (grande roue)
+@09280	Alors que je passais devant|la gare de Koigahara...{attente}|quelqu'un m'a appelé !{attente}{page}{fin}
+@09281	{F03}, quel hasard !{attente}|Je vais au parc|d'attractions{attente}{page}{fin}
+@09282	J'ai un billet gratuit en trop.|Si t'as le temps, tu veux|venir avec moi ?{attente}{page}{fin}
+@09283	Hein, c'est vrai ?{attente}|Bien sûr, avec plaisir !{attente}{page}{fin}
+@09284	Super !{attente}|Alors, on y va tout de suite{attente}{page}{fin}
+@09285	Invité par {E04}, je suis|parti au parc d'attractions !{attente}{page}{fin}
+@09286	Dis, {F03} !|On va s'amuser à fond !{attente}|Hihi !{attente}{page}{fin}
+@09287	Dans le parc, on a fait plein|de manèges, on a mangé|des glaces...{attente}|On s'est trop amusés !{attente}{page}{fin}
+@09288	...Et pour finir...|on a décidé de monter|dans la grande roue...{attente}{page}{fin}
+@09289	{E04} regarde par la|fenêtre, les yeux brillants...{attente}{page}{fin}
+@09290	Le soleil couchant, par la|vitre, teinte {E04}|de rouge...{attente}{page}{fin}
+@09291	On dirait... une héroïne de|film : si belle... si gracieuse|...{attente}|que j'ai envie de l'enlacer{attente}{page}{fin}
+@09292	Il suffirait que je tende|la main... juste un peu...{attente}|pour toucher {E04}...{attente}{page}{fin}
+@09293	Mais j'avais beau y penser,|le cœur battant, je ne|pouvais que contempler|{E04}...{attente}{page}{fin}
+
+; ---- invitation : Mizuki (étoiles)
+@09294	(Berges de la Muku, la nuit){n}{fin}
+@09295	Je me promenais au bord|de la rivière, la nuit, quand|on m'a appelé !{attente}{page}{fin}
+@09296	{F04} !{attente}|Quel hasard !|Tu te balades ?{attente}{page}{fin}
+@09297	Moi, je faisais mon footing,{attente}|et je soufflais un peu !{attente}{page}{fin}
+@09298	Dis, si tu veux, on regarde|les étoiles ensemble ?{attente}|Elles sont trop belles !{attente}{page}{fin}
+@09299	Les étoiles ! Bonne idée !{attente}|Regardons-les ensemble !{attente}{page}{fin}
+@09300	À l'invitation de Mizuki,|je me suis assis sur la|berge et j'ai levé les yeux|vers les étoiles...{attente}{page}{fin}
+@09301	Regarde, c'est beau, hein ?{attente}|Quand on regarde les|étoiles, ça apaise...{attente}{page}{fin}
+@09302	Oui, vraiment...{attente}{page}{fin}
+@09303	En me tournant vers Mizuki|pour lui répondre...{attente}{page}{fin}
+@09304	j'ai vu son profil rêveur,|tourné vers les étoiles...|bien plus près que prévu.|Je suis resté sans voix{attente}{page}{fin}
+@09305	...Que c'est beau...{attente}{page}{fin}
+@09306	Ces mots m'avaient échappé|...{attente}|mais Mizuki a cru que|je parlais des étoiles...{attente}{page}{fin}
+@09307	En vrai... c'était|parce que Mizuki|était magnifique...{attente}{page}{fin}
+@09308	Mizuki, le garçon manqué,|pouvait donc être aussi|féminine, aussi fragile...{attente}{page}{fin}
+@09309	Le cœur battant, je ne|faisais que... contempler|le visage de Mizuki...{attente}{page}{fin}
+
+; ---- invitation : Yumi (boîte de nuit)
+@09310	(Devant la boîte de nuit){n}{fin}
+@09311	En passant devant la boîte|de nuit, j'ai entendu|quelqu'un m'appeler !{attente}{page}{fin}
+@09312	Mais c'est {F05} !{attente}|Dis, tu viens danser un peu|avec moi ?{attente}{page}{fin}
+@09313	Euh... mais...{attente}{page}{fin}
+@09314	Allez, quoi !{attente}|Vite, vite !{attente}{page}{fin}
+@09315	J'hésitais, mais Yumi m'a|tiré par le bras...{attente}|Elle n'a pas l'air comme|d'habitude, on dirait...{attente}{page}{fin}
+@09316	Allez !|{F05}, enfin !{attente}{page}{fin}
+@09317	J'ai fini par céder,|et je suis entré dans|la boîte...{attente}{page}{fin}
+@09318	Allez, on danse !{attente}|J'y vais la première !{attente}{page}{fin}
+@09319	Me laissant planté là, Yumi|s'est mise à danser sur la|piste...{attente}|...{attente}{page}{fin}
+@09320	Yumi continue de danser,|l'air extatique...{attente}{page}{fin}
+@09321	Elle ondule des hanches...|les joues en feu...{attente}|les yeux mi-clos, les|sourcils froncés......{attente}{page}{fin}
+@09322	La danse de Yumi est|étrangement sensuelle...|En la regardant, je sens|une excitation folle...{attente}{page}{fin}
+@09323	...Mais c'est la première|fois que je vois Yumi|comme ça...{attente}{page}{fin}
+
+; ---- invitation : Momoyo (esquimau)
+@09324	Kyaa~ ! {F06}~|Quel hasard~ !{attente}|Nyahahaha~ !{attente}{page}{fin}
+@09325	Il fait chaud, hein~ !{attente}|Tu viens te rafraîchir|dans le parc avec|Shinozawa~ ?{attente}{page}{fin}
+@09326	Nyah !|Allez, allez !{attente}|Let's go~ !{attente}{page}{fin}
+@09327	{E08} m'a entraîné|presque de force|dans le parc.{attente}{page}{fin}
+@09328	{E08} et moi, on|discutait sur un banc...{attente}{page}{fin}
+@09329	Quand soudain, {E08}|s'est levée !{attente}{page}{fin}
+@09330	Kyaa~ !{attente}|Le marchand de glaces~ !!{attente}{page}{fin}
+@09331	Sa camionnette arrive !{attente}|Dis~, {F06} !|Achète-m'en une~ !{attente}{page}{fin}
+@09332	Elle a repéré le bruit de la|camionnette des glaces...{attente}|Elle a l'œil... ou plutôt|l'oreille...{attente}{page}{fin}
+@09333	Shinozawa veut un|esquimau, nyaaan~ !{attente}{page}{fin}
+@09334	Oui, oui !|J'y vais !{attente}{page}{fin}
+@09335	Je suis retourné à l'entrée|du parc acheter les glaces,|et je suis revenu près de|{E08}...{attente}{page}{fin}
+@09336	Ukyaa~♥{attente}|Merciii~ !{attente}|Shinozawa est heureuse♥{attente}{page}{fin}
+@09337	Assis sur le banc, on a|commencé à manger nos|glaces...{attente}{page}{fin}
+@09338	{E08} a mis l'esquimau|en bouche d'un coup, puis|l'a fait aller et venir{attente}{page}{fin}
+@09339	Elle le ressort avec un|« plop », puis le lèche|consciencieusement sur|les côtés...{attente}{page}{fin}
+@09340	Une façon plutôt...|énergique... de manger|une glace, mais...{attente}{page}{fin}
+@09341	moi, je trouvais ses gestes|super sexy, et mon cœur|s'est mis à battre fort !{attente}{page}{fin}
+
+; ---- invitation : Mirei (maths)
+@09342	Hein ? Il y a une fille|plantée à l'entrée !{attente}{page}{fin}
+@09343	Salut, {E09} !{attente}|Qu'est-ce que tu fais|plantée là ?{attente}{page}{fin}
+@09344	Ah ! {F07} !{attente}|En fait, je comprends rien|en maths, alors je venais|chercher de l'aide !{attente}{page}{fin}
+@09345	En arrivant ici, je t'ai vu,|{F07}, alors je|t'ai attendu{attente}{page}{fin}
+@09346	Dis, ça t'ennuierait|de m'expliquer un peu,|chez moi ?{attente}{page}{fin}
+@09347	Oui, si c'est dans mes|cordes, avec plaisir !{attente}{page}{fin}
+@09348	Génial !|Merci beaucoup !{attente}{page}{fin}
+@09349	Me voilà donc parti chez|{E09} pour l'aider|en maths !{attente}{page}{fin}
+@09350	Alors, je compte sur toi !{attente}{page}{fin}
+@09351	{E09} a sorti son manuel|de maths et m'a posé des|questions sur ce qu'elle ne|comprenait pas...{attente}{page}{fin}
+@09352	Je lui ai tout expliqué|le plus clairement possible|.|.{attente}{page}{fin}
+@09353	Donc,|ici, le théorème...{attente}{page}{fin}
+@09354	Ah, page suivante !{attente}{page}{fin}
+@09355	Au moment où j'allais|tourner la page, {E09}|a justement tendu la main|elle aussi...{attente}{page}{fin}
+@09356	...Oh !{attente}{page}{fin}
+@09357	Nos mains se sont|posées l'une sur l'autre !{attente}{page}{fin}
+@09358	Pris de court, on est|restés figés comme ça...{attente}{page}{fin}
+@09359	Je sens la main de {E09}|contre la mienne...{attente}|Douce et chaude,|la main de {E09}...{attente}{page}{fin}
+@09360	Un peu moite, et pourtant|si lisse... comme si elle|venait se coller contre|ma paume...{attente}{page}{fin}
+@09361	Et si...|je la serrais fort,|là, maintenant...{attente}{page}{fin}
+@09362	Et puis...|et puis...{attente}|Je sentais mon cœur battre|de plus en plus fort{attente}{page}{fin}
+@09363	Euh...|{F07}...{attente}|...Je...{attente}{page}{fin}
+@09364	Sa voix m'a ramené à la|réalité : toute rouge,|{E09} me regardait|elle aussi !{attente}{page}{fin}
+@09365	Ah... p-pardon !{attente}{page}{fin}
+@09366	J'ai retiré ma main en|vitesse et je me suis|un peu décalé !{attente}{page}{fin}
+@09367	C'est plutôt à moi de...{attente}|Euh... je sais pas,|j'ai le cœur qui bat...{attente}{page}{fin}
+@09368	Je vais...|chercher à boire !{attente}{page}{fin}
+@09369	{E09} est sortie de la|pièce, toute paniquée...{attente}{page}{fin}
+@09370	En attendant son retour,{attente}|je retrouvais dans ma main|la douceur de la main|de {E09}...{attente}{page}{fin}
+
+; ---- invitation : Konoha (manga café)
+@09371	Aaah ! {F08} !{attente}|C'est un signe du destin !{attente}|On entre ensemble !{attente}{page}{fin}
+@09372	{E0A} m'a attrapé le bras|et m'a traîné d'autorité|dans le manga café !{attente}{page}{fin}
+@09373	Euh, désolée de te forcer|la main !{attente}|Ça t'embête ?{attente}{page}{fin}
+@09374	Bah, c'est bon...|On est déjà dedans, et|j'aime bien les mangas{attente}{page}{fin}
+@09375	À la bonne heure !{attente}|Allez, on va bien s'éclater|à lire des mangas !{attente}{page}{fin}
+@09376	On a chacun pris les mangas|qu'on voulait, et on s'est|assis côte à côte...{attente}{page}{fin}
+@09377	Hm ? J'ai l'épaule lourde|......{attente}Ah !{attente}{page}{fin}
+@09378	Sans prévenir, {E0A} s'est|appuyée sur mon épaule|pour lire son manga !{attente}{page}{fin}
+@09379	Sans doute... sûrement...|elle a l'impression de|s'adosser à un mur, mais...{attente}{page}{fin}
+@09380	Vu de l'extérieur, on|pourrait nous prendre|pour des amoureux, non ?{attente}{page}{fin}
+@09381	......|Le poids de {E0A}|sur mon épaule, sa chaleur|... c'est si agréable...{attente}{page}{fin}
+@09382	Un doux parfum de|shampooing flotte jusqu'à|moi et me chatouille le nez{attente}{page}{fin}
+@09383	{E0A} et moi...|amoureux... ?{attente}|Rien que d'y penser,|mon cœur s'est emballé...{attente}{page}{fin}
+
+; ---- entraînement du jour de congé : qui vient regarder
+@09395	Pendant que je m'entraînais|au baseball, un jour de|congé...{attente}{page}{fin}
+@09396	Hm ?{attente} J'ai... comme|l'impression qu'on|me regarde...{attente}{page}{fin}
+@09397	Quand nos regards se sont|croisés, Mizuki a souri,|un peu gênée, et elle|est partie...{attente}{page}{fin}
+@09398	Mizuki était venue pour|l'entraînement d'athlé... ?{attente}|Venir me regarder...|ça me touche~ !{attente}{page}{fin}
+@09399	Pendant que je m'entraînais|au basket, un jour de|congé...{attente}{page}{fin}
+@09400	Pendant que je m'entraînais|au foot, un jour de|congé...{attente}{page}{fin}
+@09401	Je courais à l'entraînement|d'athlé, un jour de congé|...{attente}{page}{fin}
+@09402	Pendant que je m'entraînais|au ping-pong, un jour de|congé...{attente}{page}{fin}
+@09403	Pourquoi elle était au lycée|un jour de congé... ?{attente}|Elle serait venue|exprès pour me voir ?!{attente}{page}{fin}
+@09404	Si c'est ça, ça me fait|plaisir !{attente}|Je me sens regonflé !{attente}|Allez, courage~ !!{attente}{page}{fin}
+@09405	Quand nos regards se sont|croisés, {E08} a mimé|un coup de batte, puis|a levé le poing !{attente}{page}{fin}
+@09406	Et toujours le poing levé,|elle s'est éloignée|d'un pas lourd...{attente}{page}{fin}
+@09407	Quand nos regards se sont|croisés, {E09} a brandi|le pouce bien haut,|puis elle est partie...{attente}{page}{fin}
+@09408	{E09} a un club, elle aussi ?{attente}|Venir jusqu'ici exprès pour|me regarder...|ça me touche~ !{attente}{page}{fin}
+@09409	Quand nos regards se sont|croisés, {E0A} s'est agitée|encore plus, toute gênée,|puis a filé au ping-pong...{attente}{page}{fin}
+@09410	Elle a son entraînement,|elle aussi, et elle vient|quand même me regarder...|ça me touche~ !{attente}{page}{fin}
+@09411	Quand nos regards se sont|croisés, {E0A} s'est agitée|encore plus, toute gênée,|puis elle est partie...{attente}{page}{fin}
+@09412	{E0A} aussi était en|tenue de sport !{attente}|Filer du ping-pong pour me|voir... ça me touche~ !{attente}{page}{fin}
+@09414	En voyant que je la|regardais, elle m'a montré|par gestes que ma raquette|était trop couchée !{attente}{page}{fin}
+@09415	J'ai redressé ma raquette|et repris mes gestes à vide,|et elle m'a regardé en|hochant souvent la tête{attente}{page}{fin}
+@09416	Qu'elle fasse autant|attention à moi...|ça me fait trop plaisir !{attente}{page}{fin}
+@09417	Quand nos regards se sont|croisés, Yumi a souri,|hoché la tête, et elle|est partie...{attente}{page}{fin}
+
+; ---- rencontres en ville (hiver)
+@09419	Par un froid pareil,|je te conseille de bons|pancakes bien chauds !{attente}{page}{fin}
+@09420	Je marchais dans la rue|commerçante...{attente}|quand on m'a appelé !{attente}{page}{fin}
+@09421	Quel hasard, {F03} !{attente}|Je viens de manger|des pancakes !{attente}{page}{fin}
+@09422	C'était trooop bon, j'avais|envie de le dire à quelqu'un !|Hihi ! Salut !{attente}{page}{fin}
+@09423	« À quelqu'un »...|N'importe qui aurait fait|l'affaire~ ?{attente}|Ça me chiffonne...{attente}{page}{fin}
+@09424	Je t'ai vu, {F03},|alors j'ai eu envie de te|le dire, et je t'ai appelé !{attente}{page}{fin}
+@09425	Elle m'a appelé parce qu'elle|voulait me le dire, à moi !|Trop content !!{attente}|Quelle chance !!{attente}{page}{fin}
+@09426	C'était super bon, et ça|m'a bien réchauffée,|mais...{attente}{page}{fin}
+@09427	Si j'avais pu en manger avec|{F03}, ça aurait été|encore mieux♥{attente}{page}{fin}
+@09428	La prochaine fois, ce serait|bien d'y aller ensemble♥{attente}|...Allez, à plus !{attente}{page}{fin}
+@09429	Hein ?|Il y a une fille devant|le stand de takoyaki{attente}{page}{fin}
+@09430	...Mais c'est {E04} !|Elle mange des takoyaki|devant le stand, l'air|de se régaler !{attente}{page}{fin}
+@09431	　Hé, c'est pas très chic !{n}{fin}
+@09432	　Tu manges de bon cœur !{n}{fin}
+@09433	　Quelle gourmande, toi !{n}{fin}
+@09434	　Ça a l'air bon !{n}{fin}
+@09435	　Salut, désolé de déranger{n}{fin}
+@09436	Rooh !|Je suis en train de manger !{attente}{page}{fin}
+@09437	Ça ne lui a pas plu d'être|dérangée en plein repas :|elle est partie avec|ses takoyaki...{attente}{page}{fin}
+@09438	Ses takoyaki comptent plus|que moi ?{attente}|C-c'est triste~...{attente}{page}{fin}
+@09439	Ah, {F03}...|Les takoyaki d'ici,|ils sont géniaux !!{attente}{page}{fin}
+@09440	Attends une seconde !|...Miam miam miam|......{attente}{page}{fin}
+@09441	Mmh~, c'était trop bon !|{E04} est heureuse♥{attente}|Ah, bon, à plus !{page}{fin}
+@09442	Hein ? Elle m'a fait attendre|juste pour dire au revoir ?{attente}|Pfff~, je compte pour rien,|alors~{attente}{page}{fin}
+@09443	Prends-en un aussi, toi,|{F03} !{attente}|Je te les conseille !{attente}{page}{fin}
+@09444	Sur ses conseils, j'ai acheté|des takoyaki et je les ai|goûtés à côté de {E04}|......{attente}{page}{fin}
+@09445	Mmh ! C'est bon !{attente}|T'avais raison, {E04},|c'est super bon !{attente}{page}{fin}
+@09446	Hein ! Contente de te les|avoir fait découvrir,|{F03} !{attente}{page}{fin}
+@09447	Moi, j'ai fini !|...Bon, à plus,|{F03} !{attente}{page}{fin}
+@09448	Merci pour le tuyau !|Salut !{attente}{page}{fin}
+@09449	Les takoyaki ont réchauffé|mon corps, et la gentillesse|de {E04}, mon cœur !{attente}{page}{fin}
+@09450	Dis, {F03} !|Goûte-en un !{attente}{page}{fin}
+@09451	{E04} m'a tendu|son assiette entamée !{attente}{page}{fin}
+@09452	Bon, un seul, alors...{attente}|Ah... ça brûle...{attente}|Mais... c'est bon !{attente}{page}{fin}
+@09453	Hein ! Je suis contente de|t'en avoir fait goûter,|{F03}♥{attente}{page}{fin}
+@09454	Partager sa part avec moi...|ça me fait super plaisir !{attente}|Je suis trop heureux !{attente}{page}{fin}
+@09455	Il me semble que le numéro|spécial d'hiver de Shonen|Kid est sorti !{attente}|Voyons~, il est où ?{page}{fin}
+@09456	Ah, {F04} ?{attente}{page}{fin}
+@09457	Hm ? Qui c'est ?|Cette voix me dit quelque|chose... Ah, c'est Mizuki !{attente}{page}{fin}
+@09458	Pardon, je voudrais aller|à la caisse, tu me laisses|passer ?{attente}{page}{fin}
+@09459	Mizuki est partie vers la|caisse avec un livre de|photos d'étoiles, comme|si elle me fuyait...{attente}{page}{fin}
+@09460	Je suis venue acheter un|livre de photos d'étoiles{attente}|Allez, à plus !{attente}{page}{fin}
+@09461	{F04}, quel hasard !{attente}|Je suis venue acheter ce|livre de photos d'étoiles !{attente}{page}{fin}
+@09462	Les photos ont un charme|que le vrai ciel n'a pas !{attente}|Allez, à plus !{attente}{page}{fin}
+@09463	Elle a pris la peine de|m'appeler, ça fait plaisir !{attente}|Quelle chance de la croiser !{attente}{page}{fin}
+@09464	Elles sont trop belles !{attente}|J'aimerais te les montrer♥{attente}|...Ahah♥{attente}{page}{fin}
+@09465	Waouh~ !|Quand elle me regarde avec|des yeux aussi brûlants,|je fonds de bonheur~♥{attente}{page}{fin}
+@09466	Elle a fait une tête|franchement dégoûtée...{attente}|Qu'elle me traite comme ça...|c-c'est triste~...{attente}{page}{fin}
+@09467	Ah, {F04}.{attente}|J'ai mangé un cheesecake|après mon footing{attente}{page}{fin}
+@09468	Je dois rentrer,|à plus !{attente}{page}{fin}
+@09469	{F04}, quel hasard !{attente}|Je viens de manger|un cheesecake{attente}{page}{fin}
+@09470	Après un footing, on a|une de ces faims !|Ahah !{attente} Allez, à plus !{attente}{page}{fin}
+@09471	Après un footing, j'ai une|de ces faims...{attente}|Ahah, la honte♥{attente}{page}{fin}
+@09472	En vrai, un gâteau, c'était|pas vraiment assez, mais|...{attente}{page}{fin}
+@09473	maintenant que je t'ai vu,|{F04}, j'ai le cœur trop|plein pour avaler quoi|que ce soit♥{attente}{page}{fin}
+@09474	Sans doute gênée, Mizuki|est vite rentrée chez elle|...{attente}{page}{fin}
+@09475	Monsieur {F01},|nous avons une nouvelle|soupe de maïs !{attente}{page}{fin}
+@09476	Ça vous tente ?{attente}|Elle est bonne et chaude !{attente}|N'hésitez pas !{attente}{page}{fin}
+@09477	Son boniment fini, Yumi|est retournée dans|le restaurant...{attente}{page}{fin}
+@09478	C'était du pur commercial~{attente}|Même en plein boulot,|c'est pas sympa~...{attente}|C-c'est triste~...{attente}{page}{fin}
+@09479	Tiens, {F05}.{attente}|Il fait froid, hein !{attente}{page}{fin}
+@09480	Justement, on a une soupe|de maïs nouvelle au menu !{attente}|Elle est bonne !{attente}{page}{fin}
+@09481	Alors, si ça te dit,|passe donc !{attente}{page}{fin}
+@09482	Sur ces mots, Yumi est|retournée dans|le restaurant...{attente}{page}{fin}
+@09483	Elle voulait juste présenter|le nouveau menu...|ou elle me la conseillait|parce que c'est bon...{attente}{page}{fin}
+@09484	Difficile à dire~{attente}{page}{fin}
+@09485	Sur ces mots, Yumi a fait|mine de passer à côté|de moi...{attente}{page}{fin}
+@09486	Ça, on n'en donne plus|en ce moment !|C'est un secret, hein !{attente}{page}{fin}
+@09487	Yumi m'a glissé quelque|chose dans la main, puis|elle est retournée au|restaurant...{attente}{page}{fin}
+@09488	Qu'est-ce que c'est... ?{attente}|Ah, ça ! Un bon de réduction|pour les habitués !{attente}{page}{fin}
+@09489	Me le passer en douce,|rien que pour moi...|ça me touche~ !{attente}{page}{fin}
+@09490	Yumi s'est approchée|et m'a murmuré|à l'oreille !{attente}{page}{fin}
+@09491	C'est vraiment bon...|alors j'avais envie de t'en|faire goûter, {F05}♥{attente}{page}{fin}
+@09492	Voilà un bon de réduction,|sers-t'en si tu veux♥{attente}|Ce sont mes sentiments...♥{attente}{page}{fin}
+@09493	« Ses sentiments »...|Qu'est-ce qu'elle veut|dire par là... !{attente}{page}{fin}
+@09494	Ça me travaille,|j'en ai le cœur qui bat|...{attente}{page}{fin}
+@09495	Ah, c'est toi, {F05}.{attente}|Je suis juste venue chanter|un peu pour décompresser !{attente}{page}{fin}
+@09496	Tiens, {F05} !{attente}|Je viens de chanter un peu|pour décompresser !{attente}{page}{fin}
+@09497	La prochaine fois, on|chantera une chanson|d'amour en duo♥{attente}|...Hihi♥{attente}{page}{fin}
+@09498	Un duo...|et une chanson d'amour !!{attente}|Rien que d'y penser,|mon cœur s'emballe !{attente}{page}{fin}
+@09499	Il y a peut-être un sens|caché~ !{attente}|Et même sinon, je suis|au comble du bonheur !{attente}{page}{fin}

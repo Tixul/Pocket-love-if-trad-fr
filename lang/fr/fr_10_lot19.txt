@@ -1,0 +1,360 @@
+@06746	J'aimerais bien réussir|les études,{attente} le sport,{attente}|et puis... l'amour...{attente}|tout ça à la fois !{attente}{page}{fin}
+@06747	Dis, {F05}...{attente}|...faisons en sorte que|l'an prochain soit|une belle année♥{attente}{page}{fin}
+@06748	Désolée pour l'attente~ !{attente}|Voilà les calamars|grillés~ !{attente}|Mange, mange~ !{attente}{page}{fin}
+@06749	Nyaha~, c'est trop bon~{attente}|Ce goût ! Cette odeur !{attente}|Mmmh~, c'est le paradis~ !{attente}{page}{fin}
+@06750	Après les calamars,|place aux boulettes|de poulpe !{attente}|Et puis l'okonomiyaki,{attente}{page}{fin}
+@06751	Et les pommes d'amour|ont l'air trop bonnes~ !{attente}|Le sucre soufflé aussi~ !{attente}{page}{fin}
+@06752	Ah !{attente} Je n'arrête pas|de parler de nourriture~{attente}|Pardooon~{attente}{page}{fin}
+@06753	Shinozawa est comme ça,|mais l'an prochain aussi,|elle compte sur toi~ !{attente}|Nyahaha~♥{page}{fin}
+@06754	...Une nouvelle année|qui commence avec elle...{attente}|...Je sens qu'elle va|être géniale !{attente}{page}{fin}
+@06755	Fêter le Nouvel An|dans un temple comme ça,|c'est une première|pour moi !{attente}{page}{fin}
+@06756	Le réveillon au Japon,|c'est vraiment passionnant !{attente}|...Mais...{attente}{page}{fin}
+@06757	finir l'année à la|japonaise avec {F07},|et fêter la nouvelle...{attente}{page}{fin}
+@06758	Moi... je suis vraiment...{attente}|contente d'être venue|au Japon...♥{attente}{page}{fin}
+@06759	Dis, {F07}...{attente}|Commençons cette nouvelle|année en beauté...♥{attente}{page}{fin}
+@06760	Hé, {F08} !{attente}|Pourquoi tu restes planté|là comme un piquet ?{attente}{page}{fin}
+@06761	Le clou du réveillon,|c'est de sonner la cloche|du temple, non ?!{attente}|Allez, allez, on y va !{attente}{page}{fin}
+@06762	...{E0A} et moi, on a|fait la queue ensemble|pour sonner la cloche|du Nouvel An.{attente}{page}{fin}
+@06763	C'est notre tour !{attente}|On frappe à trois, OK ?{attente}|Uuun... deeeux...{attente}{page}{fin}
+@06764	BOOOOONG !!{attente}{page}{fin}
+@06765	Le son de notre cloche|m'a traversé tout le corps,|et sans savoir pourquoi,|ça m'a bouleversé.{attente}{page}{fin}
+@06766	{F08}...|...dis...{attente}{page}{fin}
+@06767	...Finir l'année|tous les deux ensemble...{attente}|je suis super heureuse♥{attente}{page}{fin}
+@06768	...Héhé♥{attente}|L'an prochain aussi, compte|sur {E0A} Kobayashi !{attente}{page}{fin}
+@06775	Ah, {F03}...{attente}|Je t'attendais !{attente}{page}{fin}
+@06776	...Tiens...|tu veux bien accepter ça ?{attente}{page}{fin}
+@06777	Hein ! Ne me dis pas|que c'est...{attente}{page}{fin}
+@06778	Oui, c'est du chocolat !{attente}|Et ça, c'est...{attente}|une écharpe tricotée main...{attente}{page}{fin}
+@06779	J'ai tout fait moi-même...{attente}|Ce n'est pas aussi joli que|dans le commerce... pardon{attente}{page}{fin}
+@06780	Mais en échange...{attente}|j'y ai mis tout plein,|tout plein de mon cœur♥{attente}{page}{fin}
+@06781	Merci de les prendre !{attente}|Hihi♥{attente}|...À bientôt♥{attente}{page}{fin}
+@06782	...Ouais !{attente}|J'ai eu un cadeau|de Saint-Valentin !{attente}{page}{fin}
+@06783	{F04}...{attente}|je t'attendais...{attente}|...euh...{attente}{page}{fin}
+@06784	Je voulais te donner ça...|......{attente}{page}{fin}
+@06785	Ouais, c'est du chocolat...|Je suis maladroite...{attente}|désolée, je l'ai pas fait|moi-même.{attente}{page}{fin}
+@06786	Mais je l'ai choisi avec|soin...{attente} j'y ai mis autant|de cœur que si je l'avais|fait moi-même...{attente}{page}{fin}
+@06787	Je tenais vraiment...|à te le donner en main|propre♥{attente}|...{attente}Salut !!{attente}{page}{fin}
+@06788	...Ouais !!{attente}|J'ai eu des chocolats|de Saint-Valentin !!{attente}{page}{fin}
+@06789	{F05} !{attente}|Tu tombes bien !{attente}{page}{fin}
+@06790	Je viens justement|d'acheter ça pour te|l'offrir, {F05} !{attente}{page}{fin}
+@06791	Tu devines ?{attente}...Hihi♥{attente}|Évidemment...{attente}|c'est du chocolat !{attente}{page}{fin}
+@06792	Super !|Ça me fait plaisir que|tu l'acceptes !{attente}{page}{fin}
+@06793	Pour toi, {F05},|j'ai écumé le rayon|chocolat pendant des|jours et des jours♥{attente}{page}{fin}
+@06794	Savoure-le bien,|d'accord...?{attente}|Allez, à plus tard♥{attente}{page}{fin}
+@06795	Ah, {F06}~ !{attente}|C'est pour toi~ !!{attente}{page}{fin}
+@06796	Du chocolat plein de|l'amour de Shinozawa~♥{attente}{page}{fin}
+@06797	Kyaa~ ! De l'amour~ !{attente}|Mais quelle idée~ !{attente}|Shinozawa rougit~ !{attente}{page}{fin}
+@06798	Oh là là~, Shinozawa a le|cœur qui fond, sucré|comme du chocolat~♥{attente}{page}{fin}
+@06799	Ça coule~ ! Ça coule~ !{attente}|Oh là là~, on peut plus|le manger~{attente}|Shinozawa veut pas ça~{attente}{page}{fin}
+@06800	Mais tout fondu, ça fait|du chocolat à boire~ !{attente}|C'est peut-être bon aussi~{attente}{page}{fin}
+@06801	Enfin bref, des chocolats|de Saint-Valentin pour moi :|je suis aux anges !!{attente}{page}{fin}
+@06802	Ah... {F07} !{attente}|J'ai un cadeau pour toi !{attente}|Tu veux bien le prendre ?{attente}{page}{fin}
+@06803	Tiens, le voilà !{attente}|J'espère qu'il va|te plaire...{attente}{page}{fin}
+@06804	C'est du chocolat que j'ai|fait pour toi, {F07} :|j'y ai passé la nuit♥{attente}{page}{fin}
+@06805	...J'y ai mis tout|mon cœur...{attente}|alors je suis sûre|qu'il est bon♥{attente}{page}{fin}
+@06806	Que tu l'acceptes...|ça me rend vraiment|heureuse...{attente}|Allez, à bientôt♥{attente}{page}{fin}
+@06807	Ah, {F08} !|J'ai un truc à te donner !{attente}|Euh...{attente} tiens !{attente}{page}{fin}
+@06808	Mince, la cata...{attente}|...à force de le serrer|contre moi, il a chauffé...{attente}{page}{fin}
+@06809	C'est du chocolaaat...{attente}|Je l'ai tenu si précieusement|qu'il a chauffé !{attente}{page}{fin}
+@06810	Un truc pareil... ça|t'embête, hein...{attente}|...pardon...{attente}|je le ramène chez moi...{attente}{page}{fin}
+@06811	Pas du tout !{attente}|Ça me fait plaisir !{attente}{page}{fin}
+@06812	C-c'est vrai ?!{attente}|Tu le prends ?{attente}|Merciii !!{attente}{page}{fin}
+@06813	Ouf, trop bien !{attente}|Je suis super...{attente} super...|...contente♥{attente}{page}{fin}
+@06814	...J'ai bien fait d'attendre{attente}|Allez, à pluuus♥{attente}{page}{fin}
+@06815	Ugh...{attente}|C'est vrai, même à travers|le papier, je sens que|c'est tiède et tout mou...{attente}{page}{fin}
+@06820	{F00}...{attente} Alors,|tu regardes le feu de camp|tout seul, comme une|âme en peine ?{attente}{page}{fin}
+@06821	...Bah, fais pas cette tête{attente}|Allez, salut !{attente}{page}{fin}
+@06822	Sur ces mots, Maeno|s'est évanoui dans|l'obscurité...{attente}{page}{fin}
+@06823	...Et ainsi...{attente}|la fête du lycée|s'est achevée...{attente}{page}{fin}
+@06824	(Incident à la bibliothèque){n}{fin}
+@06825	Je lisais à la bibliothèque|quand j'ai senti un regard|dans mon dos...{attente}{page}{fin}
+@06826	...Qui ça peut être ?{attente}|Elle a l'air très sérieuse,|mais...{attente} à bien la regarder,|elle est mignonne !{attente}{page}{fin}
+@06827	Ah...{attente} En voyant|que je la regardais, elle a|fermé son livre et filé|vers les rayons... Bah...{attente}{page}{fin}
+@06828	・|・|・|Bon, je vais rentrer !{attente}{page}{fin}
+@06829	Ah ! Encore cette fille !{attente}|En me voyant, elle m'a salué|d'un signe de tête, puis|elle est partie...{attente}{page}{fin}
+@06830	Ah ! C'est la fille qui|m'observait, il y a|quelque temps !{attente}|Elle me dévore des yeux...{attente}{page}{fin}
+@06831	En sortant de la|bibliothèque, la fille de|tout à l'heure m'a abordé !{attente}{page}{fin}
+@06832	Euh...{attente}|Tu étais déjà venu|étudier ici, il y a|un moment, non ?{attente}{page}{fin}
+@06833	Tu aimes étudier ?{attente}|Tu dégages une telle|intelligence...|je t'envie !{attente}{page}{fin}
+@06834	Haha, dit comme ça,|ça me gêne un peu...{attente}{page}{fin}
+@06835	Tu avais l'air d'étudier|très efficacement...|Tu voudrais bien|me donner tes astuces ?{attente}{page}{fin}
+@06836	Ensuite, en oubliant même|de nous présenter,{attente}|on a parlé études|avec passion.{attente}{page}{fin}
+@06838	Alors que je passais devant|le karaoké...{attente}|quelqu'un m'a interpellé !{attente}{page}{fin}
+@06839	Hé, ho, toi~ !{attente}|Pousse-toi~ !{attente} Tu|m'empêches d'entrer, là !{attente}{page}{fin}
+@06840	Waouh, elle est voyante !{attente}|Plutôt mignonne, cela dit...{attente}|Mais me bousculer comme ça,|quelle brute, franchement !{attente}{page}{fin}
+@06841	Hé, toi~ !{attente}|D'après le patron,{attente}|tu chantes super bien~ ?{attente}{page}{fin}
+@06842	Si c'est vrai, faut|absolument que|je t'entende chanter !{attente}{page}{fin}
+@06843	Fais pas ton timide !{attente}|On va s'éclater~ !{attente}{page}{fin}
+@06844	Et me voilà à faire du|karaoké avec une fille dont|je ne connais même pas|le nom !{attente}{page}{fin}
+@06845	Pas mal du tout~ !!{attente}|Comme disait le patron,|tu chantes grave bien~ !{attente}{page}{fin}
+@06846	Allez, à mon tour,|je vais chanter aussi~ !{attente}{page}{fin}
+@06847	Ensuite, en oubliant même|de nous présenter, on|s'est éclatés au karaoké !{attente}{page}{fin}
+@06848	(Dans l'animalerie){n}{fin}
+@06849	Tiens...?{attente}|Une fille regarde les|hamsters avec passion...{attente}{page}{fin}
+@06850	...Une collégienne ?{attente}|Elle est mignonne !{attente}|Elle aime tant que ça|les hamsters...?{attente}{page}{fin}
+@06851	À force de la regarder|contempler les hamsters...{attente}|je n'ai pas pu m'empêcher|de lui adresser la parole !{attente}{page}{fin}
+@06852	Salut ! C'est mignon,|les hamsters, hein !{attente}|Toi aussi, tu les aimes ?{attente}{page}{fin}
+@06853	...Hein ?{attente}|...Euh, je...{attente}|......{attente}{page}{fin}
+@06854	Surprise par ma voix,|elle s'est enfuie|en vitesse !{attente}{page}{fin}
+@06855	Hmm...{attente}|Je lui ai fait peur ?{attente}|Je m'en veux un peu...{attente}{page}{fin}
+@06856	(Incident aux cerisiers){n}{fin}
+@06857	Une fille photographie|les cerisiers avec ardeur...{attente}{page}{fin}
+@06858	Ah, nos regards se sont|croisés !{attente}|...Rester sans rien dire,|ce serait un peu gênant...{attente}{page}{fin}
+@06859	...Salut, tu t'appliques !{attente}|Tu aimes la photo ?{attente}{page}{fin}
+@06860	Ah ! Ne bouge pas !{attente}|C'est parfait !{attente}|Regarde les cerisiers|comme ça !{attente}{page}{fin}
+@06861	Hein ? C-comme ça...?{attente}{page}{fin}
+@06862	Oui, ne bouge plus !{attente}|Bon, je prends !{attente}|...{attente}Encore une !{attente}{page}{fin}
+@06863	Elle m'a pris en photo|plein de fois, avec les|cerisiers en arrière-plan...{attente}{page}{fin}
+@06864	Pardon !{attente} Je t'ai|fait poser comme modèle,|comme ça, d'un coup...|...{attente}{page}{fin}
+@06865	Mais grâce à toi, j'ai|fait de belles photos !{attente}|Merci beaucoup !{attente}{page}{fin}
+@06866	Sur ces mots, elle est|repartie en mitraillant|les cerisiers, absorbée...{attente}{page}{fin}
+@06867	...Une collégienne ?{attente}|Elle était plutôt|mignonne...{attente}{page}{fin}
+@06868	(Au musée d'art){n}{fin}
+@06869	...Tiens ?{attente} Cette fille|qui regarde les tableaux|avec tant d'attention...{attente}{page}{fin}
+@06870	C'est bien la fille qui|photographiait dans la|forêt des cerisiers,|il y a longtemps !{attente}{page}{fin}
+@06871	Ah !{attente} Euh, on s'est...|...{attente}déjà vus dans la forêt|des cerisiers, non ?{attente}{page}{fin}
+@06872	Tu t'intéresses|à l'art ?{attente}{page}{fin}
+@06873	...Ensuite, on a discuté|un moment de peinture,|c'était très sympa.{attente}{page}{fin}
+@06874	Ah ! Si on bavarde trop|ici, on va se faire|gronder...{attente}{page}{fin}
+@06875	Bon, je vais|te laisser !{attente}{page}{fin}
+@06876	En un clin d'œil, elle s'est|fondue dans la foule...|...{attente}J'ai oublié de lui|demander son nom...{attente}{page}{fin}
+@06877	J'avais commandé une|tisane et j'attendais|tranquillement...{attente}{page}{fin}
+@06878	Ah, ça arrive...?{attente}|Ah non, le serveur venait|juste prendre la commande|de la table derrière...{attente}{page}{fin}
+@06879	Eh bien...{attente}|ce sera une tisane,|je vous prie.{attente}{page}{fin}
+@06880	Hm ? Quelle façon de|parler raffinée...{attente}|...Bon, ça me regarde pas.{attente}{page}{fin}
+@06881	・|・|・|Ah, enfin, ça arrive !{attente}{page}{fin}
+@06882	...Hé, attends !{attente}|Il l'a apportée à la table|derrière moi !{attente}{page}{fin}
+@06883	J'étais là avant !!{attente}|C'est qu'une tisane, mais|faut pas se moquer de moi !!{attente}|Ça m'énerve !!{attente}{page}{fin}
+@06884	...{attente}Euh...|Pardonne-moi...{attente}{page}{fin}
+@06885	Cette tisane...|tu étais là avant moi,|n'est-ce pas ?{attente}|...Je t'en prie !{attente}{page}{fin}
+@06886	Hein ? Euh...{attente}|C'est trop aimable...|je suis confus...{attente}{page}{fin}
+@06887	C'est bien la première fois|que je rencontre un homme|amateur de tisanes !{attente}{page}{fin}
+@06888	Cela me réjouit fort,|vois-tu !{attente}{page}{fin}
+@06889	Si tu le permets,|je me joindrais volontiers|à toi pour bavarder|un peu...{attente}{page}{fin}
+@06890	A-ah, je t-t'en prie...{attente}|Daigne t'asseyir...|euh ? T'asseoir...?{attente}{page}{fin}
+@06891	Complètement déstabilisé,|je me suis retrouvé à|partager ma table avec|cette dame si distinguée...{attente}{page}{fin}
+@06892	Ensuite, on a longuement|discuté de tisanes...{attente}{page}{fin}
+@06893	(Incident sur le toit){n}{fin}
+@06894	Ah...{attente}|Je croyais être seul,|mais il y a quelqu'un !{attente}{page}{fin}
+@06895	...Une élève plus âgée...{attente}|Elle a l'air si mûre...|qu'elle est belle...{attente}{page}{fin}
+@06896	Ah, elle est partie...{attente}|Elle m'intrigue un peu...{attente}{page}{fin}
+@06897	Cette fille... c'est|l'élève plus âgée que j'ai|vue ici l'autre jour...{attente}{page}{fin}
+@06898	Elle a un air|mélancolique...{attente}|Pourquoi elle reste seule|dans un endroit pareil ?{attente}{page}{fin}
+@06899	...{attente}Ah, elle est partie{attente}|...Hmm...{attente}|Elle m'intrigue...|vraiment beaucoup...{attente}{page}{fin}
+@06900	Ah...{attente}|Encore elle !{attente}|...{attente}Allez !{attente}|Aujourd'hui, je lui parle !{attente}{page}{fin}
+@06901	...{attente}Euh... dis !{attente}|Tu es toujours sur|le toit, hein...|...{attente}{page}{fin}
+@06902	...Oui...{attente}|......{attente}{page}{fin}
+@06903	......Salut.{attente}{page}{fin}
+@06904	Im-impossible de faire|la conversation !{attente}|Bon, elle parle pas|beaucoup, on dirait...{attente}{page}{fin}
+@06905	Dis, dis !|La fille de 2e année qui|est toujours sur le toit...{attente}{page}{fin}
+@06906	...Hm ?{attente}|La 2e année toujours sur|le toit... ce serait elle ?{attente}{page}{fin}
+@06907	Saki Takemiya, c'est ça ?|Elle parle super peu, non ?{attente}|Qu'est-ce qu'elle a ?{attente}{page}{fin}
+@06908	Eh ben~,{attente} il paraît que|depuis que le lycée existe...{attente}|y a jamais eu d'élève|aussi brillante~ !{attente}{page}{fin}
+@06909	Sans blague~ !{attente} Elle passe|son temps sur le toit à|regarder le ciel, l'air ahuri !{attente}{page}{fin}
+@06910	Justement, elle a toujours|plein de réflexions|philosophiques en tête,|alors elle parle pas !{attente}{page}{fin}
+@06911	Son cerveau tourne trop|vite, quoi !{attente}|Waouh, faut pas se fier|aux apparences~ !{attente}{page}{fin}
+@06912	...{attente}Ah bon...|C'était donc ça !{attente}|Saki Takemiya, hein...{attente}|Elle m'intrigue encore plus !{attente}{page}{fin}
+@06913	Ah...{attente}|Encore elle !{attente}|...Tiens ?|Elle regarde vers moi !{attente}{page}{fin}
+@06914	...Regarder le ciel...|...ça fait du bien...|.........Bon, salut.{attente}{page}{fin}
+@06915	À cause de ces rumeurs,|peut-être...{attente} mais|entre ses mots, je sens|comme de la philosophie.{attente}{page}{fin}
+@06916	Mais c'est elle qui m'a|adressé la parole...{attente}|J'ai l'impression qu'on|se rapproche un peu... !{attente}{page}{fin}
+@06917	La prochaine fois...|c'est moi qui me présente !{attente}{page}{fin}
+@06918	Je marchais vers le|portail du lycée...{attente}{page}{fin}
+@06919	BAOUM !!!!{attente}|......{attente}{page}{fin}
+@06920	...C'était quoi, ce bruit ?{attente}|Un bruit sourd...|qui fait froid dans le dos...{attente}{page}{fin}
+@06921	Pris d'un mauvais|pressentiment, j'ai couru|vers le portail !{attente}{page}{fin}
+@06922	...{attente}Devant le portail,|il y avait un attroupement{attente}|...Qu'est-ce qui a bien|pu se passer...?{attente}{page}{fin}
+@06923	L'ambulance arrive !{attente}{page}{fin}
+@06924	Hé, c'est qui ?!{attente}{page}{fin}
+@06925	Saki Takemiya, de 2e année !|Elle est entre la vie|et la mort !{attente}{page}{fin}
+@06926	Une voiture lui a foncé|dessus !{attente}|Ah ! Ils la montent dans|l'ambulance !{attente}{page}{fin}
+@06927	...Quoi ?!|Elle... la fille du toit...|c'est elle... ?!{attente}|Non...!!!{attente}{page}{fin}
+@06928	Alors que...|...j'avais le sentiment qu'on|allait devenir proches...{attente}{page}{fin}
+@06929	Depuis ce jour, je n'ai|plus jamais revu Saki|Takemiya au lycée...{attente}{page}{fin}
+@06940	Dommage......{attente}|Notre équipe a perdu{attente}|C'était pas loin, pourtant...{attente}|...Rhaaa, trop rageant !!{attente}{page}{fin}
+@06941	{E04} picore joyeusement|une coupe au chocolat|en face de moi...{attente}{page}{fin}
+@06942	Une coupe au chocolat en|rendez-vous, j'ai peur de|m'en mettre partout !{attente}{page}{fin}
+@06943	Mais bizarrement,|j'ai l'impression qu'elle|est encore plus sucrée...{attente}{page}{fin}
+@06944	...Mmmh ! Plus sucrée et|meilleure que d'habitude !{attente}|C'est à tomber♥{attente}{page}{fin}
+@06945	Elle faisait attention à|sa bouche, mais la coupe|l'a vite absorbée...{attente}|Qu'elle est mignonne !{attente}{page}{fin}
+@06946	Dis, {F03},|à ton avis, pourquoi ?{attente}|C'est bizarre, hein...{attente}{page}{fin}
+@06947	{E04} penche la tête...|...{attente}Si c'était parce|qu'elle est avec moi...{attente}|je serais trop content !{attente}{page}{fin}
+@06948	Manger une coupe|au chocolat comme ça,|en face de {F03}...{attente}{page}{fin}
+@06949	ça me paraît plus sucré|que d'habitude !{attente}|Je me demande pourquoi...{attente}{page}{fin}
+@06950	Sûrement...{attente} parce que|c'est un doux moment rien|qu'à nous deux ?{attente}|...Hihi♥{attente}{page}{fin}
+@06951	Waouh !{attente} {E04} me|regarde avec des yeux|tout fondants...{attente}|Ça me gêne un peu !{attente}{page}{fin}
+@06952	Une coupe au chocolat|à deux comme ça...|c'est encore meilleur♥{attente}{page}{fin}
+@06953	Dis, {F03} !|Fais « aaah » !{attente}|......{attente}{page}{fin}
+@06954	{E04} m'a fait manger|de sa coupe avec|sa propre cuillère !{attente}{page}{fin}
+@06955	Tu vois ! C'est plus sucré|que d'habitude, ça fond|dans la bouche, hein ?|...Hihi♥{attente}{page}{fin}
+@06956	Si c'est {E04} qui me|fait manger...{attente}|même un plat épicé serait|sucré et délicieux !{attente}{page}{fin}
+@06957	{E09} et moi, on passait|un moment tranquille|au café...{attente}{page}{fin}
+@06958	Prendre le thé tranquille|dans un café calme...|c'est assez chic, non ?{attente}{page}{fin}
+@06959	Boire du thé en écoutant|de la belle musique,|ça détend complètement...{attente}{page}{fin}
+@06960	{E09} a poussé un soupir|et s'est enfoncée dans sa|chaise...{attente} Elle est si|crispée que ça, avec moi ?{attente}{page}{fin}
+@06961	Juste boire un thé au café|avec {F07}, et je|me sens toute détendue !{attente}{page}{fin}
+@06962	Ce genre de rendez-vous,|c'est plus chic qu'un parc|désert, non ?{attente}{page}{fin}
+@06963	Moi, je préfère quand on|est seuls tous les deux...{attente}|mais {E09} a l'air de|s'amuser, alors bon !{attente}{page}{fin}
+@06964	Boire un bon thé sur fond|de musique douce...|c'est chic, non ?{attente}{page}{fin}
+@06965	Ce genre de rendez-vous,|j'aime beaucoup !{attente}{page}{fin}
+@06966	Et surtout, pouvoir parler|tranquillement avec|{F07}...|ça me rend si heureuse♥{attente}{page}{fin}
+@06967	Waouh ! Elle me dit|des choses pareilles...|ça me fait trop plaisir♥{attente}{page}{fin}
+@06968	Rien que d'être là|avec {F07}...|j'ai le cœur qui bat♥{attente}{page}{fin}
+@06969	Avec un regard aussi|brûlant...{attente}|mon cœur à moi aussi va|battre à tout rompre !{attente}{page}{fin}
+@06970	On faisait du lèche-vitrine|ensemble à Plaza Penny...{attente}{page}{fin}
+@06971	Les jolis accessoires,|rien que de les regarder,|ça me met en joie !{attente}{page}{fin}
+@06972	{E04} est mignonne devant|les accessoires, mais...{attente}|on dirait qu'elle|m'a oublié, snif !{attente}{page}{fin}
+@06973	Les accessoires, même|juste en faire le tour...|c'est trop excitant !{attente}{page}{fin}
+@06974	Celui-là est mignon !|...Oh, et celui-là aussi !{attente}|{F03}, regarde !{attente}{page}{fin}
+@06975	{E04} prend des bijoux|et me les montre...{attente}|Elle fait ça pour ne pas|me laisser de côté ?{attente}{page}{fin}
+@06976	Mais aujourd'hui...|c'est pas pareil...|j'ai le cœur qui bat un peu...{attente}{page}{fin}
+@06977	C'est peut-être parce|que je suis avec {F03}...|...Hihi♥{attente}{page}{fin}
+@06978	Viens, par ici !|Il y a plein d'accessoires|pour garçons aussi !{attente}{page}{fin}
+@06979	Sur ces mots, {E04} m'a|pris le bras et m'a tiré|vers le rayon...{attente}{page}{fin}
+@06980	Dis, {F03} !|C'est excitant, hein ?{attente}{page}{fin}
+@06981	Pour être excité, je suis|excité... mais pas pour|la même raison...{attente}|Rhaa ! Mon cœur s'emballe !{page}{fin}
+@06982	J'adore cet endroit.|À chaque fois, on y|découvre un truc nouveau !{attente}{page}{fin}
+@06983	Yumi est mignonne, toute|absorbée par les bibelots,|mais...{attente} on dirait|qu'elle m'a oublié, snif !{attente}{page}{fin}
+@06984	Ici, à chaque fois,|on fait des découvertes !{attente}|C'est trop sympa, j'adore !{attente}{page}{fin}
+@06985	Ah,{attente} je t'oublie pas,|{F05}, hein !{attente}|On regarde ensemble !{attente}{page}{fin}
+@06986	Elle me montre des|bracelets pour homme...{attente}|...Elle fait attention|à moi, peut-être ?{attente}{page}{fin}
+@06987	Tu sais, {F05} !|Ici, je fais toujours|de nouvelles découvertes !{attente}{page}{fin}
+@06988	Avec {F05}, on dirait|qu'on part en exploration|à deux... c'est sympa !{attente}{page}{fin}
+@06989	En exploration à deux...|Dit comme ça, même moi,|ça m'excite !{attente}{page}{fin}
+@06990	Et entre nous, on va faire|de nouvelles découvertes ?|Mon cœur bat la chamade♥{attente}{page}{fin}
+@06991	Moi, j'aime bien les|boutiques de déco !{attente}{page}{fin}
+@06992	C'est comme si tous les|plaisirs du shopping|étaient réunis !{attente}{page}{fin}
+@06993	{E09} est mignonne, toute|absorbée par les bibelots,|mais...{attente} on dirait|qu'elle m'a oublié, snif !{attente}{page}{fin}
+@06994	J'adore les boutiques|de déco !{attente}|Tous les plaisirs du|shopping réunis !{attente}{page}{fin}
+@06995	Ah !{attente}|Je m'emballe toute seule...|pardon...{attente}{page}{fin}
+@06996	{E09} a baissé la tête,|gênée...{attente} Elle n'a pas|besoin de se soucier|autant de moi...{attente}{page}{fin}
+@06997	Avec {F07}, c'est|encore plus amusant !{attente}|Je peux regarder encore ?{attente}{page}{fin}
+@06998	Avec {E09} si joyeuse,|je suis tout guilleret !{attente}|Et ce petit air câlin...|trop mi-gnon-ne♥{attente}{page}{fin}
+@06999	Mais aujourd'hui, je|ne trouve pas de jolis|accessoires...{attente}{page}{fin}
+@07000	C'est peut-être parce|que je ne regarde que|{F07}...|...Hihi♥{attente}{page}{fin}
+@07001	Avec un regard aussi|brûlant, me dire ça...|mon cœur s'emballe !{attente}|Que je suis heureux♥{attente}{page}{fin}
+@07005	Yumi a pris un magazine|de mode et le feuillette...{attente}{page}{fin}
+@07006	Les magazines de mode,|on s'en lasse jamais,|j'y passerais des heures !{attente}{page}{fin}
+@07007	Euh...{attente} Ça me fait plaisir|qu'elle s'amuse, mais...{attente}|et moi, dans tout ça...?{attente}{page}{fin}
+@07008	Les magazines de mode,|j'adore, on s'en lasse|jamais !{attente}{page}{fin}
+@07009	Mais pas aujourd'hui{attente}|Pour une fois que j'ai|rendez-vous avec {F05} !{attente}{page}{fin}
+@07010	Sur ces mots, Yumi a remis|le magazine en rayon, à|regret...{attente} Elle se force|pour moi, peut-être...?{attente}{page}{fin}
+@07011	Mais aujourd'hui, j'arrive|pas à me poser pour|feuilleter...{attente}|Je me demande pourquoi...{attente}{page}{fin}
+@07012	Peut-être parce que je suis|avec {F05}, et que ce|serait du temps gâché...{attente}{page}{fin}
+@07013	Mais aujourd'hui, j'ai pas|envie de regarder|des magazines...{attente}{page}{fin}
+@07014	Après tout, pour une fois|que j'ai rendez-vous|avec {F05}♥{attente}{page}{fin}
+@07015	{E0A} reste scotchée|devant le rayon|des mangas pour filles !{attente}{page}{fin}
+@07016	Ça ! C'est LE manga d'amour|le plus populaire du moment !{attente}{page}{fin}
+@07017	Haaa, moi aussi, je voudrais|vivre une histoire d'amour|digne d'un manga...{attente}{page}{fin}
+@07018	Avec un garçon trop|beau, comme le héros|d'un manga...{attente}|...Héhé !{attente}{page}{fin}
+@07019	Hé ! Alors que t'es avec|moi, c'est pas sympa !{attente}|Dire un truc pareil...|ça me fait de la peine...{attente}{page}{fin}
+@07020	Mais nous deux, on serait|au mieux un manga|comique, hein...{attente}{page}{fin}
+@07021	Comique, carrément...{attente}|Mais « nous deux »...|ça me fait plaisir !{attente}{page}{fin}
+@07022	Nous aussi, on pourrait|vivre un amour digne|d'un manga...|...{attente}{page}{fin}
+@07023	Waaah ! Mais qu'est-ce|que je raconte !|Trop la honte !{attente}{page}{fin}
+@07024	Hein ?! Qu'est-ce qu'elle|veut dire par là ?{attente}|« Nous »...{attente}|J'ai le cœur qui bat !{attente}{page}{fin}
+@07025	Nous aussi...{attente}|enfin... comment dire...|...{attente}{page}{fin}
+@07026	un amour digne d'un manga,|...{attente}un amour génial...{attente}|on pourrait... le vivre ?{attente}{page}{fin}
+@07027	Ah, elle passe en mode|« jeune fille sage »...{attente}|Ça veut dire que...|peut-être...♥{attente}{page}{fin}
+@07028	On faisait tranquillement|le tour du magasin...{attente}{page}{fin}
+@07029	Dis, {F04}, tu aimes|quels sports ?{attente}|Moi, je les aime tous !{attente}{page}{fin}
+@07030	Si on pouvait faire|du sport ensemble...|ce serait sympa, hein !{attente}{page}{fin}
+@07031	Les sports d'équipe, c'est|pas le même plaisir que|l'athlé ! Haha !{attente}{page}{fin}
+@07032	Ah, elle veut juste|s'amuser à faire du sport...{attente}|Moi qui espérais un peu,|avec « ensemble »...{attente}{page}{fin}
+@07033	Avec {F04}, n'importe|quel sport serait|sûrement amusant !{attente}{page}{fin}
+@07034	Ça me fait plaisir qu'elle|dise ça, mais...{attente}|moi ou le sport,{attente}|c'est quoi, le principal ?{attente}{page}{fin}
+@07035	Dis, {F04} !|J'y pensais...{attente}{page}{fin}
+@07036	Si on pouvait faire|du sport ensemble...|ce serait génial, non ?{attente}{page}{fin}
+@07037	Et si c'était le cas...|nous deux, on serait|encore plus...{attente}{page}{fin}
+@07038	Ah, non, laisse tomber !{attente}|Oublie ça !{attente}{page}{fin}
+@07039	Ce sourire gêné... qu'est-ce|qu'elle allait dire ?{attente}|Ça m'intrigue... et mon|cœur bat la chamade~{attente}{page}{fin}
+@07040	Avec {F04}, je crois|qu'on formerait une|super équipe...♥{attente}{page}{fin}
+@07041	Avec un regard aussi|brûlant, me dire ça...|je suis ému !!{attente}|Que je suis heureux♥{attente}{page}{fin}
+@07042	Dis, rien que de regarder|les nouveautés ensemble,{attente}|ça te fait pas vibrer ?{attente}{page}{fin}
+@07043	Ah ! Regarde, là-bas !|Une nouvelle raquette !{attente}{page}{fin}
+@07044	Elle a foncé droit vers|les nouveautés...{attente}|À fond dans le matos de|sport, elle m'a oublié ?{attente}{page}{fin}
+@07045	Mais avec autant de choix,|j'arrive jamais à|me décider !{attente}{page}{fin}
+@07046	C'est moi qui l'amuse, ou|c'est les nouveautés...?|...Hmm...|Ça m'intrigue...{attente}{page}{fin}
+@07047	Ah, mais... tu sais...{attente}|plus que vibrer, moi,|j'ai le cœur qui bat...{attente}{page}{fin}
+@07048	Ah...{attente}Ahaha !|Rien, rien du tout !|Oublie ça !{attente}{page}{fin}
+@07049	Dis !{attente} Regarder les|nouveautés ensemble|comme ça...|...{attente}{page}{fin}
+@07050	Ah, attends !|Accroupis-toi !{attente}{page}{fin}
+@07051	Je me suis accroupi,|surpris, en me demandant|ce qui se passait...{attente}{page}{fin}
+@07052	...ça te fait pas|vibrer ?{attente}{page}{fin}
+@07053	Waouh ! {E0A} m'a|chuchoté ça exprès|à l'oreille !{attente}{page}{fin}
+@07054	Là, plus que vibrer,|c'est mon cœur qui|s'emballe !{attente}{page}{fin}
+@07060	Sans le vouloir, on|s'était tous les deux pris|au jeu avec les jouets...{attente}{page}{fin}
+@07061	Ah...{attente} S'amuser comme|ça avec des jouets...{attente}{page}{fin}
+@07062	on dirait des gamins,|c'est ridicule{attente}|J'ai un peu honte...{attente}{page}{fin}
+@07063	Ugh... vu comme ça,|c'est vrai...{attente}|Mais dire ça alors qu'on|s'amusait si bien...{attente}{page}{fin}
+@07064	On dirait qu'on retombe|en enfance, c'est|excitant, non ?{attente}{page}{fin}
+@07065	Le principal, c'est les|jouets, ou retomber en|enfance avec moi...?{attente}|Ça m'intrigue drôlement...{attente}{page}{fin}
+@07066	On est de vrais gamins !{attente}|Mais on s'amuse, alors|c'est très bien comme ça !{attente}{page}{fin}
+@07067	Haha ! On dirait deux amis|d'enfance très proches,|nous deux !{attente}|Ça me fait plaisir !{attente}{page}{fin}
+@07068	Ah...{attente} Regarder des|jouets comme ça...{attente}|on dirait des enfants...{attente}{page}{fin}
+@07069	c'est un peu gênant...{attente}{page}{fin}
+@07070	{F07} aussi, tu es|absorbé par les jouets,|comme un enfant !{attente}{page}{fin}
+@07071	Sur ces mots, {E09} m'a|tapoté le front !{attente}|Pour me venger, je lui ai|tapoté le sien...{attente}{page}{fin}
+@07072	Une ambiance toute douce|s'est installée autour|de nous !{attente}|Je me sens super bien !!{attente}{page}{fin}
+@07073	Les jeux de drague, ça|fait trop battre le cœur,|hein~ !{attente}{page}{fin}
+@07074	Le vrai amour, y a pas de|guide de solution, alors|ça doit faire encore plus|battre le cœur~ !{attente}{page}{fin}
+@07075	Le vrai amour, ça fait|battre le cœur encore plus|que les jeux, tu crois~ ?{attente}{page}{fin}
+@07076	Ça me met toute en joie~ !{attente}|Shinozawa aussi veut|tomber amoureuse, nya~ !{attente}{page}{fin}
+@07077	Hmm, j'ai l'impression|qu'elle prend les choses|à l'envers...{attente}{page}{fin}
+@07078	Mais Shinozawa pense que~{attente}|le vrai amour, ça fait|bien plus battre le cœur~ !{attente}{page}{fin}
+@07079	Nyaha~ ! Shinozawa a fait|sa je-sais-tout !|Elle est toute gênée~ !{attente}{page}{fin}
+@07080	Elle fait vraiment|semblant de savoir...?{attente}|Moi, j'aimerais bien que|son cœur batte pour moi !{attente}{page}{fin}
+@07081	Shinozawa aussi, un jour,|saura peut-être ce que|c'est, le cœur qui bat~♥{attente}{page}{fin}
+@07082	Me dire ça avec un regard|aussi brûlant !{attente}|Rhaa ! C'est moi qui ai|le cœur qui s'emballe !{attente}{page}{fin}
+@07083	...C'est vrai, ça fait plus|battre le cœur qu'un jeu,|mais...{attente} je suis sûr que|ce raisonnement cloche...{attente}{page}{fin}
+@07084	On écoutait tous les deux|les extraits des nouveaux|albums...{attente}{page}{fin}
+@07085	Écouter la musique|à la mode, ça me rend|toute joyeuse...{attente}{page}{fin}
+@07086	Elle est partie dans|son monde...{attente} Ça me fait|plaisir qu'elle aime, mais...{attente}|et moi, dans tout ça...?{attente}{page}{fin}
+@07087	Écouter à deux la|musique à la mode...|je me sens heureuse !{attente}{page}{fin}
+@07088	Quelle jolie mélodie !{attente}|...Il est bien, ce morceau !{attente}{page}{fin}
+@07089	C'est parce qu'on écoute à|deux,{attente} ou parce qu'elle aime|cette musique ?{attente} Ça|m'intrigue drôlement...{attente}{page}{fin}
+@07090	C'est peut-être parce que|je suis avec {F07} !{attente}{page}{fin}
+@07091	...Non, c'est sûr...|avec {F07}, n'importe|quelle musique...{attente}{page}{fin}
+@07092	Ou peut-être même qu'on|n'a pas besoin de musique...{attente}|...Hihi♥{attente}{page}{fin}
+@07093	Au moment où on passait|devant le rayon des jeux|de cartes...{attente}{page}{fin}
+@07094	Oh là ! Ici, faut|absolument que je checke|les nouvelles cartes !{attente}{page}{fin}
+@07095	NTG, NTG...{attente}|Celle-là !{attente} Ah, je l'ai déjà{attente}|Et celle-là ?!{attente}{page}{fin}
+@07096	Je comprends qu'elle soit|à fond dans ses cartes...{attente}|mais elle m'oublie pas ?{attente}|C'est triste...{attente}{page}{fin}
+@07097	Dis, {F08} !|Je peux regarder ?{attente}|Je regarde, hein !{attente}{page}{fin}
+@07098	Elle demande par politesse,|j'imagine...{attente} Mais|sans attendre ma réponse,|elle cherche ses cartes...{attente}{page}{fin}
+@07099	Si tu vois une carte NTG|marquée « new », tu me|préviens direct, hein !{attente}{page}{fin}
+@07100	Hein ! Moi aussi ?{attente}|......Mais nous deux, le nez|collé à la vitrine...|c'est assez marrant !{attente}{page}{fin}
+@07101	Euh, dis...{attente}|{F08},{attente} prête-moi|tes épaules !{attente}|Je vois pas en haut !{attente}{page}{fin}
+@07102	{E0A} est passée derrière|moi, m'a pris les épaules...{attente}|et a sauté comme à saute-|mouton pour voir en haut !{attente}{page}{fin}
+@07103	Les mains de {E0A}...{attente}|j'ai même pas le temps d'en|profiter, c'est trop dur...|...{attente}Aïe, mes épaules !{page}{fin}
+@07110	En prenant un produit de|maquillage, {E04} a|murmuré...{attente}{page}{fin}
+@07111	Les garçons préfèrent|les jolies filles,|forcément...{attente}{page}{fin}
+@07112	Si je devenais plus jolie,|est-ce que les garçons|m'aimeraient...?{attente}{page}{fin}
+@07113	Je la trouve déjà jolie...{attente}|« Les garçons »... alors|elle pense pas à quelqu'un|en particulier...?{attente}{page}{fin}
+@07114	Si je devenais plus jolie,|est-ce qu'il m'aimerait...|davantage...?{attente}{page}{fin}
+@07115	Hein ?!{attente} Qui ça ?!{attente}|...En général ?|Ou alors...{attente}|Rhaa, ça me travaille !{attente}{page}{fin}
+@07116	{F03}, toi aussi, tu|préfères les jolies filles ?{attente}{page}{fin}
+@07117	Hein ? Elle parle de qui ?{attente}|Si c'était de moi...|ça me ferait plaisir !{attente}{page}{fin}
+@07118	Dis, {F03}...|les garçons, ils aiment|les jolies filles, hein ?{attente}{page}{fin}
+@07119	...Moi aussi, j'aimerais|devenir plus jolie...{attente}{page}{fin}
+@07120	Comme ça, tu m'aimerais|encore plus...?{attente}|Hein, {F03}♥{attente}{page}{fin}
+@07121	Oh, le garçon du couple,|là-bas...{attente} on dirait qu'il|suit une autre fille|des yeux !{attente}{page}{fin}
+@07122	Il a une copine, et il|regarde ailleurs...{attente}|C'est nul...{attente}{page}{fin}
+@07123	Simple bavardage...|ou elle me met en garde ?{attente}|C'est lourd de sens...|Je vais faire gaffe !{attente}{page}{fin}
+@07124	Regarder les autres filles,|c'est interdit...{attente}{page}{fin}
+@07125	Elle parle de ce garçon|ou de moi...?|Je sais pas trop...{attente}|En tout cas, prudence !{attente}{page}{fin}
+@07126	{F05}...|toi, tu regarderais pas|les autres filles, hein ?{attente}{page}{fin}
+@07127	Ça veut dire qu'on est un|couple, ou elle parle juste|de mon caractère...?{attente}|Ça me travaille !{attente}{page}{fin}
+@07128	Dis, {F05}...{attente}|toi, t'as pas intérêt à|regarder les autres filles !{attente}{page}{fin}
+@07129	Avec un regard aussi|brûlant posé sur moi...{attente}|les autres filles, je les|vois même plus !!{attente}{page}{fin}
+@07130	Le couple, là-bas, a|rendez-vous dans un|drugstore~ !{attente}{page}{fin}
+@07131	Un rendez-vous dans un|endroit pareil, c'est bizarre,|c'est trop drôle~ !{attente}{page}{fin}
+@07132	Euh... nous aussi, on a|rendez-vous ici...|...elle a oublié ?{attente}|...C'est trop triste !!{attente}{page}{fin}
+@07133	Un rencard au drugstore,|c'est bizarre, c'est|trop drôle~ !{attente}{page}{fin}
+@07134	Y en a, des fois~{attente}|Regarde, là-bas aussi~ !{attente}|Et là~ !{attente}{page}{fin}
+@07135	Ça y est, elle se moque|des autres couples...{attente}|Pour cacher sa gêne...?{attente}|C'est mignon !{attente}{page}{fin}
+@07136	{F06} et Shinozawa,|on est deux originaux~ !{attente}|Nyahaha !{attente}{page}{fin}
+@07137	Pas faux, peut-être...{attente}|Mais elle a l'air de|s'amuser, tant mieux !{attente}{page}{fin}
+@07138	Mais avec {F06},|partout c'est amusant,|Shinozawa est happy~ !{attente}{page}{fin}
+@07139	Ah, pardon{attente}|Attends-moi ici !{attente}{page}{fin}
+@07140	Je veux voir les nouveautés|pour le nail art !{attente}{page}{fin}

@@ -1,0 +1,362 @@
+; Lot 13 : réactions aux concerts (Mr. Kid, Hikaru, reggae, classique, Yurin), inspection de la tenue
+; avant le rendez-vous, ping-pong avec Konoha, matchs de club, compliments, rencontres en ville.
+@04450	J'aurais bien mieux fait|d'écouter le CD|à la maison !{attente}{page}{fin}
+@04451	Je pensais pas que|Mr. Kid, c'était aussi|génial que çaaa !{attente}{page}{fin}
+@04452	C'était trop l'ambiance !{attente}|Trop contente d'être|venue avec {F08} !{attente}{page}{fin}
+@04453	Bon, Mr. Kid, j'y avais|jamais trop fait|attention, mais bon !{attente}{page}{fin}
+@04454	C'était pas la folie, mais|y avait quand même|des bons moments !{attente}{page}{fin}
+@04455	Un concert, quand on|connaît pas les chansons,|on peut pas s'éclater !{attente}{page}{fin}
+@04456	Mr. Kid, j'y avais|jamais trop fait|attention, alors...{attente}{page}{fin}
+@04457	Jusqu'ici, j'écoutais pas|beaucoup Hikaru, mais|aujourd'hui, c'était génial !!{attente}{page}{fin}
+@04458	Jusqu'ici, j'écoutais pas|beaucoup Hikaru, mais|en fait, c'est bien !{attente}{page}{fin}
+@04459	Hikaru, je l'écoutais pas|trop, mais c'était mieux|que je pensais.{attente}{page}{fin}
+@04460	Moi, Hikaru, je l'écoute|pas trop... alors...|bof... tu vois.{attente}{page}{fin}
+@04461	Hikaru, c'est pas que je|déteste, mais d'habitude,|je l'écoute pas trop.{attente}{page}{fin}
+@04462	J'aimais pas Hikaru, mais{attente}|je suis contente d'être|venue aujourd'hui.{attente}{page}{fin}
+@04463	J'aime pas Hikaru, et{attente}|l'ambiance était bizarre...|J'ai pas trop compris.{attente}{page}{fin}
+@04464	J'aime pas Hikaru, et{attente}|il faisait des danses|bizarres... J'ai pas compris.{attente}{page}{fin}
+@04465	Hikaru... décidément,|j'arrive pas à aimer...{attente}{page}{fin}
+@04466	À vrai dire, Hikaru,|j'aime pas trop ça,|mais...{attente}{page}{fin}
+@04467	Shinozawa n'aime pas|Hikaru, il fait des danses|bizarres~{attente}{page}{fin}
+@04468	Pour Shinozawa, Hikaru,|ça casse les oreilles,|c'est juste du bruit~{attente}{page}{fin}
+@04469	Shinozawa n'aime pas|Hikaru, et elle s'est|super ennuyée~ !{attente}{page}{fin}
+@04470	Hikaru ne m'avait jamais|intéressée, mais...{attente}|c'était vraiment bien !{attente}{page}{fin}
+@04471	Hikaru ne m'avait jamais|intéressée, mais...{attente}|finalement, c'est bien !{attente}{page}{fin}
+@04472	Les fans de Hikaru étaient|vulgaires et bruyants.{attente}{page}{fin}
+@04474	Désolée...|Franchement, je me suis|ennuyée... vraiment...{attente}{page}{fin}
+@04475	Hikaru, je savais pas que|c'était aussi bien ! J'ai|raté un truc jusqu'ici !{attente}{page}{fin}
+@04476	Bon, Hikaru, j'y avais|jamais trop fait|attention, mais bon !{attente}{page}{fin}
+@04477	Hikaru, j'y avais|jamais trop fait|attention, alors...{attente}{page}{fin}
+@04478	(Avant le rendez-vous){n}{fin}
+@04479	Me voilà au lieu du|rendez-vous, avec le|cœur tout en rose !{attente}{page}{fin}
+@04480	Ah ! {F03} !|Désolée du retard !{attente}|Tu attends depuis|longtemps ?{attente}{page}{fin}
+@04481	Non ! Je viens|juste d'arriver !{attente}{page}{fin}
+@04482	Oh, aujourd'hui, tu t'es|habillé comme ça !{attente}{page}{fin}
+@04483	Ah ! {E04} est en train|d'inspecter ma tenue !{attente}{page}{fin}
+@04484	......|On dirait qu'elle|regarde mes chaussures...{attente}{page}{fin}
+@04485	T'as de belles chaussures !|Elles sont super jolies !{attente}{page}{fin}
+@04486	Ces chaussures ont l'air|d'avoir fait très|bonne impression !{attente}{page}{fin}
+@04487	Avec ces chaussures,|l'impression a l'air|plutôt bonne !{attente}{page}{fin}
+@04488	Ces chaussures ? Ni bien|ni mal, on dirait...{attente}{page}{fin}
+@04489	...Aïe aïe...|Ces chaussures n'ont pas|l'air de lui plaire...{attente}{page}{fin}
+@04490	Avant, j'aimais pas le|reggae, mais je me suis|vraiment bien amusée !!{attente}{page}{fin}
+@04491	Avant, j'aimais pas le|reggae, mais finalement,|c'est plutôt bien !{attente}{page}{fin}
+@04492	Le reggae...{attente}pourquoi|tant de gens y sont|habillés si crasseux...{attente}{page}{fin}
+@04493	Moi, le reggae, j'aime|pas trop...{attente}|alors... bof... tu vois.{attente}{page}{fin}
+@04494	J'aime pas trop le|reggae...{attente}|J'arrive pas à accrocher...{attente}{page}{fin}
+@04495	Le reggae, j'aime ni ne|déteste, mais{attente}|contente d'être venue♥{attente}{page}{fin}
+@04496	Le reggae, j'en écoute|pas souvent, mais|c'était pas mal...{attente}{page}{fin}
+@04497	Le reggae, j'y comprends|pas grand-chose...{attente}|J'ai pas trop accroché.{attente}{page}{fin}
+@04498	J'aime bien le reggae, mais{attente}|l'ambiance de la salle,|j'ai pas pu suivre.{attente}{page}{fin}
+@04499	Le reggae, y a pas mieux !{attente}|Rien qu'à regarder, j'ai|le corps qui s'embrase !{attente}{page}{fin}
+@04500	J'aime plutôt bien|le reggae, alors|...{attente}{page}{fin}
+@04501	J'aime plutôt bien|le reggae, mais...{attente}{page}{fin}
+@04502	Aujourd'hui, c'était pas|trop l'ambiance, tu|trouves pas... ?{attente}{page}{fin}
+@04503	Y avait beaucoup trop de|groupes nuls aujourd'hui !{attente}{page}{fin}
+@04504	Shinozawa adore|le reggae~ !{attente}{page}{fin}
+@04505	...Hein ? C'est tout ?{attente}|Elle a pas l'air de s'être|ennuyée, mais...{attente}|c'est un peu court !{attente}{page}{fin}
+@04506	Shinozawa aime le reggae,|mais pas le faux reggae~{attente}|Ce groupe était nul !{attente}{page}{fin}
+@04507	Le concert d'aujourd'hui|insultait le reggae que|Shinozawa aime~ !!{attente}{page}{fin}
+@04508	Ça, ça, on peut pas|appeler ça du reggae~ !{attente}|C'est trop affreux~ !!{attente}{page}{fin}
+@04509	Je n'aime pas le reggae,|mais...{attente}cette fois, il y|avait une super ambiance !{attente}{page}{fin}
+@04510	Je n'aime pas le reggae,|mais...{attente}finalement,|c'était bien !{attente}{page}{fin}
+@04511	Je n'aime pas le reggae,|tu sais...{attente}ça n'a rien|de chic...{attente}{page}{fin}
+@04512	Un rendez-vous ailleurs|aurait peut-être été|plus amusant...{attente}{page}{fin}
+@04513	Je pensais pas qu'un|concert de reggae, ce|serait aussi génial !{attente}{page}{fin}
+@04514	Le reggae, j'y avais|jamais trop fait|attention, alors...{attente}{page}{fin}
+@04515	Décidément, le classique,|ça apaise le cœur.|C'est bien !{attente}{page}{fin}
+@04516	Décidément, le classique,|quand on l'écoute, on a|le cœur tout purifié !{attente}{page}{fin}
+@04517	Le programme était banal|aujourd'hui, mais|l'interprétation était bien.{attente}{page}{fin}
+@04518	J'aime le classique, et|j'en attendais beaucoup,|mais...{attente}{page}{fin}
+@04519	L'ambiance comme le jeu,|c'était pas terrible,|tu trouves pas...{attente}{page}{fin}
+@04520	Instruments mal accordés,|public mal élevé...|C'était nul !{attente}{page}{fin}
+@04521	Moi, le classique,|décidément, je le sens|pas du tout...{attente}{page}{fin}
+@04522	Si possible, j'aurais|préféré un rendez-vous|ailleurs...{attente}{page}{fin}
+@04523	Décidément...{attente}|le classique, c'est trop|guindé, j'aime pas...{attente}{page}{fin}
+@04524	Même avec {F04},|là, franchement,|c'est pitié, quoi...{attente}{page}{fin}
+@04525	Euh... c'est sympa de|m'avoir invitée, mais...{attente}|je déteste le classique.{attente}{page}{fin}
+@04526	Euh...{attente}le classique, ça|me donne des crampes...{attente}|j'aime pas...{attente}{page}{fin}
+@04527	Décidément, le classique,|ça fatigue, c'est tout.|Aucun intérêt !{attente}{page}{fin}
+@04528	En fait, j'aime pas|du tout le classique,|mais...{attente}{page}{fin}
+@04529	Décidément, c'est pas|du tout pour moi.{attente}{page}{fin}
+@04530	Ah, quel ennui !{attente}|Le classique, c'est|juste guindé !{attente}{page}{fin}
+@04531	Shinozawa n'aime pas le|classique, ça lui donne|envie de dormir~{attente}{page}{fin}
+@04533	Y avait un air connu,|ça a réveillé Shinozawa~{attente}|Nyahaha~ !{attente}{page}{fin}
+@04534	{F06} a traîné|Shinozawa dans un endroit|pareil...{attente}Elle est dégoûtée~{attente}{page}{fin}
+@04535	Ah ! Le classique, c'est|vraiment merveilleux !{attente}|J'en suis toute charmée !{attente}{page}{fin}
+@04536	Ah ! Le classique, c'est|vraiment bien !{attente}|Ça m'a apaisée !{attente}{page}{fin}
+@04537	J'aime le classique, mais|le soliste d'aujourd'hui|n'était pas terrible...{attente}{page}{fin}
+@04538	J'aime le classique, mais|l'orchestre d'aujourd'hui|n'était pas bon...{attente}{page}{fin}
+@04539	J'aime le classique, mais|...{attente}un jeu aussi mauvais,|c'est une torture !{attente}{page}{fin}
+@04540	Je croyais que le|classique, c'était juste|guindé, mais...{attente}{page}{fin}
+@04541	en fait, pas du tout !{attente}|Sûrement parce que|j'étais avec {F08} !{attente}{page}{fin}
+@04542	Le classique, quand on|l'écoute, ça donne juste|envie de dormir, quoi !{attente}{page}{fin}
+@04543	Raaah !{attente}|Le classique, c'est|trop guindé !{attente}{page}{fin}
+@04544	Yurin, j'aime pas trop,|mais c'était plutôt|marrant !!{attente}{page}{fin}
+@04545	Yurin, j'aime pas trop,|mais finalement,|c'est plutôt bien !{attente}{page}{fin}
+@04546	Yurin, j'aime pas trop,|mais c'était mieux|que je pensais.{attente}{page}{fin}
+@04547	Moi, Yurin, j'aime|pas trop...{attente}|alors... bof... tu vois.{attente}{page}{fin}
+@04548	J'aime pas trop Yurin...{attente}|J'arrive pas à accrocher...{attente}{page}{fin}
+@04549	J'aimais pas Yurin, mais{attente}|je suis contente d'être|venue aujourd'hui.{attente}{page}{fin}
+@04550	Tu m'as invitée, mais{attente}|Yurin, désolée,|c'est... pas pour moi.{attente}{page}{fin}
+@04551	Yurin, ça fait inutilement|tape-à-l'œil... J'aime|pas trop...{attente}{page}{fin}
+@04552	Yurin... décidément,|j'arrive pas trop|à aimer...{attente}{page}{fin}
+@04553	Yurin, je trouvais ça|banal, mais...{attente}{page}{fin}
+@04554	Tout était prévisible, et|pour des costumes si|voyants, rien d'éclatant.{attente}{page}{fin}
+@04555	C'est pas si mal, mais...{attente}|c'est toujours la|même formule.{attente}{page}{fin}
+@04556	Shinozawa n'aime pas|Yurin, ils ont des têtes|de monstres géants~{attente}{page}{fin}
+@04557	Shinozawa n'aime pas|Yurin, leurs costumes|n'ont aucun goût~{attente}{page}{fin}
+@04558	Shinozawa n'aime pas|Yurin, et elle s'est|suuuper ennuyée~ !{attente}{page}{fin}
+@04559	Yurin ne m'avait jamais|intéressée, mais...{attente}|c'était vraiment bien !{attente}{page}{fin}
+@04560	Yurin ne m'avait jamais|intéressée, mais...|finalement, c'est bien !{attente}{page}{fin}
+@04561	Yurin, moi, ça ne|m'intéresse pas trop...|...{attente}{page}{fin}
+@04562	Yurin, c'est juste voyant,|j'aime pas trop...{attente}{page}{fin}
+@04563	Yurin, à la base, je|dirais même que|j'aimais pas !{attente}{page}{fin}
+@04564	Mais c'est super bien !{attente}|Ou alors c'est parce que|j'étais avec {F08} !{attente}{page}{fin}
+@04565	De toute façon, Yurin,|j'ai jamais aimé !{attente}{page}{fin}
+@04566	Raaah !{attente} Yurin, c'est|tellement ringard que|ça me fait rire !{attente}{page}{fin}
+@04567	{F03}...|tes chaussures sont|pas classe du tout...{attente}{page}{fin}
+@04568	Choisir ces chaussures,|c'était une erreur...{attente}{page}{fin}
+@04569	Ah, maintenant, on dirait|qu'elle regarde mon|pantalon...{attente}{page}{fin}
+@04570	Tu as un super jean !|Il te va très bien !{attente}{page}{fin}
+@04571	Ce pantalon a l'air|d'avoir fait très|bonne impression !{attente}{page}{fin}
+@04572	Avec ce pantalon,|l'impression a l'air|plutôt bonne !{attente}{page}{fin}
+@04573	Ce pantalon ? Ni bien|ni mal, on dirait...{attente}{page}{fin}
+@04574	...Aïe aïe...|Ce pantalon n'a pas|l'air de lui plaire...{attente}{page}{fin}
+@04575	{F03}...|ton jean est pas|classe du tout...{attente}{page}{fin}
+@04576	Choisir ce pantalon,|c'était une erreur...{attente}{page}{fin}
+@04577	Ah, maintenant, on dirait|qu'elle regarde le haut|de ma tenue...{attente}{page}{fin}
+@04578	Oh, elle est chouette,|cette chemise !|Elle te va très bien !{attente}{page}{fin}
+@04579	Cette chemise a l'air|d'avoir fait très|bonne impression !{attente}{page}{fin}
+@04580	Avec cette chemise,|l'impression a l'air|plutôt bonne !{attente}{page}{fin}
+@04581	Cette chemise ? Ni bien|ni mal, on dirait...{attente}{page}{fin}
+@04582	...Aïe aïe...|Cette chemise n'a pas|l'air de lui plaire...{attente}{page}{fin}
+@04583	{F03}...|cette chemise...|c'est d'un mauvais goût...{attente}{page}{fin}
+@04584	Choisir cette chemise,|c'était une erreur...{attente}{page}{fin}
+@04585	Mais quand je me dis qu'on|est tous les deux en 1re|année et qu'on va aux|régionales...{attente}{page}{fin}
+@04586	et que toi aussi,|{F08}, tu te|donnes à fond...{attente}{page}{fin}
+@04587	je me dis qu'il faut que je|me donne à fond, moi aussi !{attente}|Héhé !{attente}{page}{fin}
+@04588	Moi aussi !{attente}|Ça me motive|vraiment beaucoup !{attente}{page}{fin}
+@04589	C'est vrai ? Trop cool !{attente}|Alors visons la victoire|et donnons tout !!{attente}{page}{fin}
+@04590	Allez !{attente}|Pas question de me faire|battre par {E0A} !|Objectif : la victoire !!{attente}{page}{fin}
+@04591	Ouais ! {F08}, tu|t'entraînais jusqu'ici ?{attente}|Trop fort !{attente}{page}{fin}
+@04592	Oui, quand même...|si je m'entraîne pas...|je suis pas tranquille !{attente}{page}{fin}
+@04593	Je comprends...|Le championnat national|approche, j'ai le trac !!{attente}{page}{fin}
+@04594	Toi, {E0A}, ça ira !{attente}|T'es tellement rapide que|tu balades l'adversaire !{attente}{page}{fin}
+@04595	Hein ! Ça veut dire quoi ?{attente}|Que je suis petite et|que je gigote partout ?!{attente}{page}{fin}
+@04596	Waah ! P-pas la peine|de t'énerver comme ça...{attente}{page}{fin}
+@04597	C'est ton arme, {E0A} !|Une arme redoutable,|à rendre jaloux !{attente}{page}{fin}
+@04598	Hein ?{attente} T-tu crois ?|Héhé...{attente}{page}{fin}
+@04599	Quand tu dis ça, j'ai|l'impression que le national|me fait plus peur !{attente}{page}{fin}
+@04600	Et toi, {F08}...|tes balles ont une vitesse|et un effet de fou !{attente}{page}{fin}
+@04601	Ha ha, on fait que|se lancer des fleurs,|c'est marrant !{attente}{page}{fin}
+@04602	Ah ouais, c'est vrai !{attente}|En tout cas, on se donne|à fond tous les deux !{attente}{page}{fin}
+@04603	...Hein ?{attente}|Je sens un regard venir|du côté des filles...{attente}|...Ah, c'est {E0A} !{attente}{page}{fin}
+@04604	...Mais aussitôt, elle|s'est remise à frapper|dans le vide.{attente}|C'était pas moi qu'elle...?{attente}{page}{fin}
+@04605	Tout en frappant à vide,|elle me jette des petits|coups d'œil...{attente}|Je l'intéresse ?{attente}{page}{fin}
+@04606	En voyant que je la|regarde, elle saute en|agitant la main !{attente}|Elle me regardait bien...{attente}{page}{fin}
+@04607	Ce qui veut dire...|que je l'intéresse|tant que ça ?{attente}{page}{fin}
+@04608	En voyant que je la|regarde, elle me fait|signe que j'écarte|trop le coude !{attente}{page}{fin}
+@04609	Elle m'observait depuis|le début, alors ?{attente}|Ça me gêne un peu !{attente}{page}{fin}
+@04610	Oh !|{E0A} s'entraîne|à la table là-bas !{attente}{page}{fin}
+@04611	Quels gestes vifs !{attente}|Quels coups secs !{attente}|Hmm ! Y a pas d'autre|mot : c'est magnifique !{attente}{page}{fin}
+@04612	...Mais...|cette petite main qui|serre la raquette...{attente}{page}{fin}
+@04613	La main que j'ai tenue ce|jour-là...{attente}petite, douce,|si mignonne !{attente}|...Héhéhé !{attente}{page}{fin}
+@04614	...N'empêche...|{E0A} se démène|drôlement, avec ses|petites épaules...{attente}{page}{fin}
+@04615	...{E0A}...{attente}|Ses épaules, ce jour-là...|petites et frêles, mais{attente}|si chaudes...{attente}{page}{fin}
+@04616	Ha ha ! Elle gigote|dans tous les sens !{attente}|...Décidément...|petite et trop mignonne !{attente}{page}{fin}
+@04617	{E0A}... je voudrais être|avec elle, même un peu !{attente}|Aaah... {E0A}~♥{attente}{page}{fin}
+@04618	La voir se donner à fond|comme ça, avec un si|petit corps...{attente}{page}{fin}
+@04619	ça me serre le cœur...{attente}{page}{fin}
+@04620	Si je pouvais, je|serrerais {E0A} de toutes|mes forces dans mes bras !!!{attente}{page}{fin}
+@04621	Le concours photo clôt|bientôt !{attente}|J'en ai pris plein, mais|laquelle je vais envoyer ?{attente}{page}{fin}
+@04622	・|・|・|C'est décidé, celle-là !{attente}{page}{fin}
+@04623	Pourvu que je gagne !{attente}|C'est sur cette pensée|que j'ai envoyé ma photo|au concours !{attente}{page}{fin}
+@04624	Ah, maintenant, on dirait|qu'elle regarde mes|bras...{attente}{page}{fin}
+@04625	Oh, ce genre de truc,|c'est classe !{attente}{page}{fin}
+@04626	Ça a l'air d'avoir fait|très bonne impression !{attente}{page}{fin}
+@04627	L'impression a l'air|plutôt bonne !{attente}{page}{fin}
+@04628	Ça lui est un peu égal,|on dirait...{attente}{page}{fin}
+@04629	Ça n'a pas l'air|de lui plaire...{attente}{page}{fin}
+@04630	(Match de baseball){n}{fin}
+@04631	Aujourd'hui, match contre|un autre lycée !!{attente}{page}{fin}
+@04632	Tout le monde nous|encourage, et le match|se passe bien......{attente}{page}{fin}
+@04633	Aujourd'hui, c'est les|éliminatoires régionales !{attente}|Allez, à fond !{attente}{page}{fin}
+@04634	{F00} !!{attente}|Envoie-la loin !!{attente}{page}{fin}
+@04635	Je vais tout donner,|à fond !!{attente}{page}{fin}
+@04636	{F00}-kuuun !|Courage ! Allez !{attente}|Kyaa ! Kyaa !{attente}{page}{fin}
+@04637	Ouais !!{attente}|Notre équipe de baseball|a gagné !{attente}|Hourra !!{attente}{page}{fin}
+@04638	Sur cette lancée, on vise|le titre national !{attente}{page}{fin}
+@04639	Ouais !!{attente}|Victoire du baseball !{attente}|Hourra !!|Champions du Japon !!{attente}{page}{fin}
+@04640	Dommage...{attente}|Notre équipe a perdu.{attente}|C'est passé si près...{attente}|...Trop rageant !!{attente}{page}{fin}
+@04641	Le championnat national|restera un rêve...{attente}{page}{fin}
+@04642	Le titre de champion du|Japon nous a échappé|de peu...{attente}{page}{fin}
+@04643	(Match de basket){n}{fin}
+@04644	{F00} !!{attente}|T'es marqué !{attente}|Fais gaffe !!{attente}{page}{fin}
+@04645	Ouais !!{attente}|Notre équipe de basket|a gagné !{attente}|Hourra !!{attente}{page}{fin}
+@04646	Ouais !!{attente}|Victoire du basket !{attente}|Hourra !!|Champions du Japon !!{attente}{page}{fin}
+@04647	Dommage...{attente}|Notre équipe a perdu.{attente}|C'est passé si près...{attente}|...Trop rageant !!{attente}{page}{fin}
+@04648	(Match de foot){n}{fin}
+@04649	{F00} ! Vas-y !{attente}|Cours, cours !{attente}|Tire !!{attente}{page}{fin}
+@04650	Ouais !!{attente}|Notre équipe de foot|a gagné !{attente}|Hourra !!{attente}{page}{fin}
+@04651	Ouais !!{attente}|Victoire du foot !{attente}|Hourra !!|Champions du Japon !!{attente}{page}{fin}
+@04652	Dommage......{attente}|Notre équipe a perdu.{attente}|C'est passé si près...{attente}|...Trop rageant !!{attente}{page}{fin}
+@04653	(Compétition d'athlétisme){n}{fin}
+@04654	Aujourd'hui, compétition|d'athlétisme !{attente}|Je vais donner le|meilleur de moi-même !{attente}{page}{fin}
+@04655	Porté par les|encouragements, j'ai|tout donné......{attente}{page}{fin}
+@04656	Aujourd'hui, c'est les|éliminatoires régionales !!{attente}|Je vais donner le|meilleur de moi-même !!{attente}{page}{fin}
+@04657	{F00} !!{attente}|Bon rythme !{attente}|Continue comme ça !!{attente}{page}{fin}
+@04659	Ouais !!{attente}|Nouveau record !!{attente}|Hourra !!{attente}{page}{fin}
+@04660	Je suis qualifié !{attente}|Prochaine étape :|le championnat national !!{attente}{page}{fin}
+@04661	Ouais !!{attente}|Record et victoire !!{attente}|Hourra !!|Champion du Japon !!{attente}{page}{fin}
+@04662	C'est pas vrai...{attente}|La compétition finit sur|un classement minable...{attente}|...Trop rageant !!{attente}{page}{fin}
+@04663	C'est pas vrai...{attente}|Pas de record... je suis|même pas qualifié...{attente}|...Trop rageant !!{attente}{page}{fin}
+@04664	C'est pas vrai...{attente}|Pas de record... une|déroute totale...{attente}|...La honte...{attente}{page}{fin}
+@04665	(Match de ping-pong){n}{fin}
+@04666	{F00} !!{attente}|Balade-le plus que ça !!{attente}|Jeu de jambes !!{attente}{page}{fin}
+@04667	Aujourd'hui, enfin,|le championnat national !{attente}{page}{fin}
+@04668	Ouais !!{attente}|Notre équipe de ping-pong|a gagné !{attente}|Hourra !!{attente}{page}{fin}
+@04669	Ouais !!{attente}|Victoire du ping-pong !{attente}|Hourra !!|Champions du Japon !!{attente}{page}{fin}
+@04670	{F03}...|ça... c'est d'un|mauvais goût...{attente}{page}{fin}
+@04671	Aïe...|C'est raté...{attente}{page}{fin}
+@04672	Ah, maintenant, on dirait|qu'elle s'intéresse|à mon odeur...{attente}{page}{fin}
+@04673	Oh, tu sens bon !|C'est agréable !{attente}{page}{fin}
+@04674	{F03}...|tu sens bizarre...{attente}{page}{fin}
+@04675	On dirait que l'inspection|de ma tenue est finie...{attente}|Qu'est-ce qu'elle peut|bien penser de moi ?{attente}{page}{fin}
+@04676	...{F03}...{attente}|À bien te regarder,|tu as la classe...{attente}{page}{fin}
+@04677	Génial ! J'ai l'air|d'avoir fait une super|bonne impression !{attente}{page}{fin}
+@04678	Merci du compliment !{attente}|Alors, en route pour un|super rendez-vous !{attente}{page}{fin}
+@04679	{F03}...|avec une tenue plus|soignée, ç'aurait été|encore mieux.{attente}{page}{fin}
+@04680	Tiens ?{attente} {F03},|tu as changé, ces|derniers temps, non ?{attente}{page}{fin}
+@04681	Hein, moi ?{attente}|Je m'en rends pas|compte, mais...{attente}{page}{fin}
+@04682	Je sais pas... t'as|comme qui dirait|gagné en classe...{attente}{page}{fin}
+@04683	C'est peut-être une idée,|mais t'as l'air différent !{attente}{page}{fin}
+@04684	Elle m'a complimenté !|Trop content !{attente}|Elle me trouve plus classe,|je suis aux anges !!{attente}{page}{fin}
+@04685	Dis, {F03}...|t'as changé, ces|derniers temps !{attente}{page}{fin}
+@04686	Oui, t'es devenu|plus classe qu'avant !{attente}{page}{fin}
+@04687	Dis, {F03}...{attente}|t'as vraiment...|changé, ces temps-ci...{attente}{page}{fin}
+@04688	Oui...{attente}|t'es bien plus classe|qu'avant... tu rayonnes !{attente}{page}{fin}
+@04689	Mizuki m'adresse la parole !{attente}{page}{fin}
+@04690	Tiens ? {F04},|je sais pas...|t'as changé...{attente}{page}{fin}
+@04691	T'as l'air un peu plus|costaud, je trouve...{attente}|C'est peut-être une idée...{attente}{page}{fin}
+@04692	Elle m'a complimenté !{attente}|Trop content !{attente}|Plus costaud ? Ça me|fait tout drôle !{attente}{page}{fin}
+@04693	Ah, {F04} !{attente}|T'as l'air un peu plus|costaud, ces temps-ci !{attente}{page}{fin}
+@04694	Tu t'en rends peut-être|pas compte, mais ça|te va bien !{attente}{page}{fin}
+@04695	{F04}...|t'es devenu super costaud,|ces derniers temps !{attente}{page}{fin}
+@04696	T'as l'air plein de force !{attente}|Les garçons costauds...|c'est craquant...{attente}Hihi !{attente}{page}{fin}
+@04697	Yumi m'adresse la parole !{attente}{page}{fin}
+@04698	Dis, {F05}, il paraît|que tu chantes mieux,|ces derniers temps ?{attente}{page}{fin}
+@04699	D'ailleurs, c'est peut-être|une idée, mais ta voix|aussi a l'air plus belle !{attente}{page}{fin}
+@04700	Elle m'a complimenté !|Trop content !{attente}|Bon, alors je vais|m'appliquer encore plus !{attente}{page}{fin}
+@04701	Dis, {F05} !{attente}|Tu chantes de mieux|en mieux, non ?{attente}{page}{fin}
+@04702	Hein, moi ?{attente}|J'y fais pas vraiment|attention, mais...{attente}{page}{fin}
+@04703	Ce que tu fredonnais, là !|C'était pas mal du tout !{attente}|T'as du goût.{attente}{page}{fin}
+@04704	Elle m'a complimenté !|Trop content !{attente}|Mais me trouver stylé,|ça me gêne un peu !{attente}{page}{fin}
+@04705	Dis, {F05} !{attente}|Tu chantes super bien,|ces derniers temps !{attente}{page}{fin}
+@04706	Ce que tu fredonnais,|c'était vraiment super !{attente}|J'étais sous le charme !{attente}{page}{fin}
+@04707	J'étais en train de chanter|sans m'en rendre compte !{attente}|Un peu la honte~ !{attente}{page}{fin}
+@04708	Mais se faire complimenter,|ça fait trop plaisir~ !!{attente}{page}{fin}
+@04709	{E08} me lance un|regard brûlant !{attente}{page}{fin}
+@04710	Dites, dites,|{F06}~ !{attente}{page}{fin}
+@04711	{F06}~, il paraît que|t'es devenu un petit|peu plus adroit~{attente}{page}{fin}
+@04712	Nyahaha~ t'as battu|les potes d'arcade de|Shinozawa haut la main~{attente}{page}{fin}
+@04713	Ah, tu crois...{attente}|Maintenant que tu le dis,|c'est possible~{attente}{page}{fin}
+@04714	Je vois pas trop, mais|en tout cas, un compliment,|ça fait plaisir !{attente}{page}{fin}
+@04715	{F06}~, on dirait que|t'es devenu bien plus|adroit, ces temps-ci~{attente}{page}{fin}
+@04716	Même si tu le vois pas~|ton joli jeu de doigts|en dit long~ !{attente}{page}{fin}
+@04717	Aux jeux aussi, t'as|dû bien progresser~ !{attente}{page}{fin}
+@04718	{F06}~, tout le monde|dit que t'es devenu|super adroit, ces jours-ci~{attente}{page}{fin}
+@04719	Nyah ! Pas la peine de|cacher, Shinozawa sait tout|par ses potes d'arcade !{attente}{page}{fin}
+@04720	Ce jeu de doigts|magnifique !{attente}|Shinozawa est déjà...|complètement gaga~♥{attente}{page}{fin}
+@04721	Rhooo, {F06}~|t'es trop, toi~ !{attente}|Kyaa~ ! Kyaa~ !{attente}{page}{fin}
+@04722	J'étais devenu adroit|à ce point ?{attente}|Et puis, les compliments,|c'est trop bon !!{attente}{page}{fin}
+@04723	Dis, {F07}, tu|travailles dur, ces|derniers temps ?{attente}{page}{fin}
+@04724	Hein ? Pourquoi d'un coup ?{attente}|Bah, j'essaie d'être un|peu sérieux, mais...{attente}{page}{fin}
+@04725	J'en étais sûre !{attente}|Je m'en doutais !{attente}{page}{fin}
+@04726	Je trouve que tu dégages|plus d'intelligence...{attente}|Continue comme ça !{attente}{page}{fin}
+@04727	Elle m'a complimenté...{attente}|Trop content !{attente}|Mes révisions paient !{attente}|Faut redoubler d'efforts !{attente}{page}{fin}
+@04728	Dis, {F07} !{attente}|Tu mets le paquet sur|les études, ces temps-ci !{attente}{page}{fin}
+@04729	Ça se voit à ton visage !{attente}|Comment dire... voilà !|Tu as l'air plus intelligent !{attente}{page}{fin}
+@04730	Dis, {F07} !{attente}|Tu es impressionnant,|ces derniers temps !{attente}{page}{fin}
+@04732	Hein ? Quoi ?{attente}|Impressionnant comment ?{attente}{page}{fin}
+@04733	Je ne sais pas...{attente}|tout ton être...{attente}|déborde d'intelligence♥{attente}{page}{fin}
+@04734	{E09} qui me regarde avec|admiration !!{attente}|Le fruit de mes révisions !{attente}|Ça valait le coup !{attente}{page}{fin}
+@04735	...Je ferais mieux de|soigner un peu plus|ma tenue...{attente}{page}{fin}
+@04736	Oui, la prochaine fois !{attente}|Mais pour le rendez-vous,|amusons-nous !{attente}{page}{fin}
+@04737	{F03}...{attente}|ta tenue...{attente}|franchement, c'est affreux.{attente}{page}{fin}
+@04738	Aïe...{attente}|Avec une tenue pareille,|j'arrive même pas à faire|bonne impression...{attente}{page}{fin}
+@04739	...La prochaine fois, je|serai super bien sapé...{attente}|alors amusons-nous !{attente}{page}{fin}
+@04740	Ah...{attente}t'avais déjà ces|chaussures, la dernière|fois...{attente}{page}{fin}
+@04741	Mince !|J'ai pas fait gaffe !{attente}{page}{fin}
+@04742	T'avais déjà ce jean|la dernière fois...{attente}{page}{fin}
+@04743	Encore...|cette chemise...{attente}{page}{fin}
+@04744	T'étais déjà comme ça|la dernière fois...{attente}{page}{fin}
+@04745	Ah...|la même odeur qu'au|dernier rendez-vous...{attente}{page}{fin}
+@04746	{F04} ! Désolée|du retard !{attente}|Tu attends depuis|longtemps ?{attente}{page}{fin}
+@04747	Ah, d'accord !|Tant mieux !{attente}{page}{fin}
+@04748	Ah !|Mizuki inspecte|ma tenue !{attente}{page}{fin}
+@04749	Ah, elles sont|classe, tes chaussures !{attente}{page}{fin}
+@04750	(Centre commercial){n}{fin}
+@04751	En me baladant dans|les boutiques...{attente}|je tombe sur {E04} !{attente}{page}{fin}
+@04752	{F03} !{attente}|J'ai hésité une seconde|à t'appeler !{attente}{page}{fin}
+@04753	Salut, {E04} !{attente}|Hésité... pourquoi ?{attente}{page}{fin}
+@04754	Hihi !{attente} Comment dire...|t'avais l'air un peu|différent d'avant.{attente}{page}{fin}
+@04755	Je sais pas... t'as|comme qui dirait l'air|plus costaud...{attente}{page}{fin}
+@04756	C'est peut-être une idée,|mais du coup, j'ai hésité.{attente}{page}{fin}
+@04757	Hihi !{attente} Ah, il faut|que j'y aille !{attente}|Allez, à plus !{attente}{page}{fin}
+@04758	Ah, oui ! À plus !{attente}{page}{fin}
+@04759	Hihi ! Tu sais...{attente}|t'as l'air plus costaud|qu'avant, c'est tout !{attente}{page}{fin}
+@04760	Ah !|{F03}... ?{attente}|Tu m'as fait peur !!{attente}{page}{fin}
+@04761	Salut, {E04} !{attente}|Pourquoi t'es surprise ?{attente}|J'ai fait quelque chose ?{attente}{page}{fin}
+@04762	Non, non, c'est pas ça !{attente}|T'es devenu tellement|costaud que je t'ai|pas reconnu♥{attente}{page}{fin}
+@04763	Oui... t'as l'air bien|plus rassurant !{attente}|C'est trop craquant♥{attente}{page}{fin}
+@04764	Tiens ? Celle qui regarde|les baskets, là-bas...{attente}|c'est pas Mizuki ?{attente}{page}{fin}
+@04765	Ah, Mizuki m'a vu aussi,|on dirait...{attente}|Elle vient par ici !{attente}{page}{fin}
+@04766	Ah, {F04} !|Salut !{attente}{page}{fin}
+@04767	Salut !{attente}{page}{fin}
+@04768	On dirait que tu bosses|dur, en ce moment !{attente}|Aujourd'hui, c'est pause ?{attente}{page}{fin}
+@04769	Oui, un peu, c'est ça !|À force de bûcher,|on étouffe !{attente}{page}{fin}
+@04770	Je t'envie, {F04}...|toi, t'arrives à|bien travailler !{attente}{page}{fin}
+@04771	Moi, quand je me donne à|fond au club, mes cours|n'avancent plus.{attente}{page}{fin}
+@04772	Ah, il faut que j'y aille !{attente}|Bon courage pour|tes études !{attente}|Allez, salut !{attente}{page}{fin}
+@04773	Merci !{attente}|Allez, à plus !{attente}{page}{fin}
+@04774	Concilier sport et études...{attente}|Mizuki galère aussi !{attente}|Mais la croiser comme ça,|quelle chance !{attente}{page}{fin}
+@04776	{F04}, tu bosses dur|en ce moment, non ?{attente}|T'as changé, d'ailleurs !{attente}{page}{fin}
+@04777	T'as comme un petit air|intelligent, maintenant !{attente}{page}{fin}
+@04778	Rien à voir avec moi :|je vis pour l'athlétisme,|mes cours avancent pas...{attente}{page}{fin}
+@04779	Concilier sport et études...{attente}|Mizuki galère aussi !{attente}|Mais un air intelligent...|ça me gêne un peu !!{attente}{page}{fin}
+@04780	{F04}, tu bosses|vraiment dur en ce moment !{attente}|T'as l'air si intelligent !{attente}{page}{fin}
+@04781	T'es vraiment fort,|{F04} !{attente}|Je t'admire...♥{attente}{page}{fin}
+@04782	Moi, je vis pour|l'athlétisme, et j'ai beau|bosser, j'avance pas...{attente}{page}{fin}
+@04783	Mizuki qui m'admire,|je suis aux anges !!{attente}|C'est le fruit de mes|révisions !!{attente}{page}{fin}
+@04784	Mais Mizuki aussi galère|à concilier sport|et études...{attente}{page}{fin}
+@04785	En me baladant dans|les boutiques...{attente}|je tombe sur Yumi !{attente}{page}{fin}
+@04786	{F05} !{attente}|Tiens... ?{attente}{page}{fin}
+@04787	T'as pas l'air très en|forme... Qu'est-ce qui|va pas ?{attente}{page}{fin}
+@04788	Hein, moi ?{attente}|Ah bon... ?{attente}{page}{fin}
+@04789	Tu devrais pas trop|forcer...{attente}|Allez, à plus !{attente}{page}{fin}
+@04790	...La fatigue commence|à s'accumuler...{attente}|Mais qu'elle s'inquiète|pour moi, quel bonheur !{attente}{page}{fin}
+@04791	T'as mauvaise mine...|Qu'est-ce qui t'arrive ?{attente}{page}{fin}
+@04792	Force pas trop !{attente}|Repose-toi un peu, non ?{attente}|Allez, à plus !{attente}{page}{fin}
+@04793	...C'est vrai, la fatigue|s'accumule...{attente}|Mais qu'elle s'inquiète|pour moi, quel bonheur !{attente}{page}{fin}
+@04794	{F05} !{attente}|Pourquoi tu titubes,|blanc comme un linge ?!{attente}{page}{fin}
+@04795	Y a pas de « hein » !{attente}|Arrête de forcer et|va te reposer !{attente}{page}{fin}
+@04796	C'est ta santé, alors|prends-en soin !{attente}|Allez, à plus !{attente}{page}{fin}
+@04797	Ah, m-merci~|À plus~...{attente}{page}{fin}
+@04798	Elle s'inquiète au point|de me gronder...{attente}|J'en suis tout ému !!{attente}{page}{fin}
+@04799	Mais...{attente}Yumi a sans|doute raison...{attente}|J'ai la tête qui tourne~{attente}{page}{fin}
+@04800	(Devant Funky G){n}{fin}
+@04801	Devant le karaoké,|quelqu'un m'interpelle|par-derrière !{attente}{page}{fin}
+@04802	Nyahaha~ !{attente}|Tu te promènes tout seul|comme une âme en peine~ ?{attente}{page}{fin}
+@04803	Au fait~|{F06}, t'as changé,|ces derniers temps~{attente}{page}{fin}
+@04804	T'as un tout petit peu|plus de goût, on dirait~ !{attente}{page}{fin}
+@04805	Bon, Shinozawa s'en va~{attente}|Nyahaha~ bye-byeee !{attente}{page}{fin}
+@04806	Elle m'a complimenté...{attente}|Trop content !{attente}|Avoir du goût...|ça me fait tout drôle !{attente}{page}{fin}
+@04807	Unya ?|Tu te promènes seul ?{attente}|C'est louuuche~ !{attente}{page}{fin}
+@04808	Hein ? Q-quoi donc ?{attente}{page}{fin}
+@04809	Ça sent le secret|à plein nez~ !{attente}{page}{fin}
+@04810	Nyahaha~ !{attente}|Si {F06} a plus|de goût ces temps-ci~{attente}{page}{fin}
+@04811	c'est grâce à un|entraînement secret~ !{attente}|Shinozawa est épatée !{attente}{page}{fin}
+@04812	Kyaa ! {F06}~|t'es éblouissant~ !{attente}|Trop de goût, peut-être~ !{attente}{page}{fin}
+@04813	{F06}, tu|brilles~ !!{attente}|Bling bling !{attente}{page}{fin}
+@04814	Rhooo, Shinozawa est|si éblouie qu'elle peut|plus ouvrir les yeux~{attente}|La tête lui tourne~ !{attente}{page}{fin}

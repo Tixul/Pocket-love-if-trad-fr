@@ -1,0 +1,391 @@
+; Lot 12 : réactions aux lieux de rendez-vous, fins de Mirei et Konoha, souvenirs, films, concerts.
+
+; ---- Ruruna : lieux de rendez-vous
+@04073	Avec {F03}, je|m'amuse n'importe où♥{attente}{page}{fin}
+@04074	Cet endroit, je ne l'aime|pas trop, pourtant...{attente}{page}{fin}
+@04075	je ne sais pas, ça m'a|vraiment émue♥{attente}{page}{fin}
+@04076	Pardon...|Cet endroit, je ne l'aime|pas trop...{attente}{page}{fin}
+@04077	Ouch...|C'était donc ça...{attente}{page}{fin}
+@04078	Elle n'a pas l'air de|vouloir s'ouvrir à moi...{attente}|Venir ici, c'était|peut-être une erreur...{attente}{page}{fin}
+@04079	Tu as pris la peine de|m'amener ici, alors|j'ai du mal à le dire...{attente}{page}{fin}
+@04080	mais {E04} n'aime pas|trop cet endroit.{attente}{page}{fin}
+@04081	Mais qu'elle me le dise|avec autant de tact, pour|me ménager...{attente} ça me fait|plutôt plaisir !{attente}{page}{fin}
+@04082	Entre nous deux, ça|commence peut-être|à bien se passer.{attente}{page}{fin}
+@04083	Même avec {F03}...|...non, vraiment, je|n'arrive pas à aimer|cet endroit.{attente}{page}{fin}
+@04084	Donc ce n'est pas encore|« n'importe où, du moment|que c'est avec toi »...|Mais à bien y réfléchir,{attente}{page}{fin}
+@04085	ça veut dire que notre|relation peut encore|aller plus loin !{attente}{page}{fin}
+@04086	Quitte à sortir avec|{F03}, la prochaine fois,|j'aimerais aller ailleurs.{attente}{page}{fin}
+@04087	Cet endroit, je ne l'aime|pas, alors...{attente} pardon|pour mon caprice !{attente}{page}{fin}
+@04088	Mais pouvoir se dire|les choses aussi|naturellement...{attente}|on est vraiment bien !{attente}{page}{fin}
+@04089	Un endroit que je déteste,|où jamais je ne viendrais|seule, et pourtant...{attente}{page}{fin}
+@04090	Pourquoi tu m'as amenée|dans un endroit pareil ?{attente}|{E04} déteste|cet endroit !{attente}{page}{fin}
+@04091	Aïe ! La boulette !{attente}|C'était donc ça...{attente}{page}{fin}
+@04092	Moi, cet endroit,|je le déteste...{attente}|La prochaine fois, choisis|autre chose, d'accord ?{attente}{page}{fin}
+@04093	Même avec {F03}...|...non, cet endroit,|je le déteste...{attente}{page}{fin}
+@04094	En vrai, je déteste cet|endroit...{attente} Pardon pour|mon caprice !{attente}{page}{fin}
+
+; ---- Mirei : baiser / mauvaise fin
+@04095	Je plonge mon regard dans|les yeux rouges de {E09}...{attente}|Ses yeux sont embués...{attente}{page}{fin}
+@04096	{E09} me rend mon regard,|les yeux embués...{attente}|Je pose doucement mes|lèvres sur les siennes...{attente}{page}{fin}
+@04097	Un doux baiser qui scelle|ce que nous ressentons|l'un pour l'autre...{attente}{page}{fin}
+@04098	{E09}...|À partir de maintenant...|je serai toujours avec toi...|Pour toujours...{attente}{page}{fin}
+@04099	C'est ma faute... je|n'aurais jamais dû t'envoyer|cette lettre à la légère...{attente}{page}{fin}
+@04100	...Pardon...{attente}{page}{fin}
+@04101	Si seulement...{attente}|on pouvait tout|recommencer depuis|le début...{attente}{page}{fin}
+@04102	cette fois, ça marcherait,|j'en suis sûr...{attente}{page}{fin}
+@04103	......|Je ne pouvais que me|raccrocher à cette idée...{attente}{page}{fin}
+@04104	Et puis {E09} a|complètement disparu|de ma vie...{attente}{page}{fin}
+@04105	Et mon histoire avec {E09}|a pris fin, pour de bon...{attente}{page}{fin}
+
+; ---- Konoha : baiser / mauvaise fin
+@04106	{E0A} pose ses lèvres|chaudes sur les miennes...{attente}|Nos lèvres se disent|tout ce que l'on ressent...{attente}{page}{fin}
+@04107	Nous nous embrassons|encore, tout doucement,|deux... trois fois...{attente}{page}{fin}
+@04108	Pour être encore plus|sûrs... de nos sentiments...{attente}{page}{fin}
+@04109	Cette lettre, finalement...|c'était pas une bonne idée...{attente}{page}{fin}
+@04110	Désolée de t'avoir|fait espérer pour rien !!{attente}{page}{fin}
+@04111	......|Je n'ai pu que suivre des|yeux {E0A} qui s'éloignait...{attente}{page}{fin}
+
+; ---- divers
+@04112	Hihi !|{F07}, tu es|vraiment drôle !{attente}{page}{fin}
+@04113	......|{E09} Okada...|hein...{attente}{page}{fin}
+@04114	......|en contemplant la mascotte|qu'elle m'a donnée...{attente}{page}{fin}
+
+; ---- Mizuki : lieux de rendez-vous
+@04115	Dis...{attente} j'ai l'impression|qu'on vient tout le temps|ici, ces derniers temps...{attente}{page}{fin}
+@04116	Dis, {F04}...|On est déjà venus ici|la dernière fois, non ?|...{attente}{page}{fin}
+@04117	La prochaine fois, j'aimerais|aller ailleurs...{attente}{page}{fin}
+@04118	Être dans mon endroit|préféré, seule avec|{F04}...{attente}{page}{fin}
+@04119	je sais pas...|ça m'émeut...♥{attente}{page}{fin}
+@04120	Euh...|En fait, cet endroit...{attente}|c'est mon préféré !{attente}{page}{fin}
+@04121	Merci de m'avoir|amenée ici... vraiment !{attente}{page}{fin}
+@04122	Être venue ici avec|{F04}...|ça me fait plaisir.{attente}{page}{fin}
+@04123	{F04},|merci !{attente}|J'adore cet endroit !{attente}{page}{fin}
+@04124	Venir dans mon endroit|préféré avec {F04},|c'est vraiment génial !{attente}{page}{fin}
+@04125	Cet endroit, je l'aime|plutôt bien...{attente}{page}{fin}
+@04126	Mais aujourd'hui, il est|encore plus chouette que|d'habitude...{attente} je me|demande pourquoi...♥{attente}{page}{fin}
+@04127	Euh...|En fait, cet endroit...{attente}|je l'aime bien !{attente}{page}{fin}
+@04128	Venir dans un endroit que|j'aime bien avec {F04},|c'est vraiment chouette !{attente}{page}{fin}
+@04129	D'habitude, je ne fais|même pas attention|à cet endroit...{attente}{page}{fin}
+@04130	Mais là, il me paraît|vraiment chouette !{attente}|C'est trop bizarre...♥{attente}{page}{fin}
+@04131	Cet endroit, d'habitude,|je ne le remarque même|pas...{attente}{page}{fin}
+@04132	mais aujourd'hui, l'ambiance|est un peu différente...{attente}{page}{fin}
+@04133	Avec {F04}, il a l'air|différent... C'est bizarre,|hein...{attente}{page}{fin}
+@04134	Du moment que je suis|avec {F04}, je|m'amuse n'importe où !{attente}{page}{fin}
+@04135	Cet endroit, je ne l'aime|pas trop, pourtant...{attente}{page}{fin}
+@04136	pourquoi je suis aussi|contente, aussi émue ?♥{attente}{page}{fin}
+@04137	Désolée...|Cet endroit, je ne l'aime|pas trop...{attente}{page}{fin}
+@04138	C'est sympa de ta part,|mais...{attente} cet endroit...|je l'aime pas trop...{attente}{page}{fin}
+@04139	J'aime pas trop cet endroit,|mais avec {F04}, de|temps en temps, ça va !{attente}{page}{fin}
+@04140	Mais si ça va parce que|c'est avec moi...{attente}|ça fait plaisir|à entendre !{attente}{page}{fin}
+@04141	On est plutôt bien|partis, tous les deux !{attente}{page}{fin}
+@04142	En fait, cet endroit,|je l'aime pas trop...{attente}{page}{fin}
+@04143	Dis, {F04}...|si possible, la prochaine|fois, on sort ailleurs...{attente}{page}{fin}
+@04144	Mais elle n'a pas l'air|fâchée du tout... on dirait|plutôt qu'elle fait un peu|l'enfant gâtée avec moi...{attente}{page}{fin}
+@04145	Pouvoir être naturels|l'un avec l'autre... on|est vraiment bien ensemble !{attente}{page}{fin}
+@04146	Un endroit pareil, jamais|je n'y viendrais seule,|mais...{attente}{page}{fin}
+@04147	Désolée...|Cet endroit, j'ai|vraiment du mal...{attente}{page}{fin}
+@04148	C'est sympa de ta part,|mais cet endroit, euh...|j'ai... vraiment du mal.{attente}{page}{fin}
+@04149	Même avec {F04},|cet endroit, j'ai du mal,|je sais pas pourquoi...{attente}{page}{fin}
+@04150	Pour un rendez-vous, un|endroit pareil, ça gâche|la moitié du plaisir...{attente}{page}{fin}
+
+; ---- Yumi : lieux de rendez-vous
+@04151	Tes rendez-vous, {F05},|c'est pas un peu toujours|au même endroit ?{attente}{page}{fin}
+@04152	À force, franchement...|...on finit par|s'en lasser...{attente}{page}{fin}
+@04153	On est déjà venus|ici, non...?{attente}{page}{fin}
+@04154	Tu pourrais te creuser|un peu plus la tête pour|nos rendez-vous...|{F05}.{attente}{page}{fin}
+@04156	Rien que d'être ici, dans|mon endroit préféré,|avec {F05}...{attente}{page}{fin}
+@04157	je sais pas...|ça me rend trop heureuse♥{attente}{page}{fin}
+@04158	Tu m'as invitée dans|mon endroit préféré...|merci mille fois.{attente}{page}{fin}
+@04159	{F05}, merci.|J'adore cet endroit !{attente}|J'ai bien fait de venir !{attente}{page}{fin}
+@04160	Cet endroit, je l'adore !{attente}|{F05}, ça me fait|plaisir. Merci !{attente}{page}{fin}
+@04161	Son endroit préféré, rien|de tel que d'y venir avec|quelqu'un avec qui on est|à l'aise !{attente}{page}{fin}
+@04162	J'ai super bien fait de|venir avec {F05} !{attente}{page}{fin}
+@04163	Cet endroit fait partie|de mes préférés, mais|aujourd'hui, il est|exceptionnel !{attente}{page}{fin}
+@04164	C'est grâce à {F05}...|Merci♥{attente}{page}{fin}
+@04165	Merci de m'avoir invitée|dans un endroit que|j'aime bien.{attente}{page}{fin}
+@04166	{F05}, merci.|Cet endroit, je l'aime bien !{attente}|J'ai bien fait de venir !{attente}{page}{fin}
+@04167	Cet endroit, je l'aime bien !{attente}|Je suis contente d'y être|venue avec {F05} !{attente}{page}{fin}
+@04168	Un endroit qu'on aime,|rien de tel que d'y venir|avec quelqu'un avec qui|on est à l'aise !{attente}{page}{fin}
+@04169	Un endroit tout bête,|et pourtant, j'en ai le|cœur tout gonflé...{attente}{page}{fin}
+@04170	C'est parce que je suis|avec {F05}...?{attente}|...Merci♥{attente}{page}{fin}
+@04171	Comme endroit pour un|rendez-vous, c'est ni|bien ni mal, quoi...{attente}{page}{fin}
+@04172	Ce qui veut dire...|ni amusant, ni ennuyeux ?{attente}{page}{fin}
+@04173	C'est un peu guindé,|ça sonne faux...|Il va falloir qu'on sorte|plus souvent ensemble.{attente}{page}{fin}
+@04174	Mais c'est quand même|un peu plus sympa que|de venir seule !{attente}{page}{fin}
+@04175	Cet endroit, je n'ai|rien pour ni contre...{attente}{page}{fin}
+@04176	mais avec {F05},|c'est sympa !{attente}{page}{fin}
+@04177	Avec {F05}, on se|connaît bien, alors je|me sens à l'aise. C'est bien !{attente}{page}{fin}
+@04178	Cet endroit que je suis|censée détester me paraît|si chouette... j'y crois pas !{attente}{page}{fin}
+@04179	C'est sûrement grâce|à {F05}...|Merci♥{attente}{page}{fin}
+@04180	Désolée, mais...|cet endroit, je ne|l'aime pas trop.{attente}{page}{fin}
+@04181	Je sais bien que tu t'es|donné du mal pour choisir...{attente}|mais moi, franchement...{attente}{page}{fin}
+@04182	Être dans un endroit qu'on|n'aime pas trop...{attente}|on n'est pas à l'aise...{attente}{page}{fin}
+@04183	La prochaine fois, choisis|un autre endroit !{attente}|Je compte sur toi !{attente}{page}{fin}
+@04184	Mais si elle attend la|prochaine fois... c'est que|ça se passe plutôt bien|entre nous !{attente}{page}{fin}
+@04185	Je veux profiter encore|plus de nos sorties,|{F05}, alors je|te le dis franchement :{attente}{page}{fin}
+@04186	je n'aime pas cet endroit.{attente}|La prochaine fois, je veux|un endroit plus sympa !{attente}{page}{fin}
+@04187	Je croyais que rien ne|pouvait être pire que|cet endroit...{attente}{page}{fin}
+@04188	mais avec {F05},|ça m'a émue...{attente}|Merci...♥{attente}{page}{fin}
+@04189	Bof, cet endroit...|je n'arrive vraiment pas|à l'aimer...{attente}{page}{fin}
+@04190	C'est pas le moment de le|dire, maintenant qu'on|est là, mais...{attente}{page}{fin}
+@04191	je ne suis vraiment pas|à l'aise...{attente} Cet endroit...|je le déteste...{attente}{page}{fin}
+@04192	Même avec quelqu'un que|je connais bien comme|{F05}, cet endroit,|je le déteste.{attente}{page}{fin}
+@04193	Je veux profiter plus|de nos sorties, {F05}...{attente}|La prochaine fois, ailleurs !{attente}{page}{fin}
+
+; ---- souvenirs
+@04194	J'avais l'impression|d'avoir un souvenir de plus|avec {E04}...{attente}{page}{fin}
+@04195	...En regardant {E04}|s'éloigner dans|le couloir...{attente}{page}{fin}
+@04196	...En regardant Mizuki|entrer dans le bâtiment...{attente}{page}{fin}
+@04197	J'avais l'impression|d'avoir un souvenir de plus|avec Mizuki...{attente}{page}{fin}
+@04198	Tout en regardant Yumi se|détendre, perdu dans mes|pensées...{attente}{page}{fin}
+@04199	J'avais l'impression|d'avoir un souvenir de plus|avec Yumi...{attente}{page}{fin}
+@04200	・|・|Et enfin, ce fut|notre tour !{attente}{page}{fin}
+@04201	Déstabilisée par notre|duo, l'équipe adverse|s'est sabordée, et on a|gagné en remontant !{attente}{page}{fin}
+@04202	Mais se casser la figure à|la fin, comme chute...{attente}|c'est bien Shinozawa...{attente}|Ça me fait rire !{attente}{page}{fin}
+@04203	Enfin bon...{attente}|En regardant {E08}|s'éloigner vers|l'infirmerie...{attente}{page}{fin}
+@04204	J'avais l'impression|d'avoir un souvenir de plus|avec {E08}...{attente}{page}{fin}
+@04205	En regardant {E0A}|savourer tranquillement|son dessert, l'air|apaisé...{attente}{page}{fin}
+@04206	J'avais l'impression|d'avoir un souvenir de plus|avec {E0A}...{attente}{page}{fin}
+@04207	Ah ! C'est bien|{E04}, alors !|Je le savais !{attente}{page}{fin}
+@04208	Et sans doute parce que|j'avais retrouvé {E04},|je sentais monter en moi|une excitation folle...{attente}{page}{fin}
+@04209	...Hmm...{attente}|Elle a l'air un peu|froide, mais...{attente}{page}{fin}
+
+; ---- Mirei : lieux de rendez-vous
+@04210	Dis, {F07}...{attente}|pourquoi tu veux toujours|sortir au même endroit ?{attente}{page}{fin}
+@04211	Franchement, j'en ai|assez...{attente}{page}{fin}
+@04212	Dis, {F07}...{attente}|pourquoi on revient au|même endroit que|la dernière fois ?{attente}{page}{fin}
+@04213	J'espérais un autre|endroit... dommage...{attente}{page}{fin}
+@04214	So happy !{attente}|{F07}...|je suis si heureuse♥{attente}{page}{fin}
+@04215	Être dans mon endroit|préféré, et avec|{F07}, en plus♥{attente}{page}{fin}
+@04216	Tu sais...|cet endroit, je|l'adore...{attente}{page}{fin}
+@04217	{F07}, merci.{attente}|Dans mon endroit préféré,|je me sens apaisée...{attente}{page}{fin}
+@04218	Être dans mon endroit|préféré, et en plus avec|{F07}...{attente}{page}{fin}
+@04219	ça me rend toute joyeuse,|toute guillerette !{attente}{page}{fin}
+@04220	Rien n'est plus amusant|que ça !{attente}|Pas vrai ?{attente}{page}{fin}
+@04221	J'aimais déjà cet endroit,|mais aujourd'hui, il me|paraît encore plus beau...{attente}{page}{fin}
+@04222	C'est parce que je suis|venue avec {F07}...{attente}|Merci...♥{attente}{page}{fin}
+@04223	Cet endroit, je l'aime|plutôt bien...{attente}|Merci beaucoup.{attente}{page}{fin}
+@04224	{F07}, merci.{attente}|J'aime plutôt bien cet|endroit, c'est agréable.{attente}{page}{fin}
+@04225	Être avec {F07} dans|un endroit que j'aime|bien, ça me met en joie !{attente}{page}{fin}
+@04226	Venir avec {F07} dans|un endroit que j'aime|bien...{attente}{page}{fin}
+@04227	c'est parfait !{attente}|Je m'amuse beaucoup !{attente}|...Hihi♥{attente}{page}{fin}
+@04228	Rien que d'être avec|{F07}, j'ai le cœur qui|s'emballe...{attente}|C'est étrange♥{attente}{page}{fin}
+@04229	Cet endroit...{attente} pour un|rendez-vous, je ne lui|trouve pas de charme|particulier...{attente}{page}{fin}
+@04230	Ah, mais...|je m'amuse quand même,|alors ça va !{attente}{page}{fin}
+@04231	Et puis, ce qui compte le|plus...{attente} c'est le temps|passé avec {F07} !{attente}{page}{fin}
+@04232	Comme endroit pour un|rendez-vous, je ne lui|trouve pas de charme|particulier...{attente}{page}{fin}
+@04233	mais avec {F07}, on|dirait que n'importe quel|endroit devient charmant !{attente}{page}{fin}
+@04234	Ouais ! C'est ça !{attente}|On a l'impression de|vraiment se comprendre !{attente}|Une ambiance au top !{attente}{page}{fin}
+@04235	Pour être franche, cet|endroit, je ne l'aime pas...{attente}{page}{fin}
+@04236	mais avec {F07}, je|m'y sens bien...{attente}|...C'est merveilleux♥{attente}{page}{fin}
+@04237	Je n'arrive pas à aimer|cet endroit...{attente} Pardon...{attente}{page}{fin}
+@04238	C'est un peu délicat à|dire...{attente} mais j'aurais|préféré ne pas venir ici...{attente}{page}{fin}
+@04239	...Je n'aime...|pas trop...{attente}{page}{fin}
+@04240	Cet endroit, pour moi...|je n'arrive pas à l'aimer,|je ne sais pas pourquoi...{attente}{page}{fin}
+@04241	Je fais peut-être ma|capricieuse...{attente} mais la|prochaine fois, je veux|sortir ailleurs !{attente}{page}{fin}
+@04242	Avec {F07}, j'ai envie|de rendez-vous plus|sympas...{attente}{page}{fin}
+@04243	Why...?{attente}|Cet endroit, je le|déteste...{attente}{page}{fin}
+@04244	Je n'aurais pas dû venir...{attente}|Cet endroit... je le|déteste !{attente}{page}{fin}
+@04245	Ce genre d'endroit, j'ai|vraiment du mal...{attente}|...Désolée.{attente}{page}{fin}
+@04246	Pour moi, cet endroit...|je n'arrive vraiment pas|à l'aimer.{attente}{page}{fin}
+@04247	Why ?{attente} Cet endroit, je|n'ai rien pour ni contre,|pourtant...{attente}{page}{fin}
+
+; ---- une fille croisée / la vendeuse
+@04248	On dirait qu'elle n'a pas|trop l'habitude de parler|aux garçons...{attente}{page}{fin}
+@04249	Mais elle est plutôt|mignonne...{attente}|Elle m'intrigue...{attente}{page}{fin}
+@04250	La vendeuse s'est|accroupie sur place pour|regarder la blessure|à ma jambe !{attente}{page}{fin}
+@04251	En regardant les doigts|de la vendeuse poser|le pansement...{attente}{page}{fin}
+@04252	ses gestes avaient|quelque chose de... sexy...|de sensuel...{attente}{page}{fin}
+@04253	J'avais l'impression|de voir quelque chose|d'interdit...{attente} et mon|cœur s'est emballé.{attente}{page}{fin}
+@04254	(Réveillon de Noël){n}{fin}
+@04255	Ah, enfin, peu importe...{attente}|Si ça te dit, on va|l'écouter ensemble ?{attente}{page}{fin}
+@04256	C'était pas sympa de|t'appeler si tard...{attente}|Désolée de t'avoir invité.{attente}{page}{fin}
+@04257	Malgré l'heure tardive,|le temple s'animait avec|les gens venus pour la|visite du Nouvel An...{attente}{page}{fin}
+@04258	Cette année, si riche en|événements, se termine|dans quelques dizaines|de minutes...{attente}{page}{fin}
+@04259	Ouais ! Je prends,|avec plaisir !{attente}|Merci !{attente}{page}{fin}
+
+; ---- Momoyo : lieux de rendez-vous
+@04260	{F06}, pourquoi on|vient toujours ici pour|nos rendez-vous~ ?{attente}{page}{fin}
+@04261	Rooh~ Shinozawa en a|tellement marre qu'elle|va en mourir~...{attente}{page}{fin}
+@04262	Nyanya~ ! Ici~, c'est le|même endroit que la|dernière fois~{attente}{page}{fin}
+@04263	Kyaan~ Être dans mon|endroit préféré avec|{F06}...{attente}|avec lui, ici~ !{attente}{page}{fin}
+@04264	Shinozawa est si émue|qu'elle va s'évanouir~♥{attente}{page}{fin}
+@04265	Nyah !{attente}|Être emmenée dans mon|endroit préféré~{attente}{page}{fin}
+@04266	Shinozawa te dit|merci, merci~ !{attente}|{F06} !{attente}|Thank you !{attente}{page}{fin}
+@04267	{F06}~|Shinozawa, elle adooore|cet endroit~{attente}{page}{fin}
+@04268	Shinozawa est contente|d'avoir rendez-vous ici|avec {F06} !{attente}{page}{fin}
+@04269	Un rendez-vous avec|{F06} ici, l'endroit|préféré de Shinozawa~{attente}{page}{fin}
+@04270	C'est trop la joie, et|trop la gêne~ !{attente}|Kyaa~ ! Kyaa~ !{attente}{page}{fin}
+@04271	{F06}, tu lis dans|le cœur de Shinozawa,|pile-poil dans le mille~♥{attente}{page}{fin}
+@04272	Ah, elle est ravie !{attente}|L'inviter ici, c'était|le bon choix !{attente}|...Et cette tête...{attente}{page}{fin}
+@04273	Cet endroit, c'est un des|coins préférés de|Shinozawa, mais là,|c'est encore mieux~ !{attente}{page}{fin}
+@04274	Avec {F06}, c'est|le paradis...|Shinozawa est émue~♥{attente}{page}{fin}
+@04275	Nyah !{attente} Être emmenée|dans un endroit que|j'aime bien~{attente}{page}{fin}
+@04276	{F06}~, Shinozawa,{attente}|elle aime plutôt bien|cet endroit~{attente}{page}{fin}
+@04277	Un rendez-vous dans un|endroit qu'elle aime bien,|Shinozawa est happy~ !{attente}{page}{fin}
+@04278	Que {F06} choisisse|un endroit que Shinozawa|aime bien pour sortir...{attente}{page}{fin}
+@04279	Rooh~ De la télépathie !|Shinozawa est trop|contente ! Mmh~ quel|bon♥heur♥{attente}{page}{fin}
+@04280	Avec {F06}, même un|endroit banal a l'air|génial~ !{attente}{page}{fin}
+@04281	Funya~{attente}, cet endroit,|c'est un coin banal, genre|50 sur 100 au total~{attente}{page}{fin}
+@04282	Mais~{attente}, Shinozawa ne|le déteste pas, alors|t'en fais pas~{attente}{page}{fin}
+@04283	Même un endroit banal,|l'important, c'est de|vouloir s'amuser, nyah~ ?|Nyahaha !{attente}{page}{fin}
+@04285	Shinozawa, elle n'avait|jamais fait attention|à cet endroit~{attente}{page}{fin}
+@04286	Mais en venant avec|{F06}, elle le voit|un peu autrement !{attente}{page}{fin}
+@04287	Mais~, pour s'amuser avec|{F06}, peu importe|l'endroit~♥{attente}{page}{fin}
+@04288	Le rendez-vous avec moi|compte plus que l'endroit,|ça fait plaisir...{attente}|Et puis...{attente}{page}{fin}
+@04289	Shinozawa est surprise !{attente}|Parce que, parce que...{attente}|elle détestait|cet endroit !{attente}{page}{fin}
+@04290	Mais avec {F06}, ça|ne la gêne plus du tout~|Elle est trop émue~♥{attente}{page}{fin}
+@04291	Funii~...|Shinozawa, elle aime pas|ce genre d'endroit~...{attente}{page}{fin}
+@04292	Mais vu que {F06}|l'a invitée, elle doit|faire un effort, hein~{attente}{page}{fin}
+@04293	La prochaine fois, un coin|plus marrant, nyah~{attente}|C'est la prière de|Shinozawa~ !{attente}{page}{fin}
+@04294	{F06} et Shinozawa,|ils n'ont pas besoin de|se gêner, hein~ ?{attente}{page}{fin}
+@04295	Alors elle le dit~ !{attente}|Shinozawa, elle aime|paaas cet endroit~ !{attente}{page}{fin}
+@04296	Shinozawa, cet endroit,|elle le détestait à mooort !{attente}|Mais... mais...{attente}{page}{fin}
+@04297	avec {F06}, tout|lui paraît en rose~♥{attente}{page}{fin}
+@04298	Cet endroit, pour une|Shinozawa niveau 0, c'est|vraiment l'horreur~...{attente}{page}{fin}
+@04299	{F06}~...|Si je suis franche, tu|seras pas fâché ?{attente} Dis,|pas fâché~ ?{attente}{page}{fin}
+@04300	En fait~, Shinozawa~,|elle déteste cet endroit !{attente}|Pardon~ !{attente}{page}{fin}
+@04301	Shinozawa niveau 3 a tenu|le coup jusqu'ici, mais cet|endroit, c'est vraiment|pas son truc~{attente}{page}{fin}
+@04302	Alors je te préviens~ !{attente}|Shinozawa, ce genre|d'endroit, elle|supporte pas~ !{attente}{page}{fin}
+
+; ---- divers / filles croisées
+@04303	Pff... c'est ça, le gars|qui voulait une copine|le jour de la cérémonie|d'entrée ?{attente}{page}{fin}
+@04304	Enfin, il reste peut-être|encore une chance de|se trouver une copine...{attente}{page}{fin}
+@04305	...Elle m'intrigue,|je sais pas pourquoi...{attente}{page}{fin}
+@04306	Au moment de nous quitter,|j'ai appris qu'elle|s'appelait Mirii Morizono.{attente}{page}{fin}
+@04307	Mais...{attente}|après ça, je ne l'ai|plus jamais revue...{attente}{page}{fin}
+@04308	...Mais je sais pas,|elle m'intrigue...{attente}{page}{fin}
+@04309	Au moment de nous quitter,|j'ai appris qu'elle|s'appelait Marii Morizono.{attente}{page}{fin}
+
+; ---- Konoha : lieux de rendez-vous
+@04310	Pourquoi on vient toujours|au même endroit, hein ?!{attente}{page}{fin}
+@04311	Emmène-moi ailleurs,|pour changer !{attente}{page}{fin}
+@04312	Hein ?{attente} On est déjà venus|ici la dernière fois, non ?{attente}|{F08}, tu perds|la boule ?{attente}{page}{fin}
+@04313	Être avec {F06} dans|mon endroit préféré...|je suis trop émue♥{attente}{page}{fin}
+@04314	Oh là là...{attente}|J'ai le cœur tellement|plein que j'arrive même|plus à faire de blagues...{attente}{page}{fin}
+@04315	Grand merci, messire !{attente}|Ce lieu a ma préférence,|foi de samouraï !{attente}{page}{fin}
+@04316	Y être menée par toi|est un insigne honneur,|messire !{attente}{page}{fin}
+@04317	Elle a l'air contente,|mais j'ai l'impression|qu'elle garde ses|distances...{attente}{page}{fin}
+@04318	Il va falloir qu'on sorte|plus souvent ensemble.{attente}{page}{fin}
+@04319	Ah, euh...|J'adore cet endroit !{attente}|Héhé ! Trop contente !{attente}{page}{fin}
+@04321	Dis, dis !{attente}|Ici, c'est vraiment le top|pour se poser, hein ?!{attente}{page}{fin}
+@04322	Avec {F08}, c'est|encore plus doux et|tranquille, trop bien~ !{attente}{page}{fin}
+@04323	Dis, dis, {F08} !{attente}|Franchement, ici,|c'est le top, hein ?!{attente}{page}{fin}
+@04324	T'es trop fort, {F08} !|Toi, t'as tout compris !{attente}|Voilà, quoi ! Héhé !{attente}{page}{fin}
+@04325	{F08} !{attente}|J'adore cet endroit !{attente}|Trop bien♥{attente}{page}{fin}
+@04326	Ce genre d'endroit, on|s'y sent bien, peinard...|moi, j'adore !{attente}{page}{fin}
+@04327	Je suis super contente|que tu m'aies invitée,|thank you !{attente}{page}{fin}
+@04328	Euh... cet endroit,|je l'aime plutôt bien !{attente}|Héhé ! Ça me fait plaisir !{attente}{page}{fin}
+@04329	Dis, dis !{attente}|Ici, c'est plutôt|sympa, hein ?!{attente}{page}{fin}
+@04330	Dis, {F08} !{attente}|Ici, l'ambiance est|plutôt sympa, hein !{attente}{page}{fin}
+@04331	Il avait une aussi bonne|ambiance, cet endroit ?{attente}{page}{fin}
+@04332	Je pensais que c'était|un endroit sans intérêt,|mais...{attente}{page}{fin}
+@04333	avec {F08}, je me|sens toute détendue...{attente}|C'est chouette♥{attente}{page}{fin}
+@04334	Bon, t'as choisi un|endroit sans risque, quoi...{attente}{page}{fin}
+@04335	J'imagine que {F08}|s'est bien cassé la tête|pour choisir le lieu...{attente}{page}{fin}
+@04336	Bon, ici, ça ira !{attente}|Je l'aime pas spécialement,|mais je le déteste pas !{attente}{page}{fin}
+@04337	Jusqu'ici, cet endroit,|il me faisait ni chaud|ni froid, mais bon...{attente}{page}{fin}
+@04338	aujourd'hui, je me dis|qu'il est un p'tit peu|sympa, en fait !{attente}{page}{fin}
+@04339	Avec {F08}, je me|sens bien n'importe où...{attente}|Ça me fait plaisir !{attente}{page}{fin}
+@04340	Franchement, cet endroit,|je le détestais...{attente}|Mais aujourd'hui,|c'est bizarre...{attente}{page}{fin}
+@04341	je me sens toute zen...{attente}|C'est parce que je suis|seule avec {F08} ?{attente}{page}{fin}
+@04342	Moi, cet endroit,|j'ai un peu de mal à|m'y faire...{attente}{page}{fin}
+@04343	Mais avec {F08}, je|peux supporter un peu.{attente}{page}{fin}
+@04344	Du coup, je l'ai obligée|à faire attention à moi...|Pas cool de ma part...{attente}{page}{fin}
+@04345	Mais si elle pense à moi,|c'est que ça se passe|peut-être un peu bien|entre nous...{attente}{page}{fin}
+@04346	Raaah !{attente}|Ici, je suis pas trop|à l'aise !{attente}{page}{fin}
+@04347	La prochaine fois, emmène-|moi dans un coin où on|sera bien, tous les deux !{attente}{page}{fin}
+@04348	Avec {F08}, ça me|change un peu les idées,|mais...{attente}{page}{fin}
+@04349	franchement, cet endroit,|c'est pas trop mon truc !{attente}{page}{fin}
+@04350	Je suis bizarre, moi...{attente}|Cet endroit que je suis|censée détester...{attente}{page}{fin}
+@04351	je le trouve super sympa !{attente}|C'est parce que je suis|seule avec {F08}...♥{attente}{page}{fin}
+@04352	Ce genre d'endroit, j'ai|beau faire, j'y suis jamais|à l'aise, c'est pas pour moi.{attente}{page}{fin}
+@04353	Alors que {F08} m'a|amenée ici exprès...|Désolée...{attente}{page}{fin}
+@04354	Raaah !{attente}|Ici, je suis pas à l'aise,|je déteste ça !{attente}{page}{fin}
+@04355	Cet endroit, je le déteste|vraiment, je suis pas|du tout à l'aise !{attente}{page}{fin}
+@04356	Avec {F08}, j'ai envie|de sortir dans un endroit|plus tranquille !{attente}{page}{fin}
+
+; ---- filles croisées / vacances
+@04357	Après ça...|je ne l'ai plus jamais|revue...{attente}{page}{fin}
+@04358	Au moment de nous quitter,|j'ai appris qu'elle|s'appelait Yukino Fukamachi.{attente}{page}{fin}
+@04359	Pendant les vacances de|printemps, tu pourras|t'amuser à fond, mais|n'oublie pas de réviser !{attente}{page}{fin}
+
+; ---- cinéma
+@04365	Dis, {F03} !{attente}|C'était un bon film !{attente}|J'ai vraiment adoré !{attente}{page}{fin}
+@04366	Ouais !{attente} Elle a l'air|d'avoir adoré !{attente}|J'ai bien fait de choisir|ce film !{attente}{page}{fin}
+@04367	{F03},|merci !{attente}|C'était super !{attente}{page}{fin}
+@04368	Ah, tant mieux !|Elle a l'air d'avoir aimé !{attente}|J'ai bien choisi le film !{attente}{page}{fin}
+@04369	Un film de temps en temps,|ça change les idées,|c'est sympa...{attente}{page}{fin}
+@04370	...C'est tout...?{attente}|Mais elle n'a pas l'air|de s'être ennuyée non|plus...{attente}{page}{fin}
+@04371	Rien que de l'avoir vu|à deux, je suis content !{attente}{page}{fin}
+@04372	Hmm...|Alors {F03}, tu aimes|ce genre de film...{attente}{page}{fin}
+@04373	Moi, j'ai des goûts...|un peu différents...{attente}{page}{fin}
+@04374	Ouch...{attente}|Ça veut dire...{attente}|qu'elle n'a pas trop|aimé... peut-être...{attente}{page}{fin}
+@04375	Franchement...{attente} c'était|un film débile !{attente}|Quelle déception !{attente}{page}{fin}
+@04376	Aïe !{attente} On dirait que|je me suis bien planté !{attente}|Elle s'est ennuyée à mort,|j'ai pas assuré...{attente}{page}{fin}
+@04377	Là, c'est un peu...{attente}|non, carrément...{attente}|mal parti...{attente}{page}{fin}
+@04378	Dis, {F04} !|C'était un bon film !{attente}|Ça m'a trop émue !{attente}{page}{fin}
+@04379	C'est parce que je l'ai vu|avec {F04}...?{attente}|...Je rigole ! Haha !{attente}{page}{fin}
+@04380	C'était chouette !{attente}|Contente de l'avoir vu|avec {F04} !{attente}{page}{fin}
+@04381	Bah...{attente}|un film normal, qui|se regarde sans prise|de tête...{attente}{page}{fin}
+@04382	C'était un peu...|moins bien que prévu...{attente}|tu vois...{attente}{page}{fin}
+@04383	Franchement...{attente}|c'était juste vulgaire|et gore...{attente}{page}{fin}
+@04384	En fait, ce film, j'avais|envie de le voir avec toi !{attente}{page}{fin}
+@04385	C'était super bien !{attente}|Merci de m'avoir|invitée...♥{attente}{page}{fin}
+@04386	C'était un bon film !{attente}|Grâce à {F05}, j'ai|passé un bon moment !{attente}{page}{fin}
+@04387	C'était pas désagréable...{attente}|disons... correct.{attente}{page}{fin}
+@04388	{F05}, t'as aimé ?{attente}|Moi, pas du tout...{attente}{page}{fin}
+@04389	Ce genre de film, c'est|pas mon truc.{attente}|Je vois pas ce qu'on|lui trouve !{attente}{page}{fin}
+@04390	Honya~...♥{attente}|C'était un super film !{attente}|Shinozawa est comblée♥{attente}{page}{fin}
+@04391	C'était un bon film~{attente}|C'était drôle !{attente}|Nyahaha~ !{attente}{page}{fin}
+@04392	Le film était bien~,{attente}|mais la tête de {F06}|était encore plus drôle~ !{attente}{page}{fin}
+@04393	...Sympa...{attente}|Mais bon, elle n'a pas l'air|de s'être ennuyée...{attente}|alors ça ira...{attente}{page}{fin}
+@04394	Shinozawa croyait que|le film serait plus drôle~...{attente}|Elle est déçue~{attente}{page}{fin}
+@04395	Ouch...{attente} Ce film n'était|pas trop son genre,|apparemment...{attente}{page}{fin}
+@04396	Bien dormi, ça fait du bien !{attente}|Ça a aidé Shinozawa à|rattraper son sommeil~{attente}{page}{fin}
+@04397	...Ben quoi~{attente}|C'était tout lent, alors|en regardant, elle s'est|endormie~{attente}{page}{fin}
+@04398	C'était un film|merveilleux !{attente}|J'en ai oublié de cligner|des yeux !{attente}{page}{fin}
+@04399	Partager une telle émotion|avec {F07}, ça me|rend tellement heureuse !{attente}{page}{fin}
+@04400	{F07}, merci.|C'était un film génial !{attente}|Je me suis bien amusée !{attente}{page}{fin}
+@04401	C'était un film qui|laisse un peu sur sa|faim, non...?{attente}{page}{fin}
+@04402	Ah, mais...|j'ai passé un bon moment !{attente}|Merci beaucoup !{attente}{page}{fin}
+@04403	Hmm, une question de|goûts, peut-être...{attente} Moi, je|n'ai pas trop accroché...{attente}{page}{fin}
+@04404	Dis, {F07}...{attente}|C'est ce film-là que tu|voulais voir...?{attente}{page}{fin}
+@04405	Tes goûts, {F07}, je|ne les comprends pas...{attente}{page}{fin}
+@04406	Wouhaaa !!{attente}|C'était trop génial !{attente}|Le top du top !!{attente}{page}{fin}
+@04407	Je me sens trop|heureuse, là !{attente}{page}{fin}
+@04408	C'était un film génial !{attente}|Trop bien d'être venue|avec {F08} !{attente}{page}{fin}
+@04409	Ça manquait un peu de|rythme, mais y avait|quand même de bons|passages !{attente}{page}{fin}
+@04410	Pff, moi qui l'attendais,|c'était bof bof !{attente}|Un peu déçue !{attente}{page}{fin}
+@04411	Trop nul !{attente}|Je me suis ennuyée,|ennuyée, ennuyée,|ennuyée à mourir !{attente}{page}{fin}
+@04412	Héhé ! Cet endroit,|je l'aime plutôt bien !{attente}{page}{fin}
+
+; ---- concert
+@04420	Dis, {F03} !{attente}|C'était un concert|vraiment génial !{attente}{page}{fin}
+@04422	Avant, Mr. Kid...{attente}|j'en écoutais pas trop,|mais c'est super bien !{attente}{page}{fin}
+@04423	Je n'écoutais pas trop|Mr. Kid, mais c'était|mieux que je pensais.{attente}{page}{fin}
+@04424	Moi, Mr. Kid, j'en|écoute pas trop...{attente}|alors... bof...{attente}{page}{fin}
+@04425	Mr. Kid, je déteste pas,|mais d'habitude, j'en|écoute pas...{attente}{page}{fin}
+@04426	Tout le monde autour|s'éclatait... et moi, je me|sentais à part~{attente}{page}{fin}
+@04427	Dis, {F04} !|C'était l'éclate !{attente}|Trop bien !{attente}{page}{fin}
+@04428	Mr. Kid, je l'adore !{attente}|Contente d'être venue♥{attente}{page}{fin}
+@04430	J'aime plutôt bien|Mr. Kid, alors j'ai bien|fait de venir... je crois.{attente}{page}{fin}
+@04431	J'aime bien Mr. Kid,|mais aujourd'hui,|c'était bof.{attente}{page}{fin}
+@04432	J'aime bien Mr. Kid...{attente}|mais j'aurais mieux fait|d'écouter le CD toute|seule...{attente}{page}{fin}
+@04433	En fait, Mr. Kid,|j'aime pas trop...{attente}{page}{fin}
+@04434	Super concert !{attente}|Avec {F05}, c'était|encore plus sympa !{attente}{page}{fin}
+@04435	Bah...{attente}|C'était pas mal...{attente}{page}{fin}
+@04436	Franchement,|ce genre de musique,|je déteste...{attente}{page}{fin}
+@04437	Shinozawa, Mr. Kid,|elle aimait pas trop,|mais~...{attente}{page}{fin}
+@04438	aujourd'hui, c'était|trop l'ambiance~{attente}|Shinozawa est comblée~♥{attente}{page}{fin}
+@04439	Quelle ambiance~ !{attente}|C'était super~ !{attente}|Nyahaha~ !{attente}{page}{fin}
+@04440	La tête de {F06} était|plus drôle, alors|c'était super !{attente}{page}{fin}
+@04441	Shinozawa aime pas|Mr. Kid, alors c'était|trop bruyant~{attente}{page}{fin}
+@04442	Ouch...{attente}|Ce concert n'était|pas trop son genre,|apparemment...{attente}{page}{fin}
+@04443	Shinozawa aime pas|Mr. Kid~{attente}|Elle a failli mourir !{attente}{page}{fin}
+@04444	J'adore Mr. Kid, il est|tellement classe !{attente}|C'était génial !{attente}{page}{fin}
+@04445	J'adore Mr. Kid !{attente} La|musique comme la voix,|c'était vraiment génial !{attente}{page}{fin}
+@04446	{F07}, merci.|C'était un super concert.{attente}{page}{fin}
+@04447	J'aime bien Mr. Kid, mais|les cris des fans étaient|beaucoup trop forts...{attente}{page}{fin}
+@04448	Moi qui avais tellement|hâte, je n'entendais même|pas la musique...{attente}{page}{fin}
+@04449	Ouch...{attente} Je vois...|Elle n'a pas l'air de|détester l'artiste, mais|elle s'est ennuyée...{attente}{page}{fin}

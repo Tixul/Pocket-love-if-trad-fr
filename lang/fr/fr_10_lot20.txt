@@ -1,0 +1,363 @@
+; Lot 20 : rendez-vous (shopping, fripes, cheesecake, manga café, lycée, arcade, karaoké, restaurant,
+; hamburgers, parc et barque, rivière, bibliothèque, planétarium, cinéma, grande roue, allée, musée,
+; aquarium, plage).
+@07141	Ah !{attente}|Elle est partie...{attente}|On est en plein rencard,|c'est un peu fort, non ?{attente}{page}{fin}
+@07142	Ça t'embête de|m'accompagner ?{attente}|Désolée de t'embarquer...{attente}{page}{fin}
+@07143	Il y a tellement de choix|que j'hésite, alors si tu|m'aidais à choisir, ça|m'arrangerait !{attente}{page}{fin}
+@07144	Le nail art, j'y connais|pas grand-chose...{attente}|Mais si ça fait plaisir|à {E09}, je la suis partout !{attente}{page}{fin}
+@07145	Je voudrais voir les|nouveautés pour le nail art !{attente}|Tu m'aides à choisir ?{attente}{page}{fin}
+@07146	Ce serait dommage de me|faire belle si ça ne plaît|pas à {F07}♥{attente}{page}{fin}
+@07147	Waouh ! Elle pense à moi|en choisissant...|...Je suis trop touché !{attente}{page}{fin}
+@07150	La fripe, quand ça ne va|pas à la personne, ça fait|juste miteux...{attente}{page}{fin}
+@07151	Un couple qui porte bien|la fripe tous les deux, ça|a du cachet... J'adore ça...{attente}{page}{fin}
+@07152	On dirait pas qu'elle parle|de nous...{attente}|Elle fait juste la causette ?{attente}{page}{fin}
+@07153	Ce serait bien qu'on|devienne un couple qui a|du cachet, qui porte bien|la fripe tous les deux !{attente}{page}{fin}
+@07154	Le plus important, c'est|de bien porter la fripe,|ou de former un couple ?...{attente}|Ça, je voudrais savoir !!{attente}{page}{fin}
+@07155	Bien porter la fripe,|c'est plus dur qu'on croit !{attente}{page}{fin}
+@07156	Un couple qui a du cachet,|où les deux portent bien la|fripe, tu trouves pas ça|génial ?{attente}{page}{fin}
+@07157	Je vois ! C'est ça,|le couple idéal de Yumi !{attente}|Je la comprends un peu|mieux, ça me fait plaisir !{attente}{page}{fin}
+@07158	Ce serait bien qu'on soit|un couple qui a du cachet...|qui porte bien la fripe,|tous les deux !{attente}{page}{fin}
+@07159	{E04} picore son|cheesecake devant moi,|l'air toute contente...{attente}{page}{fin}
+@07160	Quand je mange un|cheesecake comme ça,|{E04}... se sent|trop heureuse !{attente}{page}{fin}
+@07161	Elle ne pense plus qu'à|son cheesecake...{attente}|On dirait qu'elle m'a|oublié... Snif...{attente}{page}{fin}
+@07162	Manger un cheesecake|à deux, ça me rend|toute heureuse...{attente}{page}{fin}
+@07163	C'est le cheesecake qui|la rend heureuse, ou d'être|avec moi ?...{attente}|Je voudrais trop savoir !{attente}{page}{fin}
+@07164	Tu sais, manger un|cheesecake comme ça,|avec {F03}, rien que|nous deux...{attente}{page}{fin}
+@07165	je me sens bien plus|heureuse que toute seule...|Je me demande pourquoi...{attente}{page}{fin}
+@07166	{E04}...|est trop, trop heureuse♥{attente}{page}{fin}
+@07167	Voir {E04} avec un air|aussi heureux...{attente}|ça me rend heureux aussi !!{attente}|C'est le paradis !!{attente}{page}{fin}
+@07168	Mizuki et moi, on mangeait|un cheesecake ensemble...{attente}{page}{fin}
+@07169	Le cheesecake est bon,|mais...{attente} un café calme|comme ça, ça me stresse|un peu...{attente}{page}{fin}
+@07170	Ah, mais...|je m'amuse beaucoup !{attente}{page}{fin}
+@07171	Elle s'amuse vraiment ?...{attente}|J'ai l'impression qu'elle|dit ça pour me faire plaisir...{attente}{page}{fin}
+@07172	Mais je suis pas seule,|alors je m'amuse bien !{attente}{page}{fin}
+@07173	Elle s'amuserait aussi|sans moi ?...{attente}|C'est ça que je veux|savoir !{attente}{page}{fin}
+@07174	Ce genre d'ambiance, ça me|stresse un peu, mais...|c'est super sympa !{attente}{page}{fin}
+@07175	Pourquoi, à ton avis ?|Parce que je suis avec|{F04} ! Aha !{attente}{page}{fin}
+@07176	Avec {F04}, peu|importe où on est...|je m'amuse trop♥{attente}{page}{fin}
+@07177	Passer un moment tranquille|dans un café calme...{attente}|c'est élégant, j'adore !{attente}{page}{fin}
+@07178	Je préfère ce genre de|rendez-vous à un parc|désert !{attente}{page}{fin}
+@07180	On se détendait au|manga café, chacun avec|ses mangas préférés.{attente}{page}{fin}
+@07181	Ce serait bien qu'on soit|aussi détendus ensemble|que devant un manga...{attente}{page}{fin}
+@07182	Ça veut dire qu'avec moi,|elle n'arrive pas à se|détendre ?{attente}|C'est un peu triste...{attente}{page}{fin}
+@07183	Être aussi détendus|ensemble que devant un|manga, ce serait bien, hein...{attente}{page}{fin}
+@07184	Ça veut dire qu'elle est|détendue, là ? Ou qu'elle|aimerait l'être ?{attente}|Ça m'intrigue...{attente}{page}{fin}
+@07185	Ce serait bien qu'on soit|aussi détendus ensemble|que devant un manga...{attente}{page}{fin}
+@07186	Pour l'instant, avec toi,|j'ai encore le cœur qui bat|...{attente}Aha♥{attente}{page}{fin}
+@07187	Manga ou rendez-vous,|ce qui apaise le cœur,|c'est bien, je trouve.{attente}{page}{fin}
+@07188	Hein ?{attente} Elle me parle, ou|elle se parle à elle-même ?|Je sais pas trop...{attente}{page}{fin}
+@07189	Manga ou rendez-vous,|quand ça apaise le cœur,|c'est bien, hein !{attente}{page}{fin}
+@07190	De notre rencard ?{attente}|Ou de son manga ?{attente}|Lequel des deux ?...|Ça m'intrigue...{attente}{page}{fin}
+@07191	Avec {F05}, tu sais|......{attente}Hihi !{attente}|Non, rien !{attente}{page}{fin}
+@07192	Avec {F05}|...{attente}j'ai le cœur qui bat, mais|je me sens apaisée aussi♥{attente}{page}{fin}
+@07193	Dites, {F06}~ !|Ici, on peut vraiment|se détendre tranquille~ !{attente}{page}{fin}
+@07194	Ça y est, Shinozawa est|à fond dans les mangas~ !|Nyahaha ! Trop drôle~ !{attente}{page}{fin}
+@07195	Pfff, elle est à fond|dans son manga, elle m'a|oublié, on dirait...|Je me sens seul...{attente}{page}{fin}
+@07196	Shinozawa adore s'exciter|sur les jeux vidéo~ !{attente}{page}{fin}
+@07197	Mais de temps en temps,|un rencard tranquille,|c'est sympa aussi~{attente}{page}{fin}
+@07198	Ça veut pas dire qu'elle|aurait préféré les jeux...|hein ?{attente}|Ça me chiffonne un peu...{attente}{page}{fin}
+@07199	Nyahaha~ !|Un rencard tranquille|comme ça, c'est sympa~ !{attente}{page}{fin}
+@07200	Se détendre à côté de|{F06}...{attente}|Shinozawa a trop|de chance~ !{attente}{page}{fin}
+@07201	Parce que Shinozawa, rien|que de penser qu'elle est|avec {F06}...{attente}{page}{fin}
+@07202	elle a le cœur qui bat et|la poitrine qui se serre{attente}|et tout fond dedans...{attente}|Mmh~, c'est trop~{attente}{page}{fin}
+@07203	D'y repenser, voilà que|mon cœur s'emballe|encore~{attente}|Hiii~...♥{attente}{page}{fin}
+@07204	Trop bien d'être venus ici !|Je peux lire mes mangas|préférés, je suis ravie !{attente}{page}{fin}
+@07205	J'avais trop hâte de lire|la suite !{attente}|Hmm hmm, je voiiis !{attente}{page}{fin}
+@07206	Bon, un rencard, ça me|stresse, mais... je suis|trop contente d'être|venue ici !{attente}{page}{fin}
+@07207	Parce que je peux lire des|mangas et me poser !{attente}{page}{fin}
+@07208	Ah, euh...|Et puis {F08} est là|aussi !{attente}|Aha, ahaha !{attente}{page}{fin}
+@07209	Le dernier, elle l'a|clairement rajouté...{attente}|Mais elle a fait un effort,{attente}|je vais pas faire la tête...{attente}{page}{fin}
+@07210	Un rencard ici, ça me|rend trop heureuse !{attente}{page}{fin}
+@07211	Lire des mangas avec|{F08} et se poser,|c'est trop génial !{attente}{page}{fin}
+@07212	On est détendus comme un|vieux couple marié depuis|des années, non ?{attente}{page}{fin}
+@07213	Waaah ! Qu'est-ce que je|raconte, moi ?!{attente}|J'ai le cœur qui bat♥{attente}{page}{fin}
+@07214	Si tu me sors ça d'un coup,|c'est moi qui vais avoir|le cœur qui bat !{attente}|Mais je suis heureux♥{attente}{page}{fin}
+@07215	Toute gênée, {E08} a filé|vers les rayons de mangas|...{attente}Gênée comme ça,|elle est trop mignonne !{attente}{page}{fin}
+@07220	Ce jour de congé, on était|venus dans la cour|derrière le lycée...{attente}{page}{fin}
+@07221	Me faire plein d'amis|comme {F07}...{attente}{page}{fin}
+@07222	Si on pouvait se faire|ne serait-ce qu'un petit|souvenir ici...|ce serait bien !{attente}{page}{fin}
+@07223	C'est vrai, au lycée, elle|veut se faire plein d'amis{attente}|Mais des amis... alors|qu'on est en rencard !{attente}{page}{fin}
+@07224	Hein ? Un souvenir avec|moi ? Ou de sa vie au|lycée ?{attente}|Hmm, ça m'intrigue !!{attente}{page}{fin}
+@07225	{F07} et moi...{attente}|Non, rien du tout !{attente}|...Hihi !{attente}{page}{fin}
+@07226	{F07} et moi...|faisons-nous de beaux|souvenirs, d'accord♥{attente}{page}{fin}
+@07227	Un rencard au lycée...{attente}|on dirait pas, mais c'est|bizarrement apaisant !{attente}{page}{fin}
+@07228	Hmmm ! Ça me donne envie|de jouer au ping-pong !{attente}{page}{fin}
+@07229	Shht ! Shht !{attente}{page}{fin}
+@07230	Ah, la voilà en position, qui|s'entraîne au smash...{attente}|On est en plein rencard,|je signale...{attente}{page}{fin}
+@07231	Hmm, pourquoi donc ?|À ton avis, pourquoi~ ?{attente}{page}{fin}
+@07232	{E0A} penche la tête|...{attente}Si c'était parce|qu'elle est avec moi...{attente}|je serais trop content !{attente}{page}{fin}
+@07233	Sûrement parce que je suis|avec {F08} !{attente}|...Héhé !{attente}{page}{fin}
+@07234	Mais tu sais... le lycée|désert, et en plus,|rien que nous deux...{attente}{page}{fin}
+@07235	moi... j'ai le cœur...|qui bat super fort...|......Tahah♥{attente}{page}{fin}
+@07236	Un petit rire gêné, bien|{E0A}... mais...{attente} si elle|me dit ça, moi aussi...|j'ai le cœur qui bat !{attente}{page}{fin}
+@07237	On s'éclatait tous les deux|à la salle d'arcade...{attente}{page}{fin}
+@07238	Un rencard où on s'amuse|tous les deux, sans se|prendre la tête, j'adore !{attente}{page}{fin}
+@07239	Allez, {F05} !|Maintenant, on s'affronte !{attente}|Je vais à la borne|d'en face !{attente}{page}{fin}
+@07240	OK, je vais pas perdre !{attente}|...Mais ce qu'elle vient|de dire me chiffonne...{attente}{page}{fin}
+@07241	Avec moi, d'habitude,|elle se prend autant|la tête que ça ?...{attente}{page}{fin}
+@07242	Un rencard où on s'amuse|à deux en jouant, comme ça,|c'est sympa, hein !{attente}{page}{fin}
+@07243	C'est sympa parce qu'on|est deux, ou parce que|c'est l'arcade ?...{attente}|Voilà la question...{attente}{page}{fin}
+@07244	Un rencard où on s'amuse|tous les deux, c'est|vraiment génial !{attente}{page}{fin}
+@07245	Jouer avec {F05},|c'est plus marrant que|d'habitude, je trouve !{attente}{page}{fin}
+@07246	...Je me suis excitée|comme une gamine...{attente}|J'ai un peu honte...{attente}{page}{fin}
+@07247	Mais tu sais...{attente}|devant {F05}, j'arrive|à être moi-même♥{attente}{page}{fin}
+@07248	Nyahaha~ !{attente} Les jeux|vidéo, y a rien de mieux~ !{attente}{page}{fin}
+@07249	Si on pouvait toujours faire|des rencards 100 % jeux|vidéo comme ça, nya~ !{attente}{page}{fin}
+@07250	100 % jeux vidéo...|je suis content qu'elle|s'amuse, mais...{attente} c'est|un peu triste, ça...{attente}{page}{fin}
+@07251	Si on pouvait toujours faire|des rencards comme ça,|nya~ !{attente}{page}{fin}
+@07252	Le plus important, c'est le|jeu ou le rencard ?...{attente}|C'est ça qui m'intrigue|le plus...{attente}{page}{fin}
+@07253	Nyahaha~ !{attente}|Jouer avec {F06},|y a rien de mieux~ !{attente}{page}{fin}
+@07254	Shinozawa voudrait que|les rencards comme ça|durent toujours~...{attente}{page}{fin}
+@07255	Parce qu'avec {F06},|Shinozawa est|super happy~♥{attente}{page}{fin}
+@07260	On s'éclatait au karaoké...{attente}{page}{fin}
+@07261	Chanter ensemble...|on a l'impression de se|comprendre, hein !{attente}{page}{fin}
+@07262	C'est ce que je me dis|à chaque fois que je viens|chanter entre filles !{attente}{page}{fin}
+@07263	Entre filles, hein...{attente}|Et chanter avec moi, alors,|ça fait quoi ?...{attente}{page}{fin}
+@07264	Entre filles surtout,|c'est ce que je ressens,|mais...{attente}{page}{fin}
+@07265	Mais... quoi ?{attente}|Avec moi aussi, elle|ressent ça ?...{attente}|Ça m'intrigue trop !{attente}{page}{fin}
+@07266	Avec {F04} aussi,|j'aimerais chanter|plein d'autres fois...{attente}{page}{fin}
+@07267	Ça veut dire qu'elle veut|mieux me comprendre ?{attente}|Ça me gêne un peu, mais|...je suis content !{attente}{page}{fin}
+@07268	{F04}...|j'ai l'impression de|vraiment te comprendre♥{attente}{page}{fin}
+@07269	C'est drôle...{attente}|d'être à deux dans une|pièce comme ça, ça me|fait battre le cœur...{attente}{page}{fin}
+@07270	L'aération est mauvaise,|on dirait. Je sors une|seconde ouvrir la porte.{attente}{page}{fin}
+@07271	Q-quoi...|son cœur qui bat, c'était|parce qu'elle étouffait ?!{attente}|Pas clair, franchement !{attente}{page}{fin}
+@07272	Je me demande pourquoi...{attente}|J'ai les mains moites !{attente}{page}{fin}
+@07273	Parce qu'elle chante fort ?{attente}|Ou parce qu'elle est seule|avec moi ?{attente} Là, je serais|content !{attente}{page}{fin}
+@07274	Ah...{attente} Pour changer|d'air, on chante un truc|joyeux !{attente}{page}{fin}
+@07275	J'ai l'impression qu'elle|a habilement noyé|le poisson...{attente}{page}{fin}
+@07276	Mais elle a le cœur qui bat|avec moi...{attente} Je peux|espérer quelque chose ?{attente}{page}{fin}
+@07277	Mais...{attente} si tu penses|m'embrasser, c'est pas|le moment !{attente}|...Hihi♥{attente}{page}{fin}
+@07278	Si tu me sors ça d'un coup,|c'est moi qui vais avoir|le cœur qui bat !{attente}|Mais c'est non... dommage !{attente}{page}{fin}
+@07279	On mangeait tranquillement|au restaurant...{attente}{page}{fin}
+@07280	Manger ensemble comme ça,|ça fait chic !{attente}{page}{fin}
+@07281	Plus que d'être avec moi,|c'est le repas chic et bon|qui lui fait plaisir,|on dirait...{attente}{page}{fin}
+@07282	Manger ensemble dans un|restaurant comme ça,|c'est chic !{attente}{page}{fin}
+@07283	Je me sens toute heureuse !{attente}|Mmmh, c'est délicieux !{attente}{page}{fin}
+@07284	C'est de manger ensemble|qui la rend heureuse, ou|que ce soit délicieux ?|Hmm, ça m'intrigue...{attente}{page}{fin}
+@07285	Rien que nous deux, c'est|meilleur que d'habitude,|et surtout, je me sens|heureuse !{attente}{page}{fin}
+@07286	Avoir un moment comme ça|avec {F07}, rien|que nous deux... je suis|si heureuse...♥{attente}{page}{fin}
+@07287	On bavardait de tout|et de rien en mangeant|des hamburgers.{attente}{page}{fin}
+@07288	Ce serait bien d'accumuler|des souvenirs ici...{attente}{page}{fin}
+@07289	Le boulot ici est dur, mais|c'est sympa, j'aime bien !{attente}{page}{fin}
+@07290	Ah...|elle parlait de son boulot{attente}|Moi aussi, je voudrais|accumuler nos souvenirs...{attente}{page}{fin}
+@07291	Ce serait bien d'accumuler|des souvenirs ici...{attente}|à nous deux...{attente}{page}{fin}
+@07292	Ah... non !|Rien du tout !{attente}|Allez, mangeons !{attente}{page}{fin}
+@07293	Ce serait bien d'accumuler|des souvenirs ici...{attente}{page}{fin}
+@07294	Des souvenirs à nous deux,|bien sûr... des souvenirs|joyeux et amusants !{attente}{page}{fin}
+@07295	Joyeux ? Elle veut dire|« sages » ?{attente} Mais des|souvenirs à nous deux...|je suis trop touché !{attente}{page}{fin}
+@07296	Des souvenirs à nous deux,|bien sûr...{attente} plein de|beaux souvenirs...|d'accord♥{attente}{page}{fin}
+@07297	Manger un bon truc à deux,|ensemble~...|Shinozawa est heureuse~ !{attente}{page}{fin}
+@07298	Mmmh, c'est trop bon~ !{attente}|Le top du top~ !!{attente}|Kyaaa ! Trop heureuse~ !!{attente}{page}{fin}
+@07299	Hmm, y a pas photo...|plus qu'être ensemble{attente}|c'est que ce soit bon qui|la rend heureuse...{attente}{page}{fin}
+@07300	Manger un bon truc à deux,|ensemble~... c'est|vraiment le malheur~ !{attente}{page}{fin}
+@07301	Ah, je me suis trompée~ !{attente}|Le bonheur~ !|Nyahaha !{attente}{page}{fin}
+@07302	Avec {F06}, même un|hamburger, on dirait|un steak de luxe~ !{attente}{page}{fin}
+@07303	Shinozawa a les seins|qui débordent...{attente}|Kyaa ! Je me suis trompée !{attente}|Le cœur qui déborde~ !{attente}{page}{fin}
+@07304	Du coup...|son cœur bat trop fort...|Shinozawa peut plus|rien avaler~♥{attente}{page}{fin}
+@07310	Un rencard au parc, c'est|forcément la barque !{attente}{page}{fin}
+@07311	{FFB}L'inviter en barque|　Laisser tomber{fin}
+@07312	Dis, ça te dirait de|faire un tour de barque|avec moi ?{attente}{page}{fin}
+@07313	Oui, d'accord !{attente}|Allons-y !{attente}{page}{fin}
+@07314	Génial !{attente}|On s'est dirigés vers|l'embarcadère...{attente}{page}{fin}
+@07315	{E04} n'a pas envie|de ça aujourd'hui...{attente}{page}{fin}
+@07316	Dommage...|je laisse tomber...{attente}{page}{fin}
+@07317	(Sur la barque...){n}{fin}
+@07318	On se promenait|tranquillement dans le parc.{attente}{page}{fin}
+@07319	Marcher comme ça, ça|détend, c'est agréable !{attente}{page}{fin}
+@07320	Le vent est agréable...{attente}|......{attente}{page}{fin}
+@07321	C'est bien d'être détendue,|mais... elle m'a pas|complètement oublié ?...{attente}|Ça me rend triste...{attente}{page}{fin}
+@07322	Un rendez-vous tranquille|comme ça, c'est bien aussi !{attente}{page}{fin}
+@07323	J'ai envie de marcher|encore un peu comme ça !{attente}|Hein, {F03} !{attente}{page}{fin}
+@07324	Le plus important, c'est de|marcher à deux, ou de se|balader tranquille ?...{attente}|Raaah, ça m'intrigue !!{attente}{page}{fin}
+@07325	Avec {F03},|je me sens si apaisée...{attente}|je suis bien !{attente}{page}{fin}
+@07326	Mais marcher avec|{F03}...{attente}{page}{fin}
+@07327	ça me fait un peu...|battre le cœur...|...{attente}Hihi♥{attente}{page}{fin}
+@07328	Hein...{attente} Ouais, d'accord !|Tant qu'on est au parc,|autant essayer !{attente}{page}{fin}
+@07329	...Désolée.{attente}|J'ai pas envie de faire|de la barque, là...{attente}{page}{fin}
+@07330	Vu de la barque, le parc|qu'on connaît par cœur|paraît tout neuf !{attente}{page}{fin}
+@07331	Ce genre de rencard...{attente}|c'est vraiment... génial♥{attente}{page}{fin}
+@07332	C'est super tranquille...|ça fait du bien !{attente}{page}{fin}
+@07333	Si ce moment pouvait...|durer toujours...{attente}{page}{fin}
+@07334	Marcher à deux comme ça,|c'est tranquille,|ça fait du bien !{attente}{page}{fin}
+@07335	Ce qu'elle veut faire durer,|c'est le moment agréable ?|Ou le moment avec moi ?{attente}|...Ça m'intrigue trop !{attente}{page}{fin}
+@07336	Si ce moment pouvait durer|toujours...{attente} Comme ça,|nous deux...{attente}{page}{fin}
+@07337	Si ce moment pouvait durer|toujours...{attente} ce moment|précieux, rien qu'à nous...♥{attente}{page}{fin}
+@07338	La barque~ ?{attente}|Ça a l'air marrant~{attente}{page}{fin}
+@07339	La barque~ ?{attente}|Shinozawa peut pas~{attente}|Aujourd'hui, elle va|avoir le mal de mer~{attente}{page}{fin}
+@07340	Wouhou~ !{attente} Hihihi~ !{attente}|La barque, ça bouge|bizarre, c'est marrant~ !{attente}{page}{fin}
+@07341	Ça tourne la tête,|ça flotte...|ça fait battre le cœur~ !{attente}{page}{fin}
+@07342	Kyaa ! Kyaa !{attente}|Avec {F06}, tous|les deux, on flotte sur|la barque~{attente}{page}{fin}
+@07343	Shinozawa est toute|chavirée par les coups|de rame de {F06}~ !{attente}{page}{fin}
+@07344	...Elle aurait pas plutôt|le mal de mer ?...{attente}|Mais elle a l'air de|s'amuser, alors ça va...?{attente}{page}{fin}
+@07345	Nyahaha !{attente} Un rencard|ici, ça rend Shinozawa|super heureuse~ !{attente}{page}{fin}
+@07346	Le parc, c'est le niveau|bonus du cœur qui rend|Shinozawa heureuse~{attente}{page}{fin}
+@07347	Plus que d'être avec moi,|c'est le parc qui la|rend heureuse...{attente}|C'est un peu triste...{attente}{page}{fin}
+@07348	Elle est contente parce que|je suis là, ou parce que|c'est le parc ?|...{attente}Raaah, ça m'intrigue !{attente}{page}{fin}
+@07349	Dites~, {F06}~{attente}|Shinozawa, quand elle a un|rencard ici, elle se sent|heureuse~{attente}{page}{fin}
+@07350	Avec {F06}, rester|ici pour toujours~...|tous les deux, sur notre|petit nuage...{attente}{page}{fin}
+@07351	Nuage{attente}, brume{attente}, brouillard{attente}...|Ah, les ermites, ça vit|vraiment de brume|et d'eau fraîche~ ?{attente}{page}{fin}
+@07352	Shinozawa va plus en|dormir de la nuit~ !|Nyahaha~ !{attente}{page}{fin}
+@07353	Les ermites, ça existe ?{attente}|Mais non !{attente} Qu'est-ce que|{E08} allait dire ?!{attente}|Raaah, ça m'intrigue !!{attente}{page}{fin}
+@07354	Rester ici pour toujours~...|tous les deux, rien que|nous...{attente}|à se promener, nya~♥{attente}{page}{fin}
+@07355	Hein ? La barque ?{attente}|J'y vais ! Tout de suite !|On y va, vite !{attente}{page}{fin}
+@07356	Hein ? La barque ?{attente}|Désolée ! Aujourd'hui,|j'ai pas trop la tête à ça !{attente}{page}{fin}
+@07357	Haa, c'est trop bon !{attente}|Bercée par la barque,|on se détend à fond !{attente}{page}{fin}
+@07358	Se détendre comme ça,|rien que nous deux...{attente}|c'est trop bien...♥{attente}{page}{fin}
+@07359	Dis, {F08} !|Un rencard ici, ça me|rend trop heureuse !{attente}{page}{fin}
+@07360	Le parc, c'est l'endroit|le plus reposant du monde !{attente}|Haaa, le paradis, le paradis !{attente}{page}{fin}
+@07361	C'est le parc qui la rend|heureuse...{attente} Alors, elle|pourrait se passer de moi ?{attente}|Ça me fait de la peine...{attente}{page}{fin}
+@07362	Le parc, c'est trop|reposant, et se promener|à deux comme ça, ça fait|du bien !{attente}{page}{fin}
+@07363	Elle est contente pour le|parc, ou parce qu'on est|tous les deux ?|...{attente}Ça m'intrigue !{attente}{page}{fin}
+@07364	Dans ce grand parc,|avec {F08}, rien|que nous deux...{attente}{page}{fin}
+@07365	Ah là là ! J'en peux plus !{attente}|Héhé, ça me gêne !{attente}|Mais je suis contente !{page}{fin}
+@07366	J'aimerais rester comme ça,|tranquilles tous les deux,|pour toujours...{attente}|toujours...♥{attente}{page}{fin}
+@07367	Avec la barque, on était|arrivés au milieu|de l'étang...{attente}{page}{fin}
+@07368	Waouh...{attente} Le vent n'est pas|le même qu'au bord...{attente}|Ça fait trop du bien !{attente}{page}{fin}
+@07369	Ce genre de rencard, ça|fait vraiment rencard,|j'adore !{attente}|Hein, {F03} !{attente}{page}{fin}
+@07370	Sur l'étang, {E04}|avait quelque chose|d'éblouissant...{attente}|J'en ai eu le cœur qui bat !{attente}{page}{fin}
+@07375	On marchait tranquillement|côte à côte au bord|de la rivière.{attente}{page}{fin}
+@07376	Se balader au bord de la|rivière, ça détend...{attente}{page}{fin}
+@07377	J'aimerais que le temps|s'arrête, là, maintenant...{attente}{page}{fin}
+@07378	Hmm, plutôt que d'être|avec moi, on dirait qu'elle|veut juste du calme...{attente}|...La déception...{attente}{page}{fin}
+@07379	Se balader à deux au bord|de la rivière, c'est|reposant, ça fait du bien...{attente}{page}{fin}
+@07381	Ce qu'elle veut arrêter,|c'est le temps passé avec|moi, ou le temps calme ?|...Ça m'intrigue...{attente}{page}{fin}
+@07382	J'aimerais que notre|temps à deux...{attente} s'arrête,|là, maintenant...{attente}{page}{fin}
+@07383	Parce qu'avec {F04},|je me sens trop|à l'aise !{attente}{page}{fin}
+@07384	Les moments rien qu'à|nous deux... je trouve ça|super précieux♥{attente}{page}{fin}
+@07385	Haa, c'est trop reposant !{attente}|Un rencard tranquille|comme ça, c'est top !{attente}{page}{fin}
+@07386	Le vent de la rivière fait|du bien... Haa, le paradis,|le paradis !{attente}{page}{fin}
+@07387	Marcher au bord de la|rivière, ça a du charme,|enfin, ça détend trop !{attente}{page}{fin}
+@07388	Un rencard tranquille|comme ça, c'est top, hein !{attente}{page}{fin}
+@07389	Avec {F08}, je suis|super détendue... et je me|sens en sécurité !{attente}{page}{fin}
+@07390	Rien que d'être avec|{F08}...|je me sens trop heureuse♥{attente}{page}{fin}
+@07391	On lisait en silence|à la bibliothèque.{attente}{page}{fin}
+@07392	Lire dans une bibliothèque|calme... ça fait rendez-vous|d'adultes, j'aime bien...{attente}{page}{fin}
+@07393	Ce livre est passionnant|......{attente}{page}{fin}
+@07394	Plus qu'un rendez-vous|d'adultes...{attente} on dirait|une séance de révisions...{attente}|...C'est triste...{attente}{page}{fin}
+@07395	Quand {F07} est|à côté de moi, j'arrive|mieux à me concentrer !{attente}{page}{fin}
+@07396	Se concentrer...{attente} Avec moi|en rencard, elle est tendue,|c'est ça ?{attente}|Ça m'intrigue...{attente}{page}{fin}
+@07397	Lire à deux dans une|bibliothèque calme...{attente}{page}{fin}
+@07398	ça fait très intellectuel,|un vrai rendez-vous|d'adultes... j'aime bien !{attente}{page}{fin}
+@07399	{F07}, quand tu|lis... tu as l'air si mûr.|C'est charmant♥{attente}{page}{fin}
+@07400	Assis côte à côte, on|regardait le spectacle|du planétarium...{attente}{page}{fin}
+@07401	...C'est trop beau !!{attente}|Un rencard romantique,|je suis heureuse...{attente}{page}{fin}
+@07402	Orion...|les Pléiades...{attente}|et là-bas...{attente}{page}{fin}
+@07403	Merci, {F04}.|Je suis trop contente de|voir les étoiles !{attente}{page}{fin}
+@07404	C'est le rencard romantique|avec moi qui la rend|heureuse... ou les étoiles ?|...{attente}Lequel des deux ?{attente}{page}{fin}
+@07405	Voir les étoiles avec|{F04}... je suis|trop contente !{attente}{page}{fin}
+@07406	Avec {F04}, un jour,|j'aimerais contempler|un vrai ciel étoilé|...{attente}rien que nous deux♥{attente}{page}{fin}
+@07407	Regarder de belles étoiles|comme ça, ensemble...|c'est très émouvant !{attente}{page}{fin}
+@07408	Tiens... au Japon,|cette étoile porte|ce nom-là...{attente}{page}{fin}
+@07409	Quel ciel étoilé|magnifique !{attente} On ne|croirait pas que c'est|artificiel !{attente}{page}{fin}
+@07410	C'est émouvant parce qu'on|regarde ensemble... ou|parce que c'est beau ?{attente}|Sa phrase m'intrigue...{attente}{page}{fin}
+@07411	C'est parce que {F07}|est à côté de moi...{attente}|que je peux m'émouvoir|sans retenue !{attente}{page}{fin}
+@07412	Avec {F07}, n'importe|quel paysage...{attente}{page}{fin}
+@07413	brillerait sûrement|comme ces étoiles♥{attente}{page}{fin}
+@07414	Assis côte à côte,|on regardait un film...{attente}{page}{fin}
+@07415	Un rendez-vous au cinéma...|il n'y a rien de mieux !{attente}{page}{fin}
+@07416	Quel film magnifique !{attente}|Ce serait dommage|de cligner des yeux !{attente}{page}{fin}
+@07417	Je suis content qu'elle|s'amuse, mais...{attente}|elle m'a pas oublié ?{attente}|...C'est triste...{attente}{page}{fin}
+@07418	Je suis contente de voir|un film aussi sympa|avec toi !{attente}{page}{fin}
+@07419	Ce qui lui plaît, c'est le|film ?{attente} Ou le rencard ?{attente}|...Lequel des deux ?{attente}{page}{fin}
+@07420	Un rendez-vous au cinéma,|il n'y a vraiment rien|de mieux !{attente}{page}{fin}
+@07421	Profiter d'un film avec|{F07}... je suis|vraiment contente !{attente}{page}{fin}
+@07422	Partager une émotion|avec {F07}...|je suis si heureuse♥{attente}{page}{fin}
+@07425	La grande roue est en vue !{attente}|La grande roue, c'est|quand même le clou d'un|parc d'attractions...{attente}{page}{fin}
+@07426	{FFB}Proposer la grande roue|　Laisser tomber{fin}
+@07427	Dis, on monte dans la|grande roue, après ?{attente}{page}{fin}
+@07428	Génial !{attente}|On s'est dirigés vers|la grande roue...{attente}{page}{fin}
+@07429	(Dans la grande roue...){n}{fin}
+@07430	La grande roue tournait|lentement, nous emportant|avec elle...{attente}{page}{fin}
+@07431	Waouh...{attente} Les gens en bas|sont tout petits, comme|des poupées !{attente}{page}{fin}
+@07432	On dirait que je suis Alice|après avoir bu la potion|pour grandir !{attente}{page}{fin}
+@07433	La grande roue, c'est|trop romantique♥|Hein, {F03} !{attente}{page}{fin}
+@07434	{E04}, qui regardait|dehors les yeux brillants,|était éblouissante, sexy...|J'en ai eu le cœur battant{attente}{page}{fin}
+@07435	On passait un bon moment|au parc d'attractions...{attente}{page}{fin}
+@07436	Aaah !|Si seulement le temps|pouvait s'arrêter !{attente}{page}{fin}
+@07437	Le parc d'attractions, c'est|tellement grand qu'une|journée ne suffit jamais !{attente}{page}{fin}
+@07438	Je suis content qu'elle|s'amuse, mais...{attente} elle a|pas oublié que c'est|un rencard avec moi ?...{attente}{page}{fin}
+@07439	Parce que {E04} veut|jouer encore plus|avec {F03} !{attente}{page}{fin}
+@07440	Elle veut jouer avec moi,|ou juste profiter du parc ?|...Lequel des deux ?{attente}|Ça m'intrigue !{attente}{page}{fin}
+@07441	{E04} veut rester|encore longtemps...|à s'amuser à deux|avec {F03} !{attente}{page}{fin}
+@07442	Waouh ! Quand elle dit|« à deux »...|ça me fait trop plaisir !{attente}{page}{fin}
+@07443	{E04} veut rester avec|{F07}... pour toujours...|toujours...♥{attente}{page}{fin}
+@07444	Nya ! J'y vais~ !{attente}|Ça tourne, ça tourne~ !{attente}|Vive la grande roue~ !{attente}{page}{fin}
+@07445	Hanya~, la grande roue~ ?{attente}|Aujourd'hui, Shinozawa a|un peu le vertige~{attente}{page}{fin}
+@07446	Aaah, rien que d'y penser,|la tête me tourne~...{attente}|Ça tourne, ça tourne~{attente}{page}{fin}
+@07447	C'est quoi, ça ?...|Ça dépend des jours ?|...{attente}Pfff...{attente}{page}{fin}
+@07448	L-l-la grande roue...|on s'y retrouve tous|les deux tout seuls~...{attente}{page}{fin}
+@07449	Shinozawa, ce genre de|truc~... ce genre de truc{attente}|ça lui fait b-battre le|cœur...{attente}{page}{fin}
+@07450	Ukyaaa ! Ici, on peut pas|s'agiter~ !!{attente}|On peut pas se cacher~ !!!{attente}{page}{fin}
+@07451	Kyaa ! Kyaa !|Shinozawa sait plus quoi|faire, c'est la panique~ !{attente}{page}{fin}
+@07452	Mais, mais, mais~|Shinozawa est ravie♥♥{attente}|Hanyarinpa~♥♥♥{attente}{page}{fin}
+@07453	Toute rouge, {E08}|regardait dehors, comme|pour fuir mon regard...{attente}{page}{fin}
+@07454	Elle était trop drôle,|et en plus, trop mignonne...|J'en ai eu le cœur|qui bat...{attente}{page}{fin}
+@07455	Kyaa !|Shinozawa adore les jeux|vidéo, mais elle aime aussi|les parcs d'attractions~ !{attente}{page}{fin}
+@07456	Parce que, parce que|les parcs d'attractions,|c'est trop, trop marrant !{attente}{page}{fin}
+@07457	S'amuser au parc|d'attractions avec {F07},|c'est trop, trop marrant~ !{attente}{page}{fin}
+@07458	C'est moi qui compte le plus,|ou le parc d'attractions ?{attente}|Hmm, ça m'intrigue !{attente}{page}{fin}
+@07459	Shinozawa vit pour les|jeux vidéo~, mais s'amuser|au parc avec {F07}{attente}{page}{fin}
+@07460	elle aime ça juste après|les jeux !{attente} Nyahaha~ !|Parce que c'est trop|marrant~ !{attente}{page}{fin}
+@07461	Shinozawa vit pour les|jeux vidéo~, mais elle aime|aussi s'amuser au parc|d'attractions~ !{attente}{page}{fin}
+@07462	Mais si {F06} est pas|là... c'est nul~{attente}{page}{fin}
+@07463	C'est parce que c'est avec|{F06} que c'est|marrant~ !{attente}|...Nya♥{attente}{page}{fin}
+@07470	Épaule contre épaule, on|se baladait tranquillement|dans l'allée d'arbres...{attente}{page}{fin}
+@07471	Marcher dans cette allée,|ça fait trop du bien !{attente}{page}{fin}
+@07472	Le vent ici...{attente}|il sent un peu le bois,|ça apaise...{attente}{page}{fin}
+@07473	Peu importe la saison,|cet endroit fait vraiment|du bien !{attente}|On marche tranquille ?{attente}{page}{fin}
+@07474	Mmmh ! Ça fait|vraiment du bien !{attente}{page}{fin}
+@07475	C'est moi ou l'allée qui|lui fait cet effet ?...|C'est ça que j'aimerais|savoir...{attente}{page}{fin}
+@07476	Ici, c'est bien plus sympa|avec {F05} que|toute seule !{attente}{page}{fin}
+@07477	Pourtant, toute seule ici,|je suis calme, mais là,|j'ai le cœur qui bat.{attente}{page}{fin}
+@07478	Ce doit être parce que|je suis avec {F05} !|...Hihi♥{attente}{page}{fin}
+@07479	Haa, rien que de marcher|ensemble dans cette allée,|ça repose !{attente}{page}{fin}
+@07480	Mmh, un endroit comme ça,|on se prend pas la tête !{attente}|Haa, le paradis, le paradis !{attente}{page}{fin}
+@07481	Mmh, ça fait du bien !{attente}|Je pète la forme !{attente}{page}{fin}
+@07482	Avec {F08}, je me|sens encore plus en|sécurité...{attente}{page}{fin}
+@07483	Ça me ressource à fond,|tu vois !{attente}|...Héhé !{attente}{page}{fin}
+@07484	On dirait pas la balade|d'un vieux couple marié|depuis des années ?{attente}{page}{fin}
+@07485	On faisait le tour des|œuvres d'avant-garde|au musée d'art...{attente}{page}{fin}
+@07486	Nyahaha~ !{attente}|Regarder des œuvres|bizarres, c'est marrant~ !{attente}{page}{fin}
+@07487	Shinozawa est à fond dans|l'art~ !!{attente}|Kyaa, c'est trop marrant !{attente}{page}{fin}
+@07488	Mais la tête de {F06}|est encore plus drôle~ !{attente}|Ah, je me suis trompée~ !{attente}{page}{fin}
+@07489	« S'amuser avec {F06},|c'est encore plus drôle »,|voilà la bonne réponse~ !{attente}{page}{fin}
+@07490	Elle s'est vraiment|trompée ?{attente} Hmm...{attente}|Je suis plus amusant que|l'art d'avant-garde ?{attente}{page}{fin}
+@07491	Regarde~ !{attente}|Celle-là, c'est {F06}|tout craché~ !{attente}{page}{fin}
+@07492	Shinozawa s'y est|attachée~ !{attente}|Nyahahaha !{attente}{page}{fin}
+@07493	Quoi ! Elle s'y attache|parce que ça me ressemble{attente}|ça me fait plaisir,|mais c'est compliqué~...{attente}{page}{fin}
+@07494	L'art comme l'amour, plus|on y met de passion, plus|c'est merveilleux !{attente}{page}{fin}
+@07495	Moi aussi, j'aimerais vivre|un amour passionné...{attente}{page}{fin}
+@07496	Est-ce que je pourrai vivre|un amour aussi beau|que l'art ?...{attente}{page}{fin}
+@07497	Nous aussi, un amour|aussi beau que l'art...{attente}{page}{fin}
+@07498	Non, rien du tout !|...Hihi !{attente}{page}{fin}
+@07499	Nous aussi... un jour,|est-ce qu'on vivra un amour|aussi beau que l'art ?♥{attente}{page}{fin}
+@07500	On regardait les poissons|nager tranquillement|dans l'aquarium...{attente}{page}{fin}
+@07501	Regarder de jolis poissons|ensemble, ça apaise...{attente}{page}{fin}
+@07502	Hihi ! Trop mignons !{attente}|Les poissons tropicaux,|c'est des petits coquets...{attente}{page}{fin}
+@07503	C'est d'être avec moi qui|l'apaise, ou ce serait|pareil sans moi ?...|Ça m'intrigue trop !!{attente}{page}{fin}
+@07504	Je suis sûre que si|{E04} venait les voir|toute seule...{attente}{page}{fin}
+@07505	elle serait pas aussi|apaisée...{attente} Hihi !{attente}{page}{fin}
+@07506	Mais en vrai, j'ai|un petit peu le cœur|qui bat !{attente}{page}{fin}
+@07507	Parce que je suis en|rendez-vous avec|{F03}♥|...Hihi♥{attente}{page}{fin}
+@07508	Le fond de la mer, ça|ressemble un peu à un ciel|étoilé... c'est trop beau...{attente}{page}{fin}
+@07509	Quand je regarde...{attente}|j'ai l'impression d'être|aspirée, je peux plus|détourner les yeux.{attente}{page}{fin}
+@07510	Partager une sensation|aussi belle... je suis|super contente !{attente}{page}{fin}
+@07511	Ah, elle a l'air un peu|contente !{attente}|Moi aussi, ça me fait|un peu plaisir !{attente}{page}{fin}
+@07512	Vivre une expérience aussi|étrange avec {F04},|ça me touche trop !{attente}{page}{fin}
+@07513	Avec {F04}, un jour,|j'aimerais voir le vrai|fond de la mer|...{attente}rien que nous deux♥{attente}{page}{fin}
+@07520	On est venus jusqu'à la mer,|mais il y a tellement de|monde qu'on peut même pas|discuter tranquilles...{attente}{page}{fin}
+@07521	D'ailleurs, un peu plus|loin...{attente} j'ai vu des|rochers où il risque pas|d'y avoir grand monde...{attente}{page}{fin}
+@07522	{FFB}Proposer les rochers|　Laisser tomber{fin}
+@07523	Dis...{attente} il y a trop de|monde ici, on peut pas|discuter tranquilles,|hein ?{attente}{page}{fin}
+@07524	Il y a des rochers calmes|un peu plus loin...{attente}|On va voir ?{attente}{page}{fin}
+@07525	C'est vrai !{attente} Ce serait|mieux pour discuter|tranquilles ! Allons-y !{attente}{page}{fin}
+@07526	Génial !{attente}|On s'est dirigés vers|les rochers...{attente}{page}{fin}
+@07527	Mais moi, je m'amuse|plus ici...{attente}{page}{fin}
+@07528	Si elle le dit comme ça,|je peux rien répondre...{attente}{page}{fin}
+@07529	(Aux rochers...){n}{fin}
+@07530	Comme prévu, il n'y avait|personne aux rochers, et|on bavardait joyeusement...{attente}{page}{fin}
+@07531	Soudain, la conversation|s'est arrêtée... et sans|le vouloir, on s'est|regardés...{attente}{page}{fin}
+@07532	On était tellement|synchros que...{attente}{page}{fin}
+@07533	on s'est retrouvés les|yeux dans les yeux !{attente}{page}{fin}
+@07534	On passait un bon moment|sur la plage.{attente}{page}{fin}
+@07535	Ce serait bien de venir|à la mer tous les deux,|chaque année !{attente}{page}{fin}

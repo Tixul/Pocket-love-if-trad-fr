@@ -1,0 +1,247 @@
+; Interface (entrée 11), lot 2 : centre commercial, photomaton, album, téléphone, rendez-vous, tenue, générique.
+; ---- centre commercial
+#0343	Au centre commercial{fin}
+#0344	J'achète quoi ?{fin}
+#0345	Ne rien acheter{fin}
+#0346	Achat effectué !{n}{n}{F09}Encore 2 achats possibles{fin}
+#0347	Achat effectué !{n}{n}{F09}Encore 1 achat possible{fin}
+#0348	Achat effectué !{n}{n}{F09}Plus aucun achat possible{fin}
+#0349	{F09}Pas assez d'argent !{fin}
+#0350	{F09}Tu l'as déjà !{fin}
+#0351	Tu veux terminer ?{n}{n}{>88}A : Quitter{n}{>88}B : Retour{fin}
+; ---- photomaton, album
+#0352	{F09}Plus de place pour photos !{fin}
+#0353	Choisis le cadre{n}qui te plaît ♥{n}{>88}A : Valider{fin}
+#0355	C'est parti, souriez !{n}{fin}
+#0357	Clic-clac !!{fin}
+#0358	...Tous les deux, on a{n}pris la pose dans{n}le photomaton !{fin}
+#0359	Choisis une catégorie{n}{>12}Photomatons{n}{>12}Scènes spéciales{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0360	{F09}Rien d'enregistré !{fin}
+#0361	Laquelle veux-tu voir ?{fin}
+#0362	Avec {E04} Saeki{n}{n}{n}{>88}B : Retour{fin}
+#0363	Avec Mizuki Takao{n}{n}{n}{>88}B : Retour{fin}
+#0364	Avec Yumi Matsuda{n}{n}{n}{>88}B : Retour{fin}
+#0365	Avec {E08} Shinozawa{n}{n}{n}{>88}B : Retour{fin}
+#0366	Avec {E09} Okada{n}{n}{n}{>88}B : Retour{fin}
+#0367	Avec {E0A} Kobayashi{n}{n}{n}{>88}B : Retour{fin}
+; ---- téléphone : inviter / offrir
+#0368	Que faire ?{fin}
+#0369	Choisis une option{n}{>12}L'inviter à sortir{n}{>12}Lui offrir un cadeau{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0370	{F09}Il n'y a aucune fille{n}à inviter !{fin}
+#0371	Qui vais-je inviter ?{fin}
+#0372	J'appelle {E04} Saeki !{fin}
+#0373	J'appelle Mizuki Takao !{fin}
+#0374	J'appelle Yumi Matsuda !{fin}
+#0375	J'appelle {E08} Shinozawa !{fin}
+#0376	J'appelle {E09} Okada !{fin}
+#0377	J'appelle {E0A} Kobayashi !{fin}
+#0378	Bip bop bip bip bop bip{n}Tuuut... tuuut...{fin}
+#0379	({E04} Saeki){n}{>12}Allô !{>84}Ici Saeki !{fin}
+#0380	(Mizuki Takao){n}{>12}Allô ?{>60}Ici Takao !{fin}
+#0381	(Yumi Matsuda){n}{>12}Allô ?{>60}Ici Matsuda !{fin}
+#0382	({E08} Shinozawa){n}{>12}Allôôô~ !{>84}Shinozawa !{fin}
+#0383	({E09} Okada){n}{>12}Allô ?{>60}Ici Okada !{fin}
+#0384	({E0A} Kobayashi){n}{>12}Oui oui !{>84}Kobayashi !{fin}
+#0385	Ouais, c'est {F00}.{n}J'ai un truc à te dire...{n}...{n}Et on a commencé à parler.{fin}
+#0386	Allô, c'est {F00}.{n}J'aurais un truc à te dire{n}...{n}Et on a commencé à parler.{fin}
+#0387	Bonjour, c'est {F00}.{n}J'aimerais te parler{n}d'une chose...{n}Et on a commencé à parler.{fin}
+#0388	Un peu plus tard...{fin}
+#0389	(C'est le moment !){n}Dis, on se fait un rencard,{n}t'es partante, hein ?{fin}
+#0390	(Allez, c'est le moment !){n}Euh, ça te dirait, un{n}rendez-vous avec moi ?{fin}
+#0391	(Allez, c'est le moment !){n}Euh... tu accepterais{n}un rendez-vous avec moi ?{fin}
+#0392	({E04} Saeki){n}{>12}Un rendez-vous ?{n}{>12}Attends un peu...{fin}
+#0393	(Mizuki Takao){n}{>12}Hmm, un rendez-vous...{n}{>12}Je sais pas trop...{fin}
+#0394	(Yumi Matsuda){n}{>12}Voyons voir...{n}{>12}Je me demande...{fin}
+#0395	({E08} Shinozawa){n}{>12}Ouh là !{n}{>12}Un rendez-vous~ ?...{fin}
+#0396	({E09} Okada){n}{>12}Oh !{>60}Rendez-vous ?!{n}{>12}Que faire...{fin}
+#0397	({E0A} Kobayashi){n}{>12}Un rencard avec moi ?{n}{>12}Voyons voir...{fin}
+#0398	{>12}C'est d'accord !{n}{>12}Sortons ensemble !{fin}
+#0399	{>12}Ça marche !{n}{>12}Va pour un rencard !{fin}
+#0400	{>12}D'accord !{n}{>12}J'accepte !{fin}
+#0401	{>12}Tadaaa, c'est décidé !{n}{>12}Shinozawa sera là~ !{fin}
+#0402	{>12}Oui, c'est décidé !{n}{>12}Sortons ensemble !{fin}
+#0403	{>12}Ouais !{>60}OK !{n}{>12}On se fait un rencard !!{fin}
+#0404	{>12}Désolée, une autre fois{n}{n}Elle a refusé...{fin}
+#0405	{>12}Désolée !!{>72}Plus tard !{n}{n}Elle a refusé...{fin}
+#0406	{>12}Pardon !{>72}Je passe !{n}{n}Elle a refusé...{fin}
+#0407	{>12}Nan nan~{>84}À plus~{n}{n}Elle a refusé...{fin}
+#0408	{>12}Ça ne m'arrange pas...{n}{n}Elle a refusé...{fin}
+#0409	{>12}Ahaha !{>72}Sans moi !{n}{n}Elle a refusé...{fin}
+; ---- choix du jour, de l'heure, du lieu
+#0410	Bon, quel jour et{n}à quel moment ?{fin}
+#0411	{>88}A : Valider{fin}
+#0412	{>108}Mat{>132}Ap{fin}
+#0413	{>36}/{fin}
+#0414	Rendez-vous le{fin}
+#0415	au matin !{fin}
+#0416	l'après-midi !{fin}
+#0417	Et ensuite...{fin}
+#0418	/{fin}
+#0419	{fin}
+#0420	Et pour l'endroit ?{fin}
+#0421	Lieu : {fin}
+#0422	C'est décidé !{fin}
+#0423	centre commercial, {fin}
+#0424	Bon, je récapitule :{fin}
+#0425	Alors, je récapitule :{fin}
+#0426	Alors...{n}je récapitule encore :{fin}
+#0427	Rendez-vous le{fin}
+#0428	au matin,{fin}
+#0429	l'après-midi,{fin}
+#0430	Lieu : {fin}
+#0431	Lieu : centre commercial, {fin}
+#0432	C'est bien ça !{fin}
+#0433	Voilà !{fin}
+#0434	Ça te va ?{fin}
+#0435	({E04} Saeki){n}{>12}Oui !{>60}C'est noté !{n}{>12}J'ai trop hâte !{n}{>12}Allez, à plus tard !{fin}
+#0436	(Mizuki Takao){n}{>12}OK !{>60}Compris !{n}{>12}Vivement ce jour-là !{n}{>12}Allez, à plus !!{fin}
+#0437	(Yumi Matsuda){n}{>12}OK !{>60}C'est noté !{n}{>12}Toi, ne va pas oublier !{n}{>12}Je compte dessus !{fin}
+#0438	({E08} Shinozawa){n}{>12}Bien reçu~ !{n}{>12}Shinozawa va compter{n}{>12}les jours d'ici là~{fin}
+#0439	({E09} Okada){n}{>12}Oui, entendu !{n}{>12}Je m'en réjouis...{n}{>12}Alors, à bientôt !{fin}
+#0440	({E0A} Kobayashi){n}{>12}Okiii !{>72}Pigé~{n}{>12}Vivement ce jour-là~{n}{>12}Allez, à plus !{fin}
+#0441	Clac !{n}{n}Yes !{n}J'ai décroché un rencard !{fin}
+#0442	Clac !{n}{n}Bon !{n}Rendez-vous calé !{fin}
+#0443	Clac !{n}{n}Youpi !{n}Elle a dit oui !{fin}
+#0444	Pas deux rendez-vous{n}avec la même fille,{n}le matin et l'après-midi{n}du même jour !{fin}
+#0445	{F09}Aucune fille à qui{n}offrir un cadeau !{fin}
+#0446	À qui offrir un cadeau ?{fin}
+#0447	Yo, c'est {F00}.{n}J'ai un truc à te{n}donner, en fait...{fin}
+#0448	Salut, c'est {F00}.{n}En fait, j'ai un cadeau{n}pour toi...{fin}
+#0449	Bonjour, c'est {F00}.{n}En fait, j'ai un cadeau{n}pour toi...{fin}
+#0450	({E04} Saeki){n}{>12}Oh !{>60}Pour moi ?{n}{>12}Voyons...{n}{>12}Qu'est-ce que je fais...{fin}
+#0451	(Mizuki Takao){n}{>12}Hein !{>60}C'est vrai ?{n}{>12}Voyons voir...{n}{>12}Je sais pas trop...{fin}
+#0452	(Yumi Matsuda){n}{>12}Un cadeau pour moi ?{n}{>12}Voyons...{n}{>12}Je me demande...{fin}
+#0453	({E08} Shinozawa){n}{>12}Oh là !{>72}Un cadeau ?{n}{>12}Hmmmmm~{n}{>12}Shinozawa réfléchit~{fin}
+#0454	({E09} Okada){n}{>12}Oh !{>60}Vraiment ?!{n}{>12}...Ça me touche, mais{n}{>12}j'hésite un peu...{fin}
+#0455	({E0A} Kobayashi){n}{>12}Tu veux m'offrir un truc ?{n}{>12}...Hmmm{n}{>12}Voyons voir~{fin}
+#0456	{>12}Oui !{>60}Merci !{n}{>12}{E04} l'accepte{n}{>12}avec plaisir !{fin}
+#0457	{>12}Ouais !{>60}C'est décidé !{n}{>12}J'accepte ton cadeau !{n}{>12}Merci !{fin}
+#0458	{>12}Oui !{>60}D'accord !{n}{>12}J'accepte ton cadeau{n}{>12}avec plaisir !{fin}
+#0459	{>12}C'est décidé~ !{n}{>12}Shinozawa l'accepte{n}{>12}avec gratitude~ !{fin}
+#0460	{>12}C'est décidé !{n}{>12}Je l'accepte avec{n}{>12}grand plaisir !{fin}
+#0461	{>12}Allez !{>72}C'est décidé !{n}{>12}Pas de chichis, je{n}{>12}le prends, na !{fin}
+#0462	{>12}Désolée !{n}{>12}Pas cette fois-ci...{n}{>12}À bientôt !{fin}
+#0463	{>12}Pardon !{>72}Mais bon...{n}{>12}cette fois, je passe{n}{>12}Salut !{fin}
+#0464	{>12}Désolée, mais je vais{n}{>12}passer mon tour{n}{>12}Le prends pas mal{fin}
+#0465	{>12}C'est décidé~ !{n}{>12}Shinozawa dit non pour{n}{>12}cette fois~ !{>84}Salut~{fin}
+#0466	{>12}Désolée, mais{n}{>12}je vais refuser{n}{>12}Pardonne-moi...{fin}
+#0467	{>12}Pardooon !!{n}{>12}Je passe~{n}{>12}Allez, à plus~{fin}
+#0468	Elle a refusé...{n}{fin}
+#0469	(Je lui donne quoi ?){fin}
+#0470	Ne rien offrir{fin}
+#0471	Bon, alors{n}au parc de Koigahara.{n}Attends-moi, j'arrive.{fin}
+#0472	Alors, on se retrouve{n}au parc de Koigahara !{n}Ça marche ?{fin}
+#0473	Dans ce cas,{n}au parc de Koigahara,{n}tu veux bien m'attendre ?{fin}
+#0474	({E04} Saeki){n}{>12}Oui, d'accord !{n}{>12}J'ai hâte !{fin}
+#0475	(Mizuki Takao){n}{>12}OK !{>60}Ça marche !{n}{>12}J'ai trop hâte !{fin}
+#0476	(Yumi Matsuda){n}{>12}Oui !{>60}D'accord !{n}{>12}J'ai hâte !{fin}
+#0477	({E08} Shinozawa){n}{>12}Ouiii~ !{n}{>12}Shinozawa t'attend~ !{fin}
+#0478	({E09} Okada){n}{>12}Bien !{>72}D'accord !{n}{>12}Je suis tout excitée !{fin}
+#0479	({E0A} Kobayashi){n}{>12}Okiii !{n}{>12}Pigé !{fin}
+#0480	Clac !{n}Bon, j'y vais !{fin}
+#0481	Clac !{n}Bon !{>48}Je vais le donner !{fin}
+#0482	Clac !{n}Allez !{>48}En route, alors !{fin}
+#0483	Qui j'invite ?{fin}
+#0484	Qu'est-ce que j'utilise ?{fin}
+#0485	{>12}Téléphone{fin}
+#0486	Bon !{>48}Je l'appelle !{n}Elle va venir, j'espère...{fin}
+#0488	30 min plus tard{fin}
+#0489	Ah !{>36}Elle est venue !!{fin}
+#0490	Raté, on dirait...{fin}
+#0491	Je ne me sens pas bien...{fin}
+#0492	Toujours pas en forme...{fin}
+; ---- tenue du rendez-vous
+#0493	Allez !{n}Pour faire bonne{n}impression, je vais{n}soigner ma tenue{n}et assurer !{fin}
+#0494	Les chaussures, la base !{n}Lesquelles je prends ?{fin}
+#0495	Mocassins{fin}
+#0496	Desert boots{fin}
+#0497	Boots de travail{fin}
+#0498	Baskets en toile{fin}
+#0499	Baskets high-tech{fin}
+#0500	Côté jean,{n}lequel je prends ?{fin}
+#0501	Coupe slim{fin}
+#0502	Coupe droite{fin}
+#0503	Coupe bootcut{fin}
+#0504	Pattes d'éléphant{fin}
+#0505	Coupe charpentier{fin}
+#0506	Le motif du t-shirt,{n}lequel je prends ?{fin}
+#0507	Uni{fin}
+#0508	Dragon{fin}
+#0509	Tête de mort{fin}
+#0510	Logo{fin}
+#0511	Photo imprimée{fin}
+#0512	Et la montre,{n}laquelle je prends ?{fin}
+#0513	Pas de montre{fin}
+#0514	Montre à personnage{fin}
+#0515	Montre multifonction{fin}
+#0516	Montre de plongée{fin}
+#0517	Chronographe{fin}
+#0518	Et le parfum,{n}lequel je prends ?{fin}
+#0519	Pas de parfum{fin}
+#0520	Notes d'agrumes{fin}
+#0521	Notes vertes{fin}
+#0522	Notes florales{fin}
+#0523	Notes chyprées{fin}
+#0524	Je revérifie une fois.{fin}
+#0525	{F09}Chaussures{F0B}{fin}
+#0526	{F09}Jean{F0B}{fin}
+#0527	{F09}T-shirt{F0B}{fin}
+#0528	{F09}Montre{F0B}{fin}
+#0529	{F09}Parfum{F0B}{fin}
+#0530	Et voilà !{n}{n}Bon, allez,{n}en route pour le rencard !{fin}
+#0531	{>120}OK{n}{fin}
+; ---- générique de fin (noms du personnel : romanisation à confirmer, ordre Prénom Nom)
+#0532	Pocket Love ~if~{fin}
+#0533	L'équipe{fin}
+#0534	{F09}Concept{fin}
+#0535	Nyamuko 23{fin}
+#0536	{F09}Création des personnages{fin}
+#0537	Momoko Sapporo{fin}
+#0538	{F09}Design des personnages{fin}
+#0539	General★Watanabe{fin}
+#0540	{F09}Scénario{fin}
+#0541	Marika Nomura{fin}
+#0542	{F09}Programmation{fin}
+#0543	Nakayama{fin}
+#0544	{F09}Graphismes{fin}
+#0545	Kawamasa{fin}
+#0546	Kazue Nakajima{fin}
+#0547	Hironobu Takai{fin}
+#0548	Junya Yamamoto{fin}
+#0549	Hiroshi Moriyama{fin}
+#0550	Hiromi Tagawa{fin}
+#0551	{F09}Son{fin}
+#0552	Nobuyuki Shiota{fin}
+#0553	{F09}Programmation macro{fin}
+#0554	Empereur Seagal{fin}
+#0555	{F09}Débogage{fin}
+#0556	Tuning Musume{fin}
+#0557	Kaede{fin}
+#0558	Nyo{fin}
+#0559	Masato Fukuroi{fin}
+#0560	{F09}Ventes{fin}
+#0561	Toru Takahashi{fin}
+#0562	Yuichi Tamura{fin}
+#0563	{F09}Communication, promo{fin}
+#0564	Hiroyuki Onda{fin}
+#0565	{F09}Et enfin...{fin}
+#0566	{F09}Vous, chers joueurs{fin}
+#0567	Merci d'avoir joué{fin}
+#0568	jusqu'au bout !{fin}
+#0569	Au plaisir de se revoir{fin}
+#0570	un jour, quelque part !{fin}
+#0572	{F09}Suivi de production{fin}
+#0573	Koji Kameya{fin}
+#0574	{F09}Direction de production{fin}
+#0575	Kazuhiro Ichikawa{fin}
+#0576	{F09}Producteur{fin}
+#0577	Hisayoshi Ichikawa{fin}
+#0578	{F09}Remerciements{fin}
+#0579	Emiru with Nakouu{fin}
+#0581	Naoko Nagatsuma{fin}
+; ---- compléments (20/11 : messages restés en japonais pleine chasse)
+#0192	PHS{fin}
+#0354	({F00} {F01}){n}{fin}
+#0356	3, 2, 1...{n}{fin}
+#0571	1999 KID{fin}
+#0580	PLANET LINK{fin}

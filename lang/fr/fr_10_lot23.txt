@@ -1,0 +1,361 @@
+; Lot 23 (08322-08724)
+@08322	Mais du curry pas épicé,|avec des pommes de terre|dedans...{attente}{page}{fin}
+@08323	Franchement, {F07}...|on dirait un petit garçon !|Hihihi !{attente}{page}{fin}
+@08324	Ah, elle se moque de moi...{attente}|Mais bon, j'adore ça,|j'y peux rien...{attente}{page}{fin}
+@08325	Moi, j'adore le|steak haché !{attente}{page}{fin}
+@08326	Comme sauce, plutôt qu'une|demi-glace, je préfère un|mélange ketchup-sauce !{attente}{page}{fin}
+@08327	Ah oui !{attente} {F07},|tu aimes le steak haché !{attente}{page}{fin}
+@08328	Moi, j'adore|l'omurice !{attente}{page}{fin}
+@08329	Comme sauce, plutôt qu'une|demi-glace, je préfère|plein de ketchup dessus !{attente}{page}{fin}
+@08330	Ah oui !{attente} {F07},|tu aimes l'omurice !{attente}{page}{fin}
+@08331	Plein de ketchup ?|On dirait un petit garçon !|Hihihi !{attente}{page}{fin}
+@08332	Ça commence à sentir|l'automne, et les longues|soirées, c'est fait pour|les jeux de cartes !{attente}{page}{fin}
+@08333	Dis, {F08} !|À part NTG, tu connais|pas des cartes sympas ?{attente}{page}{fin}
+@08334	(Des cartes sympas...){n}{fin}
+@08335	{FFB}Cartes d'actrices X|　Cartes de héros de jeux|　Cartes de sportifs pros{fin}
+@08336	Des cartes sympas ?|Les cartes d'actrices X,|évidemment ! Hé hé hé !{attente}{page}{fin}
+@08337	Waaah !{attente}|Mais qu'est-ce que tu|racontes !{attente}{page}{fin}
+@08338	{F08}, espèce de|gros pervers !{attente}|Laisse tomber !{attente}|Bleeeh !{attente}{page}{fin}
+@08339	Toute rouge, {E0A} m'a|tiré la langue avant de|s'enfuir...{attente}{page}{fin}
+@08340	Aïe, ça m'a échappé...{attente}|{E0A} est une fille,|elle aussi...{attente}|Quelle gaffe...{attente}{page}{fin}
+@08341	Des cartes sympas ?|Les cartes de héros|de jeux vidéo !{attente}{page}{fin}
+@08342	Bonne idée !{attente}|Mais je les collectionne|déjà ! Rien de nouveau !{attente}{page}{fin}
+@08343	Y a pas des nouvelles|cartes qui sont sorties ?{attente}{page}{fin}
+@08344	Plus on collectionne de|séries, plus c'est dur de|suivre les nouveautés,|mais on peut pas arrêter !{attente}{page}{fin}
+@08345	Quand elle parle de jeux|de cartes, {E0A} est|comme une gamine, trop|mignonne !{attente}{page}{fin}
+@08346	Mais si je lui dis ça,|elle va s'énerver, alors|je garde ça pour moi... !{attente}{page}{fin}
+@08347	Des cartes sympas ?|Les cartes de sportifs|pros, c'est pas mal, non ?{attente}{page}{fin}
+@08348	Des sportifs pros...{attente}|C'est pas des jeux, c'est|pas mon rayon, ça !{attente}{page}{fin}
+@08349	S'il y avait des cartes|de ping-pong, là, je les|collectionnerais !{attente}|Héhéhé !{attente}{page}{fin}
+@08350	Des cartes, oui, mais|que des jeux, hein !{attente}|Collectionner le ping-pong,|c'est bien {E0A} !{attente}{page}{fin}
+@08351	Dis, {F04} !{attente}|Je pense m'acheter des|baskets Naike !{attente}{page}{fin}
+@08352	T'as un modèle|à me conseiller ?{attente}{page}{fin}
+@08353	(Chez Naike...){n}{fin}
+@08354	{FFB}Mokke camouflage|　Gun Legend|　Psyglic{fin}
+@08355	Les Mokke camouflage,|ce serait pas mal, non ?{attente}{page}{fin}
+@08356	En camouflage, au moins,|on les prendra pas pour|des chaussons de kung-fu !{attente}{page}{fin}
+@08357	Hahaha !|Y a vraiment des gens|qui les confondent ?{attente}{page}{fin}
+@08358	Les Mokke, c'est super|confortable !{attente}|Je vais peut-être prendre|celles-là !{attente}{page}{fin}
+@08359	Mais j'ai déjà des Mokke...|Franchement, j'hésite !{attente}{page}{fin}
+@08360	Les baskets, elle prend|ça super au sérieux !{attente}|Mizuki adore vraiment|les baskets !{attente}{page}{fin}
+@08361	Et les Gun Legend,|t'en penses quoi ?{attente}{page}{fin}
+@08362	Le design est un peu osé,|mais il paraît qu'elles|sont confortables !{attente}{page}{fin}
+@08363	Il paraît qu'elles tiennent|super bien le pied !{attente}{page}{fin}
+@08364	Le V sur le côté est trop|classe, je vais peut-être|prendre celles-là !{attente}{page}{fin}
+@08365	Mais côté confort, les|Mokke, c'est dur à battre...{attente}|Franchement, j'hésite !{attente}{page}{fin}
+@08366	Et les Psyglic,|t'en penses quoi ?{attente}{page}{fin}
+@08367	Le design est original,|je les trouve classe !{attente}{page}{fin}
+@08368	Leur design fait parler|de lui, c'est vrai...{attente}{page}{fin}
+@08369	Mais les lacets ont l'air|durs à passer, et on dirait|un peu une chenille...{attente}{page}{fin}
+@08370	Mais ça vaut quand même|le coup de les essayer...|...{attente}{page}{fin}
+@08371	Je vois... pour une fille,|ce design fait un peu trop|excentrique...{attente}{page}{fin}
+@08385	Ah, {F03} !{attente}|Le mois prochain, c'est la|fête du lycée ! J'ai hâte !{attente}{page}{fin}
+@08386	J'espère qu'on s'y fera|plein de beaux souvenirs !{attente}|Allez, à plus !{attente}{page}{fin}
+@08387	La fête du lycée...{attente}|C'est déjà la saison !{attente}|J'espère qu'on se fera|plein de beaux souvenirs !{attente}{page}{fin}
+@08388	Dis, {F04} !|L'automne, la saison du|sport, ça te fait penser|à quel sport ?{attente}{page}{fin}
+@08389	(L'automne et le sport...){n}{fin}
+@08390	{FFB}Le baseball|　Le basket|　L'athlétisme{fin}
+@08391	La saison du sport ?|Le baseball, évidemment !{attente}{page}{fin}
+@08392	Ah, d'ailleurs, c'est en|ce moment qu'on désigne|le champion du Japon de|baseball pro !{attente}{page}{fin}
+@08393	Ensuite, on a parlé sport|avec passion jusqu'à la|fin de la récré !{attente}{page}{fin}
+@08394	La saison du sport ?|Le basket, bien sûr !{attente}{page}{fin}
+@08395	Ah, d'ailleurs, le mois|prochain, c'est la reprise|du basket pro américain !{attente}{page}{fin}
+@08396	La saison du sport ?|L'athlétisme, évidemment !{attente}{page}{fin}
+@08397	Ouais !{attente}|C'est la saison idéale|pour courir longtemps !{attente}{page}{fin}
+@08398	Je te l'avais promis le|mois dernier, non ? Voilà|ton souvenir du voyage|scolaire !{attente}{page}{fin}
+@08399	Tiens, c'est pour toi !{attente}|Une figurine de nain !{attente}{page}{fin}
+@08400	J'ai eu un mal fou à en|trouver une, j'ai dû|chercher partout !{attente}{page}{fin}
+@08401	Ah bon, c'est vrai ?!{attente}|Pardon de t'avoir demandé|un truc aussi bizarre !{attente}{page}{fin}
+@08402	Je plaisante !{attente}|En vrai, la chercher,|c'était super amusant !{attente}{page}{fin}
+@08403	Ah, franchement !{attente}|T'es vraiment pas sympa...{attente}{page}{fin}
+@08404	Tiens, c'est pour toi !{attente}|Un porte-clés !{attente}{page}{fin}
+@08405	Oh, un porte-clés chat !{attente}|J'ai l'impression de l'avoir|déjà vu...{attente} Oh, il a des|lunettes de soleil !{attente}{page}{fin}
+@08406	Un truc banal qu'on trouve|partout, ce serait pas|drôle, tu crois pas ?{attente}{page}{fin}
+@08407	Je voulais t'offrir un truc|un peu différent, alors j'ai|cherché partout, et je suis|tombée sur ça !{attente}{page}{fin}
+@08408	Tiens, c'est pour toi !{attente}|Des pe-tits-gâ-teaux !{attente}{page}{fin}
+@08409	Tant qu'à faire, je les|voulais bons, alors j'ai|goûté de tout pour choisir,|et j'ai pris du poids...{attente}{page}{fin}
+@08410	Hein, c'est vrai ?!{attente}|Pardon, c'est ma faute...{attente}{page}{fin}
+@08411	Je plaisante !{attente}|Tu trouves que j'ai grossi ?{attente}|Bien sûr que non !{attente}{page}{fin}
+@08412	En tout cas, je suis super|content d'avoir un|souvenir !{attente}|Merci beaucoup !{attente}{page}{fin}
+@08413	De rien !{attente}|Et puis, j'ai pris des|photos ! Regarde !{attente}{page}{fin}
+@08414	Ça, c'est un temple qui|aide les cœurs à s'unir !{attente}|Joli endroit, hein ?{attente}{page}{fin}
+@08415	Ce serait bien si deux|personnes s'unissaient...{attente}{page}{fin}
+@08416	Deux personnes...{attente}|Mais lesquelles ?{attente}|Est-ce que, par hasard...|......{attente}{page}{fin}
+@08417	Je sais pas pourquoi...|mais mon cœur s'emballe !{attente}|En plus, j'ai eu un|cadeau ! Trop content !{attente}{page}{fin}
+@08418	Dis, {F05} !|Tu connais la particularité|de votre prof d'anglais ?{attente}{page}{fin}
+@08419	(Le prof d'anglais ?){n}{fin}
+@08420	{FFB}Sa tête impossible ?|　Sa mauvaise humeur ?|　Son accent nul ?{fin}
+@08421	Voyons...{attente}|Sa tête impossible ?{attente}{page}{fin}
+@08422	Hahaha !|C'est pas faux, ça !{attente}|Mais c'est pas ça !{attente}{page}{fin}
+@08423	Voyons...{attente}|Le fait qu'il soit souvent|de mauvaise humeur ?{attente}{page}{fin}
+@08424	Bien vu,|t'as mis le doigt dessus !{attente}{page}{fin}
+@08425	Voyons...{attente}|Le fait que son accent|soit nul ?{attente}{page}{fin}
+@08426	Hahaha !{attente}|T'as bien repéré ça !{attente}|Mais c'est pas ça !{attente}{page}{fin}
+@08427	Ce prof, quand l'équipe de|baseball pro qu'il soutient|perd un match...{attente}{page}{fin}
+@08428	il est d'une humeur|massacrante, alors|retiens-le bien !{attente}{page}{fin}
+@08429	Surtout en ce moment, avec|le titre de champion du|Japon en jeu : la cata !{attente}{page}{fin}
+@08430	Ah, c'était donc ça !{attente}|Je vois...{attente}|Maintenant que tu le dis !{attente}|Bon à savoir !{attente}{page}{fin}
+@08431	Il fait un peu frais~ !{attente}|L'automne bat son plein~ !{attente}{page}{fin}
+@08432	{F06}, l'automne|gourmand, ça te fait|penser à quoi~ ?{attente}{page}{fin}
+@08433	(L'automne gourmand...){n}{fin}
+@08434	{FFB}Les patates douces|　Les châtaignes|　Les plats mijotés{fin}
+@08435	Les patates douces|grillées, bien sûr !{attente}{page}{fin}
+@08436	Kyaaa~ !{attente} Toutes chaudes|et fondantes, ça a l'air|trop bon~ !{attente}{page}{fin}
+@08437	Les châtaignes, bien sûr !{attente}{page}{fin}
+@08438	Leurs bogues qui piquent,|c'est pas cool, mais les|châtaignes, c'est bon~ !{attente}{page}{fin}
+@08439	Les plats mijotés,|évidemment !{attente}{page}{fin}
+@08440	Ukyaaa~ ! Le sukiyaki,|c'est trop bon aussi~ !{attente}{page}{fin}
+@08441	Nyaaa~ !{attente} La tête de|Shinozawa est toute|remplie de nourriture~ !{attente}{page}{fin}
+@08442	Shinozawa veut manger|tout de suite~ !{attente} Si on|lui ouvre la tête,|ça sortira~ ?{attente}{page}{fin}
+@08443	Ah !!{attente}|Ça s'enfuit~ !{attente}|Attends, la nourriture~ !{attente}{page}{fin}
+@08444	{E08} est partie en|courant après la nourriture|qui flottait, semble-t-il,|devant ses yeux...{attente}{page}{fin}
+@08445	......{attente}|On dirait une illuminée|qui entend des voix...|Elle m'inquiète...{attente}{page}{fin}
+@08446	Dis, {F07} !{attente}|C'est bientôt la Toussaint,|tu sais ?{attente} Alors,|après-demain...{attente}{page}{fin}
+@08447	je fais une fête|d'Halloween chez moi !{attente}|Tu veux venir, {F07} ?{attente}{page}{fin}
+@08448	{FFB}Aller à la fête|　Refuser{fin}
+@08449	Oui !|Je viens avec plaisir !{attente}{page}{fin}
+@08450	Oh, super !{attente}|J'ai hâte de te voir !{attente}{page}{fin}
+@08451	Tu connais la formule,|hein ?{attente}|Trick or treat !{attente}{page}{fin}
+@08452	Des bonbons ou|un sort !{attente}|Allez, à plus !{attente}{page}{fin}
+@08453	Hahaha ! Elle est tout|excitée, comme une gamine !{attente}{page}{fin}
+@08454	Elle doit vraiment avoir|hâte d'y être !{attente}|Moi aussi, j'ai hâte !{attente}{page}{fin}
+@08455	Ah... les larmes aux yeux,|elle est retournée à sa|place...{attente}{page}{fin}
+@08456	(Fête d'Halloween){n}{fin}
+@08457	Me voilà chez {E09}|pour sa fête d'Halloween !{attente}{page}{fin}
+@08458	{F07} !|Je suis ravie que tu sois|venu !{attente} Merci beaucoup !{attente}{page}{fin}
+@08459	Je prépare à manger !{attente}|Les autres arrivent bientôt,|attends un petit peu !{attente}{page}{fin}
+@08460	Ah, {F08} !{attente}|T'es venu, toi aussi !{attente}|On va bien s'amuser|aujourd'hui !{attente}{page}{fin}
+@08461	Nyahaha~ !{attente}|{E0A}-chan a invité|Shinozawa, alors elle|est venue~ !{attente}{page}{fin}
+@08462	En fait, Shinozawa et|{E0A}-chan, c'est des|copines qui adorent|parler de jeux vidéo !{attente}{page}{fin}
+@08463	C'est vrai, on sait même|pas comment c'est arrivé !{attente}|Toutes les deux ensemble,|on est d'un bruyant !{attente}{page}{fin}
+@08464	Oh, {F05} !{attente}|Moi, c'est Shinozawa|qui m'a invitée !{attente}{page}{fin}
+@08465	Figure-toi que Shinozawa|a lâché son petit boulot|chez nous au bout de|3 jours !{attente}{page}{fin}
+@08466	Kyaaa~ !{attente} Ça, tu|avais promis de ne pas|le dire~ !{attente}{page}{fin}
+@08467	Bon, tout le monde !{attente}|Que la fête d'Halloween|commence !{attente}{page}{fin}
+@08468	Une question~ !{attente} On|commence par quoi~ ?{attente}{page}{fin}
+@08469	Shinozawa, qu'est-ce que tu|racontes !{attente} Une fête,|ça veut dire des jeux,|c'est évident !{attente}{page}{fin}
+@08470	J'ai apporté des jeux de|cartes et des jeux de|société, tout ce qu'il faut !{attente}{page}{fin}
+@08471	Hahaha !|De l'énergie, et prévoyante|avec ça !{attente}|Elle me plaît, celle-là !{attente}{page}{fin}
+@08472	Alors, jouons aux jeux|que {E0A} a apportés !{attente}{page}{fin}
+@08473	La fête commence dans|une ambiance joyeuse !{attente}{page}{fin}
+@08474	Pendant que tout le monde|s'éclatait aux jeux de|{E0A}...{attente}{page}{fin}
+@08475	Dis, {F07}...{attente}|On va discuter un peu...{attente}|dans ma chambre ?{attente}{page}{fin}
+@08476	Hein ? O-oui...{attente}{page}{fin}
+@08477	Sans même remarquer notre|absence, les autres font la|fête, on les entend depuis|le rez-de-chaussée.{attente}{page}{fin}
+@08478	Seuls tous les deux dans la|chambre de {E09}...{attente}|J'ai l'impression qu'on|partage un moment secret.{attente}{page}{fin}
+@08479	Ça n'a pas duré longtemps,|mais tout le temps que j'ai|parlé avec {E09}, mon|cœur battait la chamade !{attente}{page}{fin}
+@08480	À l'invitation de {E09},|je suis allé dans sa|chambre...{attente}{page}{fin}
+@08481	Ces temps-ci, quand je me|balade en ville, je vois|partout les feuilles rouges !{attente}|C'est l'automne japonais !{attente}{page}{fin}
+@08482	Et l'automne japonais,|c'est les pâtisseries|japonaises !{attente}{page}{fin}
+@08483	On y vient, alors...{attente}{page}{fin}
+@08484	Ben, c'est l'automne des|gourmands !{attente} Dis, ton|gâteau japonais préféré,|c'est lequel ?{attente}{page}{fin}
+@08485	(Mon gâteau japonais...){n}{fin}
+@08486	{FFB}Les galettes de riz|　Les boules aux haricots|　Les bonbons de sucre{fin}
+@08487	Moi, j'aime bien les|galettes de riz !{attente}{page}{fin}
+@08488	Ah ! Les galettes de riz !{attente}|C'est vrai que c'est bon !{attente}{page}{fin}
+@08489	Croquer des galettes de riz|bien dures, c'est le|privilège de la jeunesse !{attente}{page}{fin}
+@08490	Hahaha ! C'est vrai !{attente}|Les dents, c'est précieux !{attente}|Ma mère, par exemple...{attente}{page}{fin}
+@08491	elle se plaint que depuis|qu'elle m'a eu, ses dents|sont fragiles et qu'elle|peut plus rien croquer !{attente}{page}{fin}
+@08492	Ouais, ouais, chez moi aussi !{attente}|Devenir maman, c'est|vraiment pas de la tarte !{attente}{page}{fin}
+@08493	Au fait, les galettes de|riz, c'est meilleur quand|c'est bien dur, hein !{attente}{page}{fin}
+@08494	Ensuite, on a parlé galettes|de riz avec passion jusqu'à|la fin de la récré !{attente}{page}{fin}
+@08495	Moi, j'aime bien les|boules aux haricots !{attente}{page}{fin}
+@08496	Avec de bons haricots|rouges, c'est trop bon !{attente}{page}{fin}
+@08497	Tu préfères la pâte lisse|ou avec les grains ?{attente}{page}{fin}
+@08498	Les deux se valent !{attente}|La douceur de la lisse,|la texture avec les grains !{attente}{page}{fin}
+@08499	Ouah ! T'as l'air de|fondre de plaisir !{attente}|T'es un vrai connaisseur !{attente}{page}{fin}
+@08500	Hein, j'ai cette tête-là ?{attente}{page}{fin}
+@08501	Ouais, ouais !{attente} T'as même|une tête de boule aux|haricots !{attente}{page}{fin}
+@08502	Quoi ! C'est quoi, ça !{attente}|T'es dure !{attente}{page}{fin}
+@08503	T'inquiète, t'inquiète !{attente}|Pause, pause, on souffle !{attente}|Hihi, je rigole !{attente}{page}{fin}
+@08504	Ensuite, jusqu'à la fin de|la récré, on a parlé avec|passion des boules aux|haricots et de ma tête...{attente}{page}{fin}
+@08505	Enfin... disons plutôt...{attente}|qu'elle s'est moquée de|moi tout du long...{attente}{page}{fin}
+@08506	Moi, j'aime bien les|bonbons de sucre !{attente}{page}{fin}
+@08507	Hein ?! Les bonbons de|sucre ?{attente} T'es bizarre !{attente}|T'aimes ça, pour de vrai ?{attente}{page}{fin}
+@08508	Pour de vrai, de vrai,|de vrai, de vrai,|de vraiiiii ?!{attente}{page}{fin}
+@08509	T'es lourde !{attente}|J'aime ça, pour de vrai !{attente}{page}{fin}
+@08510	Ces blocs de sucre ?{attente}|Toi, {F08}...|t'es un bec sucré !{attente}{page}{fin}
+@08511	D'ailleurs...{attente}|toi, {F08}, ta tête,|elle doit attirer les fourmis !{attente}{page}{fin}
+@08512	Euh, je veux dire que t'as|un visage à croquer, quoi !{attente}{page}{fin}
+@08513	......{attente}|C'est vrai, ça ?{attente}{page}{fin}
+@08514	Hein, eu-euh, ouais...|C-c'est vrai, je te jure !{attente}{page}{fin}
+@08516	Ouah !{attente}|Il m'a rendu la monnaie|de ma pièce !{attente}|Je suis battue !{attente}{page}{fin}
+@08517	Héhéhé !{attente}|Touché !{attente}{page}{fin}
+@08518	Ensuite, on s'est chamaillés|en rigolant jusqu'à la fin|de la récré !{attente}{page}{fin}
+@08519	En faire autant pour moi...|du coup, ça me gêne !{attente}{page}{fin}
+@08530	L'an prochain, on sera en|2e année... On devrait|peut-être un peu réfléchir|à notre avenir...{attente}{page}{fin}
+@08531	Et toi, {F03},|tu penses à ton avenir ?{attente}{page}{fin}
+@08532	(Mon avenir...){n}{fin}
+@08533	{FFB}Aller à l'université|　Faire une école pro|　Vivre de petits boulots{fin}
+@08534	Moi, je compte aller|à l'université.{attente}{page}{fin}
+@08535	Oh, c'est bien, ça !{attente}|Mais alors, il va falloir|bien travailler !{attente}{page}{fin}
+@08536	À partir de maintenant, on|pourra moins s'amuser|ensemble, peut-être...{attente}{page}{fin}
+@08537	Tiens, elle a l'air|un peu triste...{attente}{page}{fin}
+@08538	Si elle fait cette tête-là,|j'ai bien envie de laisser|tomber les études... !{attente}{page}{fin}
+@08539	Moi, je compte faire|une école professionnelle !{attente}{page}{fin}
+@08540	Ah oui ?{attente}|Tu as choisi une école|professionnelle !{attente}{page}{fin}
+@08541	C'est super !{attente} Penser|sérieusement à ton avenir|dès maintenant !{attente}{page}{fin}
+@08542	Beaucoup se diraient|« la fac, et on verra »...|Je t'admire !{attente}{page}{fin}
+@08543	Moi, je compte vivre|de petits boulots !{attente}{page}{fin}
+@08544	Ah oui ?{attente}|Des petits boulots...{attente}{page}{fin}
+@08545	Bien sûr, tu vas travailler|et gagner de l'argent...{attente}|à ce qu'on dirait, mais...{attente}{page}{fin}
+@08546	enchaîner les petits|boulots, c'est pas un|métier, si ?{attente}{page}{fin}
+@08547	Ouh... j'ai l'impression|qu'elle me regarde d'un|œil glacial...{attente}{page}{fin}
+@08548	Je devrais peut-être|réfléchir plus sérieusement|à mon avenir...{attente}{page}{fin}
+@08549	Ces temps-ci, le ciel est|plus clair, on dirait. La|nuit, les étoiles sont|super belles !{attente}{page}{fin}
+@08550	Regarde-les, toi aussi,|{F04} !{attente}{page}{fin}
+@08551	Les étoiles du cœur de|l'hiver sont belles aussi,|mais là, c'est une autre|ambiance, c'est génial !{attente}{page}{fin}
+@08552	À voir Mizuki avec cet air|aussi rêveur...{attente}|mon cœur se met à battre|plus fort...{attente}{page}{fin}
+@08553	Oh, j'avais oublié, les|examens de fin de trimestre|commencent à la fin du mois !{attente}|Galère...{attente}{page}{fin}
+@08554	Ces temps-ci, quand je|révise, j'arrive pas à me|concentrer...{attente}{page}{fin}
+@08555	Y aurait pas un bon CD qui|aiderait à travailler ?{attente}{page}{fin}
+@08556	(Une musique pour réviser...){n}{fin}
+@08557	{FFB}Du classique|　De la musique d'ambiance|　Des sons de la nature{fin}
+@08558	Un CD de musique|classique, ça irait... ?{attente}{page}{fin}
+@08559	Ouais...|pourquoi pas...{attente}{page}{fin}
+@08560	Mais avec un peu de|malchance, je risque de|m'endormir en l'écoutant...{attente}{page}{fin}
+@08561	Mais ça m'aide quand même !{attente}|Merci beaucoup !{attente}{page}{fin}
+@08562	Peut-être...{attente}|que Yumi n'aime pas trop|le classique...{attente}{page}{fin}
+@08563	De la musique d'ambiance,|ce serait pas mal, non ?{attente}{page}{fin}
+@08564	Ah ! Mais oui !{attente}|Ça pourrait être bien !{attente}{page}{fin}
+@08565	C'est moins austère que le|classique, on remarque même|pas que ça passe...{attente}{page}{fin}
+@08566	Ah ?{attente} Mais du coup,|si ça passe sans qu'on|le remarque, ça sert pas|à grand-chose...{attente}{page}{fin}
+@08567	Trop discret, ça sert|à rien non plus...{attente}|J'ai pas été d'une grande|aide, on dirait...{attente}{page}{fin}
+@08568	Des sons de la nature ?{attente}|Le murmure d'un ruisseau,|une forêt pleine d'oiseaux !{attente}{page}{fin}
+@08569	Bonne idée !{attente} Ça, ça|pourrait bien marcher !{attente}{page}{fin}
+@08570	Le chant des oiseaux dans|la forêt, le murmure d'un|ruisseau... ça apaise !{attente}{page}{fin}
+@08571	J'ai déjà l'impression|que je vais me concentrer !{attente}|J'en achète en rentrant !{attente}{page}{fin}
+@08572	J'ai bien fait de t'en|parler, {F05} !{attente}|Merci beaucoup !{attente}{page}{fin}
+@08573	Yumi a l'air d'aimer être|en pleine nature !{attente}|Content d'avoir pu aider !{attente}{page}{fin}
+@08574	Shinozawa est devenue un|petit agneau égaré~{attente}|Tu veux bien l'aider~ ?{attente}{page}{fin}
+@08575	Dites, dites~ !{attente}|Shinozawa voudrait|s'acheter un sac, mais~...{attente}{page}{fin}
+@08576	elle hésite~ !{attente}|Tu aurais pas un sac|à conseiller~ ?{attente}{page}{fin}
+@08577	Ah, c'est que ça !{attente}|« Un petit agneau égaré »,|c'est un peu exagéré...{attente}{page}{fin}
+@08578	{FFB}Un sac cabas|　Un sac pingouin|　Un sac polochon{fin}
+@08579	Euh...{attente}|Un sac cabas,|ça irait ?{attente}{page}{fin}
+@08580	Nyaha ! On pourrait mettre|plein de jeux dedans~{attente}|Pas mal~ !{attente}{page}{fin}
+@08581	On ouvre le cabas~{attente}|On met les jeux dedans~...{attente}|Ça en contient plein~ !{attente}{page}{fin}
+@08582	Hop, hop...{attente}|Ouf, aïe, hisse...{attente}{page}{fin}
+@08583	Shinozawa s'imagine avoir|rempli le cabas de plein|d'affaires, ou quoi ?{attente}{page}{fin}
+@08584	Il suffit de pas trop le|remplir, non ?...{attente} Enfin,|faire un truc pareil, c'est|bien {E08}, bizarre !{attente}{page}{fin}
+@08585	Euh...{attente}|Un sac en forme de|pingouin, ça irait ?{attente}{page}{fin}
+@08586	Kyaaa~ ! Ça a l'air|trop mignon~ !{attente}{page}{fin}
+@08587	Mais un petit pingouin,|ce serait cruel de lui|bourrer le ventre~{attente}{page}{fin}
+@08588	Mais alors, ça sert à quoi,|un sac ?{attente}{page}{fin}
+@08589	C'est pas grave~ !{attente}|Pour les affaires, elle|achètera un autre sac~ !{attente}{page}{fin}
+@08590	Thank you de l'avoir|conseillée~ !{attente}|Allez, à plus~ !{attente}{page}{fin}
+@08591	J'ai comme l'impression|qu'on a pas vraiment parlé|d'acheter un sac...{attente}{page}{fin}
+@08592	Euh...{attente}|Un sac polochon,|ça irait ?{attente}{page}{fin}
+@08593	Hein~ ?|Ça fait un peu trop|gros~ !{attente}{page}{fin}
+@08594	Ces sacs-là, c'est pour|les voyages ou le sport~ !{attente}{page}{fin}
+@08595	Tant pis, Shinozawa va|se creuser la tête|toute seule pour choisir~ !{attente}{page}{fin}
+@08596	Hmmm, hmmm...{attente}|Quel casse-tête~...{attente}|Hmmm...{attente}{page}{fin}
+@08597	{E08} est partie en|réfléchissant...{attente}|Je l'ai pas aidée, je|m'en veux un peu...{attente}{page}{fin}
+@08598	Dis, {F07} !{attente}|Je peux te demander|un conseil... ?{attente}{page}{fin}
+@08599	Je pense m'acheter un|nouveau rouge à lèvres.|Quelle couleur serait bien,|à ton avis ?{attente}{page}{fin}
+@08600	{FFB}Un rouge clair|　Du rose|　Pas besoin de ça{fin}
+@08601	Un rouge clair, ce serait|bien !{attente}{page}{fin}
+@08602	Un rouge clair...{attente}|Oui, pas trop voyant,|ça me paraît bien !{attente}{page}{fin}
+@08603	Je n'aime pas trop le|chargé, moi non plus...{attente}|C'est décidé !{attente}{page}{fin}
+@08604	Merci beaucoup pour|ton conseil !{attente}|Je retourne à ma place !{attente}{page}{fin}
+@08605	Les lèvres de {E09} avec|du rouge à lèvres...{attente}|brillantes comme mouillées...|ça doit être sensuel...{attente}{page}{fin}
+@08606	Ah ! Non, non, stop !{attente}|À force d'imaginer,|mon cœur s'emballe !{attente}{page}{fin}
+@08607	Du rose, plutôt, non ?{attente}|Ça t'irait bien !{attente}{page}{fin}
+@08608	Du rose...{attente}|Ça fait un peu enfantin,|mais...{attente}{page}{fin}
+@08609	si c'est toi qui le dis,|{F07}...{attente}|ça peut être bien !{attente}{page}{fin}
+@08610	T'as pas besoin de ça !{attente}|Au naturel, {E09},|t'es déjà craquante !{attente}{page}{fin}
+@08611	Oh...{attente} voyons...{attente}|{F07}, enfin !{attente}|......{attente}{page}{fin}
+@08612	{E09} me fixe d'un|regard brûlant...{attente}|Vraiment,{attente} au naturel,|elle est magnifique...{attente}{page}{fin}
+@08613	Ça me gêne un peu !{attente}|Mais... {attente}merci♥{attente}{page}{fin}
+@08614	Toute gênée, {E09} est|retournée à sa place.{attente}|...Ouh, mon cœur bat|encore à toute allure !{attente}{page}{fin}
+@08615	Dis, {F08},|c'est quoi, le dernier|manga qui t'a plu ?{attente}{page}{fin}
+@08616	(Le manga qui m'a plu...){n}{fin}
+@08617	{FFB}Narumi et Tora|　Daikichi de la brigade Ma|　Les périls de jaja{fin}
+@08618	« Narumi et Tora » !{attente}|Bien plus qu'une chasse aux|démons, une vraie épopée !{attente}{page}{fin}
+@08619	Ouais, ouais !{attente} Le combat|final était trop intense !{attente}|Ultra-émouvant !{attente}{page}{fin}
+@08620	Ça, c'est un chef-d'œuvre|qui restera dans l'histoire|du Monday !{attente}{page}{fin}
+@08621	Ensuite, on a parlé manga|avec passion jusqu'à la fin|de la récré...{attente}{page}{fin}
+@08622	« Daikichi de la brigade|Ma » ! Ça m'a vraiment|donné envie d'être pompier !{attente}{page}{fin}
+@08623	Ouais, ouais ! C'est LE|manga de sauvetage par|excellence !{attente}{page}{fin}
+@08624	La réplique de la fin, dans|l'hélico, était géniale !{attente}{page}{fin}
+@08625	« Les périls de jaja »,|c'était trop bien !{attente}{page}{fin}
+@08626	La 2e partie était la|meilleure !{attente}|Et les méchants avaient|une de ces classes !{attente}{page}{fin}
+@08627	Ouais, c'était la plus|déjantée de toute la série,|la plus marrante !{attente}{page}{fin}
+@08640	Dis, {F03}...{attente}|C'est bientôt Noël !{attente}{page}{fin}
+@08641	Il paraît qu'ils ont déjà|commencé à décorer les|arbres des rues avec|des illuminations...{attente}{page}{fin}
+@08642	Tu sais, {F03}...{attente}{page}{fin}
+@08643	Noël...{attente}|pour une fille, ça a une|signification spéciale...{attente}{page}{fin}
+@08644	{E04} me regarde droit|dans les yeux...{attente}{page}{fin}
+@08645	J'ai vraiment l'impression|qu'au fond de ses yeux...{attente}|se cachent des mots...{attente}{page}{fin}
+@08646	Si on pouvait aller voir|le sapin de Noël,|rien que tous les deux...{attente}{page}{fin}
+@08647	...Ah, la récré est déjà|finie...{attente}|Bon, à plus, {F03}.{attente}{page}{fin}
+@08648	Ah...{attente} elle est partie.{attente}|...Une signification spéciale...{attente}|Ce regard suppliant,|il voulait sans doute dire...{attente}{page}{fin}
+@08649	qu'elle veut que|je l'invite...{attente}{page}{fin}
+@08650	Noël...{attente}|J'ai comme un pressentiment|qu'il va se passer un truc...{attente}{page}{fin}
+@08651	{F04} !{attente}|...Euh...{attente}{page}{fin}
+@08652	Tu sais, le soir de Noël,|je suis... {attente}libre...{attente}{page}{fin}
+@08653	......Euh...|...donc...{attente}|......{attente}{page}{fin}
+@08654	Qu'est-ce qu'elle a ?{attente}|Ça ressemble pas|à Mizuki...{attente}{page}{fin}
+@08655	Hein ?|...Est-ce que par hasard ?!{attente}{page}{fin}
+@08656	...Euh, dis...|{F04}, toi...{attente}|......{attente}{page}{fin}
+@08657	Ah, la récré est déjà|finie...{attente}|Bon ben...{attente}{page}{fin}
+@08658	Ah, Mizuki... ?{attente}{page}{fin}
+@08659	Elle est partie...{attente}|Mais c'est la première fois|que je voyais Mizuki|aussi rouge...{attente}{page}{fin}
+@08660	...Sans doute qu'elle|voulait savoir ce que|je fais à Noël,|c'est sûr...{attente}{page}{fin}
+@08661	Ah, {F05} !|C'est bientôt Noël !{attente}|T'as prévu quelque chose ?{attente}{page}{fin}
+@08662	(Mes projets pour Noël...){n}{fin}
+@08663	{FFB}Bien sûr que oui|　Rien de prévu{fin}
+@08664	Bien sûr que oui !{attente}|C'est Noël, quand même !{attente}{page}{fin}
+@08665	Ah, d'accord !{attente}|Alors, j'attends ton|invitation avec impatience !{attente}{page}{fin}
+@08666	Bon, je retourne en classe !{attente}{page}{fin}
+@08667	Elle attend que je l'invite|pour Noël !{attente}|...Je suis aux anges !{attente}{page}{fin}
+@08668	Euh, non, rien de spécial|de prévu, en fait...{attente}{page}{fin}
+@08669	T'es vraiment nul !{attente}{page}{fin}
+@08670	Pour une fille, Noël, ça a|une signification super|importante !{attente}{page}{fin}
+@08671	Un jour aussi important,|et rien de prévu...{attente}|Tu trouves pas ça nul ?{attente}{page}{fin}
+@08672	Réfléchis-y bien, hein !{attente}|Bon, je retourne en classe !{attente}{page}{fin}
+@08673	Ah, elle est partie...{attente}|......|Super importante, hein...{attente}{page}{fin}
+@08674	En ville, les chansons de|Noël sont au bord de|l'explosion~ !{attente}{page}{fin}
+@08675	Oups, je me suis trompée~ !{attente}|Partout, je voulais dire~ !|Nyaha !{attente}{page}{fin}
+@08676	Les soldes spéciales Noël|battent leur plein, et|Shinozawa est toute|excitée~ !{attente}{page}{fin}
+@08677	T'aurais pas un produit|édition Noël à conseiller~ ?{attente}{page}{fin}
+@08678	(Pour Noël...){n}{fin}
+@08679	{FFB}Carte mémoire collector|　CD collector|　Bûche collector{fin}
+@08680	Une carte mémoire collector|Noël pour les jeux, c'est|tout à fait toi, non ?{attente}{page}{fin}
+@08681	Ah ! C'est vrai, il y a ça~ !{attente}|Nyahaha~ !{attente}{page}{fin}
+@08682	Elle avait des couleurs|flashy, rouge et vert,|comme un sapin de Noël~ !{attente}{page}{fin}
+@08683	Mais ça porte bonheur,|alors elle va en acheter|une, nya~ !{attente}{page}{fin}
+@08684	Porte-bonheur, je crois|pas...{attente} Mais bon, je lui|ai rendu service, on dirait,|tant mieux !{attente}{page}{fin}
+@08685	Des CD collector Noël,|il y en a plein !{attente}{page}{fin}
+@08686	Nyaha ! S'il y en avait|en techno, ce serait|marrant~ !{attente}{page}{fin}
+@08687	Ça existe peut-être~{attente}|Shinozawa part à la chasse|au trésor~ !{attente}{page}{fin}
+@08688	Un collector Noël techno,|ça existe ?...{attente}|Bon, disons que je lui|ai rendu service...{attente}{page}{fin}
+@08689	Une bûche collector, pour|une gourmande comme toi,|ce serait parfait, non ?{attente}{page}{fin}
+@08690	Kyaaa~ !{attente}|Ça a l'air trop bon~ !{attente}{page}{fin}
+@08691	Mais~ une bûche de Noël,|c'est déjà une édition|spéciale Noël~ !{attente}{page}{fin}
+@08692	Une édition doublement|spéciale, alors : une bûche|de Noël-Noël~ ! Nyahaha !{attente}{page}{fin}
+@08693	Ouille, raté...{attente}|Elle a raison, mais...{attente}|se faire reprendre par|{E08}, ça fait un choc...{attente}{page}{fin}
+@08694	Déjà décembre !{attente}|Que ça passe vite...{attente} Noël|approche à grands pas !{attente}{page}{fin}
+@08695	...Tu sais...{attente}|Ce Noël, j'en attends|beaucoup...{attente}{page}{fin}
+@08696	Ce serait bien de se faire|un beau souvenir, rien|qu'à deux...{attente}|avec toi, {F07}...{attente}{page}{fin}
+@08697	Parce que...|...peut-être bien|que......{attente}{page}{fin}
+@08698	Non, rien du tout !{attente}|Je retourne en classe|avant toi !{attente} À tout...{attente}{page}{fin}
+@08699	...Tout à l'heure, j'ai mal|entendu...{attente} Qu'est-ce que|{E09} a bien pu dire...{attente}{page}{fin}
+@08700	Ça m'intrigue, mais...{attente}|d'abord, il faut voir|comment passer Noël !{attente}{page}{fin}
+@08701	Pfff ! L'année est presque|finie !{attente}|C'est trop triste !{attente}{page}{fin}
+@08702	Mais y a les émissions|spéciales ! Tu me conseilles|quoi pour la fin d'année ?{attente}{page}{fin}
+@08703	(Les émissions spéciales...){n}{fin}
+@08704	{FFB}Le Grand Duel chanté|　Les Évadés de la victoire|　Fonce vers le sommet !{fin}
+@08705	La fin d'année, c'est|forcément « Le Grand Duel|chanté » !{attente}{page}{fin}
+@08706	Ah, ouais, ça !{attente} Il paraît|que Jojo Gokuraku y sera|cette année ! J'ai hâte !{attente}{page}{fin}
+@08707	Regarder « Le Grand Duel|chanté » en mangeant des|nouilles du réveillon, c'est|ça, le Nouvel An japonais !{attente}{page}{fin}
+@08708	Ensuite, on a parlé des|émissions de fin d'année|avec passion jusqu'à la|fin de la récré...{attente}{page}{fin}
+@08710	Sans hésiter, « Les Évadés|de la victoire » !{attente}{page}{fin}
+@08711	Ah, celui-là ! C'est un|classique, mais il est|trop bien !{attente}{page}{fin}
+@08712	La scène où il s'enfuit|à moto dans la prairie,|elle est trop stylée !{attente}{page}{fin}
+@08713	Ouais, je la revois toujours|avec des frissons !{attente}{page}{fin}
+@08720	J'aimerais manger un|dessert occidental que je|n'ai encore jamais goûté...{attente}{page}{fin}
+@08721	Je pourrais m'arrêter|quelque part en rentrant|pour en manger un !{attente}{page}{fin}
+@08722	Dis, {F03},|tu as un bon dessert|à me conseiller ?{attente}{page}{fin}
+@08723	(En dessert...){n}{fin}
+@08724	{FFB}Un gâteau à la banane|　Un yaourt plein de fruits|　Une bavaroise à la fraise{fin}

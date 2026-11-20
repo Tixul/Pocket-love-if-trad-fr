@@ -1,0 +1,249 @@
+; Interface, lot 1 (#0108-#0342) : clubs, petit boulot, infos, objets, filles, sauvegardes, lieux.
+
+; ---- clubs
+#0108	Quel club ?{n}{>12}Sport{>84}Culture{n}{>12}Baseball{>84}Anglais{n}{>12}Basket{>84}Go{n}{>12}Foot{>84}Couture{n}{>12}Athlé{>84}Photo{n}{>12}Ping-pong{n}{>96}A : OK{n}{>96}B : Non{fin}
+#0109	Te voilà au club{n}de baseball !{n}{n}{n}{n}{n}　　　　　　　　　　　{fin}
+#0110	Te voilà au club{n}de basket !{n}{n}{n}{n}{n}　　　　　　　　　　　{fin}
+#0111	Te voilà au club{n}de foot !{n}{n}{n}{n}{n}　　　　　　　　　　　{fin}
+#0112	Te voilà au club{n}d'athlétisme !{n}{n}{n}{n}{n}　　　　　　　　　　　{fin}
+#0113	Te voilà au club{n}de ping-pong !{n}{n}{n}{n}{n}　　　　　　　　　　　{fin}
+#0114	Te voilà au club de{n}conversation anglaise !{n}{n}{n}{n}{n}　　　　　　　　　　　{fin}
+#0115	Te voilà au club{n}de go !{n}{n}{n}{n}{n}　　　　　　　　　　　{fin}
+#0116	Te voilà au club de{n}travaux manuels !{n}{n}{n}{n}{n}　　　　　　　　　　　{fin}
+#0117	Te voilà au club{n}photo !{n}{n}{n}{n}{n}　　　　　　　　　　　{fin}
+#0118	Club (baseball){n}{>12}Se donner à fond{n}{>12}Quitter le club{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0119	Club (basket){n}{>12}Se donner à fond{n}{>12}Quitter le club{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0120	Club (foot){n}{>12}Se donner à fond{n}{>12}Quitter le club{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0121	Club (athlétisme){n}{>12}Se donner à fond{n}{>12}Quitter le club{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0122	Club (ping-pong){n}{>12}Se donner à fond{n}{>12}Quitter le club{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0123	Club (conversation anglaise){n}{>12}Se donner à fond{n}{>12}Quitter le club{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0124	Club (go){n}{>12}Se donner à fond{n}{>12}Quitter le club{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0125	Club (travaux manuels){n}{>12}Se donner à fond{n}{>12}Quitter le club{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0126	Club (photo){n}{>12}Se donner à fond{n}{>12}Quitter le club{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0127	Club (baseball){n}{>12}Y aller normalement{n}{>12}Quitter le club{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0128	Club (basket){n}{>12}Y aller normalement{n}{>12}Quitter le club{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0129	Club (foot){n}{>12}Y aller normalement{n}{>12}Quitter le club{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0130	Club (athlétisme){n}{>12}Y aller normalement{n}{>12}Quitter le club{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0131	Club (ping-pong){n}{>12}Y aller normalement{n}{>12}Quitter le club{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0132	Club (conversation anglaise){n}{>12}Y aller normalement{n}{>12}Quitter le club{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0133	Club (go){n}{>12}Y aller normalement{n}{>12}Quitter le club{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0134	Club (travaux manuels){n}{>12}Y aller normalement{n}{>12}Quitter le club{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0135	Club (photo){n}{>12}Y aller normalement{n}{>12}Quitter le club{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0136	Le club, c'est seulement{n}le mercredi, le samedi{n}et les jours de congé !{n}{n}{fin}
+#0137	Quitter le club{n}de baseball ?{n}{n}{>88}A : Quitter{n}{>88}B : Retour{fin}
+#0138	Quitter le club{n}de basket ?{n}{n}{>88}A : Quitter{n}{>88}B : Retour{fin}
+#0139	Quitter le club{n}de foot ?{n}{n}{>88}A : Quitter{n}{>88}B : Retour{fin}
+#0140	Quitter le club{n}d'athlétisme ?{n}{n}{>88}A : Quitter{n}{>88}B : Retour{fin}
+#0141	Quitter le club{n}de ping-pong ?{n}{n}{>88}A : Quitter{n}{>88}B : Retour{fin}
+#0142	Quitter le club de{n}conversation anglaise ?{n}{n}{>88}A : Quitter{n}{>88}B : Retour{fin}
+#0143	Quitter le club{n}de go ?{n}{n}{>88}A : Quitter{n}{>88}B : Retour{fin}
+#0144	Quitter le club de{n}travaux manuels ?{n}{n}{>88}A : Quitter{n}{>88}B : Retour{fin}
+#0145	Quitter le club{n}photo ?{n}{n}{>88}A : Quitter{n}{>88}B : Retour{fin}
+#0146	Tu as quitté le club{n}de baseball.{n}{n}{n}{fin}
+#0147	Tu as quitté le club{n}de basket.{n}{n}{n}{fin}
+#0148	Tu as quitté le club{n}de foot.{n}{n}{n}{fin}
+#0149	Tu as quitté le club{n}d'athlétisme.{n}{n}{n}{fin}
+#0150	Tu as quitté le club{n}de ping-pong.{n}{n}{n}{fin}
+#0151	Tu as quitté le club de{n}conversation anglaise.{n}{n}{n}{fin}
+#0152	Tu as quitté le club{n}de go.{n}{n}{n}{fin}
+#0153	Tu as quitté le club de{n}travaux manuels.{n}{n}{n}{fin}
+#0154	Tu as quitté le club{n}photo.{n}{n}{n}{fin}
+
+; ---- petit boulot
+#0155	Impossible de cumuler{n}petit boulot et club !{n}{n}{n}{fin}
+#0156	Travailler chez{n}Hamburger KAWAI ?{n}{n}{>88}A : Oui{n}{>88}B : Retour{fin}
+#0157	Te voilà embauché{n}chez Hamburger KAWAI !{n}{n}{n}{fin}
+#0158	Petit boulot{n}{>12}Se donner à fond{n}{>12}Arrêter le boulot{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0159	Petit boulot{n}{>12}Y aller normalement{n}{>12}Arrêter le boulot{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0160	Le boulot, c'est seulement{n}le mercredi, le samedi{n}et les jours de congé !{n}{n}{fin}
+#0161	Arrêter le petit boulot ?{n}{n}{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0162	Tu as quitté ton boulot{n}chez Hamburger KAWAI.{n}{n}{n}{fin}
+
+; ---- infos : magazine local
+#0163	Quelles infos voir ?{n}{>12}Koigahara Infos{n}{>12}Mes affaires{n}{>12}Les filles{>88}A : Valider{n}{>88}B : Retour{fin}
+#0164	Koigahara Infos{n}{>122}Avril{fin}
+#0165	{F09}Film d'amour{n}{F0B}Présage{n}{F09}Sortie{n}{F0B}Forêt des cerisiers{n}{F09}Promos{n}{F0B}Cookies propolis{n}{>96}900 yens{n}Collier perles{n}{>96}900 yens{fin}
+#0166	Koigahara Infos{n}{>129}Mai{fin}
+#0167	{F09}Film SF{n}{F0B}Star Tripper{n}{F09}Sortie{n}{F0B}Champ de tulipes{n}{F09}Promos{n}{F0B}Bipeur{n}{>84}1500 yens{n}Pendentif à breloque{n}{>84}1300 yens{fin}
+#0168	Koigahara Infos{n}{>124}Juin{fin}
+#0169	{F09}Film anime{n}{F0B}Gundama XV{n}{F09}Concert{n}{F0B}Mr. Kid / 13 aprèm{n}{F09}Promos{n}{F0B}Guide déco{n}{>96}800 yens{n}Collier « relax »{n}{>84}1700 yens{fin}
+#0170	Koigahara Infos{n}{>115}Juillet{fin}
+#0171	{F09}Film d'horreur{n}{F0B}L'Homme en noir{n}{F09}Fête{n}{F0B}Fête locale / 18 aprèm{n}{F09}Promos{n}{F0B}PHS{n}{>84}2500 yens{n}Collier en argent{n}{>84}2600 yens{fin}
+#0172	Koigahara Infos{n}{>120}Août{fin}
+#0173	{F09}Film SF{n}{F0B}Star Warrior{n}{F09}Sortie{n}{F0B}Feux d'artifice / 22 aprèm{n}{F09}Promos{n}{F0B}Portable{n}{>84}5000 yens{n}Naike Danke{n}{>84}7000 yens{fin}
+#0174	Koigahara Infos{n}{>91}Septembre{fin}
+#0175	{F09}Film d'amour{n}{F0B}KISS yori...{n}{F09}Sortie{n}{F0B}Parc d'attractions{n}{F09}Promos{n}{F0B}Guide bijoux{n}{>84}800 yens{n}Bague transparente{n}{>84}800 yens{fin}
+#0176	Koigahara Infos{n}{>103}Octobre{fin}
+#0177	{F09}Film court{n}{F0B}Conte d'octobre{n}{F09}Sortie{n}{F0B}Rando matsutake{n}{F09}Promos{n}{F0B}Nyankichi{n}{>84}1900 yens{n}Boucles en argent{n}{>84}1800 yens{fin}
+#0178	Koigahara Infos{n}{>96}Novembre{fin}
+#0179	{F09}Film d'action{n}{F0B}Mission KID{n}{F09}Concert{n}{F0B}Yurin / 7 aprèm{n}{F09}Promos{n}{F0B}Thunder Maxim{n}{>84}6400 yens{n}Boucles à strass{n}{>84}1100 yens{fin}
+#0180	Koigahara Infos{n}{>96}Décembre{fin}
+#0181	{F09}Film SF{n}{F0B}Le Japon coulé{n}{F09}Sortie{n}{F0B}Patinoire{n}{F09}Promos{n}{F0B}Terminal mobile{n}{>72}12500 yens{n}Bague à strass{n}{>84}2000 yens{fin}
+#0182	Koigahara Infos{n}{>107}Janvier{fin}
+#0183	{F09}Film anime{n}{F0B}Sauvez mon étoile{n}{F09}Sortie{n}{F0B}Planétarium{n}{F09}Promos{n}{F0B}Annuaire NTG{n}{>84}1400 yens{n}Boucles fantaisie{n}{>96}400 yens{fin}
+#0184	Koigahara Infos{n}{>107}Février{fin}
+#0185	{F09}Film d'amour{n}{F0B}Emmène-moi au colza{n}{F09}Sortie{n}{F0B}Musée d'art{n}{F09}Promos{n}{F0B}Masse-jambes{n}{>84}1400 yens{n}Bague design{n}{>84}2800 yens{fin}
+#0186	Koigahara Infos{n}{>120}Mars{fin}
+#0187	{F09}Drame{n}{F0B}Le Temps des adieux{n}{F09}Sortie{n}{F0B}Champ de colza{n}{F09}Promos{n}{F0B}Gâteau nounours{n}{>96}500 yens{n}Tisane dokudami{n}{>84}1200 yens{fin}
+#0188	{>24}Tu n'as pas de{n}{>24}Koigahara Infos.{fin}
+
+; ---- objets
+#0189	Mes affaires{fin}
+#0190	Cabine téléphonique{fin}
+#0191	Bipeur{fin}
+#0193	Portable{fin}
+#0194	Terminal mobile{fin}
+#0195	Yokan au matcha{fin}
+#0196	Gâteau nounours{fin}
+#0197	Cookies propolis{fin}
+#0198	Tisane dokudami{fin}
+#0199	Guide déco (livre){fin}
+#0200	Guide bijoux (livre){fin}
+#0201	Annuaire NTG (cartes){fin}
+#0202	Poupée Nyankichi{fin}
+#0203	Masse-jambes{fin}
+#0204	Thunder Maxim (baskets){fin}
+#0205	Naike Danke (baskets){fin}
+#0206	Collier de perles{fin}
+#0207	Pendentif à breloque{fin}
+#0208	Collier « relax »{fin}
+#0209	Collier en argent{fin}
+#0210	Boucles d'oreilles fantaisie{fin}
+#0211	Boucles d'oreilles à strass{fin}
+#0212	Boucles d'oreilles en argent{fin}
+#0213	Bague transparente{fin}
+#0214	Bague à strass{fin}
+#0215	Bague en argent design{fin}
+#0216	Koigahara Infos{>84}avril{fin}
+#0217	Koigahara Infos{>84}mai{fin}
+#0218	Koigahara Infos{>84}juin{fin}
+#0219	Koigahara Infos{>84}juillet{fin}
+#0220	Koigahara Infos{>84}août{fin}
+#0221	Koigahara Infos{>84}septembre{fin}
+#0222	Koigahara Infos{>84}octobre{fin}
+#0223	Koigahara Infos{>84}novembre{fin}
+#0224	Koigahara Infos{>84}décembre{fin}
+#0225	Koigahara Infos{>84}janvier{fin}
+#0226	Koigahara Infos{>84}février{fin}
+#0227	Koigahara Infos{>84}mars{fin}
+#0228	Tu n'as rien sur toi.{fin}
+
+; ---- infos sur les filles
+#0229	Choisis une fille.{fin}
+#0230	{>12}Ruruna Saeki{fin}
+#0231	{>12}Mizuki Takao{fin}
+#0232	{>12}Yumi Matsuda{fin}
+#0233	{>12}Momoyo Shinozawa{fin}
+#0234	{>12}Mirei Okada{fin}
+#0235	{>12}Konoha Kobayashi{fin}
+#0236	{>88}A : Valider{n}{>88}B : Retour{fin}
+#0237	Tu ne connais personne.{fin}
+#0238	Ruruna Saeki{n}(Classe 1-D){n}Anniversaire{n}{>12}14 juin{n}Groupe{>48}A{fin}
+#0239	{F09}Ce qu'elle aime{n}{F0B}{>12}Peluches{n}{>12}Parfait chocolat{n}{F09}Lieux préférés{n}{F0B}{>12}Boutiques mignonnes{n}{>12}Les manèges{>96}Suite »{fin}
+#0240	{F09}Loisirs{n}{F0B}{>12}??????{n}{>12}??????{n}{F09}Téléphone{n}{F0B}{>12}??????{n}{>96}« Retour{fin}
+#0241	{F09}Loisirs{n}{F0B}{>12}Shopping{n}{>12}Tricot{n}{F09}Téléphone{n}{F0B}{>12}Elle me l'a donné{F09}♥{n}{F0B}{>96}« Retour{fin}
+#0242	Mizuki Takao{n}(Classe 1-E){n}Anniversaire{n}10 octobre{n}Groupe{>48}O{fin}
+#0243	{F09}Ce qu'elle aime{n}{F0B}{>12}Baseball de quartier{n}{>12}Télescopes{n}{F09}Lieux préférés{n}{F0B}{>12}Planétarium{n}{>12}Plein air{>96}Suite »{fin}
+#0244	{F09}Loisirs{n}{F0B}{>12}Tous les sports{n}{>12}Astronomie{n}{F09}Téléphone{n}{F0B}{>12}Elle me l'a donné{F09}♥{n}{F0B}{>96}« Retour{fin}
+#0245	Yumi Matsuda{n}(Classe 2-A){n}Anniversaire{n}{>12}12 août{n}Groupe{>48}B{fin}
+#0246	{F09}Ce qu'elle aime{n}{F0B}{>12}Bonbons à la menthe{n}{>12}Baskets en toile{n}{F09}Lieux préférés{n}{F0B}{>12}Là où on voit le ciel{n}{>12}En ville{>96}Suite »{fin}
+#0247	{F09}Loisirs{n}{F0B}{>12}Balades{n}{>12}Bavarder{n}{F09}Téléphone{n}{F0B}{>12}Elle me l'a donné{F09}♥{n}{F0B}{>96}« Retour{fin}
+#0248	Momoyo Shinozawa{n}(Classe 1-A){n}Anniversaire{n}{>12}19 juillet{n}Groupe{>48}AB{fin}
+#0249	{F09}Ce qu'elle aime{n}{F0B}{>12}Jouets{n}{>12}Lait{n}{F09}Lieux préférés{n}{F0B}{>12}Salles d'arcade{n}{>12}Parcs{>96}Suite »{fin}
+#0250	{F09}Loisirs{n}{F0B}{>12}Aller aux bains publics{n}{>12}Informatique{n}{F09}Téléphone{n}{F0B}{>12}Elle me l'a donné{F09}♥{n}{F0B}{>96}« Retour{fin}
+#0251	Mirei Okada{n}(Classe 1-B){n}Anniversaire{n}{>12}21 février{n}Groupe{>48}B{fin}
+#0252	{F09}Ce qu'elle aime{n}{F0B}{>12}Films élégants{n}{>12}Musique à la mode{n}{F09}Lieux préférés{n}{F0B}{>12}Rues commerçantes{n}{>12}Cinéma{>96}Suite »{fin}
+#0253	{F09}Loisirs{n}{F0B}{>12}Ballet{n}{>12}Collection de bijoux{n}{F09}Téléphone{n}{F0B}{>12}Elle me l'a donné{F09}♥{n}{F0B}{>96}« Retour{fin}
+#0254	Konoha Kobayashi{n}(Classe 1-B){n}Anniversaire{n}{>12}5 mai{n}Groupe{>48}A{fin}
+#0255	{F09}Ce qu'elle aime{n}{F0B}{>12}Manga, anime{n}{>12}Jeux de société{n}{F09}Lieux préférés{n}{F0B}{>12}Coins où se poser{n}{>12}Café manga{>96}Suite »{fin}
+#0256	{F09}Loisirs{n}{F0B}{>12}Dessiner des mangas{n}{>12}S'occuper du chien{n}{F09}Téléphone{n}{F0B}{>12}Elle me l'a donné{F09}♥{n}{F0B}{>96}« Retour{fin}
+
+; ---- sauvegarde / effacement / chargement (journal = emplacement de sauvegarde ; mois posé avant le « / », jour après)
+#0257	Dans quel journal{n}sauvegarder ?{fin}
+#0258	{>12}Journal 1{>84}/{fin}
+#0259	{>12}Journal 2{>84}/{fin}
+#0260	{>12}Journal 3{>84}/{fin}
+#0261	{>12}Journal 1{n}{F09}{>12}Données inutilisables{fin}
+#0262	{>12}Journal 2{n}{F09}{>12}Données inutilisables{fin}
+#0263	{>12}Journal 3{n}{F09}{>12}Données inutilisables{fin}
+#0264	{>12}Journal 1{n}{F09}{>12}Vide{fin}
+#0265	{>12}Journal 2{n}{F09}{>12}Vide{fin}
+#0266	{>12}Journal 3{n}{F09}{>12}Vide{fin}
+#0267	{F09}{>24}Écraser ce journal ?{n}{F0B}{>36}Oui{>84}Non{fin}
+#0268	{F09}{>36}Sauvegarde...{fin}
+#0269	{F09}{>12}Échec de la sauvegarde{fin}
+#0270	Sauvé dans le journal 1.{fin}
+#0271	Sauvé dans le journal 2.{fin}
+#0272	Sauvé dans le journal 3.{fin}
+#0273	Que veux-tu faire ?{n}{>12}Effacer un journal{n}{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0274	Quel journal{n}effacer ?{fin}
+#0275	{F09}Effacer le journal 1 ?{n}{F0B}{>36}Oui{>84}Non{fin}
+#0276	{F09}Effacer le journal 2 ?{n}{F0B}{>36}Oui{>84}Non{fin}
+#0277	{F09}Effacer le journal 3 ?{n}{F0B}{>36}Oui{>84}Non{fin}
+#0278	Journal 1 effacé.{fin}
+#0279	Journal 2 effacé.{fin}
+#0280	Journal 3 effacé.{fin}
+#0281	{F09}{>36}Effacement...{fin}
+#0282	{F09}{>12}Échec de l'effacement{fin}
+#0283	{>12}Tout effacer{>88}A : Valider{n}{>88}B : Retour{fin}
+#0284	{F09}Tout effacer ?{n}{F0B}{>36}Oui{>84}Non{fin}
+#0285	{F09}{>36}Effacement total...{fin}
+#0286	{>36}Tout est effacé.{fin}
+#0287	{>12}Échec de l'effacement{fin}
+#0288	Quel journal{n}charger ?{fin}
+#0289	{F09}Charger le journal 1 ?{n}{F0B}{>36}Oui{>84}Non{fin}
+#0290	{F09}Charger le journal 2 ?{n}{F0B}{>36}Oui{>84}Non{fin}
+#0291	{F09}Charger le journal 3 ?{n}{F0B}{>36}Oui{>84}Non{fin}
+
+; ---- sortie : destinations
+#0292	Je fais quoi ?{n}{>12}Sortir{n}{>12}Shopping{n}{>88}A : Valider{n}{>88}B : Retour{fin}
+#0293	Je vais où ?{fin}
+#0294	Café Saiki{fin}
+#0295	Peluches Nakajima{fin}
+#0296	Plaza Penny{fin}
+#0297	Animalerie Bull{fin}
+#0298	Librairie Nakamura{fin}
+#0299	ST Sport Gear{fin}
+#0300	Jouets Hikaru{fin}
+#0301	Multimédia Yama{fin}
+#0302	Pharmacie 23{fin}
+#0303	Fripes MORE{fin}
+#0304	Cheesecakes Komiya{fin}
+#0305	L'Empire du manga{fin}
+#0306	Lycée Koigahara{fin}
+#0307	Salle d'arcade Shimizu{fin}
+#0308	Karaoké Funky G{fin}
+#0309	Restaurant Mowab{fin}
+#0310	Hamburger KAWAI{fin}
+#0311	Parc naturel de Koigahara{fin}
+#0312	Berges de la Muku{fin}
+#0313	Bibliothèque de Koigahara{fin}
+#0314	Planétarium de Koigahara{fin}
+#0315	Cinéma de Koigahara{fin}
+#0316	Gare / Parc d'attractions{fin}
+#0317	Allée de Koigahara{fin}
+#0318	Musée d'art de Koigahara{fin}
+#0319	Métro / Aquarium{fin}
+#0320	Bus / Plage de Sazanami{fin}
+#0321	Piscine de Koigahara{fin}
+#0322	Patinoire de Koigahara{fin}
+#0323	Bus / Champ de colza{fin}
+#0324	Forêt des cerisiers{fin}
+#0325	Marché aux puces{fin}
+#0326	Bus / Champ de tulipes{fin}
+#0327	Bus / Concert de Mr. Kid{fin}
+#0328	Fête de quartier{fin}
+#0329	Bus / Concert de Hikaru{fin}
+#0330	Feux d'artifice{fin}
+#0331	Bus / Concert reggae{fin}
+#0332	Théâtre de Koigahara{fin}
+#0333	Bus / Récolte matsutake{fin}
+#0334	Bus / Concert de Yurin{fin}
+#0335	Chez moi{fin}
+#0336	Chez Ruruna Saeki{fin}
+#0337	Chez Mizuki Takao{fin}
+#0338	Chez Yumi Matsuda{fin}
+#0339	Chez Momoyo Shinozawa{fin}
+#0340	Chez Mirei Okada{fin}
+#0341	Chez Konoha Kobayashi{fin}
+#0342	Centre commercial Koigahara{fin}

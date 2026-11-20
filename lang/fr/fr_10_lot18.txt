@@ -1,0 +1,360 @@
+@06337	Oui, je vais faire de mon|mieux !{attente}|Merci beaucoup !{attente}{page}{fin}
+@06338	Shiro Maeno est venu me|voir, l'air de s'ennuyer|ferme.{attente}{page}{fin}
+@06339	Salut, {F00} !{attente}|T'as entendu parler de la|joueuse qui traîne à la|salle d'arcade ?{attente}{page}{fin}
+@06340	Hein, c'est quoi, ça ?{attente}|Première nouvelle !?{attente}{page}{fin}
+@06341	Il paraît qu'en plus d'être|mignonne, elle est|incroyablement forte|aux jeux vidéo !{attente}{page}{fin}
+@06342	Invaincue en versus !{attente}|Personne n'arrive à la|battre ! La joueuse ultime,|et canon en plus !{attente}{page}{fin}
+@06343	Quand elle s'y met, elle est|si déchaînée qu'on sait|que c'est elle même depuis|la rue !{attente}{page}{fin}
+@06344	Et en plus, d'après les|rumeurs, elle a un sacré|caractère !{attente}{page}{fin}
+@06345	Même si on la dit mignonne,|moi, je crois que je passe|mon tour...{attente}{page}{fin}
+@06346	C'est quel genre de fille,|au juste ?{attente}|Maeno a beau dire, moi,|elle m'intrigue quand même !{attente}{page}{fin}
+@06347	Pfff...{attente} Ces premiers|examens de mi-trimestre,|ça m'a vraiment stressé...{attente}{page}{fin}
+@06348	Les examens sont finis,|mais... j'sais pas...|je suis à cran !!{attente}{page}{fin}
+@06349	Si je rentre comme ça,|je vais tourner en rond...{attente}|Je sais ! Un petit jeu pour|me changer les idées !{attente}{page}{fin}
+@06350	Aujourd'hui, je me défoule|sur un jeu de combat !!{attente}|.........|...Hein ?!{attente}{page}{fin}
+@06351	Rhaaaa !!!|Examens à la noix !!{attente}|Nuls, nuls, nuuuls !{attente}{page}{fin}
+@06352	Les examens...|Shinozawa les déteste~ !{attente}|Tiens ! Et tiens !{attente}{page}{fin}
+@06353	Waah, q-quoi ?!{attente}|Quelqu'un vient de me|défier sur ma borne !!!{attente}{page}{fin}
+@06354	Et lui aussi, on dirait, se|venge des examens !{attente}|...Argh ! Q-quelle force !{attente}|Je vais pas perdre !!{attente}{page}{fin}
+@06355	J'ai affronté cet adversaire|invisible de toutes mes|forces... !{attente}|Et le résultat...{attente}{page}{fin}
+@06356	...Cinq matchs, cinq|défaites...{attente}|La raclée...{attente} Mon adversaire|était bien trop fort !{attente}{page}{fin}
+@06357	Pfffff...|J'ai encore plus le moral|à zéro...{attente}|...Je rentre...{attente}{page}{fin}
+@06358	Au moment où je me levais|pour partir...{attente}|mon adversaire, une fille,|s'est plantée devant moi !{attente}{page}{fin}
+@06359	Nyahaha~ !{attente}|Battre Shinozawa ?|Tu as dix ans|de retard~ !{attente}{page}{fin}
+@06360	Pfff...{attente} Perdre, et en|plus me faire charrier...|...C'est trop rageant !{attente}{page}{fin}
+@06361	Muhihi~ !|Ça te vexe ? Hein~ ?{attente}|Ça se lit sur ta figure~{attente}{page}{fin}
+@06362	Grrr !{attente} Hé, attends...{attente}|Ce boucan...{attente}|Ce niveau incroyable...{attente}|Et si cette fille...{attente}{page}{fin}
+@06363	Ce ne serait pas toi, la|fameuse jolie joueuse|dont tout le monde parle ?!{attente}{page}{fin}
+@06364	Le jeu, c'est toute la vie|de Shinozawa~ !{attente}{page}{fin}
+@06365	Wah ! Elle se fâche|d'un coup !{attente}|Qu'est-ce qui lui prend ?{attente}{page}{fin}
+@06366	Hé, Shinozawa, elle a un|nom~ ! Elle s'appelle|{E08} Shinozawa~ !{attente}{page}{fin}
+@06367	...Elle change d'humeur|à toute vitesse...{attente}|C'est ce qu'on appelle|une fille un peu perchée ?{attente}{page}{fin}
+@06368	Shinozawa t'a dit son|nom, et toi, tu dis|pas le tien~ ?{attente}{page}{fin}
+@06369	Hein ?{attente} Ah...|Moi, c'est {F01} {F00}.{attente}|En 1re année au lycée|Koigahara.{attente}{page}{fin}
+@06370	Ah, pareil, pareil~ !!{attente}|Shinozawa est en 1-A~ !{attente}|Et {F06}~ ?{attente}{page}{fin}
+@06371	Moi, en 1-B !{attente}|Ah ben, on est voisins !{attente}{page}{fin}
+@06372	Quel hasard~ !{attente}|Bon, Shinozawa va|rentrer, maintenant~ !{attente}{page}{fin}
+@06373	Quand t'auras progressé,|Shinozawa voudra bien|rejouer contre toi~{attente}|Allez, bye bye~ !{attente}{page}{fin}
+@06374	Ouais, salut !{attente}{page}{fin}
+@06375	La fameuse joueuse est|dans la classe d'à côté !{attente}|Et j'ai joué contre elle !{attente}|Maeno va en être vert !{attente}{page}{fin}
+@06376	...{E08} Shinozawa, hein ?|Quelle drôle de fille !{attente}|...Mais je sais pas...|elle m'intrigue...{attente}{page}{fin}
+@06377	Je me suis inscrit au club|de conversation anglaise !{attente}|Je vais bosser jusqu'à|le parler couramment !{attente}{page}{fin}
+@06378	Ah, {F07} !{attente}|Toi aussi, tu t'es inscrit|au club d'anglais !{attente}{page}{fin}
+@06379	Bon courage pour arriver|à bien le parler !{attente}{page}{fin}
+@06380	Allez !|Je vais bosser jusqu'à|bien le parler !{attente}{page}{fin}
+@06381	Ah, {F07} !{attente}|Moi, je suis dans ta|classe, je...{attente}{page}{fin}
+@06382	Oh ! Merci !|Tu te souviens de moi !{attente}{page}{fin}
+@06383	Être dans le même club que|{F07}, ça me fait|plaisir !{attente}{page}{fin}
+@06384	Ah ! Pardon !{attente}|C-ce n'est rien !{attente}|C'est amusant, l'anglais,|tu ne trouves pas ?{attente}{page}{fin}
+@06385	J'ai longtemps vécu|à l'étranger, alors...{attente}{page}{fin}
+@06386	je me suis inscrite ici|pour ne pas oublier mon|anglais, même au Japon !{attente}{page}{fin}
+@06387	Si tu ne comprends pas|quelque chose,|demande-moi !{attente}{page}{fin}
+@06388	D'accord, merci !{attente}|Je peux compter sur toi !{attente}{page}{fin}
+@06389	Hihi !{attente} Alors, faisons|de notre mieux !{attente}{page}{fin}
+@06390	{E09} Okada, hein...{attente}|Elle a grandi à l'étranger...{attente}|Mais pourquoi ça lui fait|plaisir que je sois là ?{attente}{page}{fin}
+@06391	Parce qu'on est dans|la même classe ?{attente}|Ne pas savoir pourquoi, ça|m'intrigue encore plus...{attente}{page}{fin}
+@06392	(Incident avant le cours){n}{fin}
+@06393	Ah ! Mince !!{attente}|J'ai oublié ma trousse !{attente}|Je fais comment, moi...{attente}{page}{fin}
+@06394	Je fixais mon bureau,|complètement perdu...{attente}|quand quelqu'un m'a|interpellé à côté !{attente}{page}{fin}
+@06395	Hé, hé !!|Dis donc, toiii !{attente}|T'aurais pas oublié ta|trousse, par hasard ?{attente}{page}{fin}
+@06396	Bon, je te prête mon|crayon, alors !|Tiens !{attente}{page}{fin}
+@06397	Sans me laisser le temps|de dire quoi que ce soit,|elle m'a mis le crayon|dans la main !{attente}{page}{fin}
+@06398	M-merci...|Euh...{attente}{page}{fin}
+@06399	Moi, c'est {E0A}|Kobayashi !{attente}|Mais je me suis présentée|le premier jour, hein !{attente}{page}{fin}
+@06400	Ah, moi, c'est...{attente}{page}{fin}
+@06401	Je sais, je sais !!|T'es {F01} {F00}-kun,|c'est çaaa !{attente}{page}{fin}
+@06402	Ah ! Au fait !|Je préfère te prévenir,|hein...{attente}{page}{fin}
+@06403	Si je suis gentille avec|toi, c'est pas parce que|j'ai un faible pour toi,|compriiis !{attente}{page}{fin}
+@06404	Bon, personne irait|penser ça, de toute façon !|Héhé !{attente}{page}{fin}
+@06405	Sur ces mots, {E0A}|est retournée s'asseoir|à sa place.{attente}{page}{fin}
+@06406	{E0A} Kobayashi, hein...{attente}|Elle a l'air pleine|d'énergie...{attente}{page}{fin}
+@06407	et serviable, on dirait...{attente}|Je sais pas pourquoi...|mais elle m'intrigue...{attente}{page}{fin}
+@06408	Dès aujourd'hui, je suis|un vrai membre du club de|ping-pong !{attente} Je vais tout|donner pour gagner !{attente}{page}{fin}
+@06409	Ah, {F08} !{attente}|Toi aussi, t'es entré au|club de ping-pong !{attente}{page}{fin}
+@06410	Et maintenant qu'on y est,|objectif : champions|du Japon, hein !{attente}{page}{fin}
+@06411	Haha ! Champions du Japon !|C'est vrai, autant viser|haut !{attente}{page}{fin}
+@06412	On fait de notre mieux|ensemble, hein !{attente}|Moi, je vais me changer,|alors à plus !{attente}{page}{fin}
+@06413	Allez !|Moi aussi, je dois tout|donner pour pas me faire|battre par {E0A} !{attente}{page}{fin}
+@06414	...Il a beau dire ça,|Maeno a l'air d'hésiter|pas mal, lui aussi...{attente}{page}{fin}
+@06416	{FFB}L'inviter pour Noël|　Laisser tomber{fin}
+@06417	Finalement, je vais pas|l'inviter...{attente}{page}{fin}
+@06420	Et puis, vu comme on|s'entend bien, c'est|forcément {E04} Saeki !{attente}{page}{fin}
+@06421	Et puis, vu comme on|s'entend bien, c'est|forcément Mizuki Takao !{attente}{page}{fin}
+@06422	Et puis, vu comme on|s'entend bien, c'est|forcément Yumi Matsuda !{attente}{page}{fin}
+@06423	Et puis, vu comme on|s'entend bien, c'est|forcément {E08}|Shinozawa !{attente}{page}{fin}
+@06424	Et puis, vu comme on|s'entend bien, c'est|forcément {E09} Okada !{attente}{page}{fin}
+@06425	Et puis, vu comme on|s'entend bien, c'est|forcément {E0A}|Kobayashi !{attente}{page}{fin}
+@06426	Merci d'avoir joué, mais|pour aujourd'hui, c'est|fini...{fin}
+@06427	La suite, tu la découvriras|en achetant la version|complète, d'accord ?!{fin}
+@06428	Shinozawa aussi|t'en supplie~{fin}
+@06429	Un vrai garçon,|ça l'achète, non ?!{fin}
+@06430	{F04}...|je compte sur toi|pour l'acheter...{fin}
+@06431	{F07}...|c'est promis, hein...{fin}
+@06432	Et pour finir, voilà la date|de sortie, alors regarde|bien, hein !{fin}
+@06440	Ah !{attente} La fille toute|seule, là-bas...{attente}|c'est {E04} !{attente}{page}{fin}
+@06441	En ce moment... il n'y a|personne d'autre sur|le toit...{attente}|Juste elle et moi !{attente}{page}{fin}
+@06442	Sans personne pour nous|déranger, c'est le moment|idéal pour l'inviter|à Noël !{attente}{page}{fin}
+@06444	Dis, est-ce que tu...{attente}|voudrais venir voir le|grand sapin de Noël|avec moi ?{attente}{page}{fin}
+@06445	Hein...{attente}|C'est gentil, mais...{attente}{page}{fin}
+@06446	À Noël, moi...{attente}|je ne suis pas libre...{attente}|...À plus tard !{attente}{page}{fin}
+@06447	Ah...{attente} C'est pas vrai...{attente}|Ç-ça me fait de la peine...{attente}{page}{fin}
+@06448	Hein... C'est vrai ?{attente}|......{attente}|Bien sûr que oui !{attente}{page}{fin}
+@06449	Que ce soit {F03}|qui m'invite...{attente}|ça me rend trop heureuse♥{attente}{page}{fin}
+@06450	Super !{attente} Alors, on se|retrouve à l'allée des|arbres illuminés !{attente}{page}{fin}
+@06451	Un Noël rien qu'à deux♥|J'ai déjà trop hâte !{attente}|...Bon, à plus tard !{attente}{page}{fin}
+@06452	Youpi !|J'ai bien fait de l'inviter !{attente}|Un Noël à deux...{attente}|J'ai trop hâte !!{attente}{page}{fin}
+@06453	Ah !{attente} La fille toute|seule, là-bas...{attente}|c'est Mizuki !{attente}{page}{fin}
+@06454	......{attente}Mizuki !{attente}{page}{fin}
+@06455	Ah, {F04}, toi aussi|t'étais là !{attente}{page}{fin}
+@06456	Hein...{attente} Désolée, mais|à Noël...{attente}|j'ai déjà quelque chose...{attente}{page}{fin}
+@06457	Invite quelqu'un d'autre.|......Salut...{attente}{page}{fin}
+@06458	Hein...{attente} O-oui !|Si ça te va avec moi...|...avec plaisir♥{attente}{page}{fin}
+@06459	Je pensais pas que tu|m'inviterais...{attente}|je suis... trop contente.{attente}{page}{fin}
+@06460	Oui...{attente}|J'ai hâte...{attente}|...Merci.{attente}{page}{fin}
+@06461	Ah !{attente} La fille toute|seule, là-bas...{attente}|c'est Yumi !{attente}{page}{fin}
+@06462	......{attente}Yumi !{attente}{page}{fin}
+@06463	Tiens, {F05} !{attente}{page}{fin}
+@06464	Ah...{attente}|Dans ce cas, désolée...{attente}|mais tu peux demander|à quelqu'un d'autre ?{attente}{page}{fin}
+@06465	J'ai déjà quelque chose|de prévu.{attente}|...Allez, à plus !{attente}{page}{fin}
+@06466	Oh !{attente} Ça me fait plaisir !{attente}|Moi aussi, j'avais envie|de le voir avec {F05} !{attente}{page}{fin}
+@06467	Bien sûr que c'est OK !{attente}|J'ai hâte d'y être...♥{attente}{page}{fin}
+@06468	Oui, c'est promis !{attente}|...Allez, à plus !{attente}{page}{fin}
+@06469	Ah !{attente} La fille toute|seule, là-bas...{attente}|c'est {E08} !{attente}{page}{fin}
+@06471	Oh ?|C'est {F06}~ !{attente}{page}{fin}
+@06472	...Désolée~{attente}|À Noël, Shinozawa a déjà|quelque chose de prévu~...{attente}{page}{fin}
+@06473	...Shinozawa se retire|en s'excusant bien bas~...{attente}{page}{fin}
+@06474	Quoiii~ ?!{attente}|Kyaaan♥ Youpi~♥{attente}|Shinozawa est ravie~ !{attente}{page}{fin}
+@06475	Voir le sapin avec {F06},|bien sûr que c'est|OK~{attente}{page}{fin}
+@06476	Ouiii~ !|Shinozawa a trop hâte~ !{attente}|Allez, à plus~♥{attente}{page}{fin}
+@06477	Ah !{attente} La fille toute|seule, là-bas...{attente}|c'est {E09} !{attente}{page}{fin}
+@06478	Hein... ?{attente} Ah !|{F07}...{attente}{page}{fin}
+@06479	Euh...{attente} C'est gentil, mais|chaque année, à Noël, je|vais à la messe en famille.{attente}{page}{fin}
+@06480	Tu m'invites et je ne peux|pas venir... pardon.{attente}|...À plus tard !{attente}{page}{fin}
+@06481	Oh ! Avec moi ?{attente}|...Merci !|Ça me fait très plaisir♥{attente}{page}{fin}
+@06482	Bien sûr...|j'irai avec plaisir...♥{attente}{page}{fin}
+@06483	Oui ! J'y serai sans faute !{attente}|Bon, je retourne en|classe la première.{attente}{page}{fin}
+@06484	Ah !{attente} La fille toute|seule, là-bas...{attente}|c'est {E0A} !{attente}{page}{fin}
+@06486	Hm... ?{attente}|Ah, {F08} !|Qu'est-ce qu'il y a ?{attente}{page}{fin}
+@06487	Ah...{attente} Désolée !{attente}|Y a l'épisode spécial Noël|de mon anime !{attente}{page}{fin}
+@06488	Je peux absolument pas|le rater !{attente}|Bon, voilà, voilà !|Je retourne en classe !{attente}{page}{fin}
+@06489	Ah...{attente} C'est vrai ?{attente}|Avec moi... t'es sûr ?{attente}|......Trop contente♥{attente}{page}{fin}
+@06490	Évidemment que c'est OK,|tu parles !{attente}{page}{fin}
+@06491	Wouhaaa !{attente} Ça me gêne,|mais j'ai trop hâte !{attente}|Bon, je file en classe !{attente}{page}{fin}
+@06492	(Devant le portail){n}{fin}
+@06493	...Ah !{attente}|Cette fille...{attente}{page}{fin}
+@06494	(Gare de Koigahara){n}{fin}
+@06495	...Tiens ?{attente}|Quelqu'un devant la gare.{attente}{page}{fin}
+@06496	(Devant le bâtiment){n}{fin}
+@06497	...Oh ?{attente}|Cette fille, ce serait|pas... ?{attente}{page}{fin}
+@06498	Ah !?|Cette fille, c'est... !{attente}{page}{fin}
+@06500	(En rentrant du lycée){n}{fin}
+@06501	...Tiens, bizarre...{attente}|Il y a quelqu'un...|devant chez moi...{attente}{page}{fin}
+@06502	Ah, {F03} !|Pas la peine de faire|cette tête-là !{attente}{page}{fin}
+@06503	À moins que...{attente}|...tu aies quelque chose|à te reprocher ?{attente}{page}{fin}
+@06504	...Hein ? De quoi tu parles ?{attente}{page}{fin}
+@06505	Hmm... Alors tu fais|l'innocent...{attente}|Je suis au courant, tu sais !{attente}{page}{fin}
+@06506	Tu as invité une autre|fille pour Noël !{attente}{page}{fin}
+@06507	Je ne savais pas que|{F03}... était du genre|à jouer double jeu|sans le moindre scrupule.{attente}{page}{fin}
+@06508	{F03}...|Tu es...{attente} minable !{attente}|...Adieu !!{attente}{page}{fin}
+@06509	{F04}...|t'es gonflé...{attente}|Ça me fait un choc...{attente}{page}{fin}
+@06510	Pour Noël...|t'as invité une autre fille.{attente}|......{attente}{page}{fin}
+@06511	Tu jouais sur deux|tableaux... ?{attente}|Ou alors, n'importe qui|faisait l'affaire... ?{attente}{page}{fin}
+@06512	Mais ça, c'est...{attente}|ça, c'est...{attente}|...vraiment minable !!{attente}{page}{fin}
+@06513	Notre rendez-vous...|oublie-le !{attente}|...Adieu !{attente}{page}{fin}
+@06514	Dis donc, {F05} !{attente}|Je ne suis pas la seule que|t'as invitée à Noël, hein !{attente}{page}{fin}
+@06515	J'étais ta roue de|secours ?{attente}|Ou tu te moquais de moi ?{attente}|C'est vraiment ignoble !{attente}{page}{fin}
+@06516	Je n'irai plus avec toi,|et ta promesse, je fais|comme si je l'avais|jamais entendue !{attente}{page}{fin}
+@06517	J'ai été bête de me réjouir !{attente}|Et puis t'es vraiment|minable ! ...Adieu !{attente}{page}{fin}
+@06518	Shinozawa rencontre|{F06} !!{attente}|{F06} attaque !{attente}{page}{fin}
+@06519	Funyaa !{attente}|L'attaque double jeu de|{F06} fait mouche~{attente}{page}{fin}
+@06520	Shinozawa subit des|dégâts critiques~{attente}{page}{fin}
+@06521	Shinozawa le sait, hein~{attente}|Tu as invité une autre|fille pour Noël, pas vrai~{attente}{page}{fin}
+@06522	...C'est {F06} qui|a choisi, alors...{attente}|y a rien à faire, mais~{attente}{page}{fin}
+@06523	...quand même...{attente}|...c'est trop triste~ !{attente}|Shinozawa est K.-O.|pour de bon~{attente}{page}{fin}
+@06524	Notre promesse...|oublie-la, s'il te plaît~...{attente}|...Allez, bye bye.{attente}{page}{fin}
+@06525	{F07}...{attente}|J'ai quelque chose|à vérifier.{attente}{page}{fin}
+@06526	Il paraît que tu as invité|une autre fille pour Noël...|...{attente} c'est vrai ?{attente}{page}{fin}
+@06527	...Je vois...{attente}|C'est donc vrai...{attente}|...C'est cruel !{attente}{page}{fin}
+@06528	Chaque année, je passe|Noël en famille, à la|messe, mais...{attente}{page}{fin}
+@06529	cette année, j'avais même|refusé d'y aller...{attente} Non.{attente}|Ça n'a plus d'importance.{attente}{page}{fin}
+@06530	{F07}...{attente}|La blessure de mon cœur|ne s'effacera pas.{attente}|...Adieu...{attente}{page}{fin}
+@06531	{F08} !!{attente}|Ça veut dire quoi, ça ?!{attente}{page}{fin}
+@06532	Inviter une autre fille|pour Noël !!{attente}{page}{fin}
+@06533	Moi... en fait...{attente}|tu faisais que te moquer|de moi, c'est ça ?!{attente}{page}{fin}
+@06534	Non, attends...{attente}{page}{fin}
+@06535	......Laisse tomber !{attente}|J'en ai...{attente} marre !{attente}{page}{fin}
+@06536	Nous deux... c'est|terminé !{attente}|...Adieu !!{attente}{page}{fin}
+@06545	Je me suis posté au pied|d'un arbre de l'allée|pour l'attendre.{attente}{page}{fin}
+@06546	...Des lumières de toutes|les couleurs parent l'allée,{attente}|et toute la ville résonne|de chants de Noël...{attente}{page}{fin}
+@06547	Eh oui...{attente} Aujourd'hui,|c'est le réveillon de Noël...{attente}{page}{fin}
+@06548	{F03} !|Me voilà !{attente}|Pardon pour le retard !{attente}{page}{fin}
+@06549	Comme je passe le réveillon|avec {F03}...{attente}{page}{fin}
+@06550	je me suis faite toute belle,|et ça m'a pris un peu trop|de temps !{attente} Hihi♥{attente}{page}{fin}
+@06551	C'est rien...{attente}|Je suis content que tu sois|venue, c'est tout !{attente}{page}{fin}
+@06552	Ensuite, on a flâné|tranquillement dans l'allée|décorée de guirlandes|lumineuses...{attente}{page}{fin}
+@06553	Oh, regarde !{attente}|On voit le grand sapin|de Noël !{attente}{page}{fin}
+@06554	Ouais !|Allons le voir de près !{attente}{page}{fin}
+@06555	Waouh... qu'il est beau !{attente}|Regarde, {F03}...{attente}|Le vent fait bouger|les branches...{attente}{page}{fin}
+@06556	et les lumières aussi...{attente}|On dirait que les étoiles|dansent !{attente}|C'est magnifique...{attente}{page}{fin}
+@06557	Regarder le sapin de Noël|comme ça, à deux, avec|{F03}...{attente}{page}{fin}
+@06558	c'est comme si...{attente} je m'étais|perdue dans un rêve...{attente}{page}{fin}
+@06559	J'aimerais rester comme ça...|avec {F03}...|pour toujours...{attente}{page}{fin}
+@06560	Près de ce sapin qui|scintille...{attente}|à jamais...♥{attente}{page}{fin}
+@06561	Les joues de {E04} sont|un peu rouges...{attente}|Elle contemple le sapin,|l'air de rêver.{attente}{page}{fin}
+@06562	Ses yeux humides|tremblent... ses lèvres|comme mouillées frémissent|légèrement...{attente}{page}{fin}
+@06563	Doucement, j'ai posé|un baiser sur les lèvres|de {E04}...{attente}{page}{fin}
+@06564	Même les paupières closes...|les lumières des guirlandes|dansent devant mes yeux...{attente}{page}{fin}
+@06565	De ses lèvres glacées|s'échappe un souffle|brûlant...{attente}{page}{fin}
+@06566	Ce réveillon glacial...{attente}|nous a offert...{attente}|un amour brûlant|en cadeau...{attente}{page}{fin}
+@06567	Ce soir-là, nous n'avions|pas besoin de mots...{attente}{page}{fin}
+@06568	Rien qu'à rester tous deux|baignés par les lumières du|sapin, nos cœurs semblaient|s'unir peu à peu...{attente}{page}{fin}
+@06569	Ah, {F04}...{attente}|Euh... désolée pour|l'attente...{attente}{page}{fin}
+@06570	Je suis un peu nerveuse...{attente}|Si mon cœur bat si fort...|c'est parce que c'est Noël ?{attente}{page}{fin}
+@06571	Et puis, passer le réveillon|avec {F04}...{attente}{page}{fin}
+@06572	on dirait un rêve...{attente}|Mais... c'est pas...|un rêve, hein ?{attente}{page}{fin}
+@06573	Non, c'est pas un rêve...{attente}|Allez, on va voir le|sapin de Noël !{attente}{page}{fin}
+@06574	Ah, c'est lui !{attente}|Il est vraiment immense !{attente}{page}{fin}
+@06575	Waouh, qu'il est grand...{attente}|Avec ses lumières qui|brillent... il est superbe !{attente}{page}{fin}
+@06576	...Pouvoir regarder un|sapin comme ça, à deux,|avec {F04}...{attente}{page}{fin}
+@06577	je suis tellement...|heureuse...♥{attente}{page}{fin}
+@06578	Si seulement... le temps|pouvait s'arrêter...|......{attente}{page}{fin}
+@06579	Moi... avec {F04}...|je voudrais rester comme|ça pour toujours...{attente}{page}{fin}
+@06580	Un Noël aussi heureux...{attente}|c'est la première fois|de ma vie...{attente}{page}{fin}
+@06581	Les joues rouges, Mizuki|me regarde... l'air un|peu gênée...{attente}{page}{fin}
+@06582	...Mizuki...{attente}|Doucement, j'ai posé un|baiser sur ses lèvres...{attente}{page}{fin}
+@06583	{F05}...{attente}|Pardon de t'avoir fait|attendre, un soir de Noël !{attente}{page}{fin}
+@06584	Mais tu sais...|justement parce que c'est|un Noël avec {F05}...{attente}{page}{fin}
+@06585	je voulais me faire|encore plus belle que|d'habitude... Hihi♥{attente}{page}{fin}
+@06586	Quand tu dis ça, ça me|touche... vraiment !{attente}{page}{fin}
+@06587	Ah ! Regarde, {F05} !{attente}|On voit le grand sapin|de Noël !{attente}{page}{fin}
+@06588	...Qu'il est beau...{attente}|Forcément, avec une taille|pareille, les décorations|restent simples, mais...{attente}{page}{fin}
+@06589	je sais pas...|ça m'émeut...{attente}|C'est bizarre...{attente}{page}{fin}
+@06590	Oh ! Regarde !{attente}|Le sapin scintille, on dirait|une pluie d'étoiles !{attente}{page}{fin}
+@06591	On n'a pas l'impression|d'être sous une poussière|de lumière... ?{attente}{page}{fin}
+@06592	Me sentir aussi|romantique... c'est|bizarre...{attente}{page}{fin}
+@06593	...C'est sûrement parce|que je suis avec|{F05}...♥{attente}{page}{fin}
+@06594	J'aimerais rester comme ça...|tous les deux...{attente}|pour toujours...♥{attente}{page}{fin}
+@06595	Les yeux humides et un peu|tremblants,{attente}|Yumi me regarde...{attente}{page}{fin}
+@06596	Il fait froid dehors...{attente}|mais nos cœurs, à Yumi et|à moi... brûlent{attente} de plus|en plus...{attente}{page}{fin}
+@06597	Un moment doux et poignant,|à en fondre...{attente}|Doucement, j'ai posé un|baiser sur ses lèvres...{attente}{page}{fin}
+@06598	Me voilà, me voilààà~ !{attente}|Shinozawa est arrivée~ !{attente}|Joyeux Nooëëël~ !{attente}{page}{fin}
+@06599	C'est le grand jour où on a|des jouets gratuits~ !{attente}|Hourraaa !{attente}{page}{fin}
+@06600	Euh, c'est pas tout à fait|ça, il me semble...{attente}{page}{fin}
+@06601	On s'en fiche ! En route|vers l'énooorme sapin|de Noël~ !{attente}{page}{fin}
+@06602	Bon, tant pis !{attente}|Allez, on y va !{attente}{page}{fin}
+@06603	Le voilààà !{attente}|Un sapin de Noël|ridiculement énorme~{attente}{page}{fin}
+@06604	Kyaaah~ !{attente}|Qu'il est beau~...{attente}{page}{fin}
+@06605	Shinozawa est tellement|émue qu'elle en perd|ses mots~{attente}{page}{fin}
+@06606	Avoir un rendez-vous avec|{F06} un jour aussi|romantique...{attente}{page}{fin}
+@06607	ça gêne trop Shinozawa...|elle sait plus où|se mettre~{attente}{page}{fin}
+@06608	{F06}~...{attente}|Qu'est-ce que Shinozawa|doit faire~... ?{attente}{page}{fin}
+@06609	Le cœur de Shinozawa...|bouillonne de rage...|tout noir et visqueux~{attente}{page}{fin}
+@06610	Ah, je me suis trompée~|Il est tout fondant~|Il fond complètement~{attente}{page}{fin}
+@06611	Ce sentiment brûlant~,|Shinozawa sait pas quoi|en faire~{attente}|Mooh~ comment on fait~{attente}{page}{fin}
+@06612	Dans ce cas...|faisons comme ça...{attente}{page}{fin}
+@06613	J'ai attiré {E08} contre|moi et je l'ai embrassée|tendrement...{attente}{page}{fin}
+@06614	Ah... non, pas ça...{attente}|......mmh...{attente}{page}{fin}
+@06615	Ce genre de trucs, ça|gêne trop Shinozawa~...{attente}|Hiiin♥{attente}{page}{fin}
+@06616	Toute gênée, {E08}|s'est cachée derrière|mon dos...{attente}{page}{fin}
+@06617	{E08} enfouit son visage|contre moi...{attente}|Et moi, je sens sa chaleur|dans mon dos...{attente}{page}{fin}
+@06618	{F07} !|Pardon de t'avoir fait|attendre !{attente}|Merry Christmas !{attente}{page}{fin}
+@06619	Merci beaucoup de m'avoir|invitée pour le réveillon...{attente}|Ça me fait très plaisir♥{attente}{page}{fin}
+@06620	Je n'ai pas encore vu|le grand sapin de Noël !{attente}|J'ai hâte♥{attente}{page}{fin}
+@06621	Ah bon ? D'accord !{attente}|Alors, allons-y|tranquillement !{attente}{page}{fin}
+@06622	Ah...{attente} c'est lui ?|Dis, je veux le voir de près !{attente}|Dépêchons-nous !{attente}{page}{fin}
+@06623	Oh...{attente} Magnifique !{attente}|Qu'il est beau...{attente}|C'est romantique♥{attente}{page}{fin}
+@06624	On dirait une pluie|de lumière...{attente}|J'aimerais le contempler|pour toujours...{attente}{page}{fin}
+@06625	Regarder cette lumière...{attente}|comme ça, à deux, avec|{F07}...{attente}{page}{fin}
+@06626	ça me réchauffe tout au|fond du cœur...{attente}|Qu'est-ce que c'est...{attente}{page}{fin}
+@06628	...Ah...|je suis si heureuse♥{attente}|J'ai bien fait de venir...{attente}{page}{fin}
+@06629	...Oh, c'est bizarre...|j'ai les larmes qui montent...{attente}|Qu'est-ce qui m'arrive...{attente}{page}{fin}
+@06630	Les yeux de {E09}, fixés|sur moi, s'emplissent de|larmes, prêtes à couler...{attente}|alors j'ai tendu la main...{attente}{page}{fin}
+@06631	Du bout des doigts, j'ai|essuyé ses larmes...{attente}|puis je l'ai attirée contre|moi et l'ai embrassée...{attente}{page}{fin}
+@06632	...Merci...{attente}{page}{fin}
+@06633	Ce soir-là, nous n'avions|pas besoin d'autres mots...{attente}{page}{fin}
+@06634	{F08} !|Me voilààà !{attente}{page}{fin}
+@06635	Être invitée pour un|événement aussi énorme|que le réveillon de Noël...{attente}{page}{fin}
+@06636	j'suis trop émue !!{attente}|Merciii !{attente}{page}{fin}
+@06637	Mais non ! C'est moi qui|suis ému que tu sois venue !{attente}{page}{fin}
+@06638	Aaah ! Le voilà !|Le grand sapin de Noël !{attente}{page}{fin}
+@06639	Wouhaaa, il est vraiment|énorme !{attente}|Ça me fait sentir encore|plus minuscule...{attente}{page}{fin}
+@06640	Mais il est beau, hein !{attente}|Ça fait, comment dire...|genre, romantique...{attente}{page}{fin}
+@06641	Hein... ?{attente}|C'est bizarre... mon cœur|bat fort... je trouve plus|mes mots...{attente}{page}{fin}
+@06642	Dans ces moments-là...|on fait comment, hein...|......{attente}{page}{fin}
+@06643	Euh... euh...|moi... je... enfin...|j'ai le cœur trop plein...{attente}{page}{fin}
+@06644	...Pas besoin... pas besoin|de dire quoi que ce soit.{attente}{page}{fin}
+@06646	Les yeux humides, {E0A}|levait la tête vers moi...|douce comme jamais...{attente}|Elle était trop mignonne !{attente}{page}{fin}
+@06647	Sans réfléchir, j'ai tendu|la main, j'ai attiré {E0A}|contre moi... et je l'ai|embrassée...{attente}{page}{fin}
+@06648	...N-non, faut pas...{attente}|...Ah......|......mmh...{attente}{page}{fin}
+@06649	J'avais dit non, pourtant...|...Rhooo...{attente}{page}{fin}
+@06650	Elle a beau dire ça,|{E0A} se pend à mon|bras, toute câline...{attente}{page}{fin}
+@06651	(Rendez-vous du réveillon){n}{fin}
+@06670	Dis...{attente} Ça va bientôt être|l'heure des coups de|cloche du Nouvel An, non ?{attente}{page}{fin}
+@06671	Tu viens au temple avec moi|écouter les cloches du|Nouvel An ?{attente}{page}{fin}
+@06672	Les cloches du Nouvel An...{attente}{page}{fin}
+@06673	{FFB}Aller les écouter|　Refuser{fin}
+@06674	Bonne idée !{attente}|Alors, je pars tout|de suite !{attente}{page}{fin}
+@06675	......|J'ai raccroché, je me suis|préparé en vitesse et j'ai|foncé dehors !{attente}{page}{fin}
+@06676	Bon, alors... bonne fin|d'année !{attente}{page}{fin}
+@06677	Clac !{attente}|Elle a raccroché sec.{attente}|Elle avait l'air fâchée...|Je m'en veux un peu...{attente}{page}{fin}
+@06678	Euh...{attente} si tu veux,|on pourrait aller au temple|écouter les cloches du|Nouvel An ensemble ?{attente}{page}{fin}
+@06679	...Ah, je vois.{attente}|Désolée, j'ai pas pensé|que t'avais peut-être|d'autres plans...{attente}{page}{fin}
+@06680	......{attente}|Bon... bonne fin d'année...|......{attente}{page}{fin}
+@06681	Clic...{attente}|Elle a raccroché tout bas.{attente}|Elle avait l'air triste...{attente}|Je m'en veux un peu...{attente}{page}{fin}
+@06682	Si t'as le temps, ça te dit|d'aller au temple écouter|les cloches du Nouvel An ?{attente}{page}{fin}
+@06683	C'est vrai, c'est la fin|de l'année...{attente}|Pardon de t'appeler alors|que t'es occupé !{attente}{page}{fin}
+@06684	Allez, passe une bonne|fin d'année !{attente}{page}{fin}
+@06685	Allô, c'est Shinozawa~{attente}|Dis, {F06},|tu es libre, là~ ?{attente}{page}{fin}
+@06686	Le grand événement de fin|d'année ! On va écouter|les cloches du Nouvel An|avec Shinozawa~ ?{attente}{page}{fin}
+@06687	Funii~...{attente}|C'est vrai qu'en fin d'année,|tout le monde a à faire~...{attente}{page}{fin}
+@06688	Bon, en attendant...|bonne fin d'année~...{attente}{page}{fin}
+@06689	Allô, {F07}... ?{attente}|C'est Okada...{attente}|Je ne te dérange pas ?{attente}{page}{fin}
+@06690	Oui...{attente} Dis, {F07},|tu connais la cloche|de « Shoya » ?{attente}|On la sonne au temple.{attente}{page}{fin}
+@06691	Hein ??{attente}|Tu veux dire... la cloche|de « Joya » ?{attente}{page}{fin}
+@06692	Oh ? Je me suis trompée ?{attente}|On dit « Joya », alors !{attente}{page}{fin}
+@06693	Ah...{attente} Dommage...|J'avais espéré...{attente}{page}{fin}
+@06694	Alors... si je me souviens|bien...{attente} on dit « bonne fin|d'année », c'est ça ?{attente}|...Bonne fin d'année...{attente}{page}{fin}
+@06695	Allôôô !{attente}|{F08} ?{attente}|C'est {E0A} !{attente}{page}{fin}
+@06696	S-salut...{attente}|Dis, tu pourrais parler|un peu moins fort ?{attente}{page}{fin}
+@06697	Ah, on me dit souvent que|mes coups de fil font mal|aux oreilles !{attente}{page}{fin}
+@06698	Bref !{attente}|On va écouter les cloches|du Nouvel An ?{attente}{page}{fin}
+@06699	Le choc !{attente} Ah bon...{attente}|Bah, tant pis !{attente}|C'est la fin de l'année !{attente}{page}{fin}
+@06700	Alors, je te souhaite de|bien finir l'année en|famille, comme on dit !{attente}{page}{fin}
+@06705	(Dans l'enceinte du temple){n}{fin}
+@06706	Tous les deux, on écoutait|les cloches du Nouvel An...{attente}{page}{fin}
+@06707	...Hm ?{attente}|Je sens un regard|derrière moi...{attente}{page}{fin}
+@06708	Tiens, c'est toi !{attente}|{F03}, toi aussi tu es|venu écouter les cloches ?{attente}{page}{fin}
+@06709	Ah...{attente} Tu n'étais pas seul...{attente}|Pardon de vous déranger !{attente}{page}{fin}
+@06710	......Bon, bonne fin|d'année à tous les deux !{attente}|...Salut !{attente}{page}{fin}
+@06711	Aïe...{attente} C'était pas génial,|ça...{attente}|Ça jette un froid...{attente}{page}{fin}
+@06713	Ah bon, je vois...{attente}|C'est comme ça...{attente}{page}{fin}
+@06714	Désolée, on dirait que|je vous ai dérangés !{attente}|Bonne fin d'année !{attente}{page}{fin}
+@06715	Tiens, {F05} !{attente}|Tu es venu !{attente}|...Ah...{attente}{page}{fin}
+@06716	Je vois, c'est comme ça...{attente}|Les cloches à deux...{attente}|...Tiens donc...{attente}{page}{fin}
+@06717	Vous avez l'air proches !{attente}|Ah, je suis de trop...{attente}|Je débarrasse le plancher !{attente}{page}{fin}
+@06718	Hanyaa~...{attente}|{F06} écoute les cloches|en amoureux~ ?{attente}{page}{fin}
+@06719	Vos désirs terrestres ont|disparu ? Disparu~ ?{attente}|Shinozawa aussi aimerait|effacer les siens~...{attente}{page}{fin}
+@06720	Comme ça... les larmes...{attente}|les larmes...{attente}|Ah, c'est rien du tout~{attente}{page}{fin}
+@06721	Shinozawa s'en va, alors|passez une bonne fin|d'année tous les deux~...{attente}{page}{fin}
+@06722	Oh, {F07} !|Tu es venu en famille ?{attente}|...Oh !?{attente}{page}{fin}
+@06723	Que je suis bête, j'ai cru...|...pardon !{attente}{page}{fin}
+@06724	Vous étiez ensemble...{attente}|Alors...{attente} bonne...|fin d'année...{attente}{page}{fin}
+@06725	{F08} !{attente}|T'es venu aussi !{attente}|Alors, on pourrait...{attente}{page}{fin}
+@06726	Oups...{attente}|Là, j'ai gaffé !{attente}|T'étais accompagné !{attente}{page}{fin}
+@06727	Le pot de colle s'en va,|alors profite bien de ton|rencard de fin d'année !|...Salut...{attente}{page}{fin}
+@06730	Les cloches résonnent|solennellement...{attente}{page}{fin}
+@06731	...Dis, {F03}...|cette année se termine...|...{attente} Qu'elle est passée vite...{attente}{page}{fin}
+@06732	Pour {F03}, elle a été|comment, cette année ?{attente}|...Moi...{attente}{page}{fin}
+@06733	c'était la plus belle année|de toutes !{attente}|Bien sûr, il y a eu quelques|moments pénibles, mais...{attente}{page}{fin}
+@06734	surtout, j'ai pu retrouver|{F03}...{attente}{page}{fin}
+@06735	et finir l'année comme ça,|ensemble, tous les deux !{attente}|Alors, c'était parfait♥{attente}{page}{fin}
+@06736	Dis, {F03}...{attente}|L'an prochain aussi...|je compte sur toi♥{attente}{page}{fin}
+@06737	...Une nouvelle année,|à deux avec elle...{attente}|...J'ai le sentiment qu'elle|va être merveilleuse !{attente}{page}{fin}
+@06738	Cette année aussi...|est déjà finie...{attente}|...Tu sais...{attente}{page}{fin}
+@06739	Moi...{attente} depuis le collège,|parler aux garçons...{attente}|j'ai toujours eu du mal...{attente}{page}{fin}
+@06740	Mais l'an prochain, plus...{attente}|avec {F04}...{attente}|...enfin...{attente}{page}{fin}
+@06741	j'aimerais qu'on soit à|l'aise...{attente} qu'on ait une|vraie belle relation...{attente}{page}{fin}
+@06742	Ah, mais d'abord...{attente} il|faut que j'arrête d'être|aussi nerveuse !{attente} Hihi♥{attente}{page}{fin}
+@06743	Aaah, cette année aussi|est presque finie !{attente}{page}{fin}
+@06744	{F05}, tu voudrais|qu'elle soit comment,|l'année prochaine ?{attente}{page}{fin}
+@06745	L'an prochain, j'ai les|examens d'entrée à la fac,|mais je veux pas d'une|année juste à réviser...{attente}{page}{fin}

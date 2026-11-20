@@ -1,0 +1,400 @@
+; Lot 17 : fête du lycée (parfait, planétarium, vide-grenier, tournoi de jeux vidéo, film, Konoha),
+; accessoires offerts, feu de camp, potins de Noël, rencontres (Ruruna, Mizuki, Yumi), Tanabata.
+
+; ---- fête du lycée : Ruruna (suite)
+@05973	Pas juste joli, hein : le|goût est digne d'un vrai|café !{attente}|{E04} est aux anges♥{attente}{page}{fin}
+@05974	Oh ! {E04} en a les larmes|aux yeux ! Elle adore|vraiment les parfaits|au chocolat...!{attente}{page}{fin}
+@05975	Bien rafraîchis par nos|desserts glacés, on a|quitté la classe qui|ressemblait à un café...{attente}{page}{fin}
+@05976	Ah, c'était délicieux !{attente}|Ça fait du bien, on a|moins chaud !{attente}{page}{fin}
+@05977	Bon, moi, je vais voir|les autres stands...|À tout à l'heure !{attente}{page}{fin}
+@05978	Bon, et moi...|je vais encore faire|un petit tour des stands !{attente}{page}{fin}
+
+; ---- fête du lycée : Mizuki (planétarium)
+@05979	{F04} !|Dis, t'as un moment ?{attente}{page}{fin}
+@05980	Ouais, je faisais juste|un tour, pas de souci.{attente}{page}{fin}
+@05981	Alors viens avec moi au|planétarium du club|d'astronomie !{attente}{page}{fin}
+@05982	Le planétarium...{attente}|Bonne idée, allons-y !{attente}{page}{fin}
+@05983	Génial ! Trop contente !{attente}|La séance va bientôt|commencer, dépêchons !{attente}{page}{fin}
+@05984	Mizuki et moi, nous sommes|allés au planétarium|organisé par le club|d'astronomie...{attente}{page}{fin}
+@05985	Tout occupée à trouver|une bonne place, Mizuki|m'attrape le poignet et|m'entraîne au fond !{attente}{page}{fin}
+@05986	Elle n'y fait pas attention,{attente}|mais moi, je sens la|chaleur de sa main...{attente}|et mon cœur s'emballe !!{attente}{page}{fin}
+@05987	Ici, c'est bien !|On voit tout le plafond !{attente}{page}{fin}
+@05988	Ah... pardon !{attente}|J'étais tellement à fond...{attente}|je t'ai pris la main...{attente}{page}{fin}
+@05989	Mizuki s'en rend enfin|compte et retire sa main,|toute gênée !{attente} Oh !|Qu'elle est mignonne !{attente}{page}{fin}
+@05990	Bon, on s'assoit...{attente}{page}{fin}
+@05991	Quand la séance commence...{attente}|on dirait que Mizuki se|rapproche un tout petit|peu de moi.{attente}{page}{fin}
+@05992	On en oublierait presque|que c'est la fête du lycée...{attente}|...On dirait un rencard.{attente}{page}{fin}
+@05993	Mizuki me murmure ça|tout bas...{attente}{page}{fin}
+@05994	Sans trop savoir pourquoi,|ça nous a fait rire, et on|a contemplé les étoiles|en pouffant à deux.{attente}{page}{fin}
+@05995	Merci de m'avoir|accompagnée !{attente}{page}{fin}
+@05996	Bon, moi, je vais voir|ailleurs !|À tout à l'heure !{attente}{page}{fin}
+@05997	Waouh, ça fait pro !|C'est génial...{attente}{page}{fin}
+@05998	Ah, ça commence !|Vite, on s'assoit !{attente}{page}{fin}
+
+; ---- accessoires offerts
+@05999	Le collier de perles !{attente}|...{attente}Je le trouve|vraiment mignon.{attente}{page}{fin}
+@06000	Les boucles d'oreilles|à strass !{attente}|...{attente}Je les trouve|super chic.{attente}{page}{fin}
+@06001	Machinalement, je regarde|la main de Yumi...{attente}|Ah ! Mais c'est...{attente}{page}{fin}
+@06002	La bague en argent design|...{attente}Je la trouve|vraiment classe.{attente}{page}{fin}
+@06003	Je sens chez {E08}|quelque chose de différent|des autres jours...{attente}{page}{fin}
+@06004	{F06} !{attente} Shinozawa|l'a mis, regaaarde~{attente}{page}{fin}
+@06005	Tu as remarqué~ ?{attente}|C'est le cadeau|que {F06} m'a fait :{attente}{page}{fin}
+@06006	le collier de perles~ !{attente}|Il est tout flashy,|trop mignon~{attente}{page}{fin}
+@06007	Avec ça, les rencards avec|{F06}, ils seront|peut-être encore plus|chouettes~{attente}{page}{fin}
+@06008	{E08}...{attente}|Merci...{attente}{page}{fin}
+@06009	En voyant {E08} toute|intimidée, je ressens|une émotion et un bonheur|indescriptibles...{attente}{page}{fin}
+@06010	le collier « relax »~ !{attente}|Ses couleurs sont trop|jolies, trop mignon~{attente}{page}{fin}
+@06011	les boucles d'oreilles|fantaisie~ !{attente}|Elles sont grosses et|trop rigolotes~{attente}{page}{fin}
+@06012	Machinalement, je regarde|la main de {E08}...{attente}|Ah ! Mais c'est...{attente}{page}{fin}
+@06013	la bague transparente~ !{attente}|Ses couleurs sont trop|jolies, trop mignonne~{attente}{page}{fin}
+@06014	Je sens chez {E09}|quelque chose de différent|des autres jours...{attente}{page}{fin}
+
+; ---- fête du lycée : Yumi (vide-grenier)
+@06015	C'est la fête du lycée,|alors même le terrain de|sport est plein de stands...{attente}{page}{fin}
+@06016	...Tiens ?|Au coin du vide-grenier,|c'est...{attente}|Oui, c'est bien Yumi !{attente}{page}{fin}
+@06017	Bienvenue~ !{attente}|...Ah, ce n'est que toi,|{F05} !{attente}{page}{fin}
+@06018	T'as l'air débordée !{attente}|Il a du succès, ce|vide-grenier !{attente}{page}{fin}
+@06019	Bah, c'est comme une|chasse au trésor ! Ce genre|de truc, c'est excitant|et amusant, non ?{attente}{page}{fin}
+@06020	Mais avec autant de monde,|je suis dépassée !{attente}|On manque de bras !{attente}{page}{fin}
+@06021	Tiens, {F05} !{attente}|T'as l'air de rien faire,|viens m'aider !{attente}{page}{fin}
+@06022	OK, d'accord !|Si je peux servir à quelque|chose, avec plaisir !{attente}{page}{fin}
+@06023	Super ! Tu me sauves !{attente}|Occupe-toi d'ici !|Moi, je suis là-bas !{attente}{page}{fin}
+@06025	À nous deux, on a si bien|tenu le stand que tout|est parti !{attente}{page}{fin}
+@06026	Pas mal, {F05} !{attente}|T'as le sens du commerce !{attente}{page}{fin}
+@06027	T'es fatigué, non ?{attente}|Je t'offre un café|à un des stands !{attente}{page}{fin}
+@06028	Ouais, trop bien !|Merci !{attente}{page}{fin}
+@06029	Que tu m'invites, ça me|gêne un peu, quand même...{attente}{page}{fin}
+@06030	Mais non, voyons !|Tu m'as vachement aidée !|Merci, vraiment !{attente}{page}{fin}
+@06031	Mais ce qui m'a fait|le plus plaisir...{attente}{page}{fin}
+@06032	c'est peut-être d'avoir|passé ce moment...{attente}|avec toi, {F05}.{attente}{page}{fin}
+@06033	Faire équipe avec toi,|{F05}, alors qu'on|n'est pas en même année...{attente}{page}{fin}
+@06034	c'est tout le sel de la|fête du lycée !{attente}|Allez, un petit café|et on se détend !{attente}{page}{fin}
+@06035	Ensuite, Yumi et moi,|nous nous sommes reposés|en savourant tranquillement|notre café...{attente}{page}{fin}
+
+; ---- fête du lycée : Momoyo (tournoi de jeux vidéo)
+@06036	Au gymnase aussi,|il y a plein|d'animations...{attente}{page}{fin}
+@06037	Kyaaa ! {F06}~{attente}|Tu apparais pile|au bon moment~ !!{attente}{page}{fin}
+@06038	Le tournoi de jeux vidéo|du lycée va commencer~ !{attente}{page}{fin}
+@06039	Sur Tag Fighter IV !!|Faut absolument y jouer,|c'est obligé~ !{attente}{page}{fin}
+@06040	C'est bien...{attente}|un jeu de baston en|deux contre deux, non ?{attente}{page}{fin}
+@06041	Ouiii~ !{attente}|Tu veux bien faire|équipe avec Shinozawa~ ?{attente}{page}{fin}
+@06042	Ouais, ça a l'air marrant !|On s'inscrit ensemble !{attente}{page}{fin}
+@06043	Ukyaaa~ !|Shinozawa est émue~ !!{attente}|Je vais nous inscrire|tout de suite~ !{attente}{page}{fin}
+@06044	Shinozawa et moi, nous|nous sommes inscrits au|tournoi de jeux vidéo !{attente}{page}{fin}
+@06045	Allez, c'est notre tour !|On va tout donner !{attente}{page}{fin}
+@06046	Toryaaaah !!|Seiyaaa !!|Uryaaaaaah !!{attente}{page}{fin}
+@06047	On a enchaîné les|victoires et on s'est|retrouvés en finale|du tournoi !!{attente}{page}{fin}
+@06048	Forcément, ce coup-ci,|nos adversaires forment|un duo super synchro...|Ils sont coriaces !!{attente}{page}{fin}
+@06049	{F06}~...|À ce rythme-là, on va|perdre~...{attente}{page}{fin}
+@06050	Puisque c'est comme ça...|on n'a plus le choix :|la super attaque ultime !!{attente}{page}{fin}
+@06051	Si notre combinaison|n'est pas parfaitement|synchro, ça va rater~ !{attente}{page}{fin}
+@06052	Nous deux, on va assurer !|{E08}, on y va !!{attente}{page}{fin}
+@06053	Ah ! Ensemble...|il faut que ce soit|ensemble~{attente}|Alors, à trois~...{attente}{page}{fin}
+@06054	Kyaaa !!|On a gagnéééé~ !!{attente}|Ouaiiis ! Kyaaa !{attente}{page}{fin}
+@06055	C'est la victoire de la|combinaison amoureuse de|Shinozawa et {F06}~ !!{attente}{page}{fin}
+@06056	On a gagné le tournoi !!{attente}|{E08} sautait tellement|de joie...{attente} qu'elle est|tombée de la scène !!{attente}{page}{fin}
+@06057	Kyaaaah !!!{attente}{page}{fin}
+@06058	J'ai mal aux fesses~...{attente}|Shinozawa va à|l'infirmerie~|Toute ramollie~...{attente}{page}{fin}
+@06059	Ouf ! Elle n'a pas|l'air de s'être fait|grand-chose !{attente}{page}{fin}
+
+; ---- fête du lycée : Mirei (projection)
+@06060	Ah, {F07} !|Je te cherchais !{attente}{page}{fin}
+@06061	La projection du film|va bientôt commencer !{attente}|Tu viens avec moi ?{attente}{page}{fin}
+@06062	Un film...{attente} Bonne idée !|Allons le voir ensemble !{attente}{page}{fin}
+@06063	Oh, je suis ravie !{attente}|C'est « L'amour est|une mélodie »,{attente}|une histoire d'amour !{attente}{page}{fin}
+@06064	Et nous voilà, {E09} et|moi, en route vers la|salle de projection !{attente}{page}{fin}
+@06065	Le film est magnifique...|une émotion douce-amère|nous parvient à travers|l'écran...{attente}{page}{fin}
+@06066	Pendant le film, {E09}|s'appuie doucement,|un petit peu, contre moi...{attente}{page}{fin}
+@06067	Plus le film approche|de son point culminant...{attente}|plus nos cœurs|s'emballent...{attente}{page}{fin}
+@06068	Tout doucement...{attente}|dans l'ombre des sièges,|je prends la main|de {E09}...{attente}{page}{fin}
+@06069	Le cœur battant, le cœur|serré, nous avons regardé|le film jusqu'au bout...{attente}{page}{fin}
+@06070	C'était...|vraiment magnifique♥{attente}{page}{fin}
+@06071	Le voir avec toi,|{F07}, ça m'a émue !{attente}|Merci...♥{attente}{page}{fin}
+@06072	Le film... et la chaleur|de nos mains...|nous enveloppent encore|...{attente}{page}{fin}
+@06073	Même après la fin de la|projection, {E09} et moi|sommes restés un moment...|à nous regarder...{attente}{page}{fin}
+@06074	Ah...|...Enfin...|{F07}, voyons !{attente}{page}{fin}
+
+; ---- fête du lycée : Konoha
+@06075	Ah, c'est {F08} !{attente}|Dis, dis, on fait le tour|ensemble, d'accord ?!{attente}{page}{fin}
+@06076	Ouais, d'accord !{attente}|On commence par où ?{attente}{page}{fin}
+@06077	C'est moi qui choisis ?!{attente}|Trop de la chaaance !!{attente}|Alors suis-moi !{attente}{page}{fin}
+@06078	Me voilà parti avec|{E0A} faire le tour|des animations !{attente}{page}{fin}
+@06079	Ici, ici ! L'expo des|cartes NTG ! Ça, on peut|pas le rater !{attente}{page}{fin}
+@06080	Hmmmm !|Plein de cartes rares !!|C'est trop le pied !!{attente}{page}{fin}
+@06081	Regarde, regarde !|{F08}, regaaarde !!{attente}{page}{fin}
+@06082	Elle m'a agrippé le bras,|et j'ai eu droit à un cours|interminable sur|les cartes !!{attente}{page}{fin}
+@06083	Pfiou...{attente}|Je me suis régalée !|Au suivant, au suivant !{attente}{page}{fin}
+@06084	{E0A} file droit devant,|sans me lâcher le bras !{attente}{page}{fin}
+@06085	C-c'est quoi, ici...?|Ils font quoi, tous,|penchés sur leurs tables...?{attente}{page}{fin}
+@06086	Une démo de coloriage|de celluloïds d'anime !{attente}{page}{fin}
+@06087	Là aussi, j'ai eu droit|à un cours sur la façon|de colorier les cellos !!{attente}{page}{fin}
+@06088	Et ici, c'est la vente de|fanzines du club manga !{attente}|Youhouuu !!{attente}{page}{fin}
+@06089	Sans me lâcher le bras...|{E0A} s'est lancée|dans une grande discussion|avec ceux du club manga !{attente}{page}{fin}
+@06090	On dirait qu'elle a|enfin fini...{attente}{page}{fin}
+@06091	Oups, pardon, pardon !{attente}|J'ai pas vu le temps passer|à papoter ! T'as l'air|crevé, dis donc !{attente}{page}{fin}
+@06092	Quand on est fatigué...|rien de tel que du sucré !{attente}|Du coup, on y va !{attente}{page}{fin}
+@06093	Hein, on va où, encore ?{attente}{page}{fin}
+@06094	Au salon de thé japonais !{attente}|Un vrai Japonais, il lui|faut des gâteaux japonais|et du thé vert !{attente}{page}{fin}
+@06095	Pour me faire pardonner|de t'avoir trimballé, je|t'offre un anmitsu !{attente}{page}{fin}
+@06096	......|En mangeant son anmitsu,|{E0A} me regarde|d'un air un peu gêné...{attente}{page}{fin}
+@06097	Dis, euh, dis...{attente}|Pardon de t'avoir|trimballé partout !{attente}{page}{fin}
+@06098	...En fait...{attente}|Je voulais faire le tour|avec toi, {F08}.{attente}{page}{fin}
+@06099	C'était donc ça...|...Rien que de voir {E0A}|faire cette tête-là...|j'en oublie ma fatigue !{attente}{page}{fin}
+@06100	Ensuite, on a recommandé|de la soupe de haricots|rouges et des mitsumame,|et on s'est bien reposés...{attente}{page}{fin}
+@06101	Q-quoi, encore...?{attente}{page}{fin}
+
+; ---- accessoires offerts (suite)
+@06102	{F07} !{attente}|Je l'ai mis, regarde !{attente}{page}{fin}
+@06103	Hihi !{attente}|C'est le cadeau|que {F07} m'a fait :{attente}{page}{fin}
+@06104	le pendentif à breloque !{attente}|Ses couleurs sont jolies,|il fait très élégant.{attente}{page}{fin}
+@06105	Quand je le porte, je te|sens plus proche de moi,|{F07}.{attente}{page}{fin}
+@06106	{E09}...{attente}|Merci...{attente}{page}{fin}
+@06107	En voyant {E09} si|heureuse, je ressens|une émotion et un bonheur|indescriptibles...{attente}{page}{fin}
+@06108	le collier en argent !{attente}|Il est discret,|il fait très élégant.{attente}{page}{fin}
+@06109	Machinalement, je regarde|la main de {E09}...{attente}|Ah ! Mais c'est...{attente}{page}{fin}
+@06110	la bague à strass !{attente}|Elle est chic,|elle fait très élégant.{attente}{page}{fin}
+@06111	la bague en argent design.{attente}|Son style est un peu osé,|tu ne trouves pas ?{attente}{page}{fin}
+@06112	Je sens chez {E0A}|quelque chose de différent|des autres jours...{attente}{page}{fin}
+@06113	{F08} !{attente}|Je l'ai mis, regarde !{attente}{page}{fin}
+@06114	Tu le reconnais, hein !{attente}|C'est le cadeau|que {F08} m'a fait :{attente}{page}{fin}
+@06115	le collier de perles !{attente}|Je le trouve trop mignon,|je sais pas pourquoi !{attente}{page}{fin}
+@06116	Ça promet, tout ça !{attente}|Héhé !{attente}{page}{fin}
+@06117	{E0A}...{attente}|Merci...{attente}{page}{fin}
+@06118	En voyant {E0A} si|ravie, je ressens|une émotion et un bonheur|indescriptibles...{attente}{page}{fin}
+@06119	le collier « relax » !{attente}|Parce qu'il est|trop mignon !{attente}{page}{fin}
+
+; ---- feu de camp
+@06120	La fête du lycée touche|enfin à son apogée...{attente}{page}{fin}
+@06121	On a allumé le bûcher|sur le terrain de sport...{attente}{page}{fin}
+@06122	Les élèves se rassemblent|autour des flammes, comme|pour retenir la fête|encore un peu...{attente}{page}{fin}
+@06123	Moi aussi... je me sens|un peu triste, et j'ai|le cœur serré...{attente}{page}{fin}
+@06124	...Tiens ?|Quelqu'un s'approche !{attente}{page}{fin}
+@06125	{F03}...{attente}|Tu étais là...{attente}{page}{fin}
+@06126	Notre premier feu de camp|au lycée...{attente}|Quand je suis entrée ici...{attente}{page}{fin}
+@06127	je n'aurais jamais pensé|me retrouver comme ça|avec toi, {F03}...{attente}{page}{fin}
+@06128	Ce serait bien...{attente}|qu'on le regarde encore|ensemble l'an prochain...{attente}{page}{fin}
+@06129	...Éclairés par les|flammes, les yeux de {E04}|scintillent...{attente}{page}{fin}
+@06130	Grâce à toi, ma première|fête du lycée a été|géniale...{attente}|Merci, vraiment...{attente}{page}{fin}
+@06131	Ah, t'es là !{attente}|Je te cherchais...{attente}|Je peux regarder avec toi ?{attente}{page}{fin}
+@06132	Un feu de camp, c'est la|première fois que j'en vois,{attente}|c'est impressionnant...{attente}{page}{fin}
+@06133	C'est un peu triste,|mais c'est super beau.{attente}|Émouvant...{attente}{page}{fin}
+@06134	Cette émotion...|je voulais la partager|avec toi, {F04}...{attente}{page}{fin}
+@06135	Alors je t'ai cherché|partout|......{attente}{page}{fin}
+@06136	...Éclairé par les flammes,|le visage de Mizuki|paraît tout rouge,|comme brûlant...{attente}{page}{fin}
+@06137	Tout doucement... je lui|caresse la joue...{attente}|Mizuki baisse les yeux,|l'air si heureuse...{attente}{page}{fin}
+@06138	Alors, {F05},{attente}|ton premier|feu de camp ?{attente}{page}{fin}
+@06139	C'est super beau,|ça émeut, hein ?{attente}{page}{fin}
+@06140	Quand on le regarde seule,|ça donne une impression|de grande solitude...{attente}{page}{fin}
+@06141	Mais selon la personne|avec qui on le regarde,|c'est si émouvant qu'on|en pleurerait !{attente}{page}{fin}
+@06142	...Zut...{attente}|J'ai dû recevoir une|poussière dans l'œil...|Ça coule...{attente}{page}{fin}
+@06143	À la lueur des flammes...|les yeux de Yumi semblent|vaciller...{attente}{page}{fin}
+@06144	Tout doucement... du bout|du doigt, j'essuie la larme|qui allait couler...{attente}|...Yumi...{attente}{page}{fin}
+@06145	Ah, {F06}~ !{attente}|Je peux rester|avec toi~ ?{attente}{page}{fin}
+@06146	Shinozawa se sent toute...|sentimentale, ce soir~{attente}{page}{fin}
+@06147	Pourquoi un feu de camp,|c'est si... mélancolique|comme ça~ ?{attente}{page}{fin}
+@06148	À l'école primaire,|quand j'en voyais, je|m'amusais comme une folle~{attente}{page}{fin}
+@06149	Ça veut dire que|Shinozawa est devenue|une grande~ ?{attente}|Nyaha...{attente}{page}{fin}
+@06150	Le profil de {E08},|plus sage que jamais...{attente}{page}{fin}
+@06151	Sans réfléchir...|je lui ai caressé|sa petite tête...{attente}{page}{fin}
+@06152	{F07}...|Je peux regarder|avec toi...?{attente}{page}{fin}
+@06153	Toute seule, je me sens|le cœur serré...{attente}{page}{fin}
+@06154	L'envie de revoir ceux que|j'aime ne cesse de monter|en moi...{attente}{page}{fin}
+@06155	Ce que je voyais devant|moi, c'étaient mes amis|d'Amérique et d'Allemagne...{attente}{page}{fin}
+@06156	et toi, {F07}...|c'était ton visage.|...{attente}{page}{fin}
+@06157	...À la lueur des flammes,|les yeux de {E09}|tremblent légèrement...{attente}{page}{fin}
+@06158	Tout doucement... je pose|ma main sur sa joue.|...{attente}{page}{fin}
+@06159	À force de regarder ce feu{attente}|je me sens toute|sentimentale, moi aussi...{attente}{page}{fin}
+@06160	Je t'ai cherché partout,|{F08}, partout...{attente}|j'avais le cœur serré...{attente}{page}{fin}
+@06161	C'est la magie du|feu de camp, je suppose...|{attente}Héhé{attente}{page}{fin}
+@06162	Le profil de {E0A},|plus sage que jamais...{attente}{page}{fin}
+@06163	{F08}...|T'étais là...{attente}|Je t'ai cherché partouuut{attente}{page}{fin}
+@06164	C'est bizarre,|un feu de camp...{attente}{page}{fin}
+
+; ---- accessoires offerts (Konoha, suite)
+@06165	les boucles d'oreilles|fantaisie ! Je les trouve{attente}|trop mignonnes, je sais|pas pourquoi !{attente}{page}{fin}
+@06166	Machinalement, je regarde|la main de {E0A}...{attente}|Ah ! Mais c'est...{attente}{page}{fin}
+@06167	la bague transparente !{attente}|Ses couleurs sont jolies,|elle est trop mignonne !{attente}{page}{fin}
+
+; ---- potins : réveillon de Noël
+@06170	Je me reposais dans la|cour de derrière quand|j'ai entendu des filles|chuchoter, à l'abri...{attente}{page}{fin}
+@06171	Dis, {F01} {F00},|avec qui il compte passer|le réveillon de Noël ?{attente}{page}{fin}
+@06172	Moi, je dirais {E04}|Saeki. T'en penses quoi ?{attente}{page}{fin}
+@06173	{E04} a l'air de pas|être contre, en tout cas.{attente}{page}{fin}
+@06174	Moi, je dirais Mizuki|Takao. T'en penses quoi ?{attente}{page}{fin}
+@06175	Mizuki a l'air de|bien l'aimer aussi,|{F00}-kun.{attente}{page}{fin}
+@06176	Moi, je dirais|Matsuda-senpai, de 2e.|T'en penses quoi ?{attente}{page}{fin}
+@06177	Elle s'occupe pas mal de|lui, et ça a pas l'air de|lui déplaire, non ?{attente}{page}{fin}
+@06178	Moi, je dirais {E08}|Shinozawa. T'en dis quoi ?{attente}{page}{fin}
+@06179	Shinozawa, quoi qu'elle|fasse, ça étonnerait|personne...{attente}{page}{fin}
+@06180	Moi, je dirais {E09}|Okada. T'en penses quoi ?{attente}{page}{fin}
+@06181	Ça se tient carrément,|non ?{attente}{page}{fin}
+@06182	Moi, je dirais {E0A}|Kobayashi. T'en dis quoi ?{attente}{page}{fin}
+@06183	Avec {F00}-kun, même|{E0A} a l'air plus|calme, je trouve...{attente}{page}{fin}
+@06184	Et vu comme ils s'entendent|bien, c'est clairement...{attente}|{E04} Saeki !{attente}{page}{fin}
+@06185	Et vu comme ils s'entendent|bien, c'est clairement...{attente}|Mizuki Takao !{attente}{page}{fin}
+@06186	Et vu comme ils s'entendent|bien, c'est clairement...{attente}|Yumi Matsuda-senpai !{attente}{page}{fin}
+@06187	Et vu comme ils s'entendent|bien, c'est clairement...{attente}|{E08} Shinozawa !{attente}{page}{fin}
+@06188	Et vu comme ils s'entendent|bien, c'est clairement...{attente}|{E09} Okada !{attente}{page}{fin}
+@06189	Et vu comme ils s'entendent|bien, c'est clairement...{attente}|{E0A} Kobayashi !{attente}{page}{fin}
+@06190	Mais bon... la vraie|réponse, c'est sûrement|qu'on n'en sait rien~{attente}{page}{fin}
+@06191	C'est clair~ Au lieu de|s'occuper des autres, on|ferait mieux de penser|à nous~ !{attente}{page}{fin}
+@06192	Trop vrai, trop vrai~ !{attente}|J'aimerais bien m'attraper|un beau mec, moi !{attente}{page}{fin}
+
+; ---- divers
+@06193	Pfiou...{attente}|Revenir pour de vrai au|lycée après tout ce temps,|c'est crevant...{attente}{page}{fin}
+@06194	...Mais il n'y a plus de|jour de présence ! Dès|demain, je profite du reste|des vacances d'été !{attente}{page}{fin}
+@06195	Une fête de quartier pour|un rencard... c'est ni bien|ni mal, je trouve...{attente}{page}{fin}
+@06196	Avec toi, {F05}, on|se connaît bien, alors|on va s'amuser !{attente}{page}{fin}
+@06197	{F05}, merci|de m'avoir invitée.{attente}{page}{fin}
+@06198	Nyaha !{attente} Être emmenée|au feu d'artifice que|Shinozawa adore~{attente}{page}{fin}
+@06199	Alors, tu m'as invitée|ici, {F06}, et ça rend|Shinozawa trop contente~ !{attente}{page}{fin}
+
+; ---- Maeno et la fille de la 1-D (Ruruna)
+@06200	Shiro Maeno s'est pointé|vers moi avec un sourire|en coin, l'air tout émoustillé.{attente}{page}{fin}
+@06201	Yo, {F00} !|J'ai un super tuyau !|Accroche-toi bien !!{attente}{page}{fin}
+@06202	Waaah ! Quelle surprise !|Ouah la la ! Gyaaah !{attente}|...Ça te va, comme ça ?{attente}{page}{fin}
+@06204	Je rigole...{attente}|Bon, c'est quoi, ton tuyau ?{attente}{page}{fin}
+@06205	Ah ouais ! Le tuyau !{attente}|...{attente}Et va pas me sortir|« Quel tuyau ? », hein.{attente}{page}{fin}
+@06206	Tch !{attente}{page}{fin}
+@06207	...{attente}Écoute, il paraît qu'il|y a une fille ultra-mignonne|en 1-D !{attente}{page}{fin}
+@06208	D'après la rumeur...{attente}|quand elle penche la tête|sur le côté, c'est|à craquer !{attente}{page}{fin}
+@06209	Pencher la tête sur|le côté, hein...{attente}{page}{fin}
+@06210	Ça me rappelle une manie|de {E04} quand on était|petits...{attente}{page}{fin}
+@06211	Un de ces jours, on va|la mater ensemble !{attente}|Héhéhé !{attente}{page}{fin}
+@06212	La fille que j'ai aperçue|l'autre fois, et cette|rumeur...{attente} Et si...{attente}|c'était {E04}...?{attente}{page}{fin}
+@06213	Dis, {F00} !{attente}|Tu te souviens de la|beauté de la 1-D dont|je t'ai parlé ?{attente}{page}{fin}
+@06214	Ça s'oublie pas, hein !{attente}|Du coup, on va la|mater tout de suite !{attente}{page}{fin}
+@06215	Sans même attendre ma|réponse, Maeno m'a traîné|à moitié de force jusqu'à|la salle de la 1-D...{attente}{page}{fin}
+@06216	...|...|Maeno et moi, nous voilà|devant la salle de la 1-D !{attente}{page}{fin}
+@06217	...Et pile à ce moment-là,|une fille est sortie|de la classe !!{attente}{page}{fin}
+@06218	Ah !{attente}|C'est bien elle ! La fille|que j'ai aperçue|l'autre fois !{attente}{page}{fin}
+@06219	Euh, d-dis...|...euh...{attente}{page}{fin}
+@06220	Maeno, tout retourné,|s'est mis à bafouiller.{attente}|Je me disais : c'est elle,|la fille de la rumeur...{attente}{page}{fin}
+@06221	L-lui, il veut une petite|copine, figure-toi !!{attente}{page}{fin}
+@06222	Maeno a hurlé ça en|me montrant du doigt,{attente}|puis il a filé|à toute vitesse !{attente}{page}{fin}
+@06223	Toute la 1-D est|morte de rire !{attente}|Et c'est encore moi|qui me fais charrier...{attente}{page}{fin}
+@06224	Grrr ! Ce Maeno !|Il me le paiera !!{attente}|Bon, moi aussi, je file|en classe...{attente}{page}{fin}
+@06225	Euh, pardon si je me|trompe...{attente} mais tu ne|serais pas...{attente} ...{F03} ?{attente}{page}{fin}
+@06226	Si...{attente} Euh... je me|trompe peut-être, mais...|{attente}t'es {E04}, non ?{attente}{page}{fin}
+@06227	Waouh ! Ça me rappelle|plein de souvenirs !{attente}|Ça fait combien d'années ?|Même lycée, quel hasard !{attente}{page}{fin}
+@06228	Ça fait un bail !{attente} En fait,|je t'ai aperçue plusieurs|fois, et je me disais que|c'était peut-être toi !{attente}{page}{fin}
+@06229	Ah bon ?{attente}|Fallait venir me parler,|voyons !{attente}{page}{fin}
+@06230	Je te perdais tout de|suite de vue, j'ai pas eu|le temps de t'appeler...{attente}{page}{fin}
+@06231	Ah, tu sortais pour aller|quelque part, non ?{attente}|Je retourne en classe.{attente}{page}{fin}
+@06232	D'accord, alors|à plus, {F03} !{attente}{page}{fin}
+@06233	C'était bien {E04} !{attente}|{E04}...{attente} Elle est devenue|si jolie que j'en ai|le cœur qui bat...{attente}{page}{fin}
+
+; ---- club de travaux manuels : Ruruna
+@06234	À partir d'aujourd'hui,|je suis membre officiel du|club de travaux manuels !{attente}|Garçon ou pas, j'y vais !{attente}{page}{fin}
+@06235	Ah, {F03} !{attente}|Toi aussi, tu es entré|au club de travaux manuels !{attente}{page}{fin}
+@06236	À partir de maintenant, on|va bien s'amuser ensemble !{attente}|Ravie de t'avoir avec nous !{attente}{page}{fin}
+@06237	Moi aussi, ravi !{attente}{page}{fin}
+@06238	Génial !|Le même club que {E04} !{attente}{page}{fin}
+@06239	Ah ! C'est la fille de|l'autre fois... celle qui|ressemble à {E04} !{attente}{page}{fin}
+@06240	Eh oui...|Mais je suis contente !|Le même club que toi !{attente}{page}{fin}
+
+; ---- rencontre : Mizuki
+@06241	L'entraînement du club|d'athlé !{attente} Oh !{attente}|Un mec court, là... avec|une tête de tombeur !{attente}{page}{fin}
+@06242	Hein ? Attends...{attente}|J'ai cru que c'était un mec,|mais en regardant mieux...{attente}|Non ! C'est une fille !{attente}{page}{fin}
+@06243	Une fille en tenue de|course qui court de toutes|ses forces, je trouve ça|plutôt émouvant !{attente}{page}{fin}
+@06244	Et en y regardant bien,|elle est mignonne !{attente}|Elle m'intrigue un peu...{attente}{page}{fin}
+@06245	(Incident au bord|de la rivière){n}{fin}
+@06246	À force de me balader,|il fait déjà nuit noire !{attente}|Faut que je rentre vite...{attente}{page}{fin}
+@06247	Hein ? Il y a un truc par|terre...{attente} ou plutôt posé ?{attente}|Ah ! C'est...{attente}|N-non, un cadavre ?!{attente}{page}{fin}
+@06248	C-c'est grave !!|Qu-qu-qu'est-ce que|je fais ?!{attente}|...Il faut... la p-p-police...{attente}{page}{fin}
+@06249	Frrrt !!{attente}{page}{fin}
+@06250	Waaaaaaaah !|L-le cadavre a bougé !!!{attente}{page}{fin}
+@06251	Panique pas comme ça !{attente}|Je suis vivante, et pas un|fantôme : j'ai des pieds !{attente}{page}{fin}
+@06252	Ah !{attente} P-pardon !{attente}|C'est-à-dire...|je me suis trompé !{attente}{page}{fin}
+@06253	Haha ! T'excuse pas|comme ça, va !{attente}{page}{fin}
+@06254	J'avais qu'à pas me|coucher ici pour me|reposer. Moi aussi,{attente}|pardon !{attente}{page}{fin}
+@06255	Tiens...?{attente}|Toi, je t'ai pas déjà vue|au club d'athlé...?{attente}{page}{fin}
+@06256	Hein, t'es aussi au lycée|Koigahara ?{attente} Moi, c'est|Mizuki Takao, de la 1-E.{attente}{page}{fin}
+@06257	Ah, moi, c'est|{F01} {F00},{attente}|de la 1-B !{attente}{page}{fin}
+@06258	Ah, on est tous les deux|en 1re année, alors !{attente}|Enchantée, {F04} !{attente}{page}{fin}
+@06259	Oh, faut que je rentre !{attente}|Allez, salut !{attente}{page}{fin}
+@06260	Mizuki Takao, hein...{attente}|Elle a l'air franche,|et elle est mignonne...{attente}|Elle m'intrigue !{attente}{page}{fin}
+@06261	J'ai couru un peu, et|j'étais crevée, alors...{attente}{page}{fin}
+@06262	À partir d'aujourd'hui, je|suis membre officiel du|club d'athlé !{attente}|Je vais courir à fond !{attente}{page}{fin}
+@06263	Ah, {F04} !{attente}|Toi aussi, t'es entré|au club d'athlé !{attente}{page}{fin}
+@06264	On se donne à fond pour|faire de bons temps, OK ?{attente}{page}{fin}
+@06265	Allez !|Je vais tout donner|pour suivre Mizuki !{attente}{page}{fin}
+@06266	Ah !{attente} Une fille|mignonne qui n'a pas du|tout l'air de faire|de l'athlé !{attente}{page}{fin}
+@06267	Ah, les nouveaux garçons,|on leur a pas dit de se|réunir au local du club ?{attente}{page}{fin}
+@06268	Ah bon ? Je savais pas !|Merci beaucoup !{attente}|Et toi, tu es...?{attente}{page}{fin}
+@06269	Mizuki Takao...|pourquoi ?{attente}{page}{fin}
+@06270	Moi, c'est {F01} {F00} !|Enchanté, Takao-san !{attente}{page}{fin}
+@06271	...'lut...{attente}{page}{fin}
+@06272	Ouais, à plus !|Bon courage à nous deux !{attente}{page}{fin}
+
+; ---- divers (sorties)
+@06273	Les feux d'artifice|japonais, quand je les ai|vus seule, ne m'ont pas|tellement émue...{attente}{page}{fin}
+@06274	mais avec toi, {F07},|je ne sais pas pourquoi,|je suis touchée...{attente}{page}{fin}
+@06275	Toi aussi, {F07}...|tu ressens ça, non ?{attente}{page}{fin}
+@06276	Bon, du feu d'artifice,|ça me va !{attente} J'adore pas|spécialement, mais je|déteste pas non plus !{attente}{page}{fin}
+@06277	Avec toi, {F08}, ça va|faire un bon souvenir, et|ça me rend trop contente !{attente}{page}{fin}
+@06278	Ça me fait plaisir qu'elle|dise ça d'un rencard avec|moi...{attente} Et en plus...{attente}{page}{fin}
+@06279	Maintenant, je trouve ça|super intéressant,|et trop beau !{attente}|C'est trop bizarre...♥{attente}{page}{fin}
+@06280	Le regarder avec toi,|{F04}, ça me touche...{attente}|C'est trop bizarre...♥{attente}{page}{fin}
+@06281	En le portant, je me|disais que j'aurais|peut-être de la chance|en rencard avec {F08} !{attente}{page}{fin}
+
+; ---- Tanabata
+@06282	(Soir de Tanabata){n}{fin}
+@06283	Ah !|C'est vrai, aujourd'hui,|c'est Tanabata !{attente}{page}{fin}
+@06284	Et si je faisais|un vœu...{attente}{page}{fin}
+@06285	(Quel vœu faire ?){n}{fin}
+@06286	{FFB}Fortune{n}　Santé{n}　Amour{fin}
+@06287	J'ai fait le vœu|d'avoir de la chance|avec l'argent !{attente}{page}{fin}
+@06288	J'ai fait le vœu|d'être en bonne santé !{attente}{page}{fin}
+@06289	J'ai fait le vœu que|tout marche bien|en amour !{attente}{page}{fin}
+
+; ---- rencontre : Yumi
+@06290	En passant devant|Hamburger KAWAI...{attente}{page}{fin}
+@06291	Une employée distribuait|des bons de réduction|devant la boutique...{attente}{page}{fin}
+@06292	Tenez !|Un bon de réduction !|Bonne journée !{attente}{page}{fin}
+@06293	Oh ! Quelle jolie fille !{attente}|Elle n'a pas l'air bien|plus âgée que moi...{attente}|Elle fait un petit boulot ?{attente}{page}{fin}
+@06294	...Si elle est au lycée,|on est peut-être dans|le même...?{attente}|...Elle m'intrigue un peu...{attente}{page}{fin}
+@06295	J'allais franchir le portail|du lycée{attente} quand quelqu'un|m'a interpellé derrière moi !{attente}{page}{fin}
+@06296	Yo, {F00} !|En rentrant, on va jeter|un œil au fast-food !{attente}{page}{fin}
+@06297	Ah, c'est toi, Maeno !{attente}|...Jeter un œil...|comment ça ?{attente}{page}{fin}
+@06298	Bonne question !{attente}|Paraît qu'il y a une jolie|fille qui bosse là-bas !{attente}{page}{fin}
+@06299	Une jolie fille, ça te|donne envie de voir, non ?{attente}|Allez, suis-moi !{attente}{page}{fin}
+@06300	Maeno m'a traîné à moitié|de force jusqu'au|fast-food...{attente}{page}{fin}
+@06301	Maeno et moi, nous voilà|devant le fast-food où|bosserait la jolie|serveuse...{attente}{page}{fin}
+@06302	E-elle est là-dedans !{attente}|Héhéhéhé !{attente}{page}{fin}
+@06303	Mais dis, entrer sans|rien manger... ça te gêne|pas un peu ?{attente}{page}{fin}
+@06304	I-idiot, sur la carte, y a|un produit qui s'appelle|« Sourire d'ange », 0 yen !{attente}{page}{fin}
+@06305	Pas assez courageux pour|entrer, on se dandinait|devant la boutique...|......{attente}{page}{fin}
+@06306	Hé, attention !|Quelqu'un sort !{attente}{page}{fin}
+@06307	Ah !{attente} C'est la fille qui|distribuait les bons !{attente}|Elle nous a peut-être|repérés !{attente}{page}{fin}
+@06308	Oh merde !|On se tiiire !!{attente}{page}{fin}
+@06309	Ah ! Maeno !!{attente}{page}{fin}
+@06310	Maeno s'est enfui d'un|coup, en sprintant !{attente}|Et moi, au moment où|j'allais détaler aussi...{attente}{page}{fin}
+@06311	Boum !{attente}|Je me suis pris les pieds|et je suis tombé !{attente}{page}{fin}
+@06312	Aïe aïe aïe...{attente}{page}{fin}
+@06313	Ça va, monsieur...?{attente}|Oh là là !|Vous êtes écorché !{attente}{page}{fin}
+@06314	Je suis désolée !{attente}|C'est moi qui vous ai fait|peur, on dirait...{attente}{page}{fin}
+@06315	Entrez m'attendre à|l'intérieur !{attente}|Je vais désinfecter ça !{attente}{page}{fin}
+@06316	Ah, non...|ça va, je vous assure !{attente}{page}{fin}
+@06317	Qu'est-ce que vous dites !{attente}|Même une petite blessure,|faut pas la prendre à la|légère !{attente} Allez !!{attente}{page}{fin}
+@06318	Sur l'insistance de|l'employée, je suis entré|dans la boutique...{attente}{page}{fin}
+@06319	Aussitôt, elle a apporté|la trousse de secours|du magasin et m'a collé|un pansement au genou !{attente}{page}{fin}
+@06320	Et voilà !{attente}|Dis, tu es un nouveau|du lycée Koigahara, non ?{attente}{page}{fin}
+@06321	En fait, moi aussi, je suis|au lycée Koigahara !{attente} Moi,|c'est Yumi Matsuda, 2-A !{attente}{page}{fin}
+@06322	Vous êtes en 2e année ?!{attente}|Ah, moi, c'est|{F01} {F00}, de la 1-B !{attente}{page}{fin}
+@06323	Pardon de vous avoir parlé|aussi familièrement !{attente}{page}{fin}
+@06324	Oh, c'est rien !{attente}|Moi, les manières|guindées, j'aime pas !{attente}{page}{fin}
+@06325	Bon, je retourne bosser,|à plus !{attente}|Prends soin de ta jambe !{attente}{page}{fin}
+@06326	Cette jolie fille s'appelle|Yumi Matsuda, hein...{attente}|En plus, elle est gentille...{attente}|Elle m'intrigue un peu...{attente}{page}{fin}
+
+; ---- petit boulot à Hamburger KAWAI
+@06327	J'ai officiellement|commencé mon petit boulot|à Hamburger KAWAI !{attente}{page}{fin}
+@06328	Je commence à travailler|ici aujourd'hui, je|m'appelle {F01} {F00} !{attente}{page}{fin}
+@06329	Je vais travailler dur,|ravi de faire votre|connaissance !!{attente}{page}{fin}
+@06330	{F03} !|Tu as commencé ici !{attente}|Un collègue de plus,|je suis contente !{attente}{page}{fin}
+@06331	Ici, le plus important,|c'est le sourire, l'énergie|et la propreté !{attente}|Bon courage !{attente}{page}{fin}
+@06332	Ouais, merci !|Je vais faire de mon mieux !{attente}{page}{fin}
+@06333	Si tu as une question,|n'hésite surtout pas !{attente}|Allez, on s'y met !{attente}{page}{fin}
+@06334	Allez !{attente}|Au boulot, et à fond !{attente}{page}{fin}
+@06335	Tiens, tu serais pas|un élève du lycée|Koigahara, toi ?{attente}{page}{fin}
+@06336	Ah bon ?!{attente}|Enchanté !{attente}{page}{fin}

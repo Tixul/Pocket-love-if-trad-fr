@@ -1,0 +1,361 @@
+; Lot 02 : rentrer ensemble, rencontres en chemin, café / fast-food / boutiques, parc, raccompagner.
+@00370	{F03} !{attente}|Dis ?|On rentre ensemble ?{attente}{page}{fin}
+@00371	Toi aussi, {F04},|t'as bientôt fini, non ?{attente}|On rentre ensemble ?{attente}{page}{fin}
+@00372	Super !{attente}|Alors je t'attends le temps|que tu te changes !{attente}{page}{fin}
+@00373	{F05}, bien joué !{attente}|Tant qu'à faire, on fait|un bout de route ensemble ?{attente}{page}{fin}
+@00374	J'aime quand t'es franc !{attente}|Je t'attends pendant que|tu te changes, alors|grouille ! Hihi !{attente}{page}{fin}
+@00375	T'es pas drôle...{attente}|Bon, j'y vais !|À plus !{attente}{page}{fin}
+@00376	Ah, c'est {F06}~ !{attente}|Un retour tout mignon avec|Shinozawa, ça te dit~ ?{attente}{page}{fin}
+@00377	Youpi, youpiii~ !{attente}|Alors on rentre en parlant|jeux vidéo~ !{attente}{page}{fin}
+@00378	{F07} !{attente}|Si tu veux, on pourrait|rentrer ensemble ?{attente}{page}{fin}
+@00379	Oh, ça me fait plaisir !{attente}|Je suis toute excitée...{attente}|Rentrons vite !{attente}{page}{fin}
+@00380	Ah, pardon...{attente}|Je n'ai même pas pensé|que tu avais peut-être|autre chose à faire...{attente}{page}{fin}
+@00381	Ouaiiis !{attente}|Alors je t'attends le|temps que tu te changes !{attente}{page}{fin}
+@00382	Bon, ben c'est comme ça...|C'est un peu triste,|mais à la prochaine !{attente}{page}{fin}
+@00383	Rentrer avec {F06},|c'est bien plus rigolo~ !{attente}|On rentre, on rentre~ !{attente}{page}{fin}
+@00384	(Incident pendant le boulot){n}{fin}
+@00385	Alors qu'on marchait tous|les deux en bavardant,|quelqu'un est arrivé...{attente}{page}{fin}
+@00386	{F03}, quel hasard !|J'allais prendre un thé...{attente}|...Oh...{attente}{page}{fin}
+@00387	Hmm... je vois !{attente}|On dirait que je dérange.|Je vais rentrer...{attente}{page}{fin}
+@00388	Ah, non...|c'est pas ce que...{attente}{page}{fin}
+@00389	Leurs gâteaux sont bons,|goûtez-les donc à deux !{attente}|Allez, au revoir !{attente}{page}{fin}
+@00390	Hmm, ça, c'était un peu...{attente}|non, carrément la cata...{attente}{page}{fin}
+@00391	{F04} !|Ah...{attente}{page}{fin}
+@00392	Désolée, on dirait que|je dérange...{attente}|...Bon, ben...{attente}{page}{fin}
+@00393	Ah, {F05} !|Tu rentres ?|Tiens, tiens...{attente}{page}{fin}
+@00394	On rentre main dans la|main, hein ? Pas mal,|{F05}, je suis bluffée !{attente}{page}{fin}
+@00395	Bon, si c'est comme ça,|l'intruse s'éclipse...{attente}|Allez, à la{attente} pro{attente}chaine !{attente}{page}{fin}
+@00396	{F06}, t'es à|l'arcade ? Un petit duel|contre Shinozawa~ ?{attente}|...Ah, mais en fait...{attente}{page}{fin}
+@00397	Snif snif... nyaa~...{attente}|Shinozawa bat en retraite...{attente}|Bonne idylle, vous deux~{attente}{page}{fin}
+@00398	Mais c'est {F07} ?{attente}|Oh...{attente}{page}{fin}
+@00399	Je ne voulais pas gêner,|pardon de t'avoir appelé !{attente}|Bon, au revoir.{attente}{page}{fin}
+@00400	Salut, {F08} !|On se fait le manga-café|de là-bas ? Ça te...{attente} Oh !{attente}{page}{fin}
+@00401	Oups, mauvais timing !|La pot de colle ferait|mieux de décamper !{attente}{page}{fin}
+@00402	Bon ben...{attente}{page}{fin}
+@00403	Ah ! Ça sent le cheesecake|bien sucré...{attente}|Ça vient du café, là-bas.{attente}{page}{fin}
+@00404	{FFB}L'inviter à en manger{n}　Laisser tomber{fin}
+@00405	Dis, ça te dit un bon|cheesecake au café,|un peu plus loin ?{attente}{page}{fin}
+@00406	Ah, leurs gâteaux sont|délicieux !{attente}{page}{fin}
+@00407	Mais aujourd'hui, je n'ai|pas trop le temps...{attente}|Une autre fois...{attente}{page}{fin}
+@00408	Ah, d'accord...{attente}|Alors ce sera pour|une prochaine fois...{attente}{page}{fin}
+@00409	Rien que d'y penser,|ça me donne envie !{attente}|Allez ! On y va !{attente}{page}{fin}
+@00410	・|・|Nous sommes allés au café.{attente}{page}{fin}
+@00411	Nous sommes entrés|dans le café.|・|・{attente}{page}{fin}
+@00412	Pour aujourd'hui,|je vais laisser tomber...{attente}{page}{fin}
+@00413	(Incident au café){n}{fin}
+@00414	{E04} savoure son|cheesecake, l'air ravie...{attente}|Trop mignonne ♥♥{attente}{page}{fin}
+@00415	Trop bon ♥{attente}|Leur cheesecake, c'est|vraiment le meilleur !{attente}{page}{fin}
+@00416	Mmmh, c'est tellement bon|que {E04} va fondre|sur place ♥{attente}{page}{fin}
+@00417	Après une pause au café,|nous sommes retournés|dans la rue commerçante.{attente}{page}{fin}
+@00418	On a pu se reposer, et le|gâteau était délicieux !|J'ai passé un super moment !{attente}{page}{fin}
+@00419	Génial !|Elle a l'air aux anges !|J'ai bien fait de l'inviter !{attente}{page}{fin}
+@00420	Désolée...{attente}|J'évite les sucreries,|alors je vais passer...{attente}{page}{fin}
+@00421	Voyons...{attente}|De temps en temps, ça ne|fait pas de mal...{attente}|Allez, on y va !{attente}{page}{fin}
+@00422	Mizuki qui savoure son|cheesecake...{attente}|Qu'elle est mignonne ♥♥{attente}{page}{fin}
+@00423	Il est pas trop sucré, ce|gâteau, pas écœurant !{attente}|Haha, il est super bon !{attente}{page}{fin}
+@00424	De temps en temps,|un truc sucré, ça fait|du bien !{attente}{page}{fin}
+@00425	Avec l'athlé, d'habitude|je n'en mange presque pas.|Ça m'a fait plaisir !{attente}{page}{fin}
+@00426	Dis, on va manger|un hamburger ?{attente}{page}{fin}
+@00427	J'adore les hamburgers,|mais aujourd'hui, j'ai pas|trop envie...{attente}{page}{fin}
+@00428	Ah, d'accord...{attente}|Tant pis, alors.{attente}|Bon, on y va.{attente}{page}{fin}
+@00429	Ouais...{attente} justement, j'y|pensais aussi.|On s'arrête !{attente}{page}{fin}
+@00430	Quand je la regarde bien...|ses lèvres qui bougent...{attente}|je la trouve super sexy ♥{attente}{page}{fin}
+@00431	(Au fast-food){n}{fin}
+@00432	La façon dont Yumi mange|son hamburger...{attente}{page}{fin}
+@00433	Ici, le burger teriyaki,|c'est la sauce qui fait|toute la différence !{attente}{page}{fin}
+@00434	Les regards de mes|collègues me gênent un peu,{attente}|mais bon... hihi ♥{attente}{page}{fin}
+@00435	Ah ! Ça sent bon !{attente}|C'est des hamburgers ?{attente}|J'ai un petit creux...{attente}{page}{fin}
+@00436	Mais c'est peut-être...{attente}|parce qu'on était rien que|tous les deux ? Hihi ♥{attente}{page}{fin}
+@00437	En tout cas, elle a l'air|plutôt contente. J'ai bien|fait de l'inviter !{attente}{page}{fin}
+@00438	Elle est contente...{attente}|et moi, ça me rend|tout heureux ♥{attente}{page}{fin}
+@00439	Alors aujourd'hui,|la serveuse est hors|service ! Hihi, je blague !{attente}{page}{fin}
+@00440	Nous avons mangé|tranquillement, puis|nous sommes sortis...{attente}{page}{fin}
+@00441	Je bosse ici tout le temps,|alors être cliente, ça|me fait tout bizarre.{attente}{page}{fin}
+@00442	Mais ça m'a paru encore|meilleur que d'habitude !{attente}{page}{fin}
+@00443	Ah, ça sent bon le café !|J'ai une envie folle|d'en boire un !{attente}{page}{fin}
+@00444	{FFB}L'inviter à boire un verre{n}　Laisser tomber{fin}
+@00445	Dis, on s'arrête ici|boire quelque chose ?{attente}{page}{fin}
+@00446	Nyaa~...{attente}|Shinozawa n'a pas du tout|envie, là~{attente}{page}{fin}
+@00447	Ah, pile le bon moment !|Shinozawa a soif aussi~{attente}|On y va, on y va~ !{attente}{page}{fin}
+@00448	Nous sommes entrés|dans le café.|・|・{attente}{page}{fin}
+@00449	Shinozawa qui boit son lait|d'un trait...{attente}|ça fait super...{attente}|coquin...{attente} Héhé{attente}{page}{fin}
+@00450	Pwaaah !!{attente}|Leur lait est bien crémeux,|c'est trop bon~ !{attente}{page}{fin}
+@00451	Shinozawa adore le lait|bien crémeux~{attente}|Ça la rend heureuse~ ♥{attente}{page}{fin}
+@00452	Après un moment tranquille|au café, nous sommes|sortis...{attente}{page}{fin}
+@00453	Myooo~ !|C'était trop bon~ !{attente}{page}{fin}
+@00454	Mais ça fait moins de|temps pour jouer, c'est|un peu dommage~{attente}{page}{fin}
+@00455	C'est gentil, mais...{attente}|aujourd'hui, je n'ai pas|vraiment le temps.{attente}{page}{fin}
+@00456	Good idea!{attente}|Oh, l'anglais m'a échappé ♥{attente}|Allons-y vite !{attente}{page}{fin}
+@00457	{E09} qui porte le|cheesecake à sa bouche...{attente}|qu'elle est mignonne ♥{attente}{page}{fin}
+@00458	C'est délicieux !{attente}|C'est tout léger, et ça|fond dans la bouche !{attente}{page}{fin}
+@00459	J'adore leur|cheesecake... ♥{attente}{page}{fin}
+@00460	On dirait que ça lui plaît !{attente}{page}{fin}
+@00461	{F07},|merci !|C'était délicieux !{attente}{page}{fin}
+@00462	Et puis...{attente} passer un bon|moment comme ça, rien que|tous les deux, c'est génial !{attente}{page}{fin}
+@00463	{FFB}L'inviter à manger un thé{n}　Laisser tomber{fin}
+@00464	Dis, ça te dit qu'on aille|manger un thé, là ?{attente}{page}{fin}
+@00465	« Manger un thé » ?!|{F08}, t'es trop bizarre !|Hé hé ! Trop drôle !{attente}{page}{fin}
+@00466	Zut, la boulette...|Je m'en étais même pas|rendu compte...{attente}{page}{fin}
+@00467	Mais désolée !|Les endroits chics comme|ça, c'est pas mon truc !{attente}{page}{fin}
+@00468	Oh, t'es tout rouge !{attente}|Rien que pour ta bouille,|je veux bien venir !{attente}{page}{fin}
+@00469	M-merci...|...Snif...{attente}{page}{fin}
+@00470	{E0A} qui mange la|glace de son soda...{attente}|trop mignonne ♥{attente}{page}{fin}
+@00471	C'est pas mauvais ici,|mais moi, je préfère|les douceurs japonaises~{attente}{page}{fin}
+@00472	Un bon mochi, par exemple :|ça a plus de cachet, et|c'est moins sucré !{attente}{page}{fin}
+@00473	Merci pour le goûter !{attente}|Mmh, mais tu sais...{attente}{page}{fin}
+@00474	C'est pas très sympa de|dire ça alors que tu|m'as invitée, mais...{attente}{page}{fin}
+@00475	Ça fait trop frime, ce|genre d'endroit. J'arrive|pas à aimer ça...{attente}{page}{fin}
+@00476	...Hmm,|j'ai plutôt fait|une gaffe, là...{attente}{page}{fin}
+@00477	Alors que tu jouais~...{attente}|Shinozawa a les larmes aux|yeux, nyaa~...{attente}|...Bon, salut.{attente}{page}{fin}
+@00478	Coach, je t'attendais !{attente}|...Nan, je blague !|On rentre ensemble !!{attente}{page}{fin}
+@00479	・|・|Nous sommes partis.{attente}{page}{fin}
+@00480	{E04}, qui marchait à|côté de moi, m'a regardé|avec un sourire espiègle !{attente}{page}{fin}
+@00481	{F03}...{attente} Tu sais,|j'ai trop envie d'une|coupe au chocolat !{attente}{page}{fin}
+@00482	{FFB}Moi aussi, j'en ai envie{n}　Moi, pas envie{fin}
+@00483	Une coupe glacée ? Ouais !{attente}|Alors arrêtons-nous|au café, là-bas.{attente}{page}{fin}
+@00484	Hihi !|J'adore leur coupe|au chocolat ♥{attente}{page}{fin}
+@00485	Ah... zut,|j'ai pas assez d'argent...{attente}{page}{fin}
+@00486	Quoi... ?{attente}|Bon, tant pis !{attente}|Aujourd'hui, c'est moi|qui t'invite.{attente}{page}{fin}
+@00487	Désolé...{attente}|J'ai pas trop envie de|sucré aujourd'hui.{attente}{page}{fin}
+@00488	Ah bon...{attente}|Alors rentrons|directement !{attente}{page}{fin}
+@00489	{E04} picore sa coupe|au chocolat, l'air ravie...{attente}|Trop mignonne ♥{attente}{page}{fin}
+@00490	Mmmh, trop bon~ !{attente}|Leur coupe au chocolat,|c'est un délice à chaque|fois ♥{attente}{page}{fin}
+@00491	Dis, {F03}...{attente}|je fonds pas, là ?{attente}|Je suis trop heureuse ♥{attente}{page}{fin}
+@00492	Manger des bonnes choses|avec {F03}, c'est|le bonheur total... ♥{attente}{page}{fin}
+@00493	Ah ! Elle est aux anges !{attente}|J'ai bien fait de venir !{attente}|Moi aussi, je suis heureux !!{attente}{page}{fin}
+@00494	Mizuki, qui marchait à|côté de moi, a fait un bond|et s'est plantée devant moi.{attente}{page}{fin}
+@00495	Dis, {F04}...{attente}{page}{fin}
+@00496	J'aimerais bien aller|voir des baskets.|Tu m'accompagnes ?{attente}{page}{fin}
+@00497	{FFB}L'accompagner{n}　Refuser{fin}
+@00498	Des baskets ? Ça marche !{attente}|Passons au magasin|de sport !{attente}{page}{fin}
+@00499	Ouais, génial !|Allez, on y va vite !{attente}{page}{fin}
+@00500	Mizuki et moi sommes|allés au magasin|de sport...{attente}{page}{fin}
+@00501	Des baskets...{attente}|Hmm, aujourd'hui, j'ai pas|trop la tête à ça...{attente}{page}{fin}
+@00502	Ah...|Bon, tant pis.{attente}|On rentre directement...{attente}{page}{fin}
+@00503	(Magasin de sport){n}{fin}
+@00504	Devant les baskets, Mizuki|a les yeux qui brillent.|Elle rayonne !{attente}{page}{fin}
+@00505	Waouh ! Elles sont bien,|celles-là ! Trop classe !{attente}{page}{fin}
+@00506	Ah, celles-ci !!{attente}|Elles t'iraient trop bien,|{F04} !{attente}{page}{fin}
+@00507	Dis, les baskets, rien|que de les regarder,|c'est sympa, hein !!{attente}{page}{fin}
+@00508	Moi, être avec Mizuki,|je trouve ça bien plus|sympa que les baskets...{attente}{page}{fin}
+@00509	Après avoir bien regardé|les baskets, on est|retournés dans la rue|commerçante.{attente}{page}{fin}
+@00510	On a fait un petit|lèche-vitrine sympa,|hein !{attente}{page}{fin}
+@00511	Le jour où tu achètes des|baskets, préviens-moi !{attente}|Je te les choisirai !{attente}{page}{fin}
+@00512	Si ça arrive...{attente}|je serai super heureux !!{attente}{page}{fin}
+@00513	Yumi, qui marchait à côté|de moi, s'est soudain|arrêtée pour me regarder !{attente}{page}{fin}
+@00514	{F05} ! On va à|Plaza Penny ?{attente}|C'est sympa de regarder|les petits objets déco !{attente}{page}{fin}
+@00515	Finalement, à deux...|c'est bien mieux que|toute seule...{attente}{page}{fin}
+@00516	La déco ? Bonne idée !{attente}|En fait, un garçon seul,|il ose pas trop entrer...{attente}{page}{fin}
+@00517	Ah, c'est possible !{attente} Mais|aujourd'hui, t'es avec moi,|tu pourras regarder|tranquille !{attente}{page}{fin}
+@00518	Yumi et moi sommes allés|à Plaza Penny...{attente}{page}{fin}
+@00519	Bof, une boutique de déco,|pour un gars, c'est gênant.{attente}|...Désolé...{attente}{page}{fin}
+@00520	Ah... c'est vrai...{attente}|Pour toi, {F05},|c'est gênant...{attente}{page}{fin}
+@00521	Bon, j'irai seule une autre|fois, laisse tomber.{attente}|Rentrons directement.{attente}{page}{fin}
+@00522	(Dans Plaza Penny){n}{fin}
+@00523	En entrant dans la|boutique, Yumi s'est mise|à sourire !{attente}{page}{fin}
+@00524	Oh, ce bracelet est trop|mignon !{attente}|Ah, celui-là aussi est joli !{attente}{page}{fin}
+@00525	{F05}, regarde !|Ces bonbons ont l'air trop|bons ! Et quelle couleur !{attente}{page}{fin}
+@00526	Dis, {F05}...{attente}|La déco, rien que de|regarder, c'est sympa !{attente}{page}{fin}
+@00527	Yumi devant les bibelots,|on dirait une enfant devant|des jouets...{attente} Haha !|Trop mignonne !{attente}{page}{fin}
+@00528	Yumi et moi avons fait le|tour de Plaza Penny,|on s'est bien amusés...{attente}{page}{fin}
+@00529	Dans une boutique de déco,|on flâne, on flâne, et on|en oublie l'heure !{attente}{page}{fin}
+@00530	Ah ! Je me suis peut-être|un peu emballée...{attente} Devant|{F05}, j'ai honte ♥{attente}{page}{fin}
+@00531	Yumi toute gênée...{attente}|Elle qui fait si adulte|d'habitude... elle est|trop mignonne comme ça !!{attente}{page}{fin}
+@00532	Mais je trouvais ce visage|un peu coquin...|enfin, un peu sexy.{attente}{page}{fin}
+@00533	En tout cas, son visage|a l'air de plus en plus|sexy...{attente}{page}{fin}
+@00534	En y pensant, j'ai eu|le cœur serré, comme un|petit pincement...{attente}{page}{fin}
+@00535	{E08}, qui marchait à côté|de moi, s'est soudain mise|à ronronner, toute câline !{attente}{page}{fin}
+@00536	Ronron~ ♥{attente}|{F06}~...|Diiis~...{attente}{page}{fin}
+@00537	Le magasin de jouets~...|t'as pas envie d'y aller~ ?{attente}|Nyaa, si, hein~ !{attente}{page}{fin}
+@00538	{FFB}Y aller{n}　Pas envie{fin}
+@00539	Avoue, c'est toi qui veux|y aller, Shinozawa !{attente}|D'accord ! On y passe.{attente}{page}{fin}
+@00540	Kyaaa !|Bien vu, {F06}~ !{attente}|Shinozawa est trop émue~ !{attente}{page}{fin}
+@00541	C'est parti, en route pour|le Shinozawa-express !{attente}|3{attente}... 2{attente}... 1{attente}... décollage !{attente}{page}{fin}
+@00542	{E08} est partie en|courant, et je me suis|lancé à fond derrière elle !{attente}{page}{fin}
+@00543	Hein ?{attente}|Moi, j'ai pas spécialement|envie de voir des jouets... ?{attente}{page}{fin}
+@00544	Nyaa~...{attente}|{F06}, t'es plus|long à la détente que|je croyais~...{attente}{page}{fin}
+@00545	Laisse tomber~{attente}|Shinozawa est une gentille|fille, elle rentre direct~...{attente}{page}{fin}
+@00546	Ah, je vois...{attente}|C'est {E08} qui voulait|y aller...{attente}|J'ai été nul, la pauvre.{attente}{page}{fin}
+@00547	(Magasin de jouets){n}{fin}
+@00548	Entourée de jouets,|{E08} a l'air|comme en extase...{attente}{page}{fin}
+@00549	Nyahaha~ !{attente}|Y a des jouets à|en mourir~ !{attente}{page}{fin}
+@00550	Les jouets, ça rend|Shinozawa trop heureuse ♥|Muhuhu~... ♥{attente}{page}{fin}
+@00551	Waouh, elle fond|littéralement !{attente}|Elle adore vraiment|les jouets !!{attente}{page}{fin}
+@00552	{E08} et moi avons|flâné dans le magasin,|puis nous sommes ressortis.{attente}{page}{fin}
+@00553	Flâner au milieu des jouets,|ça suffit à rendre|Shinozawa heureuse~{attente}{page}{fin}
+@00554	Hein ?{attente}|On flâne à deux... on|flirte à deux~ ?{attente}|Kyaaa !{attente}{page}{fin}
+@00555	Flâner et flirter~...|C'est trop la honte~ ♥{attente}|Kyaa ! Kyaaa~ !{attente}{page}{fin}
+@00556	{E08} s'emballe toute|seule...{attente} Mais elle est|plutôt mignonne ♥{attente}{page}{fin}
+@00557	{E09}, qui marchait à|côté de moi, m'a regardé|d'un air un peu timide !{attente}{page}{fin}
+@00558	Tu aurais... un peu de|temps ?{attente} Si tu veux, on|va voir les jouets ?{attente}{page}{fin}
+@00559	{FFB}Y passer{n}　Pas envie d'y aller{fin}
+@00560	Oui, d'accord !{attente}|Moi aussi, j'aime les jouets !{attente}|On va prendre notre temps !{attente}{page}{fin}
+@00561	{E09} et moi sommes|allés au magasin|de jouets...{attente}{page}{fin}
+@00562	Bof, j'ai pas trop envie|de regarder des jouets,|là...{attente} Désolé.{attente}{page}{fin}
+@00563	J'ai dit un truc puéril,|je t'ai embarrassé...{attente}|Je suis{attente} désolée...{attente}{page}{fin}
+@00564	{E09} et moi avons fait|le tour des jouets, tout|excités comme des gamins.{attente}{page}{fin}
+@00565	Waouh, trop fort, celle-là !{attente}|Même les plis du costume|sont reproduits !{attente}{page}{fin}
+@00566	C'est écrit « Collection|Masaki Tomoto ».{attente}|Des figurines de séries|à effets spéciaux, alors.{attente}{page}{fin}
+@00567	Ouais, trop fort !|C'est exactement ça !{attente}|Ça rappelle des souvenirs !{attente}{page}{fin}
+@00568	Je ne les ai jamais vues...{attente}|Je ne connais pas.{attente}{page}{fin}
+@00569	Hein... ?{attente}{page}{fin}
+@00570	On se les arrachait,|avec les copains...{attente}{page}{fin}
+@00571	Il y a plein de jouets|importés, ici.{attente} Cette odeur...{attente}|ça me rappelle là-bas...{attente}{page}{fin}
+@00572	Zut...{attente} {E09} a|toujours vécu à l'étranger,|j'avais oublié...{attente}{page}{fin}
+@00573	Ses amis doivent|lui manquer...{attente}{page}{fin}
+@00574	Après avoir bien regardé|les jouets, {E09} et moi|sommes repartis...{attente}{page}{fin}
+@00575	......Hihi !{attente}{page}{fin}
+@00576	Quoi ? Qu'est-ce qu'il y a ?{attente}{page}{fin}
+@00577	Je repensais à ta tête|devant les jouets,|{F07}...{attente}{page}{fin}
+@00578	Hein ? J'avais l'air bizarre ?{attente}{page}{fin}
+@00579	Non, tu avais les yeux qui|brillaient, comme un enfant...{attente}|C'était trop mignon !{attente}{page}{fin}
+@00580	{E09} me regarde,|les yeux brillants !{attente}|C'est gênant, mais...{attente}|c'est plutôt agréable !{attente}{page}{fin}
+@00581	Ah ! ...Celui-là !{attente}|Hihi... quels souvenirs.{attente}|Je l'avais, moi aussi !{attente}{page}{fin}
+@00583	Et j'ai senti que j'avais|de plus en plus de mal à|détacher mes yeux d'elle !{attente}{page}{fin}
+@00584	J'ai l'impression d'avoir|fait une bêtise...{attente}{page}{fin}
+@00585	{E0A}, qui trottinait|derrière moi, m'a soudain|foncé dedans !{attente}{page}{fin}
+@00586	Hiyaaa !!{attente}{page}{fin}
+@00587	Aïe !{attente} Q-quoi ?|Ah ! Je marche trop vite ?{attente}|Bon, je ralentis...{attente}{page}{fin}
+@00588	Hein ! Ça veut dire quoi ?|Tu te moques de moi parce|que je suis petite ?!{attente}{page}{fin}
+@00589	N-non !{attente}|Tu m'as foncé dedans, je|me demandais ce qui|t'arrivait !{attente}{page}{fin}
+@00590	Héhé, pardon !{attente}|En fait, j'ai envie de passer|à la boutique multimédia !{attente}{page}{fin}
+@00591	C'était pas une raison pour|me foncer dedans, non ?{attente}|...Enfin, bon.{attente}{page}{fin}
+@00592	{FFB}Aller à la boutique{n}　J'ai mal, je n'y vais pas{fin}
+@00593	Si t'y tiens au point de|me charger comme ça,|allons-y !{attente}{page}{fin}
+@00594	Ça, c'est bien {F08} !|Toujours compréhensif !|Allez, on y va !{attente}{page}{fin}
+@00595	{E0A} a filé vers la|boutique multimédia, et je|me suis lancé derrière elle...{attente}{page}{fin}
+@00596	Désolé, avec ton coup, je|crois que je me suis tordu|la cheville...{attente} Je peux|pas faire de détour.{attente}{page}{fin}
+@00597	Quoooi ?! Sérieux ?!{attente}|Tu vas me faire croire ça ?!{attente}{page}{fin}
+@00598	Euh, ben...|Hahaha...{attente}|Ça se voit ?{attente}{page}{fin}
+@00599	Alors tu mentais|vraiment...{attente}|Me rouler comme ça,|c'est trop nul !{attente}{page}{fin}
+@00600	Elle s'inquiète autant|pour moi...|......{attente}{page}{fin}
+@00601	(Boutique multimédia){n}{fin}
+@00602	{E0A} a foncé droit|vers le rayon des jeux|de cartes, dans un coin !{attente}{page}{fin}
+@00603	Les voilà, les voilà !|C'est ça, c'est ça !{attente}|Hmmm...{attente}{page}{fin}
+@00604	{E0A} examine d'un air|grave les cartes exposées|dans la vitrine.{attente}{page}{fin}
+@00605	Haha, c'est rare de te voir|aussi sérieuse,|{E0A} !{attente}{page}{fin}
+@00606	Bêêh !{attente} Vérifier les|nouvelles cartes, c'est|crucial ! Normal que je|sois sérieuse !{attente}{page}{fin}
+@00607	Elle adore vraiment les|jeux de cartes...{attente}|Que dis-je, elle y a déjà|consacré sa vie !?{attente}{page}{fin}
+@00608	J'ai suivi {E0A} dans|son lèche-vitrine jusqu'à|ce qu'elle soit comblée...{attente}{page}{fin}
+@00609	Mais rien que de la|regarder, je me sentais|heureux, allez savoir...{attente}{page}{fin}
+@00610	Ah, je me suis régalée !{attente}|On n'a vu que ce que moi|je voulais voir, hein.{attente}{page}{fin}
+@00611	Mais...{attente}|merci de m'avoir|accompagnée ♥{attente}{page}{fin}
+@00612	{E0A} a penché la tête|et m'a fixé dans les yeux !{attente}|Ce petit geste trop mignon,|j'ai craqué !{attente}{page}{fin}
+@00613	Mmh, les trucs à|l'occidentale, c'est|pas trop mon truc...{attente}{page}{fin}
+@00614	Désolée...|Une autre fois, d'accord ?{attente}{page}{fin}
+@00615	En passant devant la gare|de Koigahara...{attente}|j'ai senti un regard !{attente}{page}{fin}
+@00616	Je t'ai vu, {F03},|alors je suis revenue !{attente}|Oh...{attente}{page}{fin}
+@00617	Pardon de vous avoir|dérangés ! Bon, salut !{attente}{page}{fin}
+@00618	En passant devant le|planétarium, j'ai senti|un regard !{attente}{page}{fin}
+@00619	Ah...{attente}|C'est donc ça...{attente}|Je dérange...{attente}{page}{fin}
+@00620	Ah, t'en fais pas pour moi !{attente}|Je vais aller ailleurs,{attente}|à plus !{attente}{page}{fin}
+@00621	En passant dans l'allée|bordée d'arbres...{attente}|j'ai senti un regard !{attente}{page}{fin}
+@00622	Ah, {F05} !|Le vent était si agréable|que je regardais les|nuages...{attente}{page}{fin}
+@00623	Tiens ? C'est quoi, ça ?{attente}|Hmm, je vois...{attente}|Je dérange...{attente}{page}{fin}
+@00624	Allez donc vous balader|tranquilles, tous les deux !{attente}|Allez, salut !{attente}{page}{fin}
+@00625	En passant devant le|parc...{attente} j'ai entendu|des pas précipités !{attente}{page}{fin}
+@00626	Myooo~ !|C'est {F06}~ !|Dis, Shinozawa...{attente} Ah...{attente}{page}{fin}
+@00627	Vous en faites pas~...{attente}|Shinozawa s'en va toute|seule, la queue basse~...{attente}{page}{fin}
+@00628	Alors qu'on passait le|portail du lycée à deux,{attente}|j'ai senti un regard !{attente}{page}{fin}
+@00629	Ah ! {F07} !|Si tu veux...{attente}|......Oh !!{attente}{page}{fin}
+@00630	Euh...|Ce n'est rien...{attente}|Ne fais pas attention...{attente}{page}{fin}
+@00631	Hein, euh...|c'est que...{attente} euh...{attente}{page}{fin}
+@00632	Peut-être...{attente} qu'elle|m'attendait ?{attente}|Si c'est le cas...{attente}{page}{fin}
+@00633	Hé, {F08} !{attente}|Tu te balades tout seul ?|Hein ?{attente} Oups...{attente}{page}{fin}
+@00634	En bavardant gaiement,|nous passions devant|le parc.{attente}{page}{fin}
+@00635	J'aimerais bien parler|encore un peu en|tête-à-tête...{attente}{page}{fin}
+@00636	{FFB}Aller parler au parc{n}　Laisser tomber{fin}
+@00637	Dis, et si on allait|discuter encore un peu|au parc... ?{attente}{page}{fin}
+@00638	Discuter dehors, au calme,|de temps en temps, c'est|peut-être bien...{attente}{page}{fin}
+@00639	Oui, je suis un peu|fatiguée de marcher.|Asseyons-nous pour|bavarder un peu !{attente}{page}{fin}
+@00640	Nous sommes entrés|dans le parc...{attente}{page}{fin}
+@00641	Sur un banc du parc, on a|parlé de tout et de rien.|C'était super !{attente}{page}{fin}
+@00642	J'ai pu me reposer et|parler avec {F03}.|{E04} s'est bien amusée !{attente}{page}{fin}
+@00643	{E04} a eu l'air de|s'amuser, mais...{attente}|en fait, je n'ai fait que|l'écouter bavarder.{attente}{page}{fin}
+@00644	Nous deux...|on n'y est pas encore...{attente}{page}{fin}
+@00645	À parler de tout, j'ai|senti qu'on se comprenait|un tout petit peu mieux,|{E04} et moi !{attente}{page}{fin}
+@00646	À parler de tout,|{E04} et moi, on s'est|un peu rapprochés,|il me semble !{attente}{page}{fin}
+@00647	On a beaucoup parlé, et|j'ai senti qu'on se|comprenait, {E04} et moi !{attente}{page}{fin}
+@00648	On a beaucoup parlé, et|j'ai senti qu'on se|comprenait de mieux en|mieux, {E04} et moi !{attente}{page}{fin}
+@00649	On a beaucoup parlé,|{E04} et moi, et nos|cœurs se sont vraiment|compris !{attente}{page}{fin}
+@00650	Encore un petit effort...{attente}{page}{fin}
+@00651	Mais au parc, j'ai toujours|envie de courir, de faire|des étirements...{attente}{page}{fin}
+@00652	Du coup, j'arrive pas|trop à me poser ici.{attente}|Haha ! C'est bizarre ?{attente}{page}{fin}
+@00653	Cela dit, se poser de temps|en temps, c'est bien aussi !{attente}|Allez, on y va !{attente}{page}{fin}
+@00654	Bouger, c'est bien, mais|de temps en temps, se|détendre comme ça,|c'est sympa aussi.{attente}{page}{fin}
+@00655	{F04},|merci !|C'était super sympa !{attente}{page}{fin}
+@00656	Mizuki a eu l'air de|s'amuser, mais...{attente}|on n'a parlé que de sport,|du début à la fin...{attente}{page}{fin}
+@00657	À parler de tout, j'ai|senti qu'on se comprenait|un tout petit peu mieux,|Mizuki et moi !{attente}{page}{fin}
+@00658	À parler de tout,|Mizuki et moi, on s'est|un peu rapprochés,|il me semble !{attente}{page}{fin}
+@00659	On a beaucoup parlé, et|j'ai senti qu'on se|comprenait, Mizuki et moi !{attente}{page}{fin}
+@00660	On a beaucoup parlé, et|j'ai senti qu'on se|comprenait de mieux en|mieux, Mizuki et moi !{attente}{page}{fin}
+@00661	On a beaucoup parlé,|Mizuki et moi, et nos|cœurs se sont vraiment|compris !{attente}{page}{fin}
+@00662	Voyons...|Regarder le ciel au parc,|pourquoi pas...{attente}{page}{fin}
+@00663	Mais là, je ne suis pas|trop d'humeur à papoter...{attente}{page}{fin}
+@00664	Discuter avec {F05}|dans le vent, ça peut|être sympa.{attente} Allons-y !{attente}{page}{fin}
+@00665	Les grands espaces comme|ça me mettent mal à l'aise,|je n'aime pas...{attente}|Je suis désolée...{attente}{page}{fin}
+@00666	......|......|Dommage...|mais bon, tant pis...{attente}{page}{fin}
+@00667	......|......|C'est dommage, mais|on n'y peut rien...{attente}{page}{fin}
+@00668	Sur ce, adieu~ !{attente}|À la prochaine, et|porte-toi bien~ !{attente}{page}{fin}
+@00669	Hihi !|Bon, alors je veux bien|rester un petit peu !{attente}{page}{fin}
+@00670	On a pu se détendre et|parler de plein de choses,|c'était sympa !{attente}{page}{fin}
+@00671	Yumi dit qu'elle s'est|amusée, mais... pendant|que je parlais, elle n'a|fait que regarder le ciel.{attente}{page}{fin}
+@00672	À parler de tout, j'ai|senti qu'on se comprenait|un tout petit peu mieux,|Yumi et moi !{attente}{page}{fin}
+@00673	À parler de tout,|Yumi et moi, on s'est|un peu rapprochés,|il me semble !{attente}{page}{fin}
+@00674	On a beaucoup parlé, et|j'ai senti qu'on se|comprenait, Yumi et moi !{attente}{page}{fin}
+@00675	On a beaucoup parlé, et|j'ai senti qu'on se|comprenait de mieux en|mieux, Yumi et moi !{attente}{page}{fin}
+@00676	On a beaucoup parlé,|Yumi et moi, et nos|cœurs se sont vraiment|compris !{attente}{page}{fin}
+@00677	Sur un banc du parc...|blottis, à parler d'amour~{attente}|...Nan, je rigole~ !{attente}{page}{fin}
+@00678	Mais en fait, ce serait|un rendez-vous ?{attente} Kyaaa !|Shinozawa a trop honte~{attente}{page}{fin}
+@00679	Myooo~ Pour Shinozawa,|c'est encore trop tôt~{attente}|Je vais passer~...{attente}{page}{fin}
+@00680	Ah, b-bon...|Bon, ben, on y va...{attente}{page}{fin}
+@00681	Mais~ Shinozawa veut|parler plein avec {F06},|alors elle vient~ !{attente}{page}{fin}
+@00682	C'est vrai ? Super !{attente}|Alors, allons-y !{attente}{page}{fin}
+@00683	Muhuhu~ !|On a parlé plein, Shinozawa|s'est trop amusée~ !{attente}{page}{fin}
+@00684	C'était sympa, oui...{attente}|mais Shinozawa était|surexcitée...{attente}|Adieu l'ambiance...{attente}{page}{fin}
+@00685	À parler de tout, j'ai|senti qu'on se comprenait|un tout petit peu mieux,|{E08} et moi !{attente}{page}{fin}
+@00686	À parler de tout,|{E08} et moi, on s'est|un peu rapprochés,|il me semble !{attente}{page}{fin}
+@00687	On a beaucoup parlé, et|j'ai senti qu'on se|comprenait, {E08} et moi !{attente}{page}{fin}
+@00688	On a beaucoup parlé, et|j'ai senti qu'on se|comprenait de mieux en|mieux, {E08} et moi !{attente}{page}{fin}
+@00689	On a beaucoup parlé,|{E08} et moi, et nos|cœurs se sont vraiment|compris !{attente}{page}{fin}
+@00690	Oh... au parc ?{attente}|Voyons...{attente}{page}{fin}
+@00691	Les grands espaces comme|ici, ça me met mal à l'aise,|je n'aime pas trop, mais...{attente}{page}{fin}
+@00692	avec toi, {F07},|ça devrait aller !{attente}|Allons-y !{attente}{page}{fin}
+@00693	Merci, {F07}.{attente}|C'était vraiment|très amusant !{attente}{page}{fin}
+@00694	{E09} dit qu'elle s'est|amusée, mais...{attente}|elle avait l'air nerveuse,|pas du tout à l'aise.{attente}{page}{fin}
+@00695	À parler de tout, j'ai|senti qu'on se comprenait|un tout petit peu mieux,|{E09} et moi !{attente}{page}{fin}
+@00696	À parler de tout,|{E09} et moi, on s'est|un peu rapprochés,|il me semble !{attente}{page}{fin}
+@00697	On a beaucoup parlé, et|j'ai senti qu'on se|comprenait, {E09} et moi !{attente}{page}{fin}
+@00698	On a beaucoup parlé, et|j'ai senti qu'on se|comprenait de mieux en|mieux, {E09} et moi !{attente}{page}{fin}
+@00699	On a beaucoup parlé,|{E09} et moi, et nos|cœurs se sont vraiment|compris !{attente}{page}{fin}
+@00700	Hein ?|Discuter au parc ?!{attente}|Rien que tous les deux ??{attente}{page}{fin}
+@00701	Ah nan, trop la honte !|Alors je passe ! Je passe !{attente}|...Désolée !{attente}{page}{fin}
+@00702	Ok, ok, c'est d'accord !{attente}|Ça me gêne un peu, mais|je viens...{attente} héhé !{attente}{page}{fin}
+@00703	Ouah, on a parlé, hein !{attente}|On a papoté à fond !|C'était trop bien !{attente}{page}{fin}
+@00704	C'est vrai, on a papoté à|fond...{attente} Un vrai sketch,|c'était drôle, mais...{attente}|Adieu l'ambiance...{attente}{page}{fin}
+@00705	À parler de tout, j'ai|senti qu'on se comprenait|un tout petit peu mieux,|{E0A} et moi !{attente}{page}{fin}
+@00706	À parler de tout,|{E0A} et moi, on s'est|un peu rapprochés,|il me semble !{attente}{page}{fin}
+@00707	On a beaucoup parlé, et|j'ai senti qu'on se|comprenait, {E0A} et moi !{attente}{page}{fin}
+@00708	On a beaucoup parlé, et|j'ai senti qu'on se|comprenait de mieux en|mieux, {E0A} et moi !{attente}{page}{fin}
+@00709	On a beaucoup parlé,|{E0A} et moi, et nos|cœurs se sont vraiment|compris !{attente}{page}{fin}
+@00710	Ah ! {F04},|toi aussi, tu viens voir|le planétarium ?{attente}{page}{fin}
+@00711	Ouais !|Alors, c'est parti !{attente}{page}{fin}
+@00712	(Entrée du parc naturel){n}{fin}
+@00713	Ah, oui...|Mais......{attente}|......Désolée.{attente}{page}{fin}
+@00714	Devant la gare de|Koigahara, {E04}|s'est arrêtée......{attente}{page}{fin}
+@00715	{F03}, merci,|ça ira, ici !|Bon, ben...{attente}{page}{fin}
+@00716	J'ai passé une super|journée ! Salut !{attente}{page}{fin}
+@00717	Moi aussi !|On rentre encore ensemble !{attente}|Allez, salut !{attente}{page}{fin}
+@00718	Ah, {E04} !{attente}{page}{fin}
+@00719	Euh...|Si ça te dit...|tu veux venir chez moi ?{attente}{page}{fin}
+@00720	Hein... maintenant ?{attente}{page}{fin}
+@00721	Oui... c'est que...|j'ai l'impression qu'on|n'a pas fini de parler.{attente}{page}{fin}
+@00722	......Mais...|Désolée...|Je ne peux pas, aujourd'hui.{attente}{page}{fin}
+@00723	Oui, une autre fois !|Allez, salut !{attente}{page}{fin}
+@00724	Oui, j'aimerais bien parler|encore un peu...{attente}|Je veux bien venir !{attente}{page}{fin}
+@00725	J'ai emmené {E04}|chez moi !{attente}{page}{fin}
+@00726	Tiens ? Qu'est-ce qu'il y a ?{attente}{page}{fin}
+@00727	Euh... tu sais...|{E04} aimerait parler|encore avec {F03}...{attente}{page}{fin}
+@00728	Dis... tu voudrais...{attente}|venir chez moi ?{attente}{page}{fin}
+@00729	Quoi ! C'est vrai ?{attente}|Alors j'y vais avec|plaisir !!{attente}{page}{fin}
+@00730	C'est vrai ? Youpi !|Alors, on y va !{attente}{page}{fin}

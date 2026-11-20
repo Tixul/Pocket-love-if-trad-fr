@@ -1,0 +1,403 @@
+; Lot 07 : ruptures (Momoyo, Mirei, Konoha), commérages, cadeaux d'anniversaire, regards à la récré, rumeurs.
+
+; ---- rupture : Momoyo
+@02190	Nyahah !{attente}|Désolée pour l'attente~ !{attente}{page}{fin}
+@02191	Tu voulais parler de quoi|à Shinozawa, hein,|de quoi~ ?{attente}{page}{fin}
+@02192	Funyi~ ?{attente} Si tu dis|rien, Shinozawa peut pas|comprendre~{attente}{page}{fin}
+@02193	Bouuuh~ !{attente}|Shinozawa aime pas du tout|ce genre de blagues~...{attente}{page}{fin}
+@02194	Hein...{attente}|Ça veut dire...|ça veut dire que...{attente}{page}{fin}
+@02195	...tu détestes Shinozawa,|maintenant~ ?{attente}{page}{fin}
+@02196	C'est pas ça...{attente}|C'est juste que...{attente}{page}{fin}
+@02197	Eeeh~ !{attente} Alors vous|filez le parfait amour ?{attente}|Shinozawa vous envie~{attente}{page}{fin}
+@02198	Tiens... ?{attente}|Shinozawa a des larmes|qui coulent~{attente}|C'est bizarre, hein~...{attente}{page}{fin}
+@02199	Bon, alors Shinozawa...{attente}|se retire en priant pour|le bonheur de {F06}~{attente}{page}{fin}
+
+; ---- rupture : Mirei
+@02200	C'était pas facile...{attente}|mais pour tenir parole,{attente}|j'ai donné rendez-vous à|{E09} Okada......{attente}{page}{fin}
+@02201	{F07} !{attente}|Tu voulais qu'on parle|tous les deux ? De quoi ?{attente}{page}{fin}
+@02202	Hein ? Quoi ?{attente}|......|De quoi s'agit-il ?{attente}{page}{fin}
+@02203	Ah......{attente}|C'était donc...|ce genre de discussion...{attente}{page}{fin}
+@02204	Mais... pourquoi ?{attente}|Dis-moi au moins pourquoi|on en est arrivés là.{attente}{page}{fin}
+@02205	Mettre de l'ordre dans ta|vie pour ta petite amie...{attente}|c'est digne d'un homme...{attente}{page}{fin}
+@02206	...Bon. Désormais, je ferai|attention à ne plus être|trop familière avec toi...{attente}{page}{fin}
+@02207	......{attente}|...{F07}...{attente}|......Tu es cruel, tu sais.{attente}{page}{fin}
+
+; ---- rupture : Konoha
+@02208	C'était pas facile...{attente}|mais pour tenir parole,{attente}|j'ai donné rendez-vous à|{E0A} Kobayashi......{attente}{page}{fin}
+@02209	{F08} !|Me voilààà !{attente}|Tu voulais me dire quoi ?{attente}{page}{fin}
+@02210	Hein ?{attente} T'es bizarre...|Qu'est-ce qui t'arrive... ?{attente}|Pourquoi tu dis plus rien ?{attente}{page}{fin}
+@02211	Hein... ?{attente}|C'est pas...{attente} une blague,|alors... ?{attente}{page}{fin}
+@02212	...A-ah, d'accord !{attente}|Ça marche bien entre vous,|alors !{attente} Félicitations...{attente}{page}{fin}
+@02213	Haha !{attente} Fais pas cette|tête d'enterrement...{attente}|Moi, ça va...{attente}{page}{fin}
+@02214	Hein...{attente} Bah ?{attente}|Pourquoi je pleure... ?{attente}|R-roh, c'est bête...{attente}{page}{fin}
+@02215	Ah... d-désolée...{attente}|J'ai un truc urgent, faut|que j'y retourne...|...Allez, salut...{attente}{page}{fin}
+
+; ---- commérages
+@02216	Matsuda-senpai, elle se|contentera jamais d'un|type comme {F00} !{attente}{page}{fin}
+@02217	Hmm ?|Qu'est-ce qui te permet|de dire ça ?{attente}{page}{fin}
+@02218	Ben, son mec est à la fac !|Il s'est forcément passé|des trucs entre eux !{attente}{page}{fin}
+@02219	...Ah ouais...|Même Shinozawa, hein...|C'est rageant, quand même !{attente}{page}{fin}
+@02220	Shinozawa ? S'intéresser|aux garçons ?|Impossible, voyons !{attente}{page}{fin}
+@02221	Ces deux-là, hein...{attente}|Ça promet d'être marrant !|Vivement la rupture !{attente}{page}{fin}
+@02222	T'es vraiment lamentable...{attente}{page}{fin}
+@02223	Elle a grandi à l'étranger,|alors les petits Japonais,|ça peut pas la satisfaire !{attente}{page}{fin}
+@02224	Encore une blague salace ?|T'es lamentable...{attente}{page}{fin}
+@02225	{E0A} adore s'occuper des|autres, elle va s'installer|chez lui comme une petite|épouse, tu vas voir !{attente}{page}{fin}
+@02226	Tu te fais des films, là !{attente}{page}{fin}
+@02227	{E0A}, c'est une gamine !|L'amour entre adultes, elle|y comprend rien du tout !{attente}{page}{fin}
+@02228	...Hara-kun...{attente}|c'est quelqu'un que|j'admire, alors...{attente}|voilà...{attente}{page}{fin}
+@02229	Et puis, avec ce garçon,|c'est bientôt fini, de|toute façon...{attente}{page}{fin}
+
+; ---- cadeaux d'anniversaire : achats
+@02230	Ah ! Au fait...|L'anniversaire de {E04},|c'est bientôt !{attente}{page}{fin}
+@02231	Je devrais lui offrir|un cadeau...{attente}|Mais quoi ?{attente}|...Pas facile de choisir...{attente}{page}{fin}
+@02232	Hmm, voyons voir...{attente}|Une peluche, ça pourrait|lui faire plaisir ?{attente}{page}{fin}
+@02233	(Lequel choisir ?){n}{fin}
+@02234	{FFB}Nounours         8000 yens{n}　Cactus{>96}5000 yens{n}　Aubergine{>96}2000 yens{fin}
+@02235	Allez, c'est décidé !|Je prends ça !{attente}|J'espère que ça lui plaira !{attente}{page}{fin}
+@02236	J'ai acheté un nounours|pour l'offrir à|{E04} Saeki !{attente}{page}{fin}
+@02237	J'ai acheté un cactus|en peluche pour l'offrir|à {E04} Saeki !{attente}{page}{fin}
+@02238	J'ai acheté une aubergine|en peluche pour l'offrir|à {E04} Saeki !{attente}{page}{fin}
+@02239	Ou-oups !!{attente}|J'ai pas assez d'argent...{attente}{page}{fin}
+@02240	J'aurais voulu voir son|sourire...{attente}|Dommage, mais tant pis...|......{attente}Haaa...{attente}{page}{fin}
+@02241	Hé ! Au fait...{attente}|le 10 octobre, c'est|l'anniversaire de Mizuki !{attente}{page}{fin}
+@02242	Hmm, voyons...{attente}|Des chaussures, tiens !{attente}|Une paire bien confortable,|ce serait parfait !{attente}{page}{fin}
+@02243	{FFB}J. Mokke          8000 yens{n}　Aquamocassins{>96}5000 yens{n}　Compensées{>96}2000 yens{fin}
+@02244	J'ai acheté des J. Mokke|pour les offrir à|Mizuki Takao !{attente}{page}{fin}
+@02245	J'ai acheté des|Aquamocassins pour les|offrir à Mizuki Takao !{attente}{page}{fin}
+@02246	J'ai acheté des sandales|compensées pour les offrir|à Mizuki Takao !{attente}{page}{fin}
+@02247	Ah ! Mais au fait !{attente}|L'anniversaire de Yumi,|c'est bientôt !{attente}{page}{fin}
+@02248	...Oui, c'est décidé !{attente}|Pour Yumi, des pâtisseries !{attente}|Mieux vaut des trucs pas|trop sucrés, par contre...{attente}{page}{fin}
+@02249	{FFB}Gâteaux          8000 yens{n}　Biscuits{>96}5000 yens{n}　Gelées{>96}2000 yens{fin}
+@02250	J'ai acheté un assortiment|de gâteaux pour l'offrir|à Yumi Matsuda !{attente}{page}{fin}
+@02251	J'ai acheté un assortiment|de biscuits pour l'offrir|à Yumi Matsuda !{attente}{page}{fin}
+@02252	J'ai acheté un assortiment|de gelées pour l'offrir|à Yumi Matsuda !{attente}{page}{fin}
+@02253	Oh ? Au fait...{attente}|L'anniversaire de {E08},|c'est bientôt !{attente}{page}{fin}
+@02254	Je sais !{attente} Pour {E08},|un jouet ! Ça lui ira|parfaitement !{attente}|Lequel choisir... ?{attente}{page}{fin}
+@02255	{FFB}Robo Mégalliage 8000 yens{n}　Panoplie ninja{>96}5000 yens{n}　Masq. Nyankichi{>96}2000 yens{fin}
+@02256	J'ai acheté un robot|Mégalliage pour l'offrir|à {E08} Shinozawa !{attente}{page}{fin}
+@02257	J'ai acheté une panoplie|de ninja pour l'offrir|à {E08} Shinozawa !{attente}{page}{fin}
+@02258	J'ai acheté un masque|Nyankichi pour l'offrir|à {E08} Shinozawa !{attente}{page}{fin}
+@02259	Ah ! Mais au fait !{attente}|L'anniversaire de {E09},|c'est bientôt !{attente}{page}{fin}
+@02260	Hmm, voyons...{attente}|{E09} a l'air d'aimer|les sacs, les trucs|élégants...{attente}{page}{fin}
+@02261	{FFB}Cuir verni         8000 yens{n}　Fourrure synth.{>96}5000 yens{n}　Toile{>96}2000 yens{fin}
+@02262	J'ai acheté un sac en|cuir verni pour l'offrir|à {E09} Okada !{attente}{page}{fin}
+@02263	J'ai acheté un sac en|fausse fourrure pour|l'offrir à {E09} Okada !{attente}{page}{fin}
+@02264	J'ai acheté un sac en|toile pour l'offrir|à {E09} Okada !{attente}{page}{fin}
+@02265	Ah... mais au fait !{attente}|L'anniversaire de {E0A},|c'est bientôt !{attente}{page}{fin}
+@02266	Voyons...{attente}|{E0A} adore les animes,|un produit dérivé, ça|lui ferait plaisir, non ?{attente}{page}{fin}
+@02267	{FFB}Fig. Devil One    8000 yens{n}　Artbook P. Love{>96}5000 yens{n}　Montre Asaoka{>96}2000 yens{fin}
+@02268	J'ai acheté une figurine|Devil One pour l'offrir|à {E0A} Kobayashi !{attente}{page}{fin}
+@02269	J'ai acheté l'artbook de|Pocket Love pour l'offrir|à {E0A} Kobayashi !{attente}{page}{fin}
+@02270	J'ai acheté une montre|Chihiro Asaoka pour l'offrir|à {E0A} Kobayashi !{attente}{page}{fin}
+
+; ---- invitations / promesses
+@02271	Je vais aller à la fête|d'anniversaire de {E04} !{attente}{page}{fin}
+@02272	Mais si {F03} a|déjà d'autres projets...{attente}|je ne vais pas insister.{attente}{page}{fin}
+@02273	Bon, c'est dommage,|mais à une prochaine !{attente}{page}{fin}
+@02274	Shinozawa compte|sur toi~{attente}|Ronronnn~ !!{attente}{page}{fin}
+@02275	Finalement, j'ai décidé|d'offrir un cadeau|d'anniversaire à {E08} !{attente}{page}{fin}
+@02276	Même si j'ai un peu|l'impression qu'elle m'a|forcé la main...{attente}{page}{fin}
+@02277	J'ai promis à {E0A} de lui|offrir un cadeau|d'anniversaire !{attente}{page}{fin}
+@02278	Je suis contente d'avoir pu|te remercier...{attente}|Allez, à bientôt !{attente}{page}{fin}
+@02279	......|{E04} est repartie, en|laissant derrière elle|un parfum frais.{attente}{page}{fin}
+
+; ---- remise du cadeau : Ruruna
+@02280	Pile au bon moment !{attente}|C'est l'occasion de lui|donner son cadeau !{attente}{page}{fin}
+@02281	Dis... en fait...{attente}|j'ai un truc à te donner !{attente}|Viens avec moi un instant !{attente}{page}{fin}
+@02282	Hein, pour moi... ?{attente}|Qu'est-ce que c'est... ?{attente}{page}{fin}
+@02283	J'ai emmené {E04}|sur le toit...{attente}{page}{fin}
+@02284	Tiens, c'est...{attente}|ton cadeau d'anniversaire !{attente}{page}{fin}
+@02285	C'est un peu en avance,|mais tu veux bien|l'accepter ?{attente}{page}{fin}
+@02286	Oh ! Merci !{attente}|Je l'accepte avec plaisir !{attente}|Qu'est-ce que c'est ?{attente}{page}{fin}
+@02287	Oh, un nounours !{attente}|Waouh !|J'en voulais un !{attente}{page}{fin}
+@02288	{F03}...|merci beaucoup !{attente}|{E04} est trop émue...♥{attente}{page}{fin}
+@02289	Génial !|Elle est super contente !{attente}|Le cadeau est un triomphe !{attente}{page}{fin}
+@02290	Oh, un cactus !{attente}|Il est trop mignon !{attente}|Merci beaucoup !{attente}{page}{fin}
+@02291	Ouais !|On dirait que ça lui plaît !{attente}|Ouf, tant mieux !!{attente}{page}{fin}
+@02292	Une aubergine... ?{attente}|...Pourquoi ??{attente}|M-merci...{attente}{page}{fin}
+@02293	Aïe ! Son sourire a l'air|un peu forcé...{attente}|...Ce cadeau, c'était|peut-être une erreur...{attente}{page}{fin}
+
+; ---- remise du cadeau : Mizuki
+@02294	Hein, pour moi ?{attente}|Qu'est-ce que c'est... ?{attente}|Bon, je te suis.{attente}{page}{fin}
+@02295	J'ai emmené Mizuki|sur le toit...{attente}{page}{fin}
+@02296	Hein ! C'est vrai ?{attente}|M-merci !|Je l'accepte avec plaisir !{attente}{page}{fin}
+@02297	Oh, des J. Mokke !{attente}|Elles sont trop confort,|ces chaussures !{attente} Merci !{attente}{page}{fin}
+@02298	Oh, des Aquamocassins !{attente}|Classe et confortables...|Je les voulais trop !{attente}{page}{fin}
+@02299	{F04}...|merci...{attente}|J'en prendrai soin ♥{attente}{page}{fin}
+@02300	Oh, des sandales|compensées... ?{attente}|......{attente}{page}{fin}
+@02301	Si je me fais une entorse,|adieu le club d'athlé...{attente}|Alors je vais les garder|bien précieusement !{attente}{page}{fin}
+@02302	Ah ! B-bien sûr...{attente}|C'est elle qui a dû|me ménager...{attente}|...Raté, sur ce coup-là...{attente}{page}{fin}
+
+; ---- remise du cadeau : Yumi
+@02303	Dis... en fait...{attente}|j'ai un truc à te donner !{attente}|Attends-moi une seconde !{attente}{page}{fin}
+@02304	Je suis vite retourné en|classe chercher le cadeau !{attente}{page}{fin}
+@02305	Oh, pour moi ?{attente}|Ça me fait plaisir !|Tu m'épates, {F05} !{attente}{page}{fin}
+@02306	Mais là, je suis pressée,|je n'ai pas le temps de te|remercier comme il faut.{attente}|Je te revaudrai ça !{attente}{page}{fin}
+@02307	Ah...{attente} Elle est partie.{attente}|Je l'ai retenue alors qu'elle|était pressée, et fait|attendre en plus... Oups...{attente}{page}{fin}
+@02308	Mais elle avait l'air|contente...{attente}|Finalement, j'ai bien fait|de lui offrir ce cadeau !{attente}{page}{fin}
+
+; ---- remise du cadeau : Momoyo
+@02309	Hein, tu me donnes un|truc~ ?{attente}|C'est quoi, c'est quoi~ !{attente}|Shinozawa trépigne !{attente}{page}{fin}
+@02310	J'ai emmené {E08}|sur le toit...{attente}{page}{fin}
+@02311	Ukyaaa~ !!|Shinozawa est trop émue~ !{attente}|Elle accepte avec joie~{attente}{page}{fin}
+@02312	Il y a quoi dedans~ ?{attente}|Shinozawa a le cœur qui|bat la chamade~ !{attente}{page}{fin}
+@02313	Ah~, le robot Mégalliage~ !{attente}|Shinozawa économisait son|argent de poche pour lui~ !{attente}{page}{fin}
+@02314	Ce robot Mégalliage sera|le trésor de la famille|Shinozawa, transmis de|génération en génération !{attente}{page}{fin}
+@02315	Une panoplie de ninja~ ?{attente}|...Funyi~...{attente}{page}{fin}
+@02316	...Mais Shinozawa te dit|merci d'avoir pensé à lui|acheter un cadeau...{attente}{page}{fin}
+@02317	Zut... On dirait que ça|lui a pas plu...{attente}|Je pensais que ça lui irait,|mais je me suis planté...{attente}{page}{fin}
+@02318	Ah, un masque Nyankichi~ !{attente}|Trop mignooon~ !{attente}|Merci miaou~ !{attente}{page}{fin}
+
+; ---- divers (Ruruna, Mirei)
+@02319	En repensant à l'air un|peu gêné qu'avait {E04}|tout à l'heure...{attente}{page}{fin}
+@02320	je me sentais à la fois|heureux et un peu|embarrassé...{attente}{page}{fin}
+@02321	J'adore le côté brut de|cette toile, c'est super !{attente}|Et en plus...{attente}{page}{fin}
+@02322	Je vais aller à la fête|d'anniversaire de {E09} !{attente}{page}{fin}
+@02323	Sans toi, {F07},|ce sera un peu moins|amusant, mais...{attente}{page}{fin}
+@02324	Tant pis...{attente}|...Bon, à une prochaine.{attente}{page}{fin}
+
+; ---- regards à la récré
+@02325	(Pendant la récré){n}{fin}
+@02326	Je marchais dans le couloir|quand...{attente}{page}{fin}
+@02327	{E04} arrivait en face,|et par hasard, nos|regards se sont croisés !{attente}{page}{fin}
+@02328	{E04} n'a rien dit, mais...{attente}|j'ai eu l'impression qu'elle|me jetait des petits coups|d'œil...{attente}{page}{fin}
+@02329	Et si...{attente}|elle s'intéressait à moi ?!{attente}{page}{fin}
+@02330	{E04} me regarde|fixement...{attente}{page}{fin}
+@02331	On dirait que je ne la|laisse pas indifférente...{attente}|Si c'est vrai...|...ce serait trop bien !{attente}{page}{fin}
+@02332	Ah, {F03}...♥{attente}{page}{fin}
+@02333	Ses joues avaient|légèrement rosi...{attente}{page}{fin}
+@02334	Quand elle me regarde|avec ces yeux brûlants...{attente}|je ne peux plus m'empêcher|de penser à elle !{attente}{page}{fin}
+@02335	Mizuki arrivait en face,|et par hasard, nos|regards se sont croisés !{attente}{page}{fin}
+@02336	Mizuki n'a rien dit, mais...{attente}|j'ai eu l'impression qu'elle|me jetait des petits coups|d'œil...{attente}{page}{fin}
+@02337	Mizuki me regarde|fixement, sans rien dire...{attente}{page}{fin}
+@02339	Je me détendais dans la|cour derrière le bâtiment|quand...{attente}{page}{fin}
+@02340	Yumi passait par là, et|par hasard, nos regards|se sont croisés !{attente}{page}{fin}
+@02341	Yumi discutait avec une|amie, mais j'ai eu|l'impression qu'elle me|lançait des coups d'œil...{attente}{page}{fin}
+@02342	Yumi me regarde|fixement, en silence...{attente}{page}{fin}
+@02343	{E08} arrivait en courant,|et par hasard, nos|regards se sont croisés !{attente}{page}{fin}
+@02344	Mhiii~ !{attente}|Les toilettes, vite~ !{attente}{page}{fin}
+@02345	{E08} est partie en|courant à toute vitesse...{attente}|Elle devait vraiment|plus pouvoir se retenir...{attente}{page}{fin}
+@02346	En me voyant, Shinozawa|m'a fait un petit signe !{attente}|Et si elle s'intéressait|à moi... ?{attente}{page}{fin}
+@02347	En me voyant, {E08}|m'a fait un grand sourire|et s'est gratté la tête,|toute gênée !{attente}{page}{fin}
+@02348	......Tiens ?{attente}{page}{fin}
+@02349	Kyaa~ ! Non, arrête ♥{attente}|Se regarder dans les yeux,|dans les yeux, comme ça~ !{attente}{page}{fin}
+@02350	Shinozawa a le cœur qui|bat, elle est toute gênée,|elle sait plus quoi faire~♥{attente}{page}{fin}
+@02351	Haha ! Elle est toute|rouge de honte !{attente}|{E08}...{attente}|elle est trop mignonne !{attente}{page}{fin}
+@02352	{E09} m'a ignoré et|est retournée à sa place...{attente}{page}{fin}
+@02353	{E09} ne dit rien, mais...{attente}|je sens son regard|se poser sur moi de|temps en temps...{attente}{page}{fin}
+@02354	{E09} me regarde|fixement, sans rien dire...{attente}{page}{fin}
+@02355	Ouaah...{attente}|On s'est regardés !{attente}|Mon Dieu, protégez-moi...{attente}{page}{fin}
+@02356	Je suis pas un fantôme !{attente}|...Mais se faire éviter|aussi ouvertement,|ça fait mal...{attente}{page}{fin}
+@02357	{E0A} a vite détourné les|yeux, mais...{attente}|je la sens me lancer des|petits regards... !{attente}{page}{fin}
+@02359	{E0A} me regarde|fixement...{attente}|...et soudain...{attente}{page}{fin}
+@02360	Doll {E0A} !{attente}|En scèèène !!{attente}{page}{fin}
+@02361	{E0A} est montée sur|l'estrade et a pris la pose|d'une héroïne d'anime !{attente}{page}{fin}
+@02362	...Pour cacher sa gêne ?{attente}|C'est tellement {E0A}...|Elle est trop mignonne !{attente}{page}{fin}
+@02363	Arrête, {F08}...{attente}|Héhé♥|Tu me fais rougir...♥{attente}{page}{fin}
+@02364	Si tu me fixes comme ça...{attente}|ta vie va changer|à jamais !{attente}{page}{fin}
+@02365	Cette phrase...{attente}|je l'ai déjà entendue|quelque part...{attente}{page}{fin}
+@02366	Elle cache sa gêne, mais...{attente}|je me suis dit, malgré moi :{attente}|« Change-la, ma vie... »{attente}{page}{fin}
+@02367	{E09} m'a lancé un regard|un peu triste, puis elle|est sortie de la classe...{attente}{page}{fin}
+@02368	...Quand même, ce regard|triste qu'avait {E09}|tout à l'heure...{attente}|Ça me tracasse...{attente}{page}{fin}
+@02369	Ah ! A-attends !{attente}{page}{fin}
+@02370	En fait, moi aussi...{attente}|ça m'a fait plaisir...{attente}|Merci, {E09} !{attente}{page}{fin}
+@02371	Moi aussi...|{F07}...{attente}{page}{fin}
+@02372	Sur ces mots, {E09}|est sortie de la classe|en toute hâte...{attente}{page}{fin}
+@02373	...Ce qu'elle a dit...|ça voulait bien dire...{attente}{page}{fin}
+@02374	Un sentiment doux-amer,|entre joie et mélancolie,|s'emparait de moi{attente}{page}{fin}
+
+; ---- rumeurs dans le couloir
+@02375	Je marchais dans le|couloir, quand j'ai entendu|des voix quelque part...{attente}{page}{fin}
+@02376	Hm ? Qu'est-ce que c'est ?{attente}|Écoutons un peu...{attente}|Quoi ! Elles parlent de moi !{attente}|Écoutons encore un peu...{attente}{page}{fin}
+@02377	Dis, tu sais quoi ?{attente}|{F01} {F00}, il paraît|qu'il fait sensation !{attente}{page}{fin}
+@02378	Évidemment que je sais !{attente}|Il est hyper connu !{attente}|Faut dire que...{attente}{page}{fin}
+@02379	même {E04} Saeki, la plus|populaire auprès des gars,|en pince pour {F00} !{attente}{page}{fin}
+@02380	même Mizuki Takao, qui est|censée détester les gars,|en pince pour {F00} !{attente}{page}{fin}
+@02381	Yumi Matsuda, de 2e année,|en pince pour {F00},|qui est plus jeune qu'elle !{attente}{page}{fin}
+@02382	même {E08} Shinozawa, qui|ne vit que pour les jeux,|en pince pour {F00} !{attente}{page}{fin}
+@02383	même {E09} Okada, qui a|tellement la classe,|en pince pour {F00} !{attente}{page}{fin}
+@02384	même {E0A} Kobayashi, une|vraie gamine, en pince|pour {F00} !{attente}{page}{fin}
+@02385	Ouais, ouais !{attente}|Rien que ça, c'est dingue !{attente}{page}{fin}
+@02386	Quoi !{attente} Ça veut dire...{attente}|qu'il y en a d'autres ?{attente}|Qui ça, qui ? Dis-moi !{attente}{page}{fin}
+@02387	Il paraît que{attente} {E04} Saeki,|la star des garçons, a|un faible pour {F00} !{attente}{page}{fin}
+@02388	Il paraît que{attente} Mizuki|Takao, à fond dans l'athlé,|a un faible pour {F00} !{attente}{page}{fin}
+@02389	Il paraît que{attente} Yumi|Matsuda, de 2e année, a un|faible pour {F00}, qui est|plus jeune qu'elle !{attente}{page}{fin}
+@02390	Il paraît que{attente} {E08}|Shinozawa préfère {F00}|à ses jeux vidéo !{attente}{page}{fin}
+@02391	Il paraît que{attente} {E09}|Okada, qui a grandi à|l'étranger, a un faible|pour {F00} !{attente}{page}{fin}
+@02392	Il paraît que{attente} {E0A}|Kobayashi, la fan d'animes,|a un faible pour {F00} !{attente}{page}{fin}
+@02393	Nooon ! Sérieux ?!|C'est vraiment vrai ?{attente}|{F01} {F00}, hein...{attente}{page}{fin}
+@02394	Faudra peut-être le|garder à l'œil, celui-là !{attente}{page}{fin}
+@02395	Je me suis éloigné|discrètement...{attente}{page}{fin}
+
+; ---- pensées du héros
+@02396	Je ne pouvais plus contenir|ce que je ressentais|pour {E09}......{attente}{page}{fin}
+@02397	......{attente}Mais ce soir, cette|image va me rester gravée|dans la tête, je risque|de ne pas dormir...{attente}{page}{fin}
+@02398	...Quand même, plus je les|regarde...{attente}|plus je trouve les jambes|de {E04} fines et jolies...{attente}{page}{fin}
+@02399	...Haaa...|J'aurais aimé admirer|encore un peu ses jolies|jambes... Dommage...{attente}{page}{fin}
+
+; ---- rumeurs sur le toit
+@02400	Je contemplais le ciel sur|le toit, quand j'ai entendu|des filles chuchoter,|cachées derrière un mur...{attente}{page}{fin}
+@02401	Dis, dis !|Tu sais pas la dernière ?{attente}{page}{fin}
+@02402	{E04} Saeki, il paraît|qu'elle est amoureuse de|{F01} {F00} !!{attente}{page}{fin}
+@02403	N'importe quoi !{attente}|{E04}, elle aime|Shiro Maeno, non ?{attente}{page}{fin}
+@02404	T'es pas à jour, toi !{attente}|Maintenant, c'est de {F00}|qu'elle est dingue !{attente}{page}{fin}
+@02405	Ah, d'accord...{attente}|Alors pour Shiro Maeno,|c'était peut-être faux...{attente}{page}{fin}
+@02406	Pas vrai ?{attente} Franchement,|{F01} {F00}... c'est|forcément une erreur !{attente}{page}{fin}
+@02407	Kyahahaha !|C'est clair !{attente}|Désolée, désolée !{attente}{page}{fin}
+@02408	Mizuki Takao, il paraît|qu'elle est amoureuse de|{F01} {F00} !!{attente}{page}{fin}
+@02409	Hein ?{attente} Mizuki, elle était|pas amoureuse de|Takuya Hara ?{attente}{page}{fin}
+@02410	Ah oui, c'est vrai !{attente}|Je la croyais à fond dans|l'athlé, mais y avait|cette rumeur-là !{attente}{page}{fin}
+@02411	{F01} {F00}, je pense|que c'est une erreur !{attente}{page}{fin}
+@02412	Matsuda-senpai, de 2e,|il paraît qu'elle aime|{F01} {F00} !!{attente}{page}{fin}
+@02413	Hein ?{attente} Matsuda-senpai,|on dit pas qu'elle sort|avec un étudiant ?{attente}{page}{fin}
+@02414	Ah, c'est vrai...{attente}|Maintenant que tu le dis,|j'ai dû mal entendre...{attente}{page}{fin}
+@02415	{E08} Shinozawa, il paraît|qu'elle est amoureuse de|{F01} {F00} !!{attente}{page}{fin}
+@02416	Hein ?{attente} {E08} Shinozawa,|elle préférait pas les jeux|aux garçons ?{attente}{page}{fin}
+@02417	T'es naïve !{attente} Shinozawa|aussi arrive à l'âge où|on découvre l'amour !{attente}{page}{fin}
+@02418	{E09} Okada, figure-toi,|elle est amoureuse de|{F01} {F00} !!{attente}{page}{fin}
+@02419	Quoi ? Impossible !{attente}|Les Japonais, elle les|regarde même pas, non ?{attente}{page}{fin}
+@02420	Eh ben si, tu te trompes !{attente}|En ce moment, elle est|folle de {F01} {F00} !!{attente}{page}{fin}
+@02421	{E0A} Kobayashi, il|paraît qu'elle est|amoureuse de|{F01} {F00} !!{attente}{page}{fin}
+@02422	Hein ?{attente} {E0A}, elle tombe|pas amoureuse que des|persos d'anime ?{attente}{page}{fin}
+
+; ---- rumeurs dans la cour : réputation du héros
+@02425	En passant par la cour de|derrière,{attente} j'ai entendu|des filles chuchoter,|cachées derrière un mur...{attente}{page}{fin}
+@02426	Dis...{attente}|{F01} {F00},|t'en penses quoi... ?{attente}{page}{fin}
+@02427	Hein, {F00}-kun ?!{attente}|Il est super désagréable !{attente}|Il m'énerve, même...{attente}{page}{fin}
+@02428	Ouais, carrément !{attente}|Même pour un rien,{attente}|il arrive à te vexer...{attente}{page}{fin}
+@02429	Il a un sale caractère,|ou alors il joue les durs|exprès devant les filles ?{attente}{page}{fin}
+@02430	{F00}-kun...{attente}|Bof, pas terrible...{attente}|Il est parfois un peu dur.{attente}{page}{fin}
+@02431	Ouais, ouais !{attente}|Comment dire...{attente}|Il a pas l'air très gentil.{attente}{page}{fin}
+@02432	Il est pas très attentionné,|tu vois...{attente}|Il a l'air un peu froid...{attente}{page}{fin}
+@02433	{F00}-kun...{attente}|On le remarque pas trop.{attente}|Il est normal, quoi.{attente}{page}{fin}
+@02434	C'est clair...{attente}|Il est pas méchant, mais{attente}|pas super gentil non plus~{attente}{page}{fin}
+@02435	Ouais...{attente}|Il est tellement banal|qu'il en devient ennuyeux.{attente}{page}{fin}
+@02436	{F00}-kun...{attente}|Il est plutôt sympa !{attente}|Il a l'air gentil, tout ça~{attente}{page}{fin}
+@02437	Ouais !{attente}|Il a l'air d'avoir un bon|caractère, c'est bien~ !{attente}{page}{fin}
+@02438	Ouais, ouais !{attente}|Et c'est sympa de parler|avec lui !{attente}{page}{fin}
+@02439	Hein, {F00}-kun ?!{attente}|Il est trop canon !{attente}|Le top du top, non ?{attente}{page}{fin}
+@02440	T'es d'accord ?!{attente}|Rien que son caractère,|c'est le top~♥♥{attente}{page}{fin}
+@02441	Ouais, ouais !{attente}|Et il est trop sympa|quand on lui parle !{attente}|Il est génial~♥{attente}{page}{fin}
+@02442	Mais des filles comme nous,{attente}|on peut s'emballer...{attente}|il nous calculera jamais !{attente}{page}{fin}
+@02443	Bah, c'est vrai...{attente}|Mais...{attente} il est trop bien !{attente}{page}{fin}
+
+; ---- conversation surprise : Ruruna
+@02450	Hm ?{attente} Cette voix...{attente}|c'est celle de {E04} !{attente}{page}{fin}
+@02451	Dis, {E04} !{attente}|{F01} {F00}, tu|penses quoi de lui ?{attente}{page}{fin}
+@02452	Hein, {F03} ?{attente}|Ce que j'en pense... ?{attente}{page}{fin}
+@02453	Oh, elle panique !{attente}|Ça serait pas de l'amour,|des fois ?{attente}{page}{fin}
+@02454	Pas du tout !{attente}|D'accord, c'est mon ami|d'enfance, mais on se|connaît, c'est tout !{attente}{page}{fin}
+@02455	C'est un peu froid, non ?{attente}|Bon, et alors, entre vous,|c'est quoi, exactement ?{attente}{page}{fin}
+@02456	Hmm... voyons...{attente}|C'est pas une question|d'aimer ou pas...|Juste un ami d'enfance.{attente}{page}{fin}
+@02457	Ah d'accord...{attente}|Et alors, entre vous,|c'est quoi, exactement ?{attente}{page}{fin}
+@02458	Hmm...{attente}|Je dirais plutôt que|je l'aime bien...{attente} Hihi !{attente}{page}{fin}
+@02459	Oh, ce sourire plein de|sous-entendus !{attente}|Alors, vous en êtes où,|tous les deux ?{attente}{page}{fin}
+@02460	Quoi !{attente} Mais...{attente}|{E04}...{attente} Oh non !{attente}|Je peux pas le diiire~♥{attente}{page}{fin}
+@02461	Oh ! Elle est toute rouge !{attente}|« J'aime {F00} »,{attente}|c'est écrit sur ton visage !{attente}{page}{fin}
+@02462	Alors, vous en êtes où,|tous les deux ?{attente}|Allez, avoue tout !{attente}{page}{fin}
+@02463	Où on en est... ? C'est|pas facile à dire...{attente}|Nulle part, en fait.{attente}{page}{fin}
+@02464	Ah bon !{attente} Alors, c'est|avec Shiro Maeno que|tu t'entends le mieux ?{attente}{page}{fin}
+@02465	On s'est tenu la main,|mais pas plus...{attente}|C'est tout...{attente}{page}{fin}
+@02466	Il m'a déjà prise par|l'épaule, mais...{attente}|on en est là...{attente} c'est tout.{attente}{page}{fin}
+@02467	Hmm ?{attente}|Ça me paraît un peu|louche, tout ça...{attente}{page}{fin}
+@02468	Alors, c'est avec|Shiro Maeno que tu|t'entends le mieux ?{attente}{page}{fin}
+@02469	Où on en est...{attente}|...Hihihi !{attente}{page}{fin}
+@02470	Ah ! C'est louche !{attente}|Vous vous êtes peut-être|même déjà embrassés !{attente}{page}{fin}
+@02471	Non, ça se passe bien, mais{attente}|on ne s'est jamais|embrassés......Hihi !{attente}{page}{fin}
+@02472	On dirait que c'est qu'une|question de temps...{attente}|La chance...{attente}{page}{fin}
+@02473	Tiens ?{attente} Mais...{attente}|et avec Shiro Maeno,|ça en est où ?{attente}{page}{fin}
+@02474	Tu sais...{attente} {E04} est|heureuse rien qu'en étant|dans ses bras...♥{attente}{page}{fin}
+@02475	Pour aller plus loin...{attente}|c'est encore...{attente} trop tôt.{attente}{page}{fin}
+@02476	Kyaa ! Quelle audace !{attente}|Et « encore », ça veut dire{attente}|que c'est qu'une question|de temps ?{attente}{page}{fin}
+@02477	Un baiser...{attente}|...Hihi ♥{attente}{page}{fin}
+@02478	Quoi, quoi ?{attente}|C'est quoi, ce petit rire...{attente}|C'est trop louuuche !!{attente}{page}{fin}
+@02479	Oh, t'es toute rouge !{attente}|Ce visage tout fondant !{attente}|Ne me dis pas que...{attente}{page}{fin}
+@02480	...vous êtes allés plus|loin qu'un baiser... ?!{attente}|Kyaaa ! Oh là là !{attente}{page}{fin}
+@02481	Oui, pour être honnête...{attente}{page}{fin}
+@02482	je m'entends mieux avec|{F03} qu'avec|Maeno-kun !{attente}{page}{fin}
+@02483	Ah ouais, d'accord !{attente}|Je vois, je vois...{attente}{page}{fin}
+@02484	ça se passe mieux avec|Maeno-kun qu'avec|{F03} !{attente}{page}{fin}
+
+; ---- conversation surprise : Mizuki
+@02485	Hm ?{attente} Cette voix...{attente}|c'est celle de Mizuki !{attente}{page}{fin}
+@02486	Dis...{attente} Mizuki, tu|penses quoi de|{F01} {F00} ?{attente}{page}{fin}
+@02487	Hein, {F04} ?{attente}|Euh...{attente}{page}{fin}
+@02488	Mais non !{attente}|Tu m'as juste surprise avec|ta question bizarre !{attente}{page}{fin}
+@02489	{F04}, je ressens|rien de spécial pour lui !{attente}{page}{fin}
+@02490	Avec {F04}, c'est|pas une histoire d'aimer|ou pas, en fait...{attente}{page}{fin}
+@02491	Oui, je le trouve gentil...{attente}|et si c'est aimer ou pas...|...{attente}je l'aime bien.{attente}{page}{fin}
+@02492	Hein, mais...{attente}|{F04}...{attente}|c'est quelqu'un de bien...♥{attente}{page}{fin}
+@02493	Où on en est ? Nulle part...{attente}|{F04} et moi, on se|connaît, c'est tout.{attente}{page}{fin}
+@02494	Ah bon !{attente} Alors, tu|t'entends mieux avec|Takuya Hara-kun ?{attente}{page}{fin}
+@02495	Bah, on s'est déjà tenu|la main, mais...{attente}|c'est tout...{attente}{page}{fin}
+@02496	Hein...{attente} Voyons...|...{attente}il m'a déjà prise|par l'épaule, mais...{attente}{page}{fin}
+@02497	Ah, mais...{attente}|c'est tout, hein...{attente}{page}{fin}
+@02498	Mais si ça se limite à ça,|ça vaut pas ce que t'as|avec Takuya Hara-kun, si ?{attente}{page}{fin}
+@02499	Hein !{attente} M-mais pourquoi ?|{F04} et moi...|o-où on en est... ?{attente}{page}{fin}
+@02500	On l'a pas fait !{attente}|Ça se passe bien, mais...{attente}|un baiser...{attente} pas encore.{attente}{page}{fin}
+@02501	Tiens ?{attente} Mais...{attente}|et avec Takuya Hara-kun,|ça en est où ?{attente}{page}{fin}
+@02502	Non...{attente} moi...{attente}|rien que d'être dans ses|bras, je suis heureuse...♥{attente}{page}{fin}
+@02503	Alors...{attente}|plus loin...{attente}|pas encore, enfin...{attente}{page}{fin}
+@02504	Avec {F04}...{attente}|un baiser......{attente}|......{attente}Haha ♥{attente}{page}{fin}
+@02505	Ça...{attente}|c'est-à-dire...{attente}|......{attente}{page}{fin}
+@02506	Pour dire la vérité...{attente}{page}{fin}
+@02507	Être avec {F04},{attente}|c'est vraiment...{attente} bien.{attente}{page}{fin}
+@02508	Rien que de penser|à Hara-kun,|je suis heureuse...{attente}{page}{fin}
+
+; ---- conversation surprise : Yumi
+@02509	Hm ?{attente} Cette voix...{attente}|c'est celle de Yumi !{attente}{page}{fin}
+@02510	Hein...{attente}|Ce que j'en pense... ?{attente}{page}{fin}
+@02511	Je ne panique pas du tout !{attente}|Ta question bizarre m'a|juste prise de court.{attente}{page}{fin}
+@02512	{F05}, c'est juste|un élève de 1re parmi|d'autres...{attente} Rien de plus !{attente}{page}{fin}
+@02513	C'est tout ?{attente}|Et en vrai, vous en|êtes où, tous les deux ?{attente}{page}{fin}
+@02514	Bon, il est gentil...{attente}|je le trouve plutôt|sympathique, mais...{attente}|ça s'arrête là.{attente}{page}{fin}
+@02515	Oui, c'est un garçon|vraiment adorable,|et je l'aime bien !{attente}{page}{fin}
+@02516	...Mmh ♥{attente}|Évidemment que je l'aime ♥{attente}{page}{fin}
+@02517	Oh là, t'es catégorique !{attente}|Alors, vous en êtes|où, tous les deux ?{attente}{page}{fin}
+@02518	Où on en est ?{attente}|Il ne s'est rien passé, je|ne peux pas te répondre.{attente}{page}{fin}
+@02519	Hmm...{attente} Alors, avec|ton fameux étudiant, ça|marche mieux ?{attente}{page}{fin}
+@02520	Bah, il nous arrive de|nous tenir la main...{attente}|mais ça s'arrête là.{attente}{page}{fin}
+@02521	{F05}...{attente}|m'a déjà prise par|l'épaule, mais...{attente}{page}{fin}
+@02522	On en est là...{attente}|Pour aller plus loin...{attente}|c'est encore tôt, je dirais.{attente}{page}{fin}
+@02523	Mais si c'est que ça,|ça avance plus avec ton|fameux étudiant, non ?{attente}{page}{fin}
+@02524	O-où on en est...{attente}|Fufu...{attente}{page}{fin}
+@02525	Non...{attente}|Ça se passe bien, mais...{attente}|un baiser,{attente} pas encore.{attente}{page}{fin}
+@02526	Tiens ?{attente} Mais...{attente}|et avec ton fameux|étudiant, ça en est où ?{attente}{page}{fin}
+@02527	Avec {F05}...{attente}|rien que d'être dans ses|bras, je me sens comblée♥{attente}{page}{fin}
+@02528	Pour aller plus loin...{attente}|je crois que c'est...{attente}|encore un peu tôt...{attente}{page}{fin}
+@02529	Je te laisse imaginer...{attente}|disons ça...{attente}|......Fufu ♥{attente}{page}{fin}
+@02530	.........{attente}|.........{attente}|J-je ne peux pas le dire ♥{attente}{page}{fin}
+@02531	Oui...{attente} Je m'entends|mieux avec {F05}|qu'avec lui !{attente}{page}{fin}
+@02532	Avec Haneda-san, bien sûr !|Ça va beaucoup mieux,|c'est évident !{attente}{page}{fin}
+
+; ---- pensées du héros (suite)
+@02533	...Mais{attente} si {E04} ne|s'est pas méfiée plus|que ça, c'est que...{attente}{page}{fin}
+@02534	...elle me fait vraiment|confiance, peut-être...{attente}{page}{fin}
+@02535	J'ai beau me dire ça...{attente}|les jambes de {E04}|tout à l'heure... impossible|de les oublier...{attente}{page}{fin}
+@02536	Les jambes de {E04} sont|gravées dans ma mémoire...|Je vais en rêver, c'est|sûr...{attente}{page}{fin}
+@02537	Mizuki n'a pas l'air de|s'en rendre compte...{attente}|mais c'est... super|sexy !{attente}{page}{fin}
+@02538	Aaah !!|Ce qu'il y a sous la|chemise de Mizuki...|Ça me travaille !{attente}{page}{fin}
+@02539	Mais... Mizuki, tout à|l'heure...{attente}|elle était vraiment sexy...{attente}{page}{fin}
+@02540	Mon regard est resté|scotché sur la poitrine|de Mizuki !!{attente}{page}{fin}
+@02541	...Haa, haa...{attente}|Je d-devrais pas imaginer|des choses pareilles...{attente}|mais si seulement...{attente}{page}{fin}
+@02542	...Mais la poitrine de|Mizuki, tout à l'heure...{attente}|c'était troublant...{attente}{page}{fin}
+@02543	À force de penser à des|trucs pareils... je vais|encore pas fermer l'œil...{attente}{page}{fin}
+@02544	Mon regard est resté|scotché sur le dos|de Yumi !{attente}{page}{fin}
+@02545	Lui déposer un doux|baiser dans le cou...{attente}{page}{fin}
+@02546	...Rien que d'y repenser,|j'en ai le cœur qui|s'emballe...{attente}{page}{fin}
+@02547	Après l'avoir vue comme ça,|je vais en rêver, c'est|sûr...{attente}{page}{fin}
+@02548	Mon regard est resté|scotché sur la poitrine|de Yumi !{attente}{page}{fin}
+@02549	C-c'est...|b-bien trop troublant...{attente}{page}{fin}
+
+; ---- conversation surprise : Momoyo
+@02550	Hm ?{attente} Cette voix...{attente}|c'est celle de {E08} !{attente}{page}{fin}
+@02551	Dis, Shinozawa...{attente}|{F01} {F00}, tu|penses quoi de lui ?{attente}{page}{fin}
+@02552	Funi ?{attente} {F06}~ ?{attente}|Shinozawa en pense|rien du tout~ !{attente}{page}{fin}
+@02553	{F06} ?{attente}|C'est un bon gars~ !{attente}{page}{fin}
+@02554	C'est pas ça que je te|demande...{attente} Est-ce que|tu l'aimes, {F00} ?!{attente}{page}{fin}
+@02555	Hmm...{attente}|Je sais pas, mais|peut-être bien~{attente}{page}{fin}
+@02556	Mais non, enfin ! Rooh !{attente}|Bon, vous en êtes où,|alors ?{attente}{page}{fin}
+@02557	Oui, Shinozawa aime|bien {F06}~{attente}|beaucoup beaucoup~ !{attente}{page}{fin}
+@02558	Oh !{attente} Mais t'es un peu|toute rouge, on dirait !{attente}|Alors, vous en êtes où ?{attente}{page}{fin}
+@02559	Nyahaa~♥{attente} Ça...{attente}|Shinozawa le dira pas~ !{attente}|...C'est un secret~♥{attente}{page}{fin}
