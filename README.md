@@ -18,7 +18,7 @@ sauvegardes, saisie du nom, écran titre avec logo latin, et générique.
 
 ## 1.1 Ce qu'il vous faut
 
-Le patch : `patch/Pocket_Love_if_FR_v1.0.ips`.
+Le patch : `patch/Pocket_Love_if_FR_v1.1.ips`.
 
 **Votre propre** copie de la cartouche **japonaise**, non modifiée et sans en-tête. Aucune ROM
 n'est fournie ici. Vérifiez-la :
@@ -56,7 +56,7 @@ Fabriquez une fois pour toutes une ROM patchée :
 - ou avec l'outil fourni (Python 3) :
 
   ```
-  python tools/ips.py apply "Pocket Love - if (Japan).ngc" patch/Pocket_Love_if_FR_v1.0.ips Pocket_Love_if_FR.ngc
+  python tools/ips.py apply "Pocket Love - if (Japan).ngc" patch/Pocket_Love_if_FR_v1.1.ips Pocket_Love_if_FR.ngc
   ```
 
 La ROM obtenue doit avoir ces empreintes, quel que soit l'outil :
@@ -64,22 +64,26 @@ La ROM obtenue doit avoir ces empreintes, quel que soit l'outil :
 | | ROM française obtenue |
 |---|---|
 | Taille | 4 194 304 octets |
-| CRC32 | `6274E817` |
-| SHA-1 | `65829d9f21ae794195ff5c1379829ddb0fe75132` |
+| CRC32 | `E1444130` |
+| SHA-1 | `46fa2379e9bc410ed470208965c620b73f17a634` |
 
-## 1.4 Ce qui a été vérifié, ce qui ne l'a pas été (v1.0)
+## 1.4 Ce qui a été vérifié, ce qui ne l'a pas été (v1.1)
 
 Vérifié à l'émulateur : écran titre et menu, saisie du nom, début du jeu (réveil, cérémonie
 d'entrée, réunion de classe, comparé image par image à la version japonaise), planning de la
 semaine et du week-end, stats, sorties et carte, boutique et achats, téléphone (invitation, refus,
 accord, choix du jour, du moment et du lieu, récapitulatif), jour du rendez-vous (tenue, parfum,
-inspection, café), sauvegarde, une fin (Mirei) et tout le générique.
+inspection, café), écran des relations, sauvegarde, une fin (Mirei) et tout le générique.
 
 Pas encore contrôlé à l'écran (un retour est bienvenu si un texte déborde ou se coupe) : la plupart
 des milliers d'événements aléatoires du script, les autres fins, le photomaton et l'album.
 La ROM n'a pas encore été essayée sur une vraie console.
 
 Les grilles de kanji du clavier de saisie restent en japonais (onglet « JP ») : c'est voulu.
+
+**Nouveau en v1.1** : l'écran **Relations** (menu, page 3) est traduit : plaques de nom des filles
+et libellés des lignes (LOVE, ÉLAN, LIEN, RDV). Il était resté en japonais en v1.0 (c'est une
+image, pas du texte).
 
 ## 1.5 Choix de traduction
 
@@ -174,7 +178,8 @@ Limits, checked by `build.py --verif` (all errors are listed at once):
 Language-specific graphics live in the tools (edit them for your language):
 `tools/titre_fr.py` (`LETTRAGES`: title-menu words), `tools/logo.py` (`MISE_EN_PAGE`: title logo),
 `tools/hud_fr.py` (one-letter weekdays, ¥), `tools/planning_fr.py` (planning labels and hints),
-`tools/stats_fr.py` (stat names), `tools/clavier_fr.py` (name-entry tabs), `tools/date_fr.py`
+`tools/stats_fr.py` (stat names), `tools/relations_fr.py` (girls' name plates and row labels of the
+relationship screen, 3×5 px capitals), `tools/clavier_fr.py` (name-entry tabs), `tools/date_fr.py`
 (day/month order of the date phrases).
 
 `build.py --identite` rebuilds the text entries without any translation and checks they are

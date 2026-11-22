@@ -403,6 +403,9 @@ def main():
     # onglets du clavier de saisie du nom (entrée 50)
     import clavier_fr
     clavier_fr.applique(out, r)
+    # écran Relations : plaques de nom (entrée 67) et libellés LOVE / ÉLAN / LIEN / RDV (entrée 69)
+    import relations_fr
+    relations_fr.applique(out, r)
     # libellés des stats (entrée 52)
     import stats_fr
     donnees = stats_fr.entree(r, planning_fr.cases_libres(r), out)

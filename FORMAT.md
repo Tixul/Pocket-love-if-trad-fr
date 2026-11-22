@@ -28,6 +28,8 @@ Adresse CPU d'une entrée = 0x220000 + offset ; les offsets sont sur 32 bits, un
 | 39 | police du bandeau (chiffres, jours 日月火水木金土, 円) |
 | 50 / 51 | onglets du clavier de saisie du nom |
 | 52 | libellés des stats |
+| 67 | écran Relations : portraits + plaques de nom (15 tuiles par fille, plaque = tuiles 9-14) |
+| 69 | écran Relations : libellés des lignes 愛情 / 興味 / 親密 / デート → LOVE / ÉLAN / LIEN / RDV |
 | 55 | petite police du planning (⚠ cases 13 ？, 21-22 ◁▷, 28-31 main-curseur : à garder) |
 | 87 | logo du titre (plan de fond 20×19, 122 tuiles ≤ 128) |
 | 89-94 | lettrages en sprites de l'écran titre (descripteurs en fichier 0x19DC8) |
